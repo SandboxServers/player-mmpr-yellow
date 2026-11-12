@@ -214,3 +214,4 @@
 - 21:17 say: {"text":"Zack, are you still in the pit? I'm at the edge with dirt blocks placed. Say where you are."}
 - 21:17 act: {"actions":[{"do":"place","block":"dirt","at":{"x":191,"y":56,"z":223}},{"do":"place","block":"dirt","at":{"x":191,"y":57,"z":223}}],"say":"Zack, I'm at 191,58,224 on the rim. I stacked dirt at 191,54
 - 21:19 say: {"text":"Kimberly, you seem close to me now. If you're still stuck, tell me. I'm placing dirt by the pit edge."}
+- 21:20 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"sand"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
