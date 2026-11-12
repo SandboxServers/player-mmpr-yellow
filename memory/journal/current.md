@@ -267,3 +267,6 @@
 - 21:53 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"Thanks Tommy, got 5 carrots. Eating now."}
 - 21:54 act: {"actions":[{"do":"eat"}]}
 - 21:58 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"birch_planks"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}
+- 22:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}]}
+- 22:01 act: {"intent":{"goal":"reach_bed","program":"travel","arguments":{"x":-271,"y":68,"z":364},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":3000,"max_block_operations":50}}}
+- 22:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}}]}
