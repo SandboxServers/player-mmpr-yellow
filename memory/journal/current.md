@@ -426,3 +426,4 @@
 - 23:35 act: {"intent":{"goal":"gather_stone","program":"gather","arguments":{"block":"stone","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":64}
 - 23:35 act: {"actions":[{"do":"goto","target":{"x":-220,"y":60,"z":348}}]}
 - 23:36 act: {"actions":[{"do":"mine","block":"stone","count":5}]}
+- 23:37 act: {"actions":[{"do":"mine","block":"stone","count":5}]}
