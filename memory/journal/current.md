@@ -70,3 +70,4 @@
 - 18:49 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"place","block":"dirt","at":{"x":180,"y":62,"z":237}}]}
 - 18:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":178,"y":66,"z":235}}]}
 - 18:51 act: {"intent":{"goal":"get_birch","program":"gather","arguments":{"block":"birch_log","count":4},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":64
+- 19:21 act: {"actions":[{"do":"goto","target":{"x":191,"y":54,"z":225}},{"do":"give","to":"ag_billy_01","item":"dirt","count":3}],"say":"Trini coming with dirt for Billy and Zack."}
