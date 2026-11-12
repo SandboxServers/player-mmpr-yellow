@@ -301,3 +301,4 @@
 - 22:25 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":347}}]}
 - 22:26 act: {"actions":[{"do":"mine","block":"dirt","count":3}],"say":"Kimberly, try placing dirt/blocks under yourself to climb; I'm at the top, (-223,63,347)."}
 - 22:26 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":348}}],"say":"Kimberly, are you still down there?"}
+- 22:27 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-224,"y":61,"z":348}},{"do":"place","block":"dirt","at":{"x":-224,"y":60,"z":348}}],"say":"Kimberly, I'm filling the pit with dirt to raise the floor
