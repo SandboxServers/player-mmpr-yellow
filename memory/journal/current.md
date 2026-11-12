@@ -270,3 +270,4 @@
 - 22:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}]}
 - 22:01 act: {"intent":{"goal":"reach_bed","program":"travel","arguments":{"x":-271,"y":68,"z":364},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":3000,"max_block_operations":50}}}
 - 22:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}}]}
+- 22:06 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-250,"y":68,"z":352}}]}
