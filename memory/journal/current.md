@@ -244,3 +244,5 @@
 - 21:33 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":1},{"do":"goto","target":{"x":178,"y":66,"z":222}}],"say":"Kimberly, Zack, Billy: you're out. Head to the birch trees at 178,66,222
 - 21:34 act: {"actions":[{"do":"goto","target":{"x":178,"y":66,"z":222}}],"say":"Everyone is out of the pit. Meet me at the birch trees."}
 - 21:34 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":2}],"say":"Kimberly, I gave you 2 dirt. Everyone, come to the birch trees at 178,66,222 and gather logs."}
+- 21:35 act: {"say":"Glad you're out. Let's meet at the birch trees at 178,66,222 and gather logs.","intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":20},"wake_on":["goal_
+- 21:35 act: {"actions":[{"do":"goto","target":{"x":178,"y":66,"z":222}}]}
