@@ -429,3 +429,4 @@
 - 23:37 act: {"actions":[{"do":"mine","block":"stone","count":5}]}
 - 23:37 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
 - 23:39 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
+- 23:41 act: {"actions":[{"do":"sleep"}],"say":"Kimberly, I'm beside you. Try walking now; I'll sleep nearby."}
