@@ -361,3 +361,8 @@
 - 22:58 act: {"actions":[{"do":"goto","target":{"x":-224,"y":61,"z":347}},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
 - 22:58 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
 - 22:58 act: {"actions":[{"do":"goto","target":{"x":-224,"y":60,"z":348}},{"do":"goto","target":{"x":-224,"y":61,"z":347}}]}
+- 22:58 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 22:58 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 22:59 act: {"actions":[{"do":"goto","target":{"x":-224,"y":60,"z":347}},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 22:59 act: {"actions":[{"do":"goto","target":{"x":-224,"y":60,"z":347}},{"do":"goto","target":{"x":-224,"y":61,"z":347}},{"do":"goto","target":{"x":-224,"y":62,"z":347}},{"do":"goto","target":{"x":-223,"y":63,"z
+- 22:59 act: {"say":"Tommy, anyone: Trini and Kimberly still at y59 near (-224,59,347). Stepping onto your stair fails. Please dig a ramp down or place blocks beside us.","actions":[{"do":"note","text":"Still stuc
