@@ -291,3 +291,12 @@
 - 22:15 act: {"say":"I'm free. Thank you, Kimberly and Jason! I'll go check on Tommy."}
 - 22:16 act: {"actions":[{"do":"goto","target":{"x":-234,"y":67,"z":364}}],"say":"Heading to Tommy now."}
 - 22:18 act: {"actions":[{"do":"unstick"},{"do":"goto","target":"ag_kimberly_01"}]}
+- 22:24 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":347}}],"say":"Kimberly, I'm coming to help."}
+- 22:24 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":347}}]}
+- 22:24 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-224,"y":63,"z":347}}]}
+- 22:24 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":346}}]}
+- 22:25 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-223,"y":62,"z":347}},{"do":"place","block":"dirt","at":{"x":-223,"y":61,"z":347}},{"do":"place","block":"dirt","at":{"x":-223,"y":60,"z":347}},{"do"
+- 22:25 say: {"text":"Kimberly, I placed dirt blocks into the pit near you. Can you climb out now? Where are you?"}
+- 22:25 act: {"actions":[{"do":"goto","target":"Kimberly"}],"say":"Kimberly, I'm near. Coming."}
+- 22:25 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":347}}]}
+- 22:26 act: {"actions":[{"do":"mine","block":"dirt","count":3}],"say":"Kimberly, try placing dirt/blocks under yourself to climb; I'm at the top, (-223,63,347)."}
