@@ -389,3 +389,6 @@
 - 23:08 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":346}}]}
 - 23:08 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-224,"y":59,"z":345}},{"do":"goto","target":{"x":-224,"y":60,"z":345}}]}
 - 23:10 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}]}
+- 23:11 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 23:11 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-224,"y":66,"z":346}}]}
+- 23:11 say: {"text":"Tommy, I'm still stuck at -224,59,346. Please dig a ramp or drop a ladder down to me if you can."}
