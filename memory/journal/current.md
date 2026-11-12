@@ -324,3 +324,8 @@
 - 22:37 act: {"actions":[{"do":"goto","target":{"x":-223,"y":64,"z":340}}]}
 - 22:37 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":{"x":-222,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-222,"y":61,"z":348}}]}
 - 22:37 act: {"actions":[{"do":"goto","target":{"x":-223,"y":62,"z":346}}],"say":"Kimberly, I'm out of the bottom; step onto the dirt at (-222,60-61,348) and follow to (-223,62,346)."}
+- 22:38 act: {"actions":[{"do":"goto","target":{"x":-223,"y":62,"z":346}}]}
+- 22:38 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-223,"y":60,"z":347}},{"do":"goto","target":{"x":-223,"y":60,"z":347}},{"do":"place","block":"dirt","at":{"x":-223,"y":61,"z":347}},{"do":"goto","tar
+- 22:38 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}]}
+- 22:38 act: {"intent":{"goal":"climb_out","program":"travel","arguments":{"x":-223,"y":62,"z":346},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
+- 22:38 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-223,"y":62,"z":346}}]}
