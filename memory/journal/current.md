@@ -251,3 +251,11 @@
 - 21:37 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"birch_log"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block
 - 21:41 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"birch_log"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block
 - 21:43 act: {"actions":[{"do":"craft","item":"birch_planks","count":8},{"do":"craft","item":"birch_door","count":1},{"do":"sleep"}]}
+- 21:49 act: {"actions":[{"do":"goto","target":{"x":182,"y":60,"z":232}}],"reasoning":"Explore away from the water pit to the southwest, looking for animals or food."}
+- 21:49 act: {"actions":[{"do":"goto","target":{"x":182,"y":60,"z":232}}],"say":"Heading southwest to look for food, away from the pit. I have no food to spare right now."}
+- 21:49 act: {"actions":[{"do":"goto","target":{"x":180,"y":60,"z":230}}]}
+- 21:49 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":180,"y":60,"z":230}}]}
+- 21:49 act: {"intent":{"goal":"explore_southwest_for_food","program":"travel","arguments":{"target":{"x":180,"y":60,"z":230}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_
+- 21:49 act: {"actions":[{"do":"goto","target":{"x":188,"y":57,"z":227}}]}
+- 21:49 act: {"actions":[{"do":"goto","target":{"x":180,"y":62,"z":236}}]}
+- 21:50 act: {"intent":{"goal":"explore_for_food","program":"travel","arguments":{"x":170,"y":70,"z":240},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":64
