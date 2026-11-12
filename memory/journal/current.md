@@ -439,3 +439,4 @@
 - 23:46 act: {"actions":[{"do":"eat"},{"do":"mine","block":"stone","count":3}],"say":"Kimberly, I'm beside you. Try unstick; I'm breaking blocks nearby."}
 - 23:46 act: {"actions":[{"do":"unstick"}],"say":"Kimberly, are you free now?"}
 - 23:47 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_oper
+- 23:47 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"mine","block":"dirt","count":4}],"say":"Kimberly, I'm breaking blocks around you. Try moving now."}
