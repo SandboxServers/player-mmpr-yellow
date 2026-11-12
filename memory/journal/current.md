@@ -247,3 +247,4 @@
 - 21:35 act: {"say":"Glad you're out. Let's meet at the birch trees at 178,66,222 and gather logs.","intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":20},"wake_on":["goal_
 - 21:35 act: {"actions":[{"do":"goto","target":{"x":178,"y":66,"z":222}}]}
 - 21:36 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":2},{"do":"goto","target":{"x":182,"y":60,"z":223}}],"say":"Kimberly, here is 2 dirt. Stay clear of the water pit to the east."}
+- 21:37 act: {"actions":[{"do":"goto","target":{"x":182,"y":60,"z":223}}]}
