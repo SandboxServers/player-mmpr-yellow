@@ -237,3 +237,4 @@
 - 21:29 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":3}],"say":"Kimberly, Zack: I'm out. Stay away from the water, head north to the birch trees."}
 - 21:30 act: {"actions":[{"do":"goto","target":{"x":178,"y":66,"z":222}}],"say":"Kimberly, Zack: you're next to me now. Let's go to the birch trees, away from the water."}
 - 21:30 act: {"actions":[{"do":"goto","target":{"x":178,"y":66,"z":222}}],"say":"Heading to the birch trees, away from the water. Follow me."}
+- 21:31 act: {"actions":[{"do":"goto","target":{"x":178,"y":66,"z":222}}],"say":"I'm out. Follow me to the birch trees, away from the water."}
