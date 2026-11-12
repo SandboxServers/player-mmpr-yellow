@@ -178,3 +178,6 @@
 - 20:51 act: {"actions":[{"do":"goto","target":{"x":192,"y":58,"z":226}}]}
 - 20:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":192,"y":58,"z":226}}]}
 - 20:52 act: {"actions":[{"do":"goto","target":{"x":192,"y":58,"z":226}}]}
+- 20:52 act: {"actions":[{"do":"goto","target":{"x":190,"y":60,"z":235}}]}
+- 20:54 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":192,"y":58,"z":226}}]}
+- 20:54 act: {"say":"Billy, I'm stuck on sandstone far south of you (188,61,242). Still trying to reach you.","actions":[{"do":"mine","block":"sand","count":3},{"do":"goto","target":{"x":189,"y":61,"z":236}}]}
