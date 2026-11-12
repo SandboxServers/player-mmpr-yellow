@@ -195,3 +195,5 @@
 - 21:05 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations"
 - 21:05 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":177,"y":64,"z":249}}]}
 - 21:05 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":177,"y":64,"z":249}}]}
+- 21:09 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":177,"y":63,"z":243}}]}
+- 21:09 act: {"say":"Free! Placing dirt at my feet freed me. Try that, friends.","intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpect
