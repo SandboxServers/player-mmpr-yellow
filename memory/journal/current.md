@@ -352,3 +352,6 @@
 - 22:50 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}],"say":"Kimberly, follow me up Tommy's dirt stair."}
 - 22:50 act: {"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_operati
 - 22:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-224,"y":61,"z":347}}]}
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 22:52 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-228,"y":60,"z":349}},{"do":"goto","target":{"x":-228,"y":60,"z":349}}]}
+- 22:56 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
