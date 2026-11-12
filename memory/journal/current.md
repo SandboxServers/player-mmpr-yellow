@@ -166,3 +166,12 @@
 - 20:43 act: {"intent":{"goal":"reach_birch","program":"travel","arguments":{"x":180,"y":66,"z":243},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations":30}}}
 - 20:43 act: {"intent":{"goal":"reach_birch","program":"travel","arguments":{"target":{"x":180,"y":66,"z":243}},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":30}}}
 - 20:45 act: {"actions":[{"do":"goto","target":{"x":179,"y":66,"z":243}}]}
+- 20:46 act: {"actions":[{"do":"goto","target":{"x":179,"y":66,"z":243}}]}
+- 20:46 act: {"actions":[{"do":"unstick"}]}
+- 20:46 act: {"actions":[{"do":"goto","target":{"x":180,"y":62,"z":243}}]}
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":192,"y":58,"z":224}}],"say":"Heading to the pit with dirt."}
+- 20:50 act: {"actions":[{"do":"unstick"}]}
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
+- 20:50 act: {"intent":{"goal":"reach_pit","program":"travel","arguments":{"x":192,"y":58,"z":224},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 20:50 act: {"intent":{"goal":"reach_pit","program":"travel","arguments":{"x":192,"y":58,"z":224},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
