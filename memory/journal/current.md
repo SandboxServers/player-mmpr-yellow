@@ -37,3 +37,7 @@
 - 18:12 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":181,"y":66,"z":237}}]}
 - 18:13 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":181,"y":66,"z":237}}]}
 - 18:14 act: {"actions":[{"do":"goto","target":{"x":181,"y":67,"z":237}},{"do":"mine","block":"birch_log","count":4}]}
+- 18:15 act: {"actions":[{"do":"goto","target":{"x":181,"y":67,"z":236}},{"do":"mine","block":"birch_log","count":4}]}
+- 18:15 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":181,"y":67,"z":236}}]}
+- 18:16 act: {"actions":[{"do":"goto","target":{"x":181,"y":67,"z":236}},{"do":"mine","block":"birch_log","count":4}]}
+- 18:16 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
