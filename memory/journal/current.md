@@ -414,3 +414,5 @@
 - 23:20 act: {"actions":[{"do":"unstick"},{"do":"sleep"}]}
 - 23:20 say: {"text":"Hello Kimberly. My block placing seems not to work and I can't sleep. Does yours?"}
 - 23:21 act: {"actions":[{"do":"goto","target":{"x":-226,"y":59,"z":348}},{"do":"craft","item":"wooden_pickaxe","count":1},{"do":"sleep"}]}
+- 23:26 act: {"actions":[{"do":"goto","target":{"x":-226,"y":59,"z":348}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 23:28 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}]}
