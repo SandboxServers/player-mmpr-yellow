@@ -241,3 +241,4 @@
 - 21:31 act: {"say":"Kimberly, Billy: you're beside me now. Come with me to the birch trees at 178,66,222, away from the water.","actions":[{"do":"goto","target":{"x":178,"y":66,"z":221}}]}
 - 21:32 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":178,"y":66,"z":221}}]}
 - 21:33 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":2}],"say":"Kimberly, I gave you 2 dirt. Stay on the stone, away from the water."}
+- 21:33 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":1},{"do":"goto","target":{"x":178,"y":66,"z":222}}],"say":"Kimberly, Zack, Billy: you're out. Head to the birch trees at 178,66,222
