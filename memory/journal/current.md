@@ -250,3 +250,4 @@
 - 21:37 act: {"actions":[{"do":"goto","target":{"x":182,"y":60,"z":223}}]}
 - 21:37 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"birch_log"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block
 - 21:41 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"birch_log"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block
+- 21:43 act: {"actions":[{"do":"craft","item":"birch_planks","count":8},{"do":"craft","item":"birch_door","count":1},{"do":"sleep"}]}
