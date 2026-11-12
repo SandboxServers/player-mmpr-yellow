@@ -347,3 +347,8 @@
 - 22:47 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"place","block":"dirt","at":"feet"}]}
 - 22:47 act: {"actions":[{"do":"unstick"}]}
 - 22:47 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-227,"y":59,"z":349}},{"do":"goto","target":{"x":-224,"y":62,"z":347}}]}
+- 22:48 act: {"actions":[{"do":"goto","target":{"x":-224,"y":60,"z":348}},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 22:48 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}],"say":"Kimberly, follow me up Tommy's dirt stair."}
+- 22:50 act: {"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_operati
+- 22:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-224,"y":61,"z":347}}]}
