@@ -434,3 +434,4 @@
 - 23:42 act: {"actions":[{"do":"goto","target":{"x":-232,"y":59,"z":352}},{"do":"sleep"}]}
 - 23:42 act: {"actions":[{"do":"unstick"}]}
 - 23:43 act: {"actions":[{"do":"unstick"},{"do":"sleep"}],"say":"Kimberly, I'm here with you. Trying to free us."}
+- 23:44 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"sleep"}],"say":"Kimberly, I'm here. Try unstick again; I'll dig around."}
