@@ -134,3 +134,4 @@
 - 20:08 act: {"actions":[{"do":"mine","block":"sandstone","count":3},{"do":"goto","target":{"x":180,"y":69,"z":243}}]}
 - 20:09 act: {"actions":[{"do":"goto","target":{"x":180,"y":69,"z":243}}]}
 - 20:10 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"sand","at":"feet"},{"do":"unstick"}]}
+- 20:13 act: {"actions":[{"do":"goto","target":{"x":179,"y":69,"z":243}}]}
