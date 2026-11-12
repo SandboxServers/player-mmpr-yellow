@@ -175,3 +175,6 @@
 - 20:50 act: {"intent":{"goal":"reach_pit","program":"travel","arguments":{"x":192,"y":58,"z":224},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
 - 20:50 act: {"intent":{"goal":"reach_pit","program":"travel","arguments":{"x":192,"y":58,"z":224},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
 - 20:50 act: {"actions":[{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
+- 20:51 act: {"actions":[{"do":"goto","target":{"x":192,"y":58,"z":226}}]}
+- 20:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":192,"y":58,"z":226}}]}
+- 20:52 act: {"actions":[{"do":"goto","target":{"x":192,"y":58,"z":226}}]}
