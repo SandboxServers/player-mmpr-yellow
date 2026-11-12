@@ -9,3 +9,10 @@
 - 17:44 act: {"actions":[{"do":"goto","target":{"x":195,"y":59,"z":245}}],"say":"Spiders at night. I'm retreating south."}
 - 17:44 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":3},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
 - 17:44 act: {"actions":[{"do":"goto","target":{"x":200,"y":60,"z":240}}]}
+- 17:45 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4000,"max_block_operations"
+- 17:46 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":181,"y":65,"z":237}},{"do":"mine","block":"birch_log","count":6}]}
+- 17:46 act: {"actions":[{"do":"goto","target":{"x":180,"y":65,"z":237}},{"do":"mine","block":"birch_log","count":6}],"reasoning":"Errand: collect 6 birch logs near trunk. Try goto ground near trunk, then mine.","
+- 17:49 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":180,"y":63,"z":237}},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":180,"y":64,"z":237}},{"do":"p
+- 17:50 act: {"actions":[{"do":"goto","target":{"x":181,"y":65,"z":236}}],"reasoning":"One last direct try at the nearest log; if blocked, report."}
+- 17:51 act: {"actions":[{"do":"mine","block":"birch_log","count":4}]}
+- 17:52 act: {"actions":[{"do":"mine","block":"birch_log","count":5}]}
