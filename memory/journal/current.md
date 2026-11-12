@@ -319,3 +319,8 @@
 - 22:35 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
 - 22:35 act: {"intent":{"goal":"escape_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_operation
 - 22:35 act: {"actions":[{"do":"goto","target":{"x":-223,"y":64,"z":347}}]}
+- 22:36 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 22:36 act: {"actions":[{"do":"goto","target":{"x":-223,"y":64,"z":340}}]}
+- 22:37 act: {"actions":[{"do":"goto","target":{"x":-223,"y":64,"z":340}}]}
+- 22:37 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":{"x":-222,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-222,"y":61,"z":348}}]}
+- 22:37 act: {"actions":[{"do":"goto","target":{"x":-223,"y":62,"z":346}}],"say":"Kimberly, I'm out of the bottom; step onto the dirt at (-222,60-61,348) and follow to (-223,62,346)."}
