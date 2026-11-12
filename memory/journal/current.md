@@ -235,3 +235,4 @@
 - 21:28 act: {"actions":[{"do":"place","block":"dirt","at":{"x":189,"y":53,"z":223}},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"sand","at":"feet"},{"do":"goto","target":{"x":189,"y":55,"z":22
 - 21:28 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":189,"y":55,"z":220}}],"reasoning":"Placement and goto failed again. Try unstick then goto once more."}
 - 21:29 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":3}],"say":"Kimberly, Zack: I'm out. Stay away from the water, head north to the birch trees."}
+- 21:30 act: {"actions":[{"do":"goto","target":{"x":178,"y":66,"z":222}}],"say":"Kimberly, Zack: you're next to me now. Let's go to the birch trees, away from the water."}
