@@ -284,3 +284,8 @@
 - 22:11 act: {"actions":[{"do":"goto","target":{"x":-223,"y":65,"z":346}}]}
 - 22:12 act: {"actions":[{"do":"goto","target":{"x":-226,"y":65,"z":349}}]}
 - 22:12 say: {"text":"Trini here, stuck at -222,65,345 and can't move. Jason or Zack, can you come dig me out?"}
+- 22:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-224,"y":65,"z":347}}]}
+- 22:14 act: {"say":"Kimberly, I hear you! I'm at -222,65,345 and can't move. Please dig around me."}
+- 22:14 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-223,"y":68,"z":346}}],"say":"Jason, I'm at -222,65,345. Stacking dirt now."}
+- 22:15 act: {"actions":[{"do":"goto","target":{"x":-222,"y":65,"z":350}}],"say":"Kimberly, thanks! Trying to move now."}
+- 22:15 act: {"say":"I'm free. Thank you, Kimberly and Jason! I'll go check on Tommy."}
