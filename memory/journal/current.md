@@ -57,3 +57,4 @@
 - 18:35 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":178,"y":66,"z":235}},{"do":"mine","block":"birch_log","count":5}]}
 - 18:36 act: {"actions":[{"do":"goto","target":{"x":179,"y":62,"z":237}}]}
 - 18:36 act: {"actions":[{"do":"goto","target":{"x":178,"y":67,"z":234}},{"do":"mine","block":"birch_log","count":4}]}
+- 18:37 act: {"actions":[{"do":"sleep"}]}
