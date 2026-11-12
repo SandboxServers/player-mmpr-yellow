@@ -271,3 +271,12 @@
 - 22:01 act: {"intent":{"goal":"reach_bed","program":"travel","arguments":{"x":-271,"y":68,"z":364},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":3000,"max_block_operations":50}}}
 - 22:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}}]}
 - 22:06 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-250,"y":68,"z":352}}]}
+- 22:06 act: {"intent":{"goal":"reach_farm","program":"travel","arguments":{"x":-250,"y":68,"z":352},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 22:06 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":352}}]}
+- 22:07 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-250,"y":68,"z":352}}]}
+- 22:07 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-250,"y":68,"z":352}}],"reasoning":"Body was waking. Try placing dirt under feet to pillar, then travel to the farm."}
+- 22:08 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-250,"y":68,"z":352}}],"reasoning":"Placing did not raise me. Mine nearby dirt to open a way out, then retry travel."}
+- 22:08 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-250,"y":68,"z":352}}],"reasoning":"Retry unstick then travel now that body is awake."}
+- 22:08 act: {"actions":[{"do":"goto","target":{"x":-221,"y":67,"z":345}},{"do":"unstick"}],"reasoning":"One last attempt to climb out by targeting a point above."}
+- 22:09 act: {"actions":[{"do":"goto","target":{"x":-224,"y":66,"z":348}}]}
+- 22:09 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":352}}]}
