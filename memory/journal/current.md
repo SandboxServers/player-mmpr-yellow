@@ -433,3 +433,4 @@
 - 23:41 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
 - 23:42 act: {"actions":[{"do":"goto","target":{"x":-232,"y":59,"z":352}},{"do":"sleep"}]}
 - 23:42 act: {"actions":[{"do":"unstick"}]}
+- 23:43 act: {"actions":[{"do":"unstick"},{"do":"sleep"}],"say":"Kimberly, I'm here with you. Trying to free us."}
