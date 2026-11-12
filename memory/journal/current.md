@@ -330,3 +330,10 @@
 - 22:38 act: {"intent":{"goal":"climb_out","program":"travel","arguments":{"x":-223,"y":62,"z":346},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
 - 22:38 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-223,"y":62,"z":346}}]}
 - 22:39 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-223,"y":59,"z":347}},{"do":"goto","target":{"x":-223,"y":60,"z":347}},{"do":"place","block":"dirt","at":{"x":-223,"y":60,"z":346}},{"do":"goto","tar
+- 22:39 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 22:39 act: {"actions":[{"do":"goto","target":{"x":-223,"y":62,"z":346}}]}
+- 22:40 act: {"actions":[{"do":"unstick"}]}
+- 22:40 act: {"actions":[{"do":"goto","target":{"x":-223,"y":62,"z":347}}]}
+- 22:40 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-223,"y":59,"z":347}},{"do":"goto","target":{"x":-223,"y":60,"z":347}},{"do":"goto","target":{"x":-223,"y":62,"z":347}}]}
+- 22:40 act: {"actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 22:41 say: {"text":"Tommy, Kimberly and I are both still in the pit near (-223,59,347). Dirt steps at z346-347 aren't letting us climb. Can you dig a stair down from the edge?"}
