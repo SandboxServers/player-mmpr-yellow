@@ -16,3 +16,8 @@
 - 17:50 act: {"actions":[{"do":"goto","target":{"x":181,"y":65,"z":236}}],"reasoning":"One last direct try at the nearest log; if blocked, report."}
 - 17:51 act: {"actions":[{"do":"mine","block":"birch_log","count":4}]}
 - 17:52 act: {"actions":[{"do":"mine","block":"birch_log","count":5}]}
+- 17:55 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":4},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations"
+- 17:55 act: {"actions":[{"do":"unstick"}]}
+- 17:55 act: {"actions":[{"do":"goto","target":{"x":181,"y":67,"z":237}}]}
+- 17:55 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":4},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations"
+- 17:56 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":181,"y":66,"z":237}}]}
