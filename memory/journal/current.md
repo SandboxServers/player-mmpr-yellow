@@ -409,3 +409,7 @@
 - 23:17 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
 - 23:18 act: {"actions":[{"do":"craft","item":"birch_planks","count":8},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 23:18 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 23:20 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":60}}}
+- 23:20 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-227,"y":59,"z":348}},{"do":"place","block":"dirt","at":{"x":-226,"y":59,"z":347}},{"do":"place","block":"dirt","at":{"x":-226,"y":59,"z":349}},{"do"
+- 23:20 act: {"actions":[{"do":"unstick"},{"do":"sleep"}]}
+- 23:20 say: {"text":"Hello Kimberly. My block placing seems not to work and I can't sleep. Does yours?"}
