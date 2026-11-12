@@ -73,3 +73,7 @@
 - 19:21 act: {"actions":[{"do":"goto","target":{"x":191,"y":54,"z":225}},{"do":"give","to":"ag_billy_01","item":"dirt","count":3}],"say":"Trini coming with dirt for Billy and Zack."}
 - 19:22 act: {"actions":[{"do":"goto","target":{"x":191,"y":55,"z":223}}],"say":"Coming to the pit with dirt."}
 - 19:23 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":55,"z":223}}]}
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":191,"y":56,"z":223}}]}
+- 19:25 act: {"actions":[{"do":"goto","target":{"x":185,"y":62,"z":232}}]}
+- 19:26 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":181,"y":69,"z":236}}]}
+- 19:27 act: {"actions":[{"do":"mine","block":"stone","count":2}]}
