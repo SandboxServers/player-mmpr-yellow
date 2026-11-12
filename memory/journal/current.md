@@ -307,3 +307,12 @@
 - 22:29 act: {"actions":[{"do":"mine","block":"dirt","count":3}]}
 - 22:29 act: {"actions":[{"do":"goto","target":{"x":-224,"y":62,"z":348}},{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-224,"y":60,"z":348}}]}
 - 22:29 act: {"say":"Kimberly, I can't reach the pit; my moves keep failing. Tommy is coming, so please wait for him."}
+- 22:30 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-224,"y":59,"z":347}}]}
+- 22:30 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"dirt","count":2}],"say":"Kimberly, I can't move well. Tommy, please dig to her."}
+- 22:30 act: {"actions":[{"do":"goto","target":{"x":-224,"y":62,"z":347}},{"do":"mine","block":"dirt","count":3}]}
+- 22:31 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"mine","block":"dirt","count":1}],"say":"Kimberly, digging a stair down beside you now.","reasoning":"Dig a staircase down x=-223 toward Kimber
+- 22:31 act: {"actions":[{"do":"mine","block":"dirt","count":1}],"say":"Kimberly, I'm digging down toward you now.","reasoning":"Retry mining the block below me; earlier mine attempts did not register."}
+- 22:31 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":1}],"reasoning":"Mining keeps failing as not possible; unstick then try a different block type."}
+- 22:32 act: {"actions":[{"do":"mine","block":"dirt","count":2}],"reasoning":"Mine down from current spot toward the pit."}
+- 22:32 act: {"actions":[{"do":"goto","target":{"x":-223,"y":62,"z":347}}],"say":"Kimberly, I fell in next to you at y59. I'm trying to climb out so I can dig your stair.","reasoning":"Got pulled into pit at y59 w
+- 22:32 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
