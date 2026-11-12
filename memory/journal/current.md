@@ -259,3 +259,10 @@
 - 21:49 act: {"actions":[{"do":"goto","target":{"x":188,"y":57,"z":227}}]}
 - 21:49 act: {"actions":[{"do":"goto","target":{"x":180,"y":62,"z":236}}]}
 - 21:50 act: {"intent":{"goal":"explore_for_food","program":"travel","arguments":{"x":170,"y":70,"z":240},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":64
+- 21:51 act: {"actions":[{"do":"goto","target":{"x":200,"y":60,"z":232}}],"say":"Heading east and south to look for food. Staying clear of the water pit.","intent":{"goal":"find_food_east_south","program":"travel"
+- 21:52 act: {"actions":[{"do":"goto","target":{"x":196,"y":58,"z":228}},{"do":"goto","target":{"x":200,"y":60,"z":232}}]}
+- 21:52 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":194,"y":58,"z":228}}]}
+- 21:53 act: {"actions":[{"do":"goto","target":{"x":-249,"y":68,"z":354}}],"intent":{"goal":"reach_crop_field_food","program":"travel","arguments":{"target":{"x":-249,"y":68,"z":354}},"wake_on":["goal_completed","
+- 21:53 act: {"actions":[{"do":"unstick"}]}
+- 21:53 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"Thanks Tommy, got 5 carrots. Eating now."}
+- 21:54 act: {"actions":[{"do":"eat"}]}
