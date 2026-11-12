@@ -3,3 +3,9 @@
 - 17:36 act: {"actions":[{"do":"unstick"}]}
 - 17:36 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operati
 - 17:39 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":24
+- 17:44 act: {"actions":[{"do":"goto","target":{"x":191,"y":50,"z":226}}],"intent":{"goal":"escape_spider","program":"flee","arguments":{},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_tick
+- 17:44 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":5},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
+- 17:44 act: {"actions":[{"do":"attack","target":"spider"}]}
+- 17:44 act: {"actions":[{"do":"goto","target":{"x":195,"y":59,"z":245}}],"say":"Spiders at night. I'm retreating south."}
+- 17:44 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":3},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
+- 17:44 act: {"actions":[{"do":"goto","target":{"x":200,"y":60,"z":240}}]}
