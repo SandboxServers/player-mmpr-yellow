@@ -337,3 +337,6 @@
 - 22:40 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-223,"y":59,"z":347}},{"do":"goto","target":{"x":-223,"y":60,"z":347}},{"do":"goto","target":{"x":-223,"y":62,"z":347}}]}
 - 22:40 act: {"actions":[{"do":"goto","target":"ag_billy_01"}]}
 - 22:41 say: {"text":"Tommy, Kimberly and I are both still in the pit near (-223,59,347). Dirt steps at z346-347 aren't letting us climb. Can you dig a stair down from the edge?"}
+- 22:43 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-223,"y":62,"z":346}}]}
+- 22:43 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"unstick"}]}
+- 22:43 act: {"intent":{"goal":"pillar_up","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_operations
