@@ -444,3 +444,5 @@
 - 23:48 act: {"actions":[{"do":"goto","target":{"x":-232,"y":59,"z":347}}],"say":"Kimberly, you look free. Walk west."}
 - 23:49 act: {"actions":[{"do":"goto","target":{"x":-223,"y":59,"z":348}},{"do":"mine","block":"dirt","count":3}],"say":"Kimberly, I'm digging dirt around you. Try moving now."}
 - 23:50 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_oper
+- 23:51 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 23:52 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-224,"y":59,"z":346}},{"do":"place","block":"dirt","at":{"x":-222,"y":59,"z":346}},{"do":"place","block":"dirt","at":{"x":-223,"y":59,"z":345}},{"do"
