@@ -316,3 +316,6 @@
 - 22:32 act: {"actions":[{"do":"mine","block":"dirt","count":2}],"reasoning":"Mine down from current spot toward the pit."}
 - 22:32 act: {"actions":[{"do":"goto","target":{"x":-223,"y":62,"z":347}}],"say":"Kimberly, I fell in next to you at y59. I'm trying to climb out so I can dig your stair.","reasoning":"Got pulled into pit at y59 w
 - 22:32 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 22:35 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 22:35 act: {"intent":{"goal":"escape_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_operation
+- 22:35 act: {"actions":[{"do":"goto","target":{"x":-223,"y":64,"z":347}}]}
