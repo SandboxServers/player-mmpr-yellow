@@ -344,3 +344,6 @@
 - 22:45 act: {"actions":[{"do":"goto","target":{"x":-224,"y":66,"z":348}}]}
 - 22:45 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-224,"y":62,"z":348}}]}
 - 22:46 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 22:47 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"place","block":"dirt","at":"feet"}]}
+- 22:47 act: {"actions":[{"do":"unstick"}]}
+- 22:47 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-227,"y":59,"z":349}},{"do":"goto","target":{"x":-224,"y":62,"z":347}}]}
