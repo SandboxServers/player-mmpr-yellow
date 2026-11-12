@@ -280,3 +280,7 @@
 - 22:08 act: {"actions":[{"do":"goto","target":{"x":-221,"y":67,"z":345}},{"do":"unstick"}],"reasoning":"One last attempt to climb out by targeting a point above."}
 - 22:09 act: {"actions":[{"do":"goto","target":{"x":-224,"y":66,"z":348}}]}
 - 22:09 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":352}}]}
+- 22:11 act: {"actions":[{"do":"goto","target":{"x":-224,"y":66,"z":348}}]}
+- 22:11 act: {"actions":[{"do":"goto","target":{"x":-223,"y":65,"z":346}}]}
+- 22:12 act: {"actions":[{"do":"goto","target":{"x":-226,"y":65,"z":349}}]}
+- 22:12 say: {"text":"Trini here, stuck at -222,65,345 and can't move. Jason or Zack, can you come dig me out?"}
