@@ -385,3 +385,7 @@
 - 23:07 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
 - 23:07 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-224,"y":59,"z":346}},{"do":"goto","target":{"x":-224,"y":60,"z":346}}]}
 - 23:07 act: {"actions":[{"do":"goto","target":{"x":-224,"y":60,"z":346}},{"do":"place","block":"dirt","at":{"x":-224,"y":60,"z":345}},{"do":"goto","target":{"x":-224,"y":61,"z":345}}]}
+- 23:08 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 23:08 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":346}}]}
+- 23:08 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-224,"y":59,"z":345}},{"do":"goto","target":{"x":-224,"y":60,"z":345}}]}
+- 23:10 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}]}
