@@ -442,3 +442,4 @@
 - 23:47 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"mine","block":"dirt","count":4}],"say":"Kimberly, I'm breaking blocks around you. Try moving now."}
 - 23:48 act: {"say":"Kimberly, are you free now? Try walking away.","actions":[{"do":"wait","seconds":20}]}
 - 23:48 act: {"actions":[{"do":"goto","target":{"x":-232,"y":59,"z":347}}],"say":"Kimberly, you look free. Walk west."}
+- 23:49 act: {"actions":[{"do":"goto","target":{"x":-223,"y":59,"z":348}},{"do":"mine","block":"dirt","count":3}],"say":"Kimberly, I'm digging dirt around you. Try moving now."}
