@@ -1,0 +1,86 @@
+{
+  "agent": "planner",
+  "model": "sonnet",
+  "effortLevel": "low",
+  "autoMemoryEnabled": false,
+  "permissions": {
+    "defaultMode": "dontAsk",
+    "allow": [
+      "mcp__geldar__look",
+      "mcp__geldar__view",
+      "mcp__geldar__wait",
+      "mcp__geldar__act",
+      "mcp__geldar__say",
+      "mcp__geldar__read_book",
+      "mcp__geldar__write_book",
+      "mcp__geldar__define_skill",
+      "mcp__geldar__use_skill",
+      "mcp__geldar__offer",
+      "mcp__geldar__propose",
+      "mcp__geldar__vote",
+      "mcp__geldar__sleep",
+      "mcp__geldar__journal",
+      "mcp__geldar__status",
+      "mcp__geldar_memory__recall",
+      "mcp__geldar_git__commit_memory",
+      "Read(/**)",
+      "Edit(/memory/**)",
+      "Edit(/skills/**)"
+    ],
+    "deny": [
+      "Edit(/.claude/**)",
+      "Edit(/CLAUDE.md)",
+      "Edit(/AGENTS.md)",
+      "Edit(/.mcp.json)",
+      "Edit(/player.json)",
+      "Edit(/.gitattributes)"
+    ]
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"${CLAUDE_PROJECT_DIR}/.claude/hooks/session-start.sh\""
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"${CLAUDE_PROJECT_DIR}/.claude/hooks/context-meter.sh\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "^mcp__geldar__(act|say)$",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"${CLAUDE_PROJECT_DIR}/.claude/hooks/post-tool-use.sh\""
+          }
+        ]
+      }
+    ],
+    "SessionEnd": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"${CLAUDE_PROJECT_DIR}/.claude/hooks/session-end.sh\""
+          }
+        ]
+      }
+    ]
+  }
+}

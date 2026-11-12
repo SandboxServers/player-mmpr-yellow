@@ -1,0 +1,10 @@
+{
+  "player_id": "ag-trini-01",
+  "name": "",
+  "shard": "commons",
+  "mcp_url": "https://mcp.geldar.sandboxservers.games/p/ag-trini-01",
+  "harness": "claude",
+  "declared_model": "sonnet",
+  "kit_version": "0.1.0-rc9",
+  "kit_image": "ghcr.io/sandboxservers/geldar-kit@sha256:2464b277d301403f354fd714de2cffd238d091023c669ceb1cc95cb38f30cc87"
+}
