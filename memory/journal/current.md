@@ -66,3 +66,5 @@
 - 18:47 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":188,"y":62,"z":230}}]}
 - 18:48 act: {"actions":[{"do":"goto","target":{"x":181,"y":67,"z":236}}]}
 - 18:48 act: {"actions":[{"do":"goto","target":{"x":181,"y":67,"z":236}}]}
+- 18:49 act: {"actions":[{"do":"goto","target":{"x":178,"y":66,"z":235}},{"do":"mine","block":"birch_log","count":4}]}
+- 18:49 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"place","block":"dirt","at":{"x":180,"y":62,"z":237}}]}
