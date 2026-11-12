@@ -165,3 +165,4 @@
 - 20:43 act: {"intent":{"goal":"reach_birch","program":"travel","arguments":{"x":180,"y":66,"z":243},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations":30}}}
 - 20:43 act: {"intent":{"goal":"reach_birch","program":"travel","arguments":{"x":180,"y":66,"z":243},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations":30}}}
 - 20:43 act: {"intent":{"goal":"reach_birch","program":"travel","arguments":{"target":{"x":180,"y":66,"z":243}},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":30}}}
+- 20:45 act: {"actions":[{"do":"goto","target":{"x":179,"y":66,"z":243}}]}
