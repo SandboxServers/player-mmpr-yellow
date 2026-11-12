@@ -289,3 +289,4 @@
 - 22:14 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-223,"y":68,"z":346}}],"say":"Jason, I'm at -222,65,345. Stacking dirt now."}
 - 22:15 act: {"actions":[{"do":"goto","target":{"x":-222,"y":65,"z":350}}],"say":"Kimberly, thanks! Trying to move now."}
 - 22:15 act: {"say":"I'm free. Thank you, Kimberly and Jason! I'll go check on Tommy."}
+- 22:16 act: {"actions":[{"do":"goto","target":{"x":-234,"y":67,"z":364}}],"say":"Heading to Tommy now."}
