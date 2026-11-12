@@ -121,3 +121,5 @@
 - 19:51 act: {"actions":[{"do":"goto","target":{"x":179,"y":68,"z":243}}]}
 - 19:51 act: {"actions":[{"do":"mine","block":"sandstone","count":3},{"do":"goto","target":{"x":179,"y":68,"z":243}}]}
 - 19:52 act: {"say":"Trini here, stuck at 185,61,243 under the birch trees and can't move. Anyone near, please come help.","actions":[{"do":"note","text":"Still stuck at 185,61,243; goto/mine fail to free me. Call
+- 19:52 act: {"actions":[{"do":"goto","target":{"x":179,"y":69,"z":243}}]}
+- 19:52 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":183,"y":62,"z":243}}]}
