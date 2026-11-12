@@ -375,3 +375,7 @@
 - 23:03 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
 - 23:03 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-224,"y":60,"z":347}}]}
 - 23:04 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 23:05 act: {"actions":[{"do":"goto","target":{"x":-224,"y":60,"z":348}},{"do":"goto","target":{"x":-224,"y":62,"z":347}},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 23:05 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-225,"y":59,"z":347}},{"do":"goto","target":{"x":-225,"y":60,"z":347}}]}
+- 23:05 act: {"actions":[{"do":"goto","target":{"x":-225,"y":60,"z":347}},{"do":"place","block":"dirt","at":{"x":-225,"y":60,"z":346}},{"do":"goto","target":{"x":-225,"y":61,"z":346}}]}
+- 23:05 say: {"text":"Tommy, Kimberly: I'm still at (-224,59,347) in the pit. Tommy, please place dirt at z346 beside me, or dig down x-224."}
