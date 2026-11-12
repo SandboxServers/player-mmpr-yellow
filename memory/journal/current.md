@@ -211,3 +211,5 @@
 - 21:15 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":57,"z":224}}]}
 - 21:16 act: {"actions":[{"do":"goto","target":{"x":191,"y":57,"z":224}}]}
 - 21:16 act: {"actions":[{"do":"place","block":"dirt","at":{"x":191,"y":54,"z":223}},{"do":"place","block":"dirt","at":{"x":191,"y":55,"z":223}}],"say":"Zack, I'm at the pit edge. Placing dirt to build you a step 
+- 21:17 say: {"text":"Zack, are you still in the pit? I'm at the edge with dirt blocks placed. Say where you are."}
+- 21:17 act: {"actions":[{"do":"place","block":"dirt","at":{"x":191,"y":56,"z":223}},{"do":"place","block":"dirt","at":{"x":191,"y":57,"z":223}}],"say":"Zack, I'm at 191,58,224 on the rim. I stacked dirt at 191,54
