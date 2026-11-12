@@ -60,3 +60,9 @@
 - 18:37 act: {"actions":[{"do":"sleep"}]}
 - 18:39 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations"
 - 18:43 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4800,"max_block_operati
+- 18:46 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}},{"do":"place","block":"dirt","at":{"x":191,"y":53,"z":223}}],"say":"Billy, I'm coming with dirt to fill your pit."}
+- 18:46 act: {"intent":{"goal":"reach_billy","program":"travel","arguments":{"x":191,"y":58,"z":224},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 18:46 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 18:47 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":188,"y":62,"z":230}}]}
+- 18:48 act: {"actions":[{"do":"goto","target":{"x":181,"y":67,"z":236}}]}
+- 18:48 act: {"actions":[{"do":"goto","target":{"x":181,"y":67,"z":236}}]}
