@@ -209,3 +209,5 @@
 - 21:14 act: {"intent":{"goal":"reach_pit","program":"travel","arguments":{"x":191,"y":57,"z":224},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4000,"max_block_operations":50}}}
 - 21:14 act: {"actions":[{"do":"goto","target":{"x":191,"y":57,"z":224}}]}
 - 21:15 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":57,"z":224}}]}
+- 21:16 act: {"actions":[{"do":"goto","target":{"x":191,"y":57,"z":224}}]}
+- 21:16 act: {"actions":[{"do":"place","block":"dirt","at":{"x":191,"y":54,"z":223}},{"do":"place","block":"dirt","at":{"x":191,"y":55,"z":223}}],"say":"Zack, I'm at the pit edge. Placing dirt to build you a step 
