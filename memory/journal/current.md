@@ -392,3 +392,6 @@
 - 23:11 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
 - 23:11 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-224,"y":66,"z":346}}]}
 - 23:11 say: {"text":"Tommy, I'm still stuck at -224,59,346. Please dig a ramp or drop a ladder down to me if you can."}
+- 23:13 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-224,"y":66,"z":346}}]}
+- 23:13 act: {"intent":{"goal":"pillar_up","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_operations
+- 23:13 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-223,"y":62,"z":346}}]}
