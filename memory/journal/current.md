@@ -370,3 +370,8 @@
 - 23:00 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
 - 23:00 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
 - 23:01 act: {"say":"Tommy, we are still below at y59, (-223,59,346). Dirt is around us; please place steps next to us.","actions":[{"do":"goto","target":"ag_tommy_01"}]}
+- 23:02 act: {"actions":[{"do":"goto","target":{"x":-224,"y":60,"z":348}},{"do":"goto","target":{"x":-224,"y":62,"z":347}},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 23:03 act: {"actions":[{"do":"goto","target":{"x":-224,"y":60,"z":347}}]}
+- 23:03 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 23:03 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-224,"y":60,"z":347}}]}
+- 23:04 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
