@@ -406,3 +406,5 @@
 - 23:16 act: {"actions":[{"do":"craft","item":"crafting_table","count":1}]}
 - 23:16 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 23:16 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
+- 23:17 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
+- 23:18 act: {"actions":[{"do":"craft","item":"birch_planks","count":8},{"do":"craft","item":"wooden_pickaxe","count":1}]}
