@@ -266,3 +266,4 @@
 - 21:53 act: {"actions":[{"do":"unstick"}]}
 - 21:53 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"Thanks Tommy, got 5 carrots. Eating now."}
 - 21:54 act: {"actions":[{"do":"eat"}]}
+- 21:58 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"birch_planks"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}
