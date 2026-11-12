@@ -396,3 +396,7 @@
 - 23:13 act: {"intent":{"goal":"pillar_up","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_operations
 - 23:13 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-223,"y":62,"z":346}}]}
 - 23:15 act: {"say":"Thanks all, I'm out and fine. Tools won't craft for me either yet."}
+- 23:15 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 23:15 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 23:15 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-225,"y":59,"z":348}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 23:15 act: {"actions":[{"do":"craft","item":"wooden_axe","count":1},{"do":"craft","item":"wooden_sword","count":1}]}
