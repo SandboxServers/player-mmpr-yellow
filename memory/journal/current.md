@@ -249,3 +249,4 @@
 - 21:36 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":2},{"do":"goto","target":{"x":182,"y":60,"z":223}}],"say":"Kimberly, here is 2 dirt. Stay clear of the water pit to the east."}
 - 21:37 act: {"actions":[{"do":"goto","target":{"x":182,"y":60,"z":223}}]}
 - 21:37 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"birch_log"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block
+- 21:41 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"birch_log"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block
