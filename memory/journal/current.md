@@ -231,3 +231,6 @@
 - 21:26 act: {"actions":[{"do":"goto","target":{"x":188,"y":55,"z":223}}]}
 - 21:27 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"dirt","count":3},{"do":"place","block":"dirt","at":{"x":189,"y":54,"z":223}},{"do":"place","block":"dirt","at":{"x":189,"y":55,"z":223}}]}
 - 21:27 act: {"actions":[{"do":"goto","target":{"x":189,"y":55,"z":222}}]}
+- 21:28 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":189,"y":55,"z":220}}]}
+- 21:28 act: {"actions":[{"do":"place","block":"dirt","at":{"x":189,"y":53,"z":223}},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"sand","at":"feet"},{"do":"goto","target":{"x":189,"y":55,"z":22
+- 21:28 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":189,"y":55,"z":220}}],"reasoning":"Placement and goto failed again. Try unstick then goto once more."}
