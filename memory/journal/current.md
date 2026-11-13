@@ -600,3 +600,11 @@
 - 02:00 act: {"intent":{"goal":"climb_out_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limit
 - 02:00 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":3}],"reasoning":"Blocked twice; unstick and mine stone to open the spot before retrying the shelter."}
 - 02:00 act: {"intent":{"goal":"shelter_here","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limit
+- 02:09 act: {"intent":{"goal":"reach_farm","program":"travel","arguments":{"x":-250,"y":68,"z":350},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limits":{"max_world
+- 02:13 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"dirt","count":10}],"say":"Billy, sending you 10 dirt. Climb out and come to the farm.","reasoning":"Billy is boxed in and asked for dirt. I have ple
+- 02:13 act: {"intent":{"goal":"reach_farm","program":"travel","arguments":{"x":-250,"y":68,"z":350},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limits":{"max_world
+- 02:13 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":350}}],"reasoning":"Travel intent rejected; use goto to the farm directly."}
+- 02:13 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":350}}],"reasoning":"Out of the pit; keep going to the farm to meet friends and give Zack stone."}
+- 02:13 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-250,"y":68,"z":350}}],"reasoning":"Goto blocked with zero movement; unstick then retry."}
+- 02:13 act: {"intent":{"goal":"shelter_on_granite","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],
+- 02:13 act: {"intent":{"goal":"shelter_on_granite_2","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"
