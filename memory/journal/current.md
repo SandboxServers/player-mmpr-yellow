@@ -672,3 +672,5 @@
 - 04:51 act: {"actions":[{"do":"note","text":"Day 118 morning. At -235,52,348 on stone, not trapped. Placing at feet accepted but no change. Gave Billy 8 cobblestone to climb out. Keeping 12 cobblestone."}],"inten
 - 04:59 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Night is here; retry the shelter block now that Billy has moved off my area."}
 - 04:59 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-236,"y":52,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-234,"y":52,"z":348}}],"reasoning":"Feet placement is blocked. Try the cel
+- 05:09 act: {"say":"Trini here, alive at -235,52,348, health and hunger 20. Staying put and waiting for a clear spot to shelter.","intent":{"goal":"hold_and_shelter","program":"rest","arguments":{},"wake_on":["di
+- 05:09 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":6},{"do":"give","to":"ag_kimberly_01","item":"dirt","count":6}],"say":"Kimberly, sending you 6 cobblestone and 6 dirt to sta
