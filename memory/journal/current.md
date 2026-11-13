@@ -826,3 +826,8 @@
 - 08:23 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Routing ke
 - 08:24 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-247,"y":61,"z":344}}],"reasoning":"Underwater. Get to the stone tile I stood on before and stop fighting the water."}
 - 08:24 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Still in the water pocket. One more attempt toward the beds, then a dirt placement 
+- 08:24 act: {"actions":[{"do":"goto","target":{"x":-247,"y":61,"z":344}}],"reasoning":"Retry the one stone tile I reached before, then let time pass."}
+- 08:24 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":
+- 08:24 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"I'm falling, so place one block and check."}
+- 08:24 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Golems are close and one is attacking. Move away toward the beds."}
+- 08:24 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-243,"y":66,"z":340}}],"reasoning":"Path north was blocked. Try a different heading, north-east and up, to get clear of the water edge."}
