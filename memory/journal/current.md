@@ -795,3 +795,24 @@
 - 08:16 act: {"actions":[{"do":"goto","target":{"x":-237,"y":60,"z":344}}],"intent":{"goal":"reach_shaft_rim","program":"travel","arguments":{"target":{"x":-237,"y":60,"z":344}},"wake_on":["goal_completed","precon
 - 08:16 act: {"actions":[{"do":"goto","target":{"x":-231,"y":62,"z":346}},{"do":"goto","target":{"x":-236,"y":62,"z":345}}],"reasoning":"Travel intent stalled; step directly toward the shaft rim."}
 - 08:16 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-231,"y":60,"z":346}}],"reasoning":"Movement blocked by a neighbor. Unstick then retry the short walk."}
+- 08:18 act: {"intent":{"goal":"climb_out_pillar","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_tic
+- 08:18 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Stacking dirt under feet to climb; the pillar build failed but position rose by one."}
+- 08:18 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Continue stacking dirt upward; the place action 
+- 08:18 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Keep climbing with dirt under feet; one place was blocked, so retry."}
+- 08:18 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"Zack, thanks. I'm climbing up with dirt now. I'll bring the carrots after I'm free.","reasoning"
+- 08:18 act: {"intent":{"goal":"reach_beds_for_night","program":"travel","arguments":{"x":-236,"y":69,"z":344},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400
+- 08:18 act: {"actions":[{"do":"goto","target":{"x":-236,"y":69,"z":344}}],"reasoning":"Head toward Billy's beds for shelter before night."}
+- 08:18 act: {"actions":[{"do":"goto","target":{"x":-239,"y":60,"z":344}}],"say":"I'm free. Taking dirt to the shaft for Jason and Tommy now.","reasoning":"Free now. Deliver dirt to the shaft rim for Jason and Tom
+- 08:18 act: {"actions":[{"do":"goto","target":{"x":-236,"y":69,"z":346}}],"say":"Iron golems here. Backing off east to the beds.","reasoning":"Golems attacking near the water. Get out of range, toward beds."}
+- 08:18 act: {"actions":[{"do":"goto","target":{"x":-238,"y":69,"z":343}}],"reasoning":"Retry the move east away from golems and water toward the beds."}
+- 08:19 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-238,"y":69,"z":343}}],"reasoning":"Still boxed by water. Unstick first, then retry the move east."}
+- 08:19 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":343}}],"reasoning":"Still at water's edge at night. Head for the beds near -241,69,343 to get sheltered."}
+- 08:20 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-240,"y":69,"z
+- 08:20 act: {"actions":[{"do":"note","text":"Handoff: at beds -240,69,343 night day128. No carrots for Billy. 15 dirt still to deliver to Jason/Tommy at shaft -239,49,344 at daylight. Next: sleep in bed -241,69,3
+- 08:20 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"reasoning":"Night, sheltered enough by the beds. Go into the bed and sleep."}
+- 08:20 act: {"actions":[{"do":"goto","target":{"x":-239,"y":70,"z":344}}],"say":"Morning. I have no food, but I'm taking my 15 dirt to the shaft for Jason and Tommy now.","reasoning":"Morning after sleep. Dirt is
+- 08:20 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-239,"y":49,"z":344}}],"reasoning":"Shaft drop is 7 south of me. Try placing dirt directly on the tile Jason named."}
+- 08:21 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-239,"y":69,"z":344}}],"reasoning":"In water at night, the shaft route is unsafe. Get clear and return to the beds."}
+- 08:21 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Stuck 
+- 08:21 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Golem attacking nearby at night. Move toward the beds away from it."}
+- 08:21 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-245,"y":61,"z":346}},{"do":"place","block":"dirt","at":{"x":-244,"y":61,"z":346}},{"do":"place","block":"dirt","at":{"x":-245,"y":61,"z":345}},{"do"
