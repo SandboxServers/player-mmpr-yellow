@@ -580,3 +580,12 @@
 - 01:29 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":5}],"say":"Billy, I'm giving you 5 cobblestone to build your way out. Carry the pickaxe to Zack. I'm keeping 5 for Zack too."}
 - 01:29 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":5}]}
 - 01:29 act: {"actions":[{"do":"unstick"},{"do":"give","to":"ag_billy_01","item":"cobblestone","count":5}]}
+- 01:33 act: {"say":"Trini here, still in the pit at -233,57,349 with 10 cobblestone. Digging out now; Zack, I'll bring you stone once I'm free.","actions":[{"do":"mine","block":"stone","count":3}],"intent":{"goal
+- 01:34 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"Stacking dir
+- 01:35 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":60,"z":349}}],"say":"Thanks Billy. I'll carry the pickaxe to Zack once I'm out. Trying to unstick now."}
+- 01:35 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"intent":{"goal":"climb_out_again","program":"build","arguments":{"blueprint":"pillar","
+- 01:36 act: {"actions":[{"do":"mine","block":"cobblestone","count":2},{"do":"mine","block":"dirt","count":3},{"do":"unstick"}]}
+- 01:36 act: {"intent":{"goal":"reach_zack","program":"travel","arguments":{"x":-272,"y":63,"z":316},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":3000,"max_bloc
+- 01:38 act: {"actions":[{"do":"goto","target":{"x":-272,"y":63,"z":316}}]}
+- 01:38 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
+- 01:42 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
