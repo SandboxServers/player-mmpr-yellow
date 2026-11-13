@@ -537,3 +537,9 @@
 - 01:04 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-272,"y":68,"z":364}}]}
 - 01:04 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-231,"y":60,"z":350}},{"do":"goto","target":{"x":-231,"y":61,"z":350}}]}
 - 01:04 act: {"actions":[{"do":"goto","target":{"x":-229,"y":62,"z":350}}]}
+- 01:05 act: {"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}}}
+- 01:05 act: {"actions":[{"do":"mine","block":"dirt","count":6},{"do":"goto","target":{"x":-229,"y":62,"z":350}}]}
+- 01:05 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"mine","block":"stone","count":2}]}
+- 01:05 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"mine","block":"dirt","count":1}],"reasoning":"Mine west ahead, then check.","intent":{"goal":"climb_out_of_pit_to_beds","program":"travel","a
+- 01:05 act: {"actions":[{"do":"mine","block":"stone","count":2}],"reasoning":"Dig west stone, then recheck position."}
+- 01:05 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"}]}
