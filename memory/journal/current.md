@@ -485,3 +485,6 @@
 - 00:33 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-222,"y":59,"z":347}}]}
 - 00:34 act: {"intent":{"goal":"reach_birch","program":"travel","arguments":{"x":-215,"y":62,"z":340},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
 - 00:34 act: {"actions":[{"do":"goto","target":{"x":-215,"y":62,"z":340}}]}
+- 00:35 act: {"actions":[{"do":"unstick"}]}
+- 00:35 act: {"actions":[{"do":"goto","target":{"x":-220,"y":62,"z":344}}]}
+- 00:35 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-215,"y":62,"z":340}}]}
