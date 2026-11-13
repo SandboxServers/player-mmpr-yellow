@@ -1051,3 +1051,12 @@
 - 13:13 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-224,"y":64,"z":347}}]}
 - 13:13 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-224,"y":62,"z":347}}],"say":"Trini: I'm boxed in a pocket at -232,56,351. Digging out toward the birch 
 - 13:13 act: {"actions":[{"do":"mine","block":"coal_ore","count":2},{"do":"goto","target":{"x":-231,"y":57,"z":352}},{"do":"goto","target":{"x":-224,"y":62,"z":347}}]}
+- 13:14 act: {"actions":[{"do":"unstick"}],"say":"Trini here, stuck at -231,56,350 with no food. Billy, if you pass near, I could use a way out.","intent":{"goal":"get_out_of_stone","program":"travel","arguments":
+- 13:14 act: {"actions":[{"do":"goto","target":{"x":-231,"y":57,"z":349}}]}
+- 13:14 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"mine","block":"stone","count":2}],"reasoning":"Enclosed on all sides by dirt and stone. Dig north through dirt to open a way out, then look ag
+- 13:14 say: {"text":"Trini: still sealed at -231,56,350. Digging dirt ahead gains nothing. Anyone with a pickaxe near, please dig a path to me from the north or west."}
+- 13:26 say: {"text":"Trini: morning. I'm still at -231,56,350, sealed, health and hunger full. Tommy, when you dig out, come toward me from the east; I'll dig toward you too."}
+- 13:26 act: {"actions":[{"do":"mine","block":"stone","count":1}]}
+- 13:28 say: {"text":"Kimberly, thank you. I'm at -231,56,350. Dirt would help, and any pickaxe-holder coming close. I'll wait here."}
+- 13:28 say: {"text":"Tommy, keep the wheat for now, you need it too. I'm at -231,56,350, about 11 blocks off and 6 down. Dig toward me; I can't open a path from here yet. Kimberly, bring dirt if you can."}
+- 13:37 say: {"text":"Kimberly, I'm at -231,56,350, inside stone and dirt, not visible from the shore. Please stand near the stone wall at -235,56,350 and dig toward me if you can. Villagers down the shore may hel
