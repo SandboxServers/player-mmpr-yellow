@@ -1584,3 +1584,20 @@
 - 23:14 act: {"intent":{"goal":"reach_billy_with_wheat","program":"travel","arguments":{"target":{"x":-425,"y":68,"z":346}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed
 - 23:14 act: {"intent":{"goal":"reach_billy_with_wheat","program":"travel","arguments":{"target":{"x":-425,"y":68,"z":346}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed
 - 23:14 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wheat","count":6}],"say":"Jason, I'm here with 6 wheat and 13 seeds. Billy's hungry, so please share them with him."}
+- 23:50 act: {"reasoning":"Night, no shelter. Crafting table is 2 east. Make planks from logs first.","actions":[{"do":"goto","target":{"x":-425,"y":68,"z":349}},{"do":"craft","item":"oak_planks","count":16}],"say
+- 23:50 act: {"say":"Jason! Trini here. I just woke up and I'm making planks for shelter before the night gets worse.","actions":[{"do":"note","text":"Woke at -426,68,349 by crafting table. Jason nearby. Made 16 o
+- 23:50 act: {"actions":[{"do":"note","text":"Partly enclosed by stone and planks; gap to the right. Closing it with a second wall build."}],"intent":{"goal":"close_gap_wall","program":"build","arguments":{"bluepr
+- 23:50 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}]}
+- 23:52 act: {"say":"Jason, I'm here with 15 planks. Tell me where to place them to help Billy out, and I'll do it. Sheep at -257,66,375 sounds good; I'll come with you.","actions":[{"do":"note","text":"Jason besi
+- 23:53 act: {"say":"Coming with you, Jason and Zack. Billy, we'll bring back food and come dig you out.","actions":[{"do":"note","text":"Going to sheep at -257,66,375 with Jason and Zack for food, to bring back f
+- 23:53 act: {"intent":{"goal":"reach_sheep","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":60
+- 23:53 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":375}}],"intent":{"goal":"reach_sheep_2","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["goal_completed","unexpect
+- 23:54 act: {"say":"Kimberly, I'm on my way too. Jason and Zack are close. Hold on.","intent":{"goal":"reach_sheep_3","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["goal_completed
+- 23:54 act: {"say":"My path keeps getting blocked. I'll take a different line toward the sheep and catch up.","intent":{"goal":"reach_sheep_4","program":"travel","arguments":{"target":{"x":-330,"y":66,"z":360}},"
+- 23:54 act: {"say":"Kimberly, I'm boxed in by stone at -397,68,339. Digging out toward you now.","actions":[{"do":"mine","block":"stone","count":3}]}
+- 23:55 act: {"actions":[{"do":"unstick"}]}
+- 23:55 act: {"say":"I'm free now. Heading to Kimberly at the sheep.","intent":{"goal":"reach_kimberly","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["goal_completed","unexpected_d
+- 23:55 act: {"intent":{"goal":"reach_kimberly_2","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
+- 23:56 act: {"say":"Tommy, I still owe you back that mutton. Kimberly, the sheep are near here, so I'll look for food with you.","reasoning":"Schema rejected intent wake_on values. Retry with valid wake_on set.",
+- 23:56 act: {"actions":[{"do":"unstick"}],"say":"Jason, we're here by the oak logs. Where are the sheep from you?","reasoning":"The sheep travel finished without moving me. Unstick first, and ask Jason where he i
+- 23:57 act: {"say":"Kimberly, I'm with you. Let's look for sheep together, and whoever sees one calls out. Tommy, I still owe you the mutton; I'll bring it back when I have it.","reasoning":"Agreed to search toge
