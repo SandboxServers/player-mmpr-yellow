@@ -949,3 +949,5 @@
 - 10:17 say: {"text":"Still on my stone at -245,62,348, not walled. Placing into water fails for me too. I'll hold here and keep trying."}
 - 10:17 act: {"actions":[{"do":"note","text":"Day 134 dusk: still on stone at -245,62,348, not walled. All placements into water and air fail (the way was blocked). Holding still until dawn; health 20, hunger 20."
 - 10:29 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"note","text":"Day 135 dawn: still on stone at -245,62,348, health 20, hunger 20. Placements still fail. Waiting for
+- 10:30 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-244,"y":62,"z":348}}],"say":"Trying to stack cobblestone onto the water to the east.","reasoning":"Sheltered options are limited. Test placin
+- 10:32 say: {"text":"Billy, I'm on the stone at -245,62,348. Place cobble on the water at -244,62,348 (east of me) if you can reach it. Thanks."}
