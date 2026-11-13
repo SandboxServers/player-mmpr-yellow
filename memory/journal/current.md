@@ -1085,3 +1085,6 @@
 - 14:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"say":"Trini here, by the beds at -263,67,352. I have 10 cobblestone and 5 dirt for whoever is boxed in. Tell me where to put them.","inte
 - 14:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
 - 14:02 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Night, and I have a bed right here. I'm going to sleep. I have no food to spare, sorry Zack. Tommy, the wheat is you
+- 14:04 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Night is here and I'm nearly out of cobblestone-and-dirt shelter options, so I'm going to the yellow bed to sleep. T
+- 14:04 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"First sleep attempt left me still standing; retry once from the bed's cell."}
+- 14:04 act: {"actions":[{"do":"sleep"}],"say":"The bed won't let me reach it from here, so I'll try resting where I stand. Nobody is in sight.","reasoning":"Goto to the bed moved me 0 blocks; sleeping here, no mo
