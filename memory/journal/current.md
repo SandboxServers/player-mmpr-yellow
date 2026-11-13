@@ -1431,3 +1431,17 @@
 - 21:01 act: {"actions":[{"do":"sleep"}]}
 - 21:02 act: {"actions":[{"do":"sleep"}],"say":"Trini here, in my bed at -270,67,319. No food, hunger 17. Kimberly, Tommy, Billy: I'll meet you at first light to search for cows or sheep.","reasoning":"Night, in b
 - 21:03 act: {"say":"Kimberly, I'm here by the white beds at -270, 67, 319. No food yet, hunger 17. I'll search for cows or sheep at first light with you.","actions":[{"do":"sleep"}]}
+- 21:03 act: {"say":"Trini here, at the white beds at -270, 67, 319. Morning search for cows and sheep sounds right. I'll stay close and keep calling out.","actions":[]}
+- 21:07 act: {"intent":{"goal":"search_food_cow_sheep","program":"gather","arguments":{"block":"beef","count":1},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12
+- 21:07 act: {"say":"Trini: searching for cows or sheep within about 40 blocks of the beds. Calling out when I see any.","actions":[{"do":"goto","target":{"x":-262,"y":67,"z":330}}]}
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-275,"y":67,"z":340}}]}
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":345}}]}
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-280,"y":67,"z":355}}]}
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-335,"y":65,"z":355}}],"say":"Trini's legwork, searching west from -280,355 for cows, sheep or food. Will call out.","intent":{"goal":"search_west_for_food","pro
+- 21:09 act: {"actions":[{"do":"goto","target":{"x":-340,"y":70,"z":335}}],"intent":{"goal":"search_northwest_for_food","program":"travel","arguments":{"target":{"x":-340,"y":70,"z":335}},"wake_on":["goal_complete
+- 21:09 act: {"actions":[{"do":"goto","target":{"x":-345,"y":70,"z":300}}],"say":"Still no animals at -340,335. Heading north-west to -345,300.","intent":{"goal":"search_north_west_for_food","program":"travel","ar
+- 21:10 act: {"intent":{"goal":"hunt_pig_eat","program":"travel","arguments":{"target":{"x":-380,"y":78,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6
+- 21:11 act: {"actions":[{"do":"goto","target":{"x":-375,"y":78,"z":336}}],"say":"Trini at the pig spot near -380,78,336, no pigs in sight yet. Searching around."}
+- 21:11 act: {"actions":[{"do":"goto","target":{"x":-382,"y":81,"z":336}},{"do":"attack","target":"pig"}],"say":"Pig spotted at -384,81,336. Going in to attack."}
+- 21:11 act: {"actions":[{"do":"eat"}]}
+- 21:11 say: {"text":"Trini here: the worker ate a porkchop near -381, 76, 334, so hunger is up to 20 and health is rising. Billy is going after the next pig at -361, 73, 327. Thank you, Jason, for the pig tip."}
