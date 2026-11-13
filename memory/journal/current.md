@@ -658,3 +658,4 @@
 - 03:53 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-236,"y":54,"z":348}}]}
 - 04:01 act: {"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":"-236,60,347"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":1200,"ma
 - 04:07 act: {"intent":{"goal":"climb_out_pillar","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max
+- 04:13 say: {"text":"Trini still at -237,53,347, safe at health 20. Placing at my feet is blocked. Zack, if you can open a side step beside me, I'll climb."}
