@@ -1002,3 +1002,8 @@
 - 11:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-243,"y":63,"z":346}}],"say":"Morning, Trini here at -225,61,348. Heading to Kimberly with cobblestone."}
 - 11:48 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-243,"y":63,"z":346}}]}
 - 11:48 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-231,"y":62,"z":347}},{"do":"goto","target":{"x":-238,"y":63,"z":346}}]}
+- 11:53 act: {"say":"Kimberly, Trini here. Did Zack's 8 cobblestone reach you? If you still need blocks, tell me and I'll bring mine to your feet.","intent":{"goal":"await_kimberly_reply","program":"rest","argumen
+- 11:54 act: {"intent":{"goal":"reach_kimberly","program":"travel","arguments":{"x":-242,"y":63,"z":346},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max
+- 11:57 act: {"actions":[{"do":"goto","target":{"x":-242,"y":63,"z":346}}],"say":"Kimberly, coming to you with the 8 cobblestone now."}
+- 11:57 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-231,"y":62,"z":348}}],"say":"Kimberly, my walk west got blocked. Trying a shorter step; hold on."}
+- 11:57 act: {"actions":[{"do":"note","text":"Day 139: 8 cobblestone still in my pack at -225,61,348. Westward goto keeps moving 0 blocks. Kimberly at -244,63,346 needs blocks; asked Zack or Billy to help if they 
