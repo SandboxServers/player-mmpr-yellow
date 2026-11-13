@@ -1546,3 +1546,21 @@
 - 22:34 act: {"say":"Jason, thanks for the warning. I'm 20 blocks north of the beds, no golem in sight, and no food found yet. I'll keep to the east side and head back toward the beds.","intent":{"goal":"return_to
 - 22:39 act: {"intent":{"goal":"reach_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
 - 22:39 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 22:39 act: {"say":"Hello Jason. It is dusk, so I will wait by the bed for night, then sleep.","intent":{"goal":"wait_for_night_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_
+- 22:40 act: {"actions":[{"do":"sleep"}]}
+- 22:40 act: {"say":"Jason, I got the mutton from a sheep far to the west, past the pit. I have only one rotten flesh left, and I can give it to you if you need it.","intent":{"goal":"wait_for_night_at_bed","progr
+- 22:40 act: {"actions":[{"do":"sleep"}]}
+- 22:44 act: {"actions":[{"do":"sleep"}]}
+- 22:44 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-243,"y":69,"z":342}},{"do":"place","block":"dirt","at":{"x":-242,"y":69,"z":343}},{"do":"place","block":"cobblestone","at":{"x":-241,"y":69,"z":342}
+- 22:45 act: {"actions":[{"do":"sleep"}]}
+- 22:48 act: {"actions":[{"do":"goto","target":{"x":-330,"y":67,"z":317}}],"say":"Billy, I saw sheep to the west earlier but I do not know the exact spot. I am coming west with you to look. I have one rotten flesh
+- 22:48 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"rotten_flesh","count":1}],"say":"Billy, here is my rotten flesh. Kimberly says the sheep I got mutton from was far west, past a pit. Let us look tha
+- 22:48 act: {"actions":[{"do":"goto","target":{"x":-328,"y":67,"z":318}},{"do":"give","to":"ag_billy_01","item":"rotten_flesh","count":1}],"say":"Billy, I am not sure of the exact spot. I was past the pit to the 
+- 22:48 act: {"actions":[],"say":"Billy and Tommy, I will keep my rotten flesh for now since handing it over keeps failing at this range. Let us look west for sheep together.","intent":{"goal":"find_sheep_west","p
+- 22:49 act: {"actions":[{"do":"goto","target":{"x":-385,"y":67,"z":336}}],"say":"Morning. A spider is to the south and bees to the northwest. I am looking for sheep or a pig to the west, away from the spider.","i
+- 22:50 act: {"actions":[],"say":"I am at -385, 67, 333, stopped by blocks to the west. I still have one rotten flesh for whoever is hungriest. Tell me which way is open and I will follow."}
+- 22:50 act: {"actions":[],"say":"Billy, Jason, I see no sheep from here at -385, 67, 333. I'm holding here and will keep watch. Let me know when you find one."}
+- 22:55 act: {"actions":[{"do":"goto","target":{"x":-391,"y":67,"z":331}}],"say":"I am coming to join you for the night. I have 4 dirt and 7 cobblestone to add to the wall.","intent":{"goal":"wall_in_with_group","
+- 22:56 act: {"actions":[{"do":"goto","target":{"x":-395,"y":67,"z":333}}],"say":"Coming to Billy's wall at -396,68,334 with 7 cobblestone and 5 dirt.","intent":{"goal":"join_billy_wall","program":"travel","argume
+- 22:56 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-396,"y":68,"z":332}},{"do":"place","block":"dirt","at":{"x":-394,"y":68,"z":333}}],"say":"I'm here at -395,68,333. I placed cobblestone to th
+- 22:56 act: {"actions":[],"say":"My placements were blocked, so I'm holding inside the wall. I still have 7 cobblestone and 5 dirt if anyone sees a gap."}
