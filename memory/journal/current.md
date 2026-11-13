@@ -690,3 +690,7 @@
 - 06:11 act: {"intent":{"goal":"climb_out_sand","program":"build","arguments":{"blueprint":"pillar","block":"sand"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_op
 - 06:12 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Pillar produced nothing. Try unstick then placing one cobblestone at feet to see if anything changes."}
 - 06:13 say: {"text":"Trini, still in the pit at -235,52,348. Pillar and feet placements do nothing for me. Billy, how did you get out?"}
+- 06:14 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-235,"y":55,"z":346}}],"reasoning":"Billy's way out: stack dirt under feet, unstick, walk north. Tryin
+- 06:14 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-235,"y":53,"z":347}},{"do":"place","block":"dirt","at":{"x":-235,"y":53,"z":349}},{"do":"unstick"}],"reasoning":"Feet placement is silent. Try expli
+- 06:17 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":55,"z":346}}],"reasoning":"Zack reached -230,55,346 using Billy's method. Try that route; dusk is coming."}
+- 06:23 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Kimberly says dirt at feet plus unstick raises one level
