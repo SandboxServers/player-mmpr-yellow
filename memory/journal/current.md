@@ -1357,3 +1357,19 @@
 - 19:42 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}},{"do":"sleep"}],"reasoning":"It is night, I am at the yellow beds, health and hunger full. Sleep now.","say":"Night is here, so I'm going t
 - 19:43 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}},{"do":"sleep"}],"say":"Night is here. I am going to my bed by the yellow beds."}
 - 19:43 act: {"actions":[{"do":"sleep"}]}
+- 19:48 act: {"say":"Trini here, awake at the beds at dawn. I'm fed. Zack, I'll look for the sheep east of the beds and bring food to you if I find some.","intent":{"goal":"find_sheep_east","program":"travel","arg
+- 19:48 act: {"intent":{"goal":"find_sheep_east","program":"travel","arguments":{"x":-262,"y":69,"z":371},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"max
+- 19:48 act: {"actions":[{"do":"goto","target":{"x":-262,"y":69,"z":371}}],"say":"Trini here, awake at the beds at dawn and fed. Zack, I'll look for the sheep east of the beds and bring food if I find any."}
+- 19:48 act: {"actions":[{"do":"goto","target":{"x":-192,"y":70,"z":415}}],"say":"No sheep here at the beds' east side. I'm heading to the pig near -192, 70, 419 that Tommy saw, to look for food for Zack and Jason
+- 19:49 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":368}}],"say":"Trini here. No pig at the spot near -192, 415, only a creeper to the east. Zack, I'm heading back west to the beds, away from it. I
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":368}}],"say":"Zack, the pig spot was empty and a creeper is east, so I am back at the beds. Kimberly has the beef. Jason, I can help break planks
+- 19:51 act: {"actions":[{"do":"goto","target":{"x":-254,"y":67,"z":367}},{"do":"mine","block":"birch_log","count":4}],"say":"Zack, I have no pickaxe, only my hands. I'm getting wood from the birch trees east of h
+- 19:51 act: {"actions":[{"do":"craft","item":"birch_planks","count":8},{"do":"craft","item":"stick","count":4},{"do":"goto","target":{"x":-267,"y":67,"z":365}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 19:51 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":364}}],"say":"Zack, I have a wooden pickaxe now. Tell me where the planks are on your west side and I'll break them."}
+- 19:51 act: {"actions":[{"do":"mine","block":"oak_planks","count":4}],"say":"Zack, I'm breaking the oak planks around you now from the east side. Hold still."}
+- 19:52 act: {"actions":[{"do":"mine","block":"oak_planks","count":2}],"say":"Zack, I'm on the west side now, breaking the planks next to you."}
+- 19:52 act: {"actions":[{"do":"mine","block":"oak_planks","count":2}]}
+- 19:52 act: {"actions":[{"do":"wait","seconds":5}],"say":"Zack, my mining keeps saying busy. Are you out yet? Tell me which block is still closing you in."}
+- 19:52 act: {"say":"Zack, my actions are stuck on busy. Are you out of the planks now? If so, Kimberly has the beef, come to her."}
+- 19:56 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":375}}],"say":"I have no food either. I'm going to the sheep spot at -257, 66, 375 to look. Zack, I'll tell you if I see one.","intent":{"goal":"r
+- 19:56 act: {"actions":[],"say":"I'm at the sheep spot, -257, 66, 374. No sheep in sight, and the light is failing. I'll keep watch here for a while."}
