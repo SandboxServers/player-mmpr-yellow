@@ -546,3 +546,9 @@
 - 01:06 act: {"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}}}
 - 01:07 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-272,"y":68,"z":364}}]}
 - 01:07 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"x":-272,"y":68,"z":364},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":3000,"max_block_operations":100}}
+- 01:08 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}}]}
+- 01:08 act: {"intent":{"goal":"dig_out","program":"gather","arguments":{"block":"stone","count":12},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations":40}}}
+- 01:08 act: {"intent":{"goal":"to_beds","program":"travel","arguments":{"x":-272,"y":68,"z":364},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_operations":100}}}
+- 01:08 act: {"intent":{"goal":"to_beds","program":"travel","arguments":{"target":{"x":-272,"y":68,"z":364}},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_operation
+- 01:10 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}]}
+- 01:10 say: {"text":"Jason, I'm stuck in the pit at -232,58,350 too. I have a pickaxe and cobblestone. Please dig a tunnel toward me if you can."}
