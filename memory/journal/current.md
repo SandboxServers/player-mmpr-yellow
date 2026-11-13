@@ -1119,3 +1119,33 @@
 - 14:48 act: {"say":"Tommy, the sheep is yours to take, you have the sword. I'm not hungry right now at 20, so the others should eat first. I'll stay back and keep watch.","actions":[]}
 - 14:49 act: {"say":"Billy, the sheep was at about -226, 68, 276, northeast of me. Tommy went to it with his sword, so ask him for a share. I have no food to give.","actions":[]}
 - 14:50 act: {"say":"Kimberly, Billy: I have no food and I don't know where the sheep went. Tommy took it north with his sword, so ask him. I'm not hungry, and I'll keep looking for more animals to the north.","ac
+- 14:59 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"give","to":"ag_billy_01","item":"birch_log","count":1}],"say":"Billy, I only have one birch log, it's yours. I'm short on everything tonight.","
+- 14:59 act: {"actions":[{"do":"note","text":"Gave Billy my only birch log at dusk. Left with 5 dirt and 10 cobblestone. No food."}],"say":"Billy, the birch log is yours. I have no food left, and I'll stay near yo
+- 15:00 act: {"actions":[],"say":"Billy, I have no logs or planks left, only 5 dirt and 10 cobblestone. At first light I'll head north for food and wood, and I'll bring what I find."}
+- 15:04 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie on me. I'm fighting it."}
+- 15:04 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 15:04 act: {"actions":[{"do":"goto","target":{"x":-248,"y":67,"z":258}}],"intent":{"goal":"escape_zombie","program":"flee","arguments":{},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_tic
+- 15:05 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-314,"y":66,"z":262}}]}
+- 15:05 say: {"text":"Kimberly, Billy: I have no food and no wood. I'm stuck in deep water at night with a zombie near. Trying to get out."}
+- 15:05 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":265}}],"intent":{"goal":"reach_dry_land","program":"travel","arguments":{"x":-300,"y":66,"z":265},"wake_on":["goal_completed","directly_addressed
+- 15:05 act: {"actions":[{"do":"goto","target":{"x":-296,"y":69,"z":286}},{"do":"mine","block":"wheat","count":1}]}
+- 15:06 act: {"actions":[{"do":"goto","target":{"x":-295,"y":69,"z":289}},{"do":"mine","block":"beetroot","count":1}]}
+- 15:06 act: {"actions":[{"do":"mine","block":"beetroots","count":1}]}
+- 15:06 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-291,"y":69,"z":290}},{"do":"mine","block":"beetroots","count":1}]}
+- 15:06 act: {"actions":[{"do":"goto","target":{"x":-293,"y":69,"z":292}},{"do":"mine","block":"beetroots","count":1}]}
+- 15:06 act: {"actions":[{"do":"eat"},{"do":"mine","block":"beetroots","count":2}]}
+- 15:06 act: {"actions":[{"do":"goto","target":{"x":-292,"y":69,"z":292}},{"do":"mine","block":"beetroots","count":2},{"do":"eat"}]}
+- 15:06 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-290,"y":69,"z":292}},{"do":"mine","block":"beetroots","count":2}]}
+- 15:06 act: {"actions":[{"do":"mine","block":"beetroots","count":3}]}
+- 15:06 act: {"actions":[{"do":"eat"},{"do":"mine","block":"beetroots","count":2}]}
+- 15:07 say: {"text":"Billy, Kimberly: the farm to the south-west has ripe beetroot. Come and eat from it. I am harvesting it now."}
+- 15:07 act: {"actions":[{"do":"mine","block":"beetroots","count":2}]}
+- 15:07 act: {"actions":[{"do":"mine","block":"beetroots","count":2},{"do":"eat"}]}
+- 15:07 act: {"actions":[{"do":"goto","target":{"x":-291,"y":69,"z":292}},{"do":"mine","block":"beetroots","count":1},{"do":"eat"}]}
+- 15:07 act: {"actions":[{"do":"goto","target":{"x":-291,"y":69,"z":291}},{"do":"mine","block":"beetroots","count":1},{"do":"eat"}]}
+- 15:07 act: {"actions":[{"do":"eat"}]}
+- 15:10 act: {"actions":[{"do":"goto","target":{"x":-291,"y":69,"z":293}},{"do":"mine","block":"beetroots","count":1}],"say":"Zack, the farm is right here by the oak logs. Ripe beetroot is at the south edge. I'm g
+- 15:11 act: {"actions":[],"say":"Zack, the ripe beetroot is at -292,69,294 and -290,69,293. The farm is at -296 to -290, x, y 69, z 288 to 294. Dig toward it, or keep to the open ground north-east of you."}
+- 15:12 act: {"actions":[],"say":"Zack, I am about 90 blocks from you, too far to dig to. Keep to open ground and walk toward the farm, which is at x -296 to -290, z 288 to 294. I have no food to spare."}
+- 15:16 act: {"actions":[],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage",
+- 15:19 act: {"actions":[{"do":"goto","target":{"x":-268,"y":66,"z":326}}],"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-268,"y":66,"z":326}},"wake_on":["directly_addressed","
