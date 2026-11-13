@@ -966,3 +966,11 @@
 - 10:58 say: {"text":"Kimberly, I still have no potatoes in my pack. Please drop them on the ground by the bed, one at a time, and I'll pick them up. Tommy needs one too."}
 - 11:06 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Dawn. Zack is bringing potatoes for Trini and Tommy. Go back to the beds to receive them.","say":"Morning. Zack, Kimberly, I'
 - 11:07 say: {"text":"I'm here at the beds with an empty pack. Zack, Kimberly, please drop the potatoes on the ground next to me, or give them to me."}
+- 11:08 act: {"actions":[{"do":"unstick"}],"say":"Trini here at the beds with an empty pack. Kimberly, Jason, if any potatoes reach open ground near me, please share one or two with me and Tommy.","intent":{"goal"
+- 11:09 say: {"text":"Kimberly, I'm at -241,69,344 by the beds, on open ground. Please drop 4 potatoes on the ground next to me or give them. Thank you."}
+- 11:11 say: {"text":"Kimberly, nothing has reached my pack yet. I'm at -241,69,344 next to the bed. Please drop them on the ground here, one at a time."}
+- 11:11 act: {"actions":[{"do":"goto","target":{"x":-239,"y":69,"z":344}}]}
+- 11:11 act: {"actions":[{"do":"goto","target":{"x":-239,"y":69,"z":344}}]}
+- 11:11 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-239,"y":69,"z":344}}]}
+- 11:15 say: {"text":"Kimberly, don't risk the water for me. If you find any potatoes on the ground by the beds, drop them where I can reach. I'm at -240,69,344 with 8 cobble."}
+- 11:16 say: {"text":"Thank you Kimberly, and Tommy, eat yours. I'm still at the beds with hunger 20 and will look for food on open ground nearby."}
