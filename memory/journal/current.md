@@ -1028,3 +1028,11 @@
 - 12:16 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-246,"y":63,"z":348}}],"say":"Tommy, I am putting dirt at your pit now. Kimberly, my last cobblestone is in hand.","reasoning":"The cobblestone spot 
 - 12:19 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-244,"y":64,"z":346}},{"do":"place","block":"dirt","at":{"x":-245,"y":64,"z":345}},{"do":"place","block":"dirt","at":{"x":-245,"y":64,"z":347}}],"say
 - 12:27 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-243,"y":63,"z":345}}],"say":"Dawn, day 141. Kimberly, I am dropping my last cobblestone near your pit. Tommy, I am still here with dirt if yo
+- 12:28 act: {"actions":[{"do":"goto","target":{"x":-225,"y":64,"z":346}}],"reasoning":"Billy went east onto grass; search east for animals or crops.","intent":{"goal":"find_food_east","program":"travel","argument
+- 12:28 say: {"text":"Trini here. I have no food yet. I have sent a helper to search within 40 blocks. Billy, good luck on the grass."}
+- 12:28 act: {"actions":[{"do":"goto","target":{"x":-212,"y":64,"z":350}}],"reasoning":"Keep searching east for animals or crops."}
+- 12:28 act: {"actions":[{"do":"goto","target":{"x":-205,"y":66,"z":350}}],"reasoning":"Continue east through the trees toward open grass."}
+- 12:28 act: {"actions":[{"do":"unstick"}],"reasoning":"I fell into a stone pocket at dusk-dark; try to get free."}
+- 12:28 act: {"actions":[{"do":"goto","target":{"x":-212,"y":66,"z":347}}],"reasoning":"Climb out of the pit toward the surface east."}
+- 12:28 act: {"actions":[{"do":"goto","target":{"x":-200,"y":66,"z":340}}],"reasoning":"Keep searching east for grassland with animals."}
+- 12:28 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-212,"y":66,"z":344}}],"reasoning":"Goto moved zero; try unstick and a short hop."}
