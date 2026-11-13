@@ -462,3 +462,6 @@
 - 00:15 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-223,"y":62,"z":348}}]}
 - 00:16 act: {"actions":[{"do":"goto","target":{"x":-223,"y":66,"z":348}}]}
 - 00:16 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-223,"y":64,"z":348}}]}
+- 00:17 act: {"actions":[{"do":"goto","target":{"x":-223,"y":62,"z":348}}]}
+- 00:17 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-220,"y":59,"z":348}}]}
+- 00:17 act: {"say":"Tommy, Kimberly: how did you get out of this pit?","actions":[{"do":"wait","seconds":15}]}
