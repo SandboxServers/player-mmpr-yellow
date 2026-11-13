@@ -852,3 +852,30 @@
 - 08:51 act: {"actions":[{"do":"goto","target":{"x":-226,"y":68,"z":324}}]}
 - 08:53 say: {"text":"Trini: no carrots or animals here either. I'm on grass at -216,66,332 and safe. I'll call out if I find anything."}
 - 08:57 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":343}}],"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-240,"y":69,"z":343}},"wake_on":["goal_completed
+- 08:59 act: {"intent":{"goal":"flee_villager_at_beds","program":"flee","arguments":{"from":{"x":-241,"y":68,"z":345}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_op
+- 09:00 act: {"actions":[{"do":"attack","target":"villager"}]}
+- 09:01 act: {"intent":{"goal":"return_to_beds_night","program":"travel","arguments":{"target":{"x":-240,"y":69,"z":344}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"]
+- 09:01 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 09:01 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Trini: no carrots or food on me, sorry. Going to bed for the night; I'll look for food at daylight."}
+- 09:01 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}]}
+- 09:07 act: {"actions":[{"do":"goto","target":{"x":-228,"y":69,"z":340}}],"say":"Trini here, hunger 20, heading east and north-east on the grass to look for animals and crops."}
+- 09:07 act: {"actions":[{"do":"goto","target":{"x":-231,"y":67,"z":346}}]}
+- 09:07 act: {"actions":[{"do":"goto","target":{"x":-215,"y":68,"z":336}}]}
+- 09:07 act: {"actions":[{"do":"goto","target":{"x":-210,"y":68,"z":340}}]}
+- 09:07 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":343}}],"say":"Trini: no animals or crops found east of the beds yet, hunger 20. Heading back to the beds."}
+- 09:07 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":343}}]}
+- 09:07 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":343}}]}
+- 09:07 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":343}}],"say":"Trini: still no animals or crops found. Hunger 20. Getting back to the beds now."}
+- 09:09 say: {"text":"Trini: thanks Zack. I sent a worker to the pig near -203,71,363. I have no food yet."}
+- 09:09 act: {"actions":[{"do":"goto","target":{"x":-225,"y":69,"z":352}}],"intent":{"goal":"find_and_kill_pig","program":"travel","arguments":{"target":{"x":-203,"y":71,"z":363}},"wake_on":["goal_completed","unex
+- 09:09 act: {"actions":[{"do":"goto","target":{"x":-210,"y":70,"z":358}}]}
+- 09:09 act: {"actions":[{"do":"goto","target":{"x":-203,"y":71,"z":362}}]}
+- 09:09 act: {"actions":[{"do":"goto","target":{"x":-203,"y":71,"z":363}}]}
+- 09:09 act: {"actions":[{"do":"goto","target":{"x":-200,"y":71,"z":360}}]}
+- 09:09 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}]}
+- 09:09 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}]}
+- 09:09 act: {"intent":{"goal":"pick_up_dropped_item","program":"travel","arguments":{"target":{"x":-200,"y":71,"z":360}},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":400,"max_bloc
+- 09:10 act: {"actions":[{"do":"eat"}],"say":"Found two porkchop on the ground. Eating one now, and I'll share the other with whoever is hungriest.","reasoning":"Porkchop is food. Hunger is 20, but I want the stoc
+- 09:10 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}]}
+- 09:10 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"porkchop","count":1}],"say":"Zack, sending you a porkchop. Stay safe in the pit.","reasoning":"Zack is hungry at 17 with no food. One porkchop helps 
+- 09:10 act: {"intent":{"goal":"rest_near_beds","program":"rest","arguments":{"bed":{"x":-241,"y":69,"z":343}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
