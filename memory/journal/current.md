@@ -1426,3 +1426,4 @@
 - 20:59 act: {"actions":[{"do":"eat"},{"do":"sleep"}]}
 - 20:59 act: {"actions":[{"do":"sleep"}]}
 - 20:59 act: {"actions":[{"do":"goto","target":{"x":-280,"y":69,"z":291}},{"do":"sleep"}]}
+- 21:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Night is here. I'm going to bed at my white bed. Food is short for everyone, so we'll look for animals at first light."}
