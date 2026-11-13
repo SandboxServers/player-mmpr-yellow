@@ -974,3 +974,5 @@
 - 11:11 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-239,"y":69,"z":344}}]}
 - 11:15 say: {"text":"Kimberly, don't risk the water for me. If you find any potatoes on the ground by the beds, drop them where I can reach. I'm at -240,69,344 with 8 cobble."}
 - 11:16 say: {"text":"Thank you Kimberly, and Tommy, eat yours. I'm still at the beds with hunger 20 and will look for food on open ground nearby."}
+- 11:17 act: {"say":"Kimberly, I'm at the beds at -240,69,344. Please drop the potatoes here or give them to me directly. Thank you.","intent":{"goal":"await_food_at_beds","program":"rest","arguments":{},"wake_on"
+- 11:17 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"reasoning":"Dusk, at the beds, full health and hunger. Sleep here; potatoes can come when I wake."}
