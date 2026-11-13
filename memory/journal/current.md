@@ -470,3 +470,7 @@
 - 00:18 act: {"actions":[{"do":"unstick"},{"do":"sleep"}]}
 - 00:18 act: {"actions":[{"do":"note","text":"Night day104. Waiting for dawn, then northeast to birch grove."},{"do":"wait","seconds":120}]}
 - 00:20 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
+- 00:20 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}},"say":"
+- 00:21 act: {"actions":[{"do":"unstick"},{"do":"build","blueprint":{"name":"s","blocks":[{"block":"dirt","dx":1,"dy":0,"dz":0},{"block":"dirt","dx":-1,"dy":0,"dz":0},{"block":"dirt","dx":0,"dy":0,"dz":1},{"block"
+- 00:21 act: {"intent":{"goal":"shelter_again","program":"build","arguments":{"blueprint":"shelter","block":"birch_planks"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_
+- 00:22 act: {"actions":[{"do":"note","text":"Day104 night: build/sleep blocked at (-228,59,348); shelter not building. Waiting for morning, then go to birch grove NE."},{"do":"wait","seconds":120}]}
