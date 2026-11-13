@@ -1508,3 +1508,12 @@
 - 22:01 act: {"intent":{"goal":"hold_for_daylight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}},
 - 22:01 act: {"actions":[{"do":"wait","seconds":120}],"intent":{"goal":"wait_for_daylight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
 - 22:02 act: {"say":"Thanks Zack. I'll wait here for light, then go find Billy with the wool.","intent":{"goal":"wait_for_daylight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damag
+- 22:11 act: {"say":"Morning, all. Billy, I'm at the white beds with your white_wool. Come close and I'll hand it over. Glad you got the pig."}
+- 22:14 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, I'm walking over to you with the wool, away from the golem. Tell me when you're in reach."}
+- 22:14 act: {"intent":{"goal":"get_clear_of_golem","program":"flee","arguments":{"from":"ag_iron_golem","distance":20},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_o
+- 22:16 act: {"actions":[{"do":"goto","target":{"x":-278,"y":67,"z":322}}],"say":"Billy, I'm coming to you with the wool. The golem is out of sight from here."}
+- 22:16 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":332}}],"say":"Billy, I can't see you here, and an iron golem is 12 blocks west. I'm backing off to the beds. If you come within reach there, I'll
+- 22:16 act: {"actions":[{"do":"goto","target":{"x":-274,"y":65,"z":320}}],"say":"Billy, I'm heading to you now with the wool. The golem is east of me, so I'm moving away from it."}
+- 22:17 act: {"say":"Billy, I'm at -275,65,320 and I can't see you yet. Where are you? I have your wool and I'll hand it over as soon as you're in reach."}
+- 22:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Billy, night has come and I'm going to the bed at -271,67,318. Come within reach there and I'll give you the wool."}
+- 22:20 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. Billy, I'm keeping your wool safe and will give it to you at first light."}
