@@ -526,3 +526,5 @@
 - 00:59 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-272,"y":68,"z":364}}]}
 - 00:59 act: {"intent":{"goal":"tunnel_west","program":"travel","arguments":{"x":-272,"y":68,"z":364},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations":300}}}
 - 00:59 act: {"actions":[{"do":"mine","block":"dirt","count":4},{"do":"goto","target":{"x":-234,"y":59,"z":349}},{"do":"mine","block":"dirt","count":4},{"do":"goto","target":{"x":-238,"y":59,"z":349}}]}
+- 01:00 act: {"intent":{"goal":"pillar_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}}}
+- 01:01 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-272,"y":68,"z":364}}]}
