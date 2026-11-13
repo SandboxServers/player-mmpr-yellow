@@ -1082,3 +1082,5 @@
 - 13:56 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"intent":{"goal":"climb_out_of_pit_again","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_comp
 - 13:56 act: {"say":"Kimberly, I'm out on the grass beside you at -239,68,344. I'm not hungry, so keep Tommy's wheat for you. There's a bed three blocks west of me.","actions":[{"do":"write_sign","text":"Trini her
 - 14:00 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"intent":{"goal":"stand_by_bed_for_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":344}},"wake_on":["goal_completed",
+- 14:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"say":"Trini here, by the beds at -263,67,352. I have 10 cobblestone and 5 dirt for whoever is boxed in. Tell me where to put them.","inte
+- 14:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
