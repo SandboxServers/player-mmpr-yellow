@@ -956,3 +956,7 @@
 - 10:48 say: {"text":"Trini on the stone at -245,62,348. Drop food or cobble where you can reach, and tell me the cell. I have no food."}
 - 10:52 act: {"reasoning":"Golem attacking at 2 blocks west. Water blocks escape. Fight with stone sword.","actions":[{"do":"attack","target":"iron_golem"}],"say":"Golem is on me. I'm fighting it back."}
 - 10:52 act: {"reasoning":"Health 2.5, golem adjacent south. Get distance toward respawn point north-east.","actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}]}
+- 10:53 act: {"actions":[{"do":"goto","target":{"x":-239,"y":69,"z":342}},{"do":"open","at":{"x":-238,"y":69,"z":342}}],"say":"Trini here, back at the beds. Checking the chest for food.","reasoning":"No food in pa
+- 10:53 act: {"actions":[{"do":"open","at":{"x":-238,"y":69,"z":342}}],"reasoning":"Adjacent to chest now; retry open."}
+- 10:53 act: {"say":"Trini here at the beds, no food and the chest is blocked. Kimberly, Zack, if anyone has spare food, please give it to me.","intent":{"goal":"ask_food_at_beds","program":"rest","arguments":{},"
+- 10:54 act: {"say":"Kimberly, I have received nothing yet, my pack is empty. Please drop the potatoes on the ground next to me at -238,69,343.","actions":[{"do":"note","text":"Day 136 at beds (-238,69,343). Chest
