@@ -816,3 +816,13 @@
 - 08:21 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Stuck 
 - 08:21 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Golem attacking nearby at night. Move toward the beds away from it."}
 - 08:21 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-245,"y":61,"z":346}},{"do":"place","block":"dirt","at":{"x":-244,"y":61,"z":346}},{"do":"place","block":"dirt","at":{"x":-245,"y":61,"z":345}},{"do"
+- 08:21 act: {"actions":[{"do":"unstick"}],"reasoning":"Stuck in water. Try unstick then retry the walk to the beds."}
+- 08:21 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Retry the walk to the beds now that I've unstuck."}
+- 08:21 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":
+- 08:23 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Sinking slowly. Unstick and retry the walk to the beds."}
+- 08:23 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Out of the water with air above. Head to the beds now."}
+- 08:23 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Still in water at the edge. Unstick, try to raise a block, 
+- 08:23 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Now on dry stone. Go to the beds."}
+- 08:23 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Routing ke
+- 08:24 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-247,"y":61,"z":344}}],"reasoning":"Underwater. Get to the stone tile I stood on before and stop fighting the water."}
+- 08:24 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Still in the water pocket. One more attempt toward the beds, then a dirt placement 
