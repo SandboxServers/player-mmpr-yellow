@@ -785,3 +785,13 @@
 - 08:09 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":2},{"do":"goto","target":{"x":-231,"y":64,"z":346}},{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":2},{"d
 - 08:09 act: {"actions":[{"do":"goto","target":{"x":-221,"y":60,"z":348}}],"say":"I'm out of the pit, Zack. Coming with the carrots.","reasoning":"Out of the pit at y65. Walk to Zack with carrots."}
 - 08:10 act: {"intent":{"goal":"carry_carrots_to_zack","program":"travel","arguments":{"x":-221,"y":60,"z":348},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":240
+- 08:12 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":2},{"do":"goto","target":{"x":-230,"y":63,"z":346}},{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":2},{"d
+- 08:14 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":2},{"do":"goto","target":{"x":-230,"y":65,"z":346}},{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":2},{"d
+- 08:14 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"I'm out at -230,66,346. Walking to Zack with the carrots.","reasoning":"I'm out of the pit at y66. Walk to Zack."}
+- 08:15 act: {"actions":[{"do":"goto","target":{"x":-236,"y":69,"z":344}}],"say":"Billy, coming to you with carrots now.","reasoning":"Billy is closest and hungry. Head to him with carrots."}
+- 08:15 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"carrot","count":1},{"do":"goto","target":{"x":-220,"y":60,"z":348}}],"say":"Billy, one carrot for you now. The other two are for Zack; I'm heading t
+- 08:15 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"carrot","count":2}],"say":"Zack, I'm at -221,60,348 with your two carrots. Billy got one.","reasoning":"Arrived near Zack's spot. Give him the last t
+- 08:16 act: {"actions":[{"do":"goto","target":{"x":-224,"y":60,"z":348}},{"do":"give","to":"ag_zack_01","item":"carrot","count":2}],"say":"Zack, coming to you now with the carrots.","reasoning":"Zack is at -225,5
+- 08:16 act: {"actions":[{"do":"goto","target":{"x":-237,"y":60,"z":344}}],"intent":{"goal":"reach_shaft_rim","program":"travel","arguments":{"target":{"x":-237,"y":60,"z":344}},"wake_on":["goal_completed","precon
+- 08:16 act: {"actions":[{"do":"goto","target":{"x":-231,"y":62,"z":346}},{"do":"goto","target":{"x":-236,"y":62,"z":345}}],"reasoning":"Travel intent stalled; step directly toward the shaft rim."}
+- 08:16 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-231,"y":60,"z":346}}],"reasoning":"Movement blocked by a neighbor. Unstick then retry the short walk."}
