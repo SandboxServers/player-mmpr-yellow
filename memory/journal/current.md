@@ -1236,3 +1236,37 @@
 - 17:33 act: {"actions":[{"do":"mine","block":"stone","count":2}],"intent":{"goal":"dig_way_out","program":"gather","arguments":{"block":"stone","count":2},"wake_on":["goal_completed","unexpected_damage","directly
 - 17:33 act: {"actions":[{"do":"goto","target":{"x":-262,"y":68,"z":352}}],"intent":{"goal":"reach_table_and_beds","program":"travel","arguments":{"x":-262,"y":68,"z":352},"wake_on":["goal_completed","unexpected_d
 - 17:34 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"intent":{"goal":"reach_bed","program":"travel","arguments":{"x":-263,"y":67,"z":353},"wake_on":["goal_completed","unexpected_damage","dir
+- 17:34 act: {"say":"Tommy, I'm back at the beds. Where is the farm path? I have no food yet and need to find some.","intent":{"goal":"ask_tommy_farm","program":"wait","arguments":{},"wake_on":["directly_addressed
+- 17:35 act: {"actions":[{"do":"goto","target":{"x":-251,"y":67,"z":353}}],"say":"Thanks Tommy. I'll go east to the water and try a dirt bridge across it."}
+- 17:35 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-251,"y":67,"z":353}},{"do":"place","block":"dirt","at":{"x":-250,"y":67,"z":353}}]}
+- 17:35 act: {"actions":[{"do":"goto","target":{"x":-251,"y":67,"z":353}},{"do":"place","block":"cobblestone","at":{"x":-250,"y":67,"z":353}}]}
+- 17:35 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}]}
+- 17:35 act: {"intent":{"goal":"go_north_around_water","program":"travel","arguments":{"x":-250,"y":67,"z":345},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":120
+- 17:37 act: {"actions":[{"do":"goto","target":{"x":-250,"y":67,"z":345}}]}
+- 17:38 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}]}
+- 17:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 17:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 17:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Tommy, I have no food yet. Do you know where any is? I can give you my dirt."}
+- 17:40 act: {"actions":[{"do":"sleep"}]}
+- 17:40 act: {"actions":[],"say":"Tommy, I have no wheat yet, only dirt and cobblestone. I will look for food at first light."}
+- 17:49 act: {"actions":[{"do":"goto","target":{"x":-251,"y":67,"z":345}}],"say":"Morning. I still need food. I am heading to the north side of the water to look for the farm."}
+- 17:50 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":330}}],"say":"I am going north to look for animals or a farm, since I have no food."}
+- 17:50 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":310}}]}
+- 17:53 act: {"actions":[{"do":"goto","target":{"x":-285,"y":68,"z":315}}],"say":"Trini here, hungry, hunger 17. Going west to look for wheat or animals. Tell me if you see any food.","intent":{"goal":"search_food
+- 17:53 act: {"actions":[{"do":"goto","target":{"x":-277,"y":69,"z":311}}],"say":"A villager is near. Villagers may trade food, so I'm going to see if one has bread or carrots."}
+- 17:54 act: {"say":"Villager, do you have any bread, wheat or carrots? I'm very hungry and can trade or help."}
+- 17:55 act: {"actions":[{"do":"goto","target":{"x":-268,"y":68,"z":322}}]}
+- 17:55 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":335}}]}
+- 17:55 act: {"actions":[{"do":"goto","target":{"x":-278,"y":66,"z":345}}],"say":"Billy, I'm heading south-west toward unexplored ground to look for animals. Come if you can."}
+- 17:55 act: {"actions":[{"do":"goto","target":{"x":-295,"y":66,"z":352}}]}
+- 17:56 act: {"actions":[{"do":"goto","target":{"x":-302,"y":67,"z":356}}]}
+- 17:56 act: {"actions":[{"do":"goto","target":{"x":-310,"y":67,"z":345}}]}
+- 17:56 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
+- 17:56 act: {"actions":[{"do":"unstick"}]}
+- 17:57 act: {"actions":[{"do":"goto","target":{"x":-290,"y":68,"z":351}}],"intent":{"goal":"reach_dry_land","program":"travel","arguments":{"target":{"x":-290,"y":68,"z":351}},"wake_on":["goal_completed","unexpec
+- 17:57 act: {"actions":[{"do":"goto","target":{"x":-292,"y":68,"z":351}}],"say":"Zack, I am out of the water on stone now, west of the lake. No food seen yet. I will tell you if I see animals."}
+- 17:57 act: {"actions":[],"say":"Billy, Zack, thank you. I am on the grass at -305,60,349, out of the water. I will wait here for you."}
+- 17:58 act: {"actions":[{"do":"goto","target":{"x":-263,"y":68,"z":352}}],"say":"Tommy, I am hungry, hunger 17, and I have no food. I am walking to your table now. Please give me bread if you can. Kimberly, Billy
+- 17:58 act: {"actions":[],"say":"I am at the beds, -263,67,353, next to the table. Tommy, I am the hungriest and can reach you here. I have 1 cobblestone to give back if needed."}
+- 17:58 act: {"actions":[],"say":"Tommy, Billy, I will wait at the beds by the -261 table for Billy's wheat. If you craft bread, bring it here, or I will come to -202,58,351. Thank you."}
+- 17:59 act: {"actions":[],"say":"Billy, Tommy, Zack: I will stay here on my bed for the night. I still have no food, hunger 16. If bread comes, please bring it to the beds at -263,67,353."}
