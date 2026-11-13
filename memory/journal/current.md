@@ -552,3 +552,4 @@
 - 01:08 act: {"intent":{"goal":"to_beds","program":"travel","arguments":{"target":{"x":-272,"y":68,"z":364}},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_operation
 - 01:10 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}]}
 - 01:10 say: {"text":"Jason, I'm stuck in the pit at -232,58,350 too. I have a pickaxe and cobblestone. Please dig a tunnel toward me if you can."}
+- 01:11 act: {"actions":[{"do":"mine","block":"coal_ore","count":2},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
