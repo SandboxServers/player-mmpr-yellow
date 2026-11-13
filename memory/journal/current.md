@@ -1488,3 +1488,9 @@
 - 21:37 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":320}},"wake_on":["goal_completed","un
 - 21:37 say: {"text":"Billy, I can't see you from here. I'll bring your white wool in the morning. Goodnight."}
 - 21:37 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}]}
+- 21:37 act: {"intent":{"goal":"bring_wool_to_billy","program":"travel","arguments":{"target":{"x":-289,"y":67,"z":340}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_t
+- 21:38 say: {"text":"Billy, I'm at -289, 67, 339 with your white wool. Walk toward me and I'll hand it over when you're in sight."}
+- 21:38 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"white_wool","count":1}]}
+- 21:38 act: {"intent":{"goal":"get_clear_of_villager","program":"travel","arguments":{"target":{"x":-276,"y":67,"z":322}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world
+- 21:38 say: {"text":"Billy, I'm by the white beds at -272, 67, 319. A villager came at me, so I backed off. Come here and I'll give you the wool."}
+- 21:39 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_w
