@@ -768,3 +768,5 @@
 - 07:39 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"
 - 07:39 act: {"intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limits
 - 07:39 act: {"actions":[{"do":"goto","target":{"x":-221,"y":61,"z":347}},{"do":"give","to":"ag_zack_01","item":"carrot","count":2}],"say":"Zack, I'm bringing you 2 carrots. Eat them and hold on.","reasoning":"Zac
+- 07:40 act: {"actions":[{"do":"goto","target":{"x":-220,"y":60,"z":348}},{"do":"give","to":"ag_zack_01","item":"carrot","count":3}],"say":"Zack, bringing you my carrots now.","intent":{"goal":"bring_carrots_to_za
+- 07:40 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-220,"y":60,"z":348}},{"do":"give","to":"ag_zack_01","item":"carrot","count":3}],"say":"Billy, I'm taking the carrots to Zack first; he's lower.
