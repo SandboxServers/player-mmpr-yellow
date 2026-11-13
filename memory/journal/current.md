@@ -1445,3 +1445,10 @@
 - 21:11 act: {"actions":[{"do":"goto","target":{"x":-382,"y":81,"z":336}},{"do":"attack","target":"pig"}],"say":"Pig spotted at -384,81,336. Going in to attack."}
 - 21:11 act: {"actions":[{"do":"eat"}]}
 - 21:11 say: {"text":"Trini here: the worker ate a porkchop near -381, 76, 334, so hunger is up to 20 and health is rising. Billy is going after the next pig at -361, 73, 327. Thank you, Jason, for the pig tip."}
+- 21:12 act: {"actions":[{"do":"goto","target":{"x":-362,"y":73,"z":327}},{"do":"attack","target":"pig"}],"say":"Trini here. Hunger 19, going for the pig at -361,73,327. Sharing any meat.","reasoning":"Hunger is 1
+- 21:12 act: {"actions":[{"do":"eat"}],"say":"I got some rotten flesh from the fight. Eating it; it is food, if not good food. Tommy, Kimberly, I'll share meat if I get any.","reasoning":"Hunger is 18 and only rot
+- 21:13 act: {"actions":[{"do":"eat"}],"reasoning":"Eat the rotten flesh now that the earlier action has ended. Pig is closing in; attack it next."}
+- 21:13 act: {"actions":[{"do":"goto","target":{"x":-392,"y":123,"z":372}},{"do":"attack","target":"pig"}],"say":"Billy, I'm hungry, hunger 18. Could you spare a porkchop? I'm going for this pig at -392,124,373 to
+- 21:13 act: {"actions":[{"do":"eat"}],"say":"Billy, you're right beside me. Could I have one porkchop? Hunger is 18 and I have nothing else.","reasoning":"Billy is adjacent holding porkchop. Asking him directly i
+- 21:13 act: {"actions":[{"do":"eat"}],"say":"Thank you, Billy and Zack. I have porkchops now and I'm eating one.","reasoning":"Billy gave porkchops; I have 3 in pack. Eat to restore hunger."}
+- 21:13 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["directly_addressed","p
