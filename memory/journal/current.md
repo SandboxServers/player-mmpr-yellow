@@ -1385,3 +1385,7 @@
 - 20:18 act: {"say":"I have a wooden pickaxe. Zack, I'm coming to break the cobblestone.","actions":[{"do":"goto","target":{"x":-271,"y":68,"z":366}}],"reasoning":"Zack is boxed in with no food. I have a wooden pi
 - 20:18 act: {"say":"Zack, I'm right next to you with a pickaxe. Hold still and I'll open the stone.","actions":[{"do":"mine","block":"cobblestone","count":4}],"reasoning":"I am close to Zack now. Mining the neare
 - 20:19 act: {"say":"I got one cobblestone off. Zack, if you're still boxed in, tell me which side and I'll break it. I'm heading to the beds for the night.","actions":[{"do":"goto","target":{"x":-271,"y":68,"z":3
+- 20:19 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":365}}],"say":"Zack, I'm here at the beds. I have no food either, so we all need the cow and the sheep tomorrow.","intent":{"goal":"rest_at_beds_f
+- 20:19 act: {"actions":[{"do":"mine","block":"cobblestone","count":2}],"say":"Zack, I'm breaking the cobblestone around you with my wooden pickaxe now. Stand still.","intent":{"goal":"free_zack_from_stone","progr
+- 20:20 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}],"say":"It's night and I'm going to the yellow bed. Zack, I couldn't find stone next to you to mine, so tell me where you ar
+- 20:20 act: {"actions":[{"do":"sleep"}]}
