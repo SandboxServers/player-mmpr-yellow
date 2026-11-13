@@ -469,3 +469,4 @@
 - 00:17 act: {"actions":[{"do":"note","text":"Day104 dusk: stuck in pit at -224,59,348; mine stone not possible, sleep busy. Retry later."}]}
 - 00:18 act: {"actions":[{"do":"unstick"},{"do":"sleep"}]}
 - 00:18 act: {"actions":[{"do":"note","text":"Night day104. Waiting for dawn, then northeast to birch grove."},{"do":"wait","seconds":120}]}
+- 00:20 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
