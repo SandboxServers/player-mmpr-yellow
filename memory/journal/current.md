@@ -990,3 +990,15 @@
 - 11:27 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":8}],"say":"Kimberly, coming to you now with the cobblestone.","reasoning":"Kimberly 
 - 11:29 act: {"intent":{"goal":"search_food","program":"travel","arguments":{"target":{"x":-245,"y":65,"z":349},"radius":30,"look_for":["wheat","carrots","potatoes","beetroot","cow","pig","chicken","sheep"],"avoid
 - 11:29 say: {"text":"Trini here, at the beds with 8 cobblestone. Kimberly, I'm sending someone to search the grass for food. If you come within 2 blocks, I'll drop the cobblestone."}
+- 11:29 act: {"intent":{"goal":"search_food","program":"travel","arguments":{"target":{"x":-245,"y":65,"z":349}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operati
+- 11:29 act: {"actions":[{"do":"goto","target":{"x":-232,"y":65,"z":352}}],"intent":{"goal":"search_food","program":"travel","arguments":{"target":{"x":-232,"y":65,"z":352}},"wake_on":["goal_completed","unexpected
+- 11:31 act: {"intent":{"goal":"search_food","program":"travel","arguments":{"target":{"x":-222,"y":65,"z":345}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operati
+- 11:35 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"x":-244,"y":65,"z":348},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"max_
+- 11:39 act: {"actions":[{"do":"goto","target":{"x":-244,"y":65,"z":348}}]}
+- 11:39 act: {"actions":[{"do":"goto","target":{"x":-244,"y":65,"z":348}}]}
+- 11:39 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-244,"y":65,"z":348}}]}
+- 11:40 act: {"actions":[{"do":"goto","target":{"x":-243,"y":63,"z":346}}],"say":"Trini heading to Kimberly with 8 cobblestone for her walls."}
+- 11:40 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-232,"y":62,"z":347}},{"do":"goto","target":{"x":-238,"y":63,"z":347}}]}
+- 11:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-243,"y":63,"z":346}}],"say":"Morning, Trini here at -225,61,348. Heading to Kimberly with cobblestone."}
+- 11:48 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-243,"y":63,"z":346}}]}
+- 11:48 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-231,"y":62,"z":347}},{"do":"goto","target":{"x":-238,"y":63,"z":346}}]}
