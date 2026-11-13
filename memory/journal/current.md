@@ -1296,3 +1296,5 @@
 - 18:14 act: {"say":"Trini here. I have no food either, only one cobblestone. I'm going to the beds to wait for Zack, and I'll look for food at first light.","intent":{"goal":"reach_beds","program":"travel","argum
 - 18:14 act: {"say":"I'm at the beds now. Jason, wall yourself in and come back to the beds if you can. Keep your health up.","intent":{"goal":"wait_at_beds_for_night","program":"rest","arguments":{},"wake_on":["d
 - 18:18 act: {"say":"Trini here, with no food and no wheat, only one cobblestone. Zack, I'll help plant and tend the seeds. Let's all look for wheat or animals at first light.","intent":{"goal":"wait_for_night_at_
+- 18:19 act: {"say":"Dusk is here and I have no food yet. Hunger is 16. At first light I will look for animals or wheat, and share any find at the beds.","intent":{"goal":"rest_until_morning","program":"rest","arg
+- 18:19 act: {"actions":[{"do":"sleep"}]}
