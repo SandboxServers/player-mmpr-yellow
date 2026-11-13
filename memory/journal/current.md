@@ -888,3 +888,12 @@
 - 09:19 act: {"actions":[{"do":"sleep"}]}
 - 09:20 act: {"actions":[{"do":"eat"}],"say":"Trini here at the beds. Eating a porkchop now since my hunger is down. Kimberly, I'll keep the other for whoever needs it.","reasoning":"Hunger 17 is low enough to eat
 - 09:20 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"reasoning":"Night, at the beds. Go to the bed and sleep through the night."}
+- 09:27 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":30
+- 09:28 act: {"actions":[{"do":"goto","target":{"x":-239,"y":69,"z":343}}],"say":"Trini here, coming to the beds with cobblestone and dirt for Jason's shaft. Kimberly, tell me where to drop it.","reasoning":"Birch
+- 09:28 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":11}],"say":"Kimberly, here are 11 cobblestone for Jason's shaft. Drop it down to him.","reasoning":"Jason is boxed in and Ki
+- 09:29 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"porkchop","count":1}],"say":"Kimberly, here is my porkchop. Eat it and stay safe out of the water.","reasoning":"Kimberly is hungry and stuck nea
+- 09:34 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":10}],"say":"Kimberly, 10 dirt for you. Stay away from the pool where the iron golem is.","reasoning":"Kimberly asked for dirt and i
+- 09:34 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"porkchop","count":1}],"say":"Here's the porkchop, Kimberly.","reasoning":"Kimberly's pack is empty and she is hungry. My inventory still holds on
+- 09:39 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"reasoning":"Night at the beds. Go to the bed and sleep through the night."}
+- 09:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Beds are adjacent to me. Move onto a bed and sleep."}
+- 09:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Dawn now. Try the bed; if sleep fails, I stay awake and find a new errand."}
