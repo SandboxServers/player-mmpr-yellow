@@ -666,3 +666,4 @@
 - 04:27 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"}],"say":"Morning, day 117. Still in the pit at -236,52,349, health 20. Try
 - 04:29 act: {"actions":[{"do":"goto","target":{"x":-235,"y":52,"z":348}},{"do":"place","block":"cobblestone","at":"feet"}],"say":"Billy, Kimberly thinks we may share a block, which blocks placing. I'm stepping to
 - 04:34 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":10},{"do":"give","to":"ag_billy_01","item":"dirt","count":8}],"say":"Billy, sent you 10 cobblestone and 8 dirt. Dig up and shou
+- 04:46 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-235,"y":53,"z":348}},{"do":"unstick"}],"say":"Morning, day 118. Still in the pit at -235,52,348, health 20. Trying a block placed above me."}
