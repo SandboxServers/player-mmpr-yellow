@@ -474,3 +474,4 @@
 - 00:21 act: {"actions":[{"do":"unstick"},{"do":"build","blueprint":{"name":"s","blocks":[{"block":"dirt","dx":1,"dy":0,"dz":0},{"block":"dirt","dx":-1,"dy":0,"dz":0},{"block":"dirt","dx":0,"dy":0,"dz":1},{"block"
 - 00:21 act: {"intent":{"goal":"shelter_again","program":"build","arguments":{"blueprint":"shelter","block":"birch_planks"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_
 - 00:22 act: {"actions":[{"do":"note","text":"Day104 night: build/sleep blocked at (-228,59,348); shelter not building. Waiting for morning, then go to birch grove NE."},{"do":"wait","seconds":120}]}
+- 00:23 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":12},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4800,"max_block_operat
