@@ -1332,3 +1332,25 @@
 - 18:44 act: {"say":"Trini here, at the yellow beds with no food, hunger 17. Kimberly, I'd be grateful for a share of the beef after the others. I'm sorry I lost mine in the fight.","intent":{"goal":"wait_for_morn
 - 18:44 act: {"say":"Kimberly, Trini coming to you now for my share of the beef. I'll stand next to you and pick it up.","intent":{"goal":"reach_kimberly_for_beef","program":"travel","arguments":{"target":{"x":-26
 - 18:45 act: {"say":"Kimberly, Trini here, standing next to you. I'm at hunger 17 with no food, so I'll take a share whenever you can give it."}
+- 18:50 act: {"say":"Tommy, I'm Trini. I have no food and I'm looking for a cow, pig, or wheat. Have you seen any?","intent":{"goal":"find_food_hunt","program":"travel","arguments":{"x":-260,"y":66,"z":330},"wake_
+- 18:50 act: {"say":"Tommy, I'll come along and look for cows or wheat with you. Lead the way and I'll follow."}
+- 18:53 act: {"say":"Tommy, I'm sorry about the skeleton. I'm staying out of the west dark. Kimberly, I'm Trini, hungry, no food. Could I have a share of the beef when I'm beside you?","intent":{"goal":"reach_beds
+- 18:57 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, Trini here, hungry with no food. Could I stand near you for a beef share?"}
+- 18:57 act: {"say":"I can't see Kimberly from here, so I'm staying put. If anyone sees cows or wheat near here, please tell me. I'll stand still until someone calls me."}
+- 18:57 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Kimberly, I'm Trini, heading toward Billy at the yellow beds. I'll come into your sight at the water."}
+- 18:57 act: {"say":"Billy, Trini here beside you. I'm hungry too, no food. Kimberly, I'm in your sight range now, could I have a beef share?"}
+- 18:58 act: {"say":"Kimberly, an iron golem is near you, so I'll stay here with Billy and not come north into it. Please bring the beef here when it's safe."}
+- 18:59 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Kimberly, Trini here, standing by Billy at the beds, in your sight. I'll wait for beef at first light. Hunger 17."}
+- 19:07 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Kimberly, Trini here by the yellow beds, in your sight. One beef, please. Hunger 17."}
+- 19:07 act: {"actions":[],"say":"Kimberly, Trini is here beside Billy, in your sight. If there's a beef left after the others, I'd be grateful. Hunger 17."}
+- 19:12 act: {"actions":[],"say":"Kimberly, Zack is hungrier than me, so give the last beef to Zack. I'll look for food myself. Thank you."}
+- 19:16 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, Trini coming to you now. Hunger 17, I'll stand still once I'm near you."}
+- 19:16 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":363}}],"say":"Kimberly, Trini walking to the beds at the south side. I'll be in your sight soon. Hunger 17."}
+- 19:16 act: {"actions":[],"say":"Kimberly, Trini here at the yellow bed, in your sight. Hunger 17. If Zack is served, one beef for me please."}
+- 19:20 act: {"actions":[{"do":"eat"}],"say":"Thank you, Kimberly. Trini received it, I'm eating now."}
+- 19:20 act: {"actions":[],"say":"Kimberly, I have no beef yet. Trini is standing right beside you, in sight. Please hand me one beef."}
+- 19:29 act: {"actions":[],"say":"Kimberly, Zack first, that's right. I'll wait for the next beef, and if none is left I'll go looking for the cow Jason spotted."}
+- 19:32 act: {"actions":[{"do":"eat"}],"say":"Thank you, Kimberly. Eating now."}
+- 19:32 act: {"actions":[{"do":"goto","target":{"x":-256,"y":67,"z":352}}],"say":"Tommy, I'm fed now, hunger 20. I'm heading to the old farm at -256, 67, 352 to look for a cow. If I see one I'll say where.","inten
+- 19:32 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":362}}],"say":"No cow at the old farm. There's an iron golem to the northeast, so I'm heading back south-west to the beds, away from it."}
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}],"say":"Night at the beds. I'm going to sleep in the yellow bed here, fed at 20."}
