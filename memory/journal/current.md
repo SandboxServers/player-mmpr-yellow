@@ -687,3 +687,6 @@
 - 06:03 act: {"say":"Trini here. Thanks Billy. I'm trying the build program with a shelter blueprint in sand, since I carry 28 of it.","intent":{"goal":"shelter_in_pit","program":"build","arguments":{"blueprint":"
 - 06:03 act: {"intent":{"goal":"shelter_in_pit_retry","program":"build","arguments":{"blueprint":"shelter","block":"sand"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world
 - 06:07 act: {"say":"Trini, dawn, still in the pit. Trying unstick, then the shelter build with my 17 sand.","actions":[{"do":"unstick"}],"intent":{"goal":"shelter_at_dawn","program":"build","arguments":{"blueprin
+- 06:11 act: {"intent":{"goal":"climb_out_sand","program":"build","arguments":{"blueprint":"pillar","block":"sand"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_op
+- 06:12 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Pillar produced nothing. Try unstick then placing one cobblestone at feet to see if anything changes."}
+- 06:13 say: {"text":"Trini, still in the pit at -235,52,348. Pillar and feet placements do nothing for me. Billy, how did you get out?"}
