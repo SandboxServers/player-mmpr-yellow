@@ -750,3 +750,6 @@
 - 07:14 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-229,"y":57,"z":346}}],"say":"Zack, I'm trying to drop dirt onto your head at -229,57,346 from here.","reasoning":"Zack needs a block under him. Test
 - 07:14 act: {"actions":[],"say":"Zack, my drop failed; I'm too far above you to place at your feet. I can't reach you from this spot. Could you mine a step toward me so I can get within reach?","reasoning":"Remot
 - 07:17 act: {"actions":[{"do":"goto","target":{"x":-230,"y":62,"z":349}}],"say":"Zack, I'm moving toward you. I'll try to drop blocks at your feet.","reasoning":"Zack is about 5 blocks away on the shaft. Get with
+- 07:19 act: {"actions":[],"say":"Kimberly, Zack: I can't reach his feet from up here at -230,62,346. If Zack can get to y60 or closer to the rim, I'll drop dirt straight down to him.","reasoning":"Kimberly confir
+- 07:20 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-230,"y":59,"z":351}}],"say":"Zack, dropping dirt at -230,59,351 now.","reasoning":"Zack is 4 below me; one try at the exact spot he asked for."}
+- 07:20 act: {"actions":[],"say":"Zack, the drop timed out. I can't place that far from here. I'm stopping remote drops. You'll need to climb toward the rim where I can reach, or Kimberly can reach you once you're
