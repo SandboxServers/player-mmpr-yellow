@@ -779,3 +779,9 @@
 - 07:58 act: {"intent":{"goal":"climb_out_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_ope
 - 07:58 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":2},{"do":"goto","target":{"x":-230,"y":64,"z":346}},{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":2},{"d
 - 07:59 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":2},{"do":"goto","target":{"x":-230,"y":64,"z":346}}],"say":"Trini still in the pit at -230,62,346, 
+- 08:08 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-230,"y":63,"z":346}},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-230,"y":64,"z":346}},{"do":
+- 08:08 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-231,"y":63,"z":346}},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-231,"y":64
+- 08:08 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-232,"y":63,"z":346}},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-232,"y":64,"z":346}}],"say"
+- 08:09 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":2},{"do":"goto","target":{"x":-231,"y":64,"z":346}},{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":2},{"d
+- 08:09 act: {"actions":[{"do":"goto","target":{"x":-221,"y":60,"z":348}}],"say":"I'm out of the pit, Zack. Coming with the carrots.","reasoning":"Out of the pit at y65. Walk to Zack with carrots."}
+- 08:10 act: {"intent":{"goal":"carry_carrots_to_zack","program":"travel","arguments":{"x":-221,"y":60,"z":348},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":240
