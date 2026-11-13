@@ -482,3 +482,6 @@
 - 00:30 act: {"actions":[{"do":"mine","block":"dirt","count":4},{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-212,"y":64,"z":342}}],"reasoning":"Previous mining silently did nothing. Try dirt
 - 00:31 act: {"actions":[{"do":"goto","target":{"x":-210,"y":64,"z":338}}],"reasoning":"Out of the pit now. Head northeast toward the birch grove.","intent":{"goal":"reach_birch_grove","program":"travel","argument
 - 00:31 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":3},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-212,"y":62,"z":342}}],"reasoning":"Still box
+- 00:33 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-222,"y":59,"z":347}}]}
+- 00:34 act: {"intent":{"goal":"reach_birch","program":"travel","arguments":{"x":-215,"y":62,"z":340},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
+- 00:34 act: {"actions":[{"do":"goto","target":{"x":-215,"y":62,"z":340}}]}
