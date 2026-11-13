@@ -648,3 +648,8 @@
 - 03:28 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":10},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Kimberly, sending you 10 dirt. I'm out and heading to the beds.","reas
 - 03:28 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Previous attempts did not move me. Trying unstick then the walk again."}
 - 03:29 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Billy, I'm climbing out toward the beds. Tell me if you need anything.","reasoning":"Still at y 52, goto was blocked. Retrying the 
+- 03:31 act: {"intent":{"goal":"climb_out_pit","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_bl
+- 03:32 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":{"x":-236,"y":53,"z":347}},{"do":"mine","block":"stone","count":2}]}
+- 03:33 act: {"intent":{"goal":"climb_out_pit_2","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_
+- 03:34 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-236,"y":54,"z":348}}]}
+- 03:39 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-235,"y":53,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-237,"y":53,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-236,"
