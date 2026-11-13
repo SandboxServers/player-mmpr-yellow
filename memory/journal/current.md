@@ -670,3 +670,5 @@
 - 04:51 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"say":"Trini here, at -235,52,348, healthy. Trying to place cobblestone at my feet. Billy, I'm not sharing your block, so this should work
 - 04:51 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":8}],"say":"Billy, sending you 8 cobblestone to stack up with. I'm still at -235,52,348, placing has not worked for me yet.","re
 - 04:51 act: {"actions":[{"do":"note","text":"Day 118 morning. At -235,52,348 on stone, not trapped. Placing at feet accepted but no change. Gave Billy 8 cobblestone to climb out. Keeping 12 cobblestone."}],"inten
+- 04:59 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Night is here; retry the shelter block now that Billy has moved off my area."}
+- 04:59 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-236,"y":52,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-234,"y":52,"z":348}}],"reasoning":"Feet placement is blocked. Try the cel
