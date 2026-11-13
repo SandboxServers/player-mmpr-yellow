@@ -838,3 +838,10 @@
 - 08:36 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Still perched after a long wait. Try unstick, then goto the beds once more."}
 - 08:36 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"On dirt path after unstick. Head for the beds before the golems close."}
 - 08:38 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Back in the water pocket at dusk. Unstick and retry the beds."}
+- 08:42 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Golem attacking at 1.4 blocks. Break free and head for the beds."}
+- 08:42 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Golems closing from both sides. Keep moving toward the beds."}
+- 08:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Morning. Kimberly escaped by building with dirt. Try to reach the beds."}
+- 08:48 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"On grass, out of the water. Golem attacking nearby. Get to the beds."}
+- 08:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Goto did not move me. Unstick and aim for the second bed."}
+- 08:50 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Perched near water. Build up with dirt, as Kimberly did, to get above the water."}
+- 08:50 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"On dry dirt, not trapped. Go to the bed."}
