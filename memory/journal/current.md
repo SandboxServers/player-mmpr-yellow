@@ -629,3 +629,4 @@
 - 02:31 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":10}],"reasoning":"Kimberly is still stuck with no side step. Send her 10 dirt to climb out."}
 - 02:31 act: {"intent":{"goal":"climb_out_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_opera
 - 02:31 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}],"reasoning":"The pillar keeps failing. Mining nearby stone opens a side route out of the pit."}
+- 02:40 act: {"actions":[{"do":"place","block":"torch","at":"feet"}],"reasoning":"Night is here and I am not enclosed. A torch gives light against mobs while I wait for an exit."}
