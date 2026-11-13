@@ -1373,3 +1373,15 @@
 - 19:52 act: {"say":"Zack, my actions are stuck on busy. Are you out of the planks now? If so, Kimberly has the beef, come to her."}
 - 19:56 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":375}}],"say":"I have no food either. I'm going to the sheep spot at -257, 66, 375 to look. Zack, I'll tell you if I see one.","intent":{"goal":"r
 - 19:56 act: {"actions":[],"say":"I'm at the sheep spot, -257, 66, 374. No sheep in sight, and the light is failing. I'll keep watch here for a while."}
+- 20:04 note: Woke at sheep spot (-257,66,374), night, no food seen. Answered Jason honestly, set intent to gather 8 oak logs (wake on goal done / being addressed / hurt).
+- 20:10 note: Gather intent failed (interrupted), I drifted to -260,69,389. Hunger full, no food. Set rest-until-light intent; will look for animals at dawn.
+- Dawn day 164: night passed safely, no food found. Tommy says farm near -251,68,353 (wheat, carrots, beetroot). Set travel there.
+- Midday day 164: farm at -251,68,353 is empty (Tommy's crops gone). Cow near -251,68,444 was hit by a blast; Zack died there. I still have no food; offered my planks/logs/leather to Zack and Billy.
+- 20:04 act: {"say":"Jason, I've seen no sheep, pigs, cows or food here, only logs and grass. I have no food myself, but my hunger is full for now.","intent":{"goal":"gather_oak_log","program":"gather","arguments"
+- 20:04 act: {"say":"Zack, Jason: no sheep or food here either. I'm going to wait out the night on the grass and look for animals at first light.","intent":{"goal":"rest_until_light","program":"rest","arguments":{
+- 20:09 act: {"say":"Morning. Thanks Tommy, I'm heading to the farm near -251, 68, 353 to look for wheat, carrots or beetroot. Zack, I'll follow your lead.","intent":{"goal":"reach_farm","program":"travel","argume
+- 20:13 act: {"say":"Zack, Billy: I'm sorry about the blast. I have no food, only 3 birch planks, 2 birch logs, leather and sticks. Tell me if any of those help, and I'll bring them."}
+- 20:17 act: {"say":"It's getting toward night. I'm going to the yellow beds at -273, 68, 365 to sleep. Billy and Jason, I'll meet you there.","intent":{"goal":"reach_beds","program":"travel","arguments":{"x":-273
+- 20:18 act: {"say":"I have a wooden pickaxe. Zack, I'm coming to break the cobblestone.","actions":[{"do":"goto","target":{"x":-271,"y":68,"z":366}}],"reasoning":"Zack is boxed in with no food. I have a wooden pi
+- 20:18 act: {"say":"Zack, I'm right next to you with a pickaxe. Hold still and I'll open the stone.","actions":[{"do":"mine","block":"cobblestone","count":4}],"reasoning":"I am close to Zack now. Mining the neare
+- 20:19 act: {"say":"I got one cobblestone off. Zack, if you're still boxed in, tell me which side and I'll break it. I'm heading to the beds for the night.","actions":[{"do":"goto","target":{"x":-271,"y":68,"z":3
