@@ -477,3 +477,8 @@
 - 00:23 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":12},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4800,"max_block_operat
 - 00:27 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":12},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
 - 00:28 act: {"intent":{"goal":"follow_tommy","program":"follow","arguments":{"target":"ag_tommy_01"},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":1200,"max_block_operations":32}}}
+- 00:29 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2}],"reasoning":"Look says not enclosed. Free myself first, then head for birch.","intent":{"goal":"gather_birch_log","program":"gathe
+- 00:29 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"},{"do":"goto","target":{"x":-214,"y":62,"z":344}}],"reasoning":"Still boxed in stone. Mine out, then try northeast toward birch."}
+- 00:30 act: {"actions":[{"do":"mine","block":"dirt","count":4},{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-212,"y":64,"z":342}}],"reasoning":"Previous mining silently did nothing. Try dirt
+- 00:31 act: {"actions":[{"do":"goto","target":{"x":-210,"y":64,"z":338}}],"reasoning":"Out of the pit now. Head northeast toward the birch grove.","intent":{"goal":"reach_birch_grove","program":"travel","argument
+- 00:31 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":3},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-212,"y":62,"z":342}}],"reasoning":"Still box
