@@ -1084,3 +1084,4 @@
 - 14:00 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"intent":{"goal":"stand_by_bed_for_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":344}},"wake_on":["goal_completed",
 - 14:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"say":"Trini here, by the beds at -263,67,352. I have 10 cobblestone and 5 dirt for whoever is boxed in. Tell me where to put them.","inte
 - 14:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Night, and I have a bed right here. I'm going to sleep. I have no food to spare, sorry Zack. Tommy, the wheat is you
