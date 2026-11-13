@@ -694,3 +694,10 @@
 - 06:14 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-235,"y":53,"z":347}},{"do":"place","block":"dirt","at":{"x":-235,"y":53,"z":349}},{"do":"unstick"}],"reasoning":"Feet placement is silent. Try expli
 - 06:17 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":55,"z":346}}],"reasoning":"Zack reached -230,55,346 using Billy's method. Try that route; dusk is coming."}
 - 06:23 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Kimberly says dirt at feet plus unstick raises one level
+- 06:28 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning
+- 06:29 say: {"text":"Trini, still in the pit at -235,52,348, day 123. Dirt at feet does nothing for me. Kimberly, if you have a spare moment, could you come to the pit edge and tell me what block to mine?"}
+- 06:31 say: {"text":"Trini, still at -235,52,348 in the pit. Zack, if you can reach the edge, please drop some cobblestone or dirt near -235,53,347. I will try to climb once they're there."}
+- 06:35 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-235,"y":52,"z":347}}],"reasoning":"Water is south and west. Mine stone and move north only, to test whether the pit wall
+- 06:35 act: {"intent":{"goal":"climb_out_cobble","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_wo
+- 06:35 act: {"actions":[{"do":"goto","target":{"x":-235,"y":52,"z":347}},{"do":"goto","target":{"x":-235,"y":53,"z":346}},{"do":"goto","target":{"x":-234,"y":54,"z":345}}],"reasoning":"Walk north in steps, away f
+- 06:35 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-235,"y":52,"z":347}},{"do":"goto","target":{"x":-235,"y":53,"z":347}}],"reasoning":"Mine stone to the north then step in
