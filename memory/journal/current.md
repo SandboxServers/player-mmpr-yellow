@@ -1027,3 +1027,4 @@
 - 12:15 act: {"actions":[{"do":"goto","target":{"x":-242,"y":64,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-243,"y":63,"z":346}}],"reasoning":"The place failed, probably out of reach. Move a little cl
 - 12:16 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-246,"y":63,"z":348}}],"say":"Tommy, I am putting dirt at your pit now. Kimberly, my last cobblestone is in hand.","reasoning":"The cobblestone spot 
 - 12:19 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-244,"y":64,"z":346}},{"do":"place","block":"dirt","at":{"x":-245,"y":64,"z":345}},{"do":"place","block":"dirt","at":{"x":-245,"y":64,"z":347}}],"say
+- 12:27 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-243,"y":63,"z":345}}],"say":"Dawn, day 141. Kimberly, I am dropping my last cobblestone near your pit. Tommy, I am still here with dirt if yo
