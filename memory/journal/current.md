@@ -1020,3 +1020,9 @@
 - 12:07 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-193,"y":70,"z":352}}],"reasoning":"Goto failed at 0 blocks. There's a dropped item just east, maybe food. Unstick and go to it."}
 - 12:07 act: {"actions":[{"do":"goto","target":{"x":-180,"y":70,"z":350}}],"reasoning":"Picked up an oak plank, no food yet. Continue east over the grass to search for animals or crops."}
 - 12:07 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-186,"y":70,"z":346}}],"reasoning":"Trees block the path south. Try a different route northeast around them."}
+- 12:14 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":346}}],"say":"Archers are shooting to the northeast, so I'm moving west toward Kimberly's pit to bring her my cobblestone.","reasoning":"Archers 
+- 12:15 act: {"actions":[{"do":"goto","target":{"x":-242,"y":65,"z":346}},{"do":"place","block":"cobblestone","at":{"x":-244,"y":63,"z":346}}],"reasoning":"Kimberly is in the pit at -244,63,346, about 7 blocks awa
+- 12:15 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-244,"y":63,"z":346}}],"say":"Kimberly, are you there? I'm right above your pit with cobblestone. The sign says you were slain on day 134, so 
+- 12:15 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-243,"y":63,"z":346}}],"say":"Kimberly, I'm placing my last cobblestone next to your pit. Tommy, I'm out of cobblestone after this, but I have
+- 12:15 act: {"actions":[{"do":"goto","target":{"x":-242,"y":64,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-243,"y":63,"z":346}}],"reasoning":"The place failed, probably out of reach. Move a little cl
+- 12:16 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-246,"y":63,"z":348}}],"say":"Tommy, I am putting dirt at your pit now. Kimberly, my last cobblestone is in hand.","reasoning":"The cobblestone spot 
