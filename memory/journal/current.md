@@ -1104,3 +1104,9 @@
 - 14:26 act: {"actions":[{"do":"note","text":"Day 147 dawn: reached beds at -240,69,344. Billy and Kimberly here. I have no food; carry 10 cobblestone, 5 dirt."}],"say":"Billy, Kimberly, I'm here. I have no food, 
 - 14:27 act: {"actions":[],"say":"Zack, good that you're out. Nobody here has food yet. Jason has 2 wheat for Billy at first light. Let's find seeds or animals next.","reasoning":"Share what I know. Food is the sh
 - 14:40 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-241,"y":69,"z":344}},{"do":"place","block":"cobblestone","at":{"x":-239,"y":69,"z":344}},{"do":"place","block":"cobblestone","at":{"x":-240,"
+- 14:41 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"x":-263,"y":67,"z":352},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1200,"ma
+- 14:43 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"x":-263,"y":67,"z":352},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1200,"ma
+- 14:45 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}]}
+- 14:45 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
+- 14:45 act: {"actions":[{"do":"sleep"}]}
+- 14:46 act: {"say":"Morning, Billy. The yellow beds were a long walk and my sleep timed out. I have no food yet, so I'm looking for some next."}
