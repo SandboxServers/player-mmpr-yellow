@@ -1391,3 +1391,14 @@
 - 20:20 act: {"actions":[{"do":"sleep"}]}
 - 20:21 act: {"actions":[{"do":"sleep"}],"say":"Trini here. It's night, I'm by the yellow beds with hunger 20. Tomorrow I'll help find cows and sheep and go free Zack with my pickaxe."}
 - 20:21 act: {"say":"Zack is out, good. I have a pickaxe and no spare food; I'm full at 20 and will look for cows and sheep with Tommy and Jason at first light.","actions":[{"do":"sleep"}],"reasoning":"Night, beds
+- 20:22 act: {"say":"Tommy, it's night and I'm by the yellow beds. I'm going to sleep here. At first light I'll go with you for the cows and sheep.","actions":[{"do":"sleep"}]}
+- 20:23 act: {"say":"Tommy, I'm still at the yellow beds. I'll wait for real daylight, then come find you for the cows and sheep. Tell me where you settle.","intent":{"goal":"wait_for_daylight","program":"rest","a
+- 20:24 act: {"say":"Tommy, I'm waiting here at the yellow beds. Come on in when you can."}
+- 20:26 act: {"say":"Morning. I'm going to the cow near -252,68,447 now, with Kimberly and Tommy. Tommy, Kimberly, I'll look for you on the way.","intent":{"goal":"reach_cow_field","program":"travel","arguments":{
+- 20:26 act: {"intent":{"goal":"reach_cow_field","program":"travel","arguments":{"x":-252,"y":68,"z":440},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":3000,"max
+- 20:26 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":440}}]}
+- 20:27 act: {"say":"I'm at the cow field now but it's dusk again. Spider, skeleton and creeper are close. I'll keep low and wait for light. I have no food, but hunger is still 20."}
+- 20:28 act: {"say":"Trini here. I'm at (-276,69,379), no monsters in sight, health steady, no food. Kimberly, keep clear of the skeleton. Tommy, Billy, Zack: I'm holding here until the group is together, then we 
+- 20:29 act: {"say":"A villager is attacking me from the west, right next to me. Tommy, Zack, we go now toward the cow at -240,69,440. Stay close.","actions":[{"do":"attack","target":"villager"}]}
+- 20:29 act: {"say":"Billy, I'm hungry, hunger 16. I have 1 leather, 2 birch logs, 1 oak log and 3 birch planks. Could you spare a bread for them? I'll give what you want."}
+- 20:31 act: {"say":"Billy, I'm coming to your table at -292,69,283 for bread. I'll give my leather or a log for one. Thank you.","actions":[{"do":"goto","target":{"x":-292,"y":69,"z":283}}]}
