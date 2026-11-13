@@ -468,3 +468,4 @@
 - 00:17 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-220,"y":62,"z":348}}]}
 - 00:17 act: {"actions":[{"do":"note","text":"Day104 dusk: stuck in pit at -224,59,348; mine stone not possible, sleep busy. Retry later."}]}
 - 00:18 act: {"actions":[{"do":"unstick"},{"do":"sleep"}]}
+- 00:18 act: {"actions":[{"do":"note","text":"Night day104. Waiting for dawn, then northeast to birch grove."},{"do":"wait","seconds":120}]}
