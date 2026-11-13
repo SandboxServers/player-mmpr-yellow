@@ -1110,3 +1110,12 @@
 - 14:45 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
 - 14:45 act: {"actions":[{"do":"sleep"}]}
 - 14:46 act: {"say":"Morning, Billy. The yellow beds were a long walk and my sleep timed out. I have no food yet, so I'm looking for some next."}
+- 14:46 act: {"say":"Morning, Billy. No food in my pack either. I'll look for animals or seeds to the north-east and call out anything I find.","intent":{"goal":"find_food_animals","program":"travel","arguments":{
+- 14:47 act: {"say":"Morning, all. I have no food either. I'm heading out to look for animals now, and I'll call out what I find.","actions":[{"do":"goto","target":{"x":-240,"y":69,"z":330}}]}
+- 14:48 act: {"actions":[{"do":"goto","target":{"x":-240,"y":68,"z":322}}]}
+- 14:48 act: {"actions":[{"do":"goto","target":{"x":-240,"y":68,"z":308}}]}
+- 14:48 act: {"actions":[{"do":"goto","target":{"x":-240,"y":68,"z":294}}]}
+- 14:48 act: {"say":"Found a sheep about 22 blocks north, near x -235, z 274. Going for it. Zack, Tommy, Billy, Kimberly: it's there if you come.","actions":[{"do":"goto","target":{"x":-235,"y":67,"z":280}}]}
+- 14:48 act: {"say":"Tommy, the sheep is yours to take, you have the sword. I'm not hungry right now at 20, so the others should eat first. I'll stay back and keep watch.","actions":[]}
+- 14:49 act: {"say":"Billy, the sheep was at about -226, 68, 276, northeast of me. Tommy went to it with his sword, so ask him for a share. I have no food to give.","actions":[]}
+- 14:50 act: {"say":"Kimberly, Billy: I have no food and I don't know where the sheep went. Tommy took it north with his sword, so ask him. I'm not hungry, and I'll keep looking for more animals to the north.","ac
