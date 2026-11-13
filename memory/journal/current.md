@@ -701,3 +701,10 @@
 - 06:35 act: {"intent":{"goal":"climb_out_cobble","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_wo
 - 06:35 act: {"actions":[{"do":"goto","target":{"x":-235,"y":52,"z":347}},{"do":"goto","target":{"x":-235,"y":53,"z":346}},{"do":"goto","target":{"x":-234,"y":54,"z":345}}],"reasoning":"Walk north in steps, away f
 - 06:35 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-235,"y":52,"z":347}},{"do":"goto","target":{"x":-235,"y":53,"z":347}}],"reasoning":"Mine stone to the north then step in
+- 06:36 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"sa
+- 06:36 act: {"actions":[{"do":"note","text":"Place-at-feet plus unstick cycles did not move me or change my block count. Still at -235,52,348, not enclosed."}],"intent":{"goal":"await_rescue_in_pit","program":"re
+- 06:36 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-235,"y":53,"z":346}},{"do":"unstick"},{"do":"goto","target":{"x":-235,"y":54,"z":345}}],"say":"Billy, thanks. I'm trying your way: unstick, the
+- 06:36 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-235,"y":53,"z":346}},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"
+- 06:36 act: {"actions":[{"do":"goto","target":{"x":-235,"y":52,"z":347}},{"do":"goto","target":{"x":-235,"y":53,"z":346}}],"reasoning":"Previous unstick may have moved me back. Try goto north only."}
+- 06:37 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-235,"y":53,"z":347}},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"say":"Zack, thanks. Mining the 
+- 06:41 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-235,"y":53,"z":347}}],"reaso
