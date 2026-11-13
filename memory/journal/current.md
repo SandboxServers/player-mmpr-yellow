@@ -1470,3 +1470,21 @@
 - 21:31 act: {"intent":{"goal":"reach_pumpkin_patch","program":"travel","arguments":{"target":{"x":-363,"y":65,"z":323}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_t
 - 21:31 act: {"actions":[{"do":"mine","block":"pumpkin","count":4}],"say":"I'm at the pumpkin patch now, gathering a few for the others. Jason, I'll share what I get."}
 - 21:32 act: {"actions":[{"do":"goto","target":{"x":-366,"y":64,"z":320}},{"do":"mine","block":"pumpkin","count":2}],"intent":{"goal":"gather_pumpkins","program":"gather","arguments":{"block":"pumpkin","count":4},
+- 21:32 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"pumpkin","count":1}],"say":"Thanks Jason. Pumpkins are no good raw for me either, so I'll go for the pig to the north-west and come back with meat f
+- 21:33 act: {"actions":[{"do":"attack","target":"pig"}]}
+- 21:33 act: {"actions":[{"do":"goto","target":{"x":-384,"y":110,"z":376}}],"intent":{"goal":"find_sheep_for_meat","program":"travel","arguments":{"target":{"x":-384,"y":110,"z":376}},"wake_on":["goal_completed","
+- 21:33 act: {"actions":[{"do":"attack","target":"sheep"}],"say":"Looking for a sheep or pig for meat. I'll bring whatever I get to Jason."}
+- 21:33 act: {"actions":[{"do":"goto","target":{"x":-379,"y":78,"z":455}},{"do":"attack","target":"sheep"}]}
+- 21:34 act: {"actions":[],"say":"Got 2 mutton from the sheep. Heading back north to the beds to share it with Jason and Zack.","intent":{"goal":"return_mutton_to_beds","program":"travel","arguments":{"target":{"x
+- 21:34 act: {"actions":[{"do":"goto","target":{"x":-285,"y":67,"z":352}}],"say":"Zack, I'm coming closer with the mutton. I'll meet you near the logs at -285,67,352.","intent":{"goal":"meet_zack_with_mutton","pro
+- 21:34 act: {"actions":[],"say":"I'm at -285,67,353 with 2 mutton. Jason, Zack, tell me where you are and I'll bring it. An iron golem is 23 blocks east, so I'm keeping my distance."}
+- 21:35 act: {"actions":[{"do":"note","text":"Jason and Zack are both full and at the pumpkin patch near -373,64,319. Holding 2 mutton for whoever gets hungry."}],"say":"Got it, I'll keep the 2 mutton for whoever 
+- 21:36 act: {"actions":[{"do":"note","text":"Billy asked for wool and sheep. Sheep are southwest at about -374,77,468 and -384,77,459. I'm holding 1 white wool for him."}],"say":"Billy, the sheep are far southwes
+- 21:36 act: {"actions":[{"do":"note","text":"Billy is coming from -350,76,361 for the wool. I'm waiting here at -285,67,353."}],"say":"Billy, I'm right here at the logs. Come on over and I'll hand you the wool."}
+- 21:37 act: {"actions":[{"do":"goto","target":{"x":-288,"y":67,"z":348}}],"say":"Billy, I'm coming to you, at the oak logs near -288,67,348."}
+- 21:37 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"white_wool","count":1}],"say":"Billy, here's my 1 white wool. Good luck with the bed."}
+- 21:37 act: {"actions":[{"do":"goto","target":{"x":-289,"y":68,"z":344}},{"do":"give","to":"ag_billy_01","item":"white_wool","count":1}],"say":"Billy, the give bumped because we were too close. I'm stepping back 
+- 21:37 act: {"actions":[{"do":"goto","target":{"x":-289,"y":67,"z":338}}],"say":"Billy, the give won't go through while we're this close. I'm heading to the open ground south of the logs. Come find me there and I
+- 21:37 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":320}},"wake_on":["goal_completed","un
+- 21:37 say: {"text":"Billy, I can't see you from here. I'll bring your white wool in the morning. Goodnight."}
+- 21:37 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}]}
