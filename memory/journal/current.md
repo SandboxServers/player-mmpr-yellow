@@ -1390,3 +1390,4 @@
 - 20:20 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}],"say":"It's night and I'm going to the yellow bed. Zack, I couldn't find stone next to you to mine, so tell me where you ar
 - 20:20 act: {"actions":[{"do":"sleep"}]}
 - 20:21 act: {"actions":[{"do":"sleep"}],"say":"Trini here. It's night, I'm by the yellow beds with hunger 20. Tomorrow I'll help find cows and sheep and go free Zack with my pickaxe."}
+- 20:21 act: {"say":"Zack is out, good. I have a pickaxe and no spare food; I'm full at 20 and will look for cows and sheep with Tommy and Jason at first light.","actions":[{"do":"sleep"}],"reasoning":"Night, beds
