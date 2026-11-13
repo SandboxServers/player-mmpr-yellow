@@ -1039,3 +1039,15 @@
 - 12:28 act: {"intent":{"goal":"hold_position_until_day","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":16}},"reasoning
 - 12:28 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-220,"y":62,"z":348}},{"do":"place","block":"dirt","at":{"x":-219,"y":62,"z":348}}],"reasoning":"Night is here and I have no food. Seal the pi
 - 12:32 say: {"text":"Trini: the worker found no food east through the forest. I'm in a pit near -220,61,348 with my top still open and I have no food to share. I'll look for food once it's light."}
+- 12:46 act: {"intent":{"goal":"gather_stone_to_seal_pit","program":"gather","arguments":{"block":"cobblestone","count":8},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world
+- 12:51 act: {"actions":[{"do":"mine","block":"stone","count":8}],"intent":{"goal":"mine_stone_to_seal_pit","program":"gather","arguments":{"block":"stone","count":8},"wake_on":["goal_completed","unexpected_damage
+- 12:56 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":6},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operati
+- 12:56 say: {"text":"Trini awake. No food here yet. Sending a runner for birch logs to start a crafting table and tools."}
+- 13:02 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_oper
+- 13:03 act: {"intent":{"goal":"night_shelter_retry","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_bloc
+- 13:08 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":5},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operati
+- 13:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-224,"y":64,"z":347}}]}
+- 13:12 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":5},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operati
+- 13:13 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-224,"y":64,"z":347}}]}
+- 13:13 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-224,"y":62,"z":347}}],"say":"Trini: I'm boxed in a pocket at -232,56,351. Digging out toward the birch 
+- 13:13 act: {"actions":[{"do":"mine","block":"coal_ore","count":2},{"do":"goto","target":{"x":-231,"y":57,"z":352}},{"do":"goto","target":{"x":-224,"y":62,"z":347}}]}
