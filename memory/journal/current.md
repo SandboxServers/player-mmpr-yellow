@@ -636,3 +636,11 @@
 - 02:45 act: {"say":"I'm still stuck in the pit at -237,54,348. Placing and unstick have not worked. If anyone can drop a block or dig a side step, please do.","actions":[{"do":"note","text":"Night 111: in pit at 
 - 02:45 act: {"actions":[{"do":"mine","block":"stone","count":2}],"say":"Dawn. I'm mining stone to open a side exit. Kimberly, if you dig toward me, I'll meet you.","reasoning":"Daylight now. Mining stone to try a
 - 02:48 act: {"say":"Zack, thank you. I'm at -237,53,348. Placing dirt is not working for me, so I'm waiting for Kimberly's dig. Please drop dirt next to Jason and Billy if they need it.","actions":[],"reasoning":
+- 03:08 act: {"say":"Zack, I'm at -237,52,348 in the pit, not enclosed, health 20. I'd like about 10 dirt dropped right next to me on the north or east side, after Kimberly. Thank you.","actions":[],"reasoning":"Z
+- 03:08 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Dirt is coming from Zack and Tommy. Trying to stack at feet again."}
+- 03:10 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Feet placement succeeded once. Stacking more to 
+- 03:10 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Keep stacking; blocks are going in intermittently."}
+- 03:16 act: {"say":"Zack, thank you. I'm at -237,52,348, which is out of your reach from the ledge. My pack hasn't changed, so the dirt did not reach me. Could Kimberly or Billy dig a short step toward me? I can'
+- 03:20 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":1}],"reasoning":"Try to get free by a sideways step and a single stone mine for room."}
+- 03:21 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"I'm out of the pit. Heading to the beds.","reasoning":"Out of the pit, perched and not enclosed. Going to the beds for food and she
+- 03:21 act: {"actions":[{"do":"goto","target":{"x":-236,"y":54,"z":346}}],"reasoning":"Long goto failed. Trying a short step first."}
