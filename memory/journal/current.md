@@ -1564,3 +1564,5 @@
 - 22:56 act: {"actions":[{"do":"goto","target":{"x":-395,"y":67,"z":333}}],"say":"Coming to Billy's wall at -396,68,334 with 7 cobblestone and 5 dirt.","intent":{"goal":"join_billy_wall","program":"travel","argume
 - 22:56 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-396,"y":68,"z":332}},{"do":"place","block":"dirt","at":{"x":-394,"y":68,"z":333}}],"say":"I'm here at -395,68,333. I placed cobblestone to th
 - 22:56 act: {"actions":[],"say":"My placements were blocked, so I'm holding inside the wall. I still have 7 cobblestone and 5 dirt if anyone sees a gap."}
+- 22:58 act: {"say":"Trini here, inside the group. I have 7 cobblestone and 5 dirt for the wall. Billy, which exact gap is open? I'll place them there.","intent":{"goal":"wall_in_for_night","program":"build","argu
+- 22:59 act: {"say":"Trini here. The wall did not finish, so I'm going west with Billy's group to look for sheep or cows. Billy, I'm following you.","intent":{"goal":"follow_billy_west_for_food","program":"follow"
