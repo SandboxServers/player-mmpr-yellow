@@ -897,3 +897,11 @@
 - 09:39 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"reasoning":"Night at the beds. Go to the bed and sleep through the night."}
 - 09:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Beds are adjacent to me. Move onto a bed and sleep."}
 - 09:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Dawn now. Try the bed; if sleep fails, I stay awake and find a new errand."}
+- 09:47 act: {"intent":{"goal":"escape_llama","program":"flee","arguments":{},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":400,"max_block_operations":16}},"actions":[{"do":"goto","t
+- 09:50 act: {"say":"Trini at the beds: I need about 13 cobblestone to seal a shelter for sleep. Tommy or Billy, drop it here if you can spare it."}
+- 09:51 act: {"actions":[{"do":"mine","block":"cobblestone","count":5}],"reasoning":"Errand is mining ~15 cobblestone; I hold 10, so mine 5 more and check my position."}
+- 09:52 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"I am in deep water at the pool I was told to avoid. Goto beds to exit."}
+- 09:52 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Still in deep water; retry goto to beds."}
+- 09:52 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Out of water on stone; finish the goto to the beds."}
+- 09:52 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Goto stalled at -246,63,344; unstick then retry."}
+- 09:52 act: {"actions":[],"say":"Trini here: I hold 11 cobblestone. I'm stuck at -246,63,344 on stone at the pool edge, not at the beds yet. Goto keeps reporting success without moving me.","reasoning":"Errand pa
