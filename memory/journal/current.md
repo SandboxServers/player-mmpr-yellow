@@ -764,3 +764,7 @@
 - 07:31 act: {"say":"Kimberly, I'm giving you 8 dirt so you can drop it onto Jason and Tommy's shaft at -239,49,344. I'm too far to reach from here.","actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","co
 - 07:34 act: {"say":"Billy, I'm trying to reach your head from the rim. If the drop fails, Kimberly is nearest.","actions":[{"do":"place","block":"dirt","at":{"x":-237,"y":58,"z":348}},{"do":"place","block":"dirt"
 - 07:34 act: {"say":"Billy, my remote placement timed out twice, so I can't reach your head from here. Zack and Kimberly are closer to the shaft; please ask them, and keep climbing with your own cobblestone."}
+- 07:38 act: {"actions":[{"do":"goto","target":{"x":-236,"y":62,"z":347}},{"do":"place","block":"dirt","at":{"x":-237,"y":60,"z":348}}],"say":"Trini here, coming to drop dirt into Billy's shaft at -237,58,348.","r
+- 07:39 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"
+- 07:39 act: {"intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limits
+- 07:39 act: {"actions":[{"do":"goto","target":{"x":-221,"y":61,"z":347}},{"do":"give","to":"ag_zack_01","item":"carrot","count":2}],"say":"Zack, I'm bringing you 2 carrots. Eat them and hold on.","reasoning":"Zac
