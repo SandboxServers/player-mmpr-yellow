@@ -509,3 +509,6 @@
 - 00:47 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-225,"y":59,"z":350}},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-225,"y":60,"z":350}}],"reasoni
 - 00:47 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-282,"y":69,"z":371}}],"reasoning":"One more unstick and travel attempt before reporting back."}
 - 00:47 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-224,"y":59,"z":350}}]}
+- 00:48 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
+- 00:49 act: {"actions":[{"do":"goto","target":{"x":-228,"y":59,"z":348}},{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
+- 00:50 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":59,"z":352}}]}
