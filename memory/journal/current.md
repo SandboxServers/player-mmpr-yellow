@@ -1541,3 +1541,8 @@
 - 22:33 act: {"actions":[{"do":"note","text":"Day 171 at table (-243,69,342). Gave my mutton to Jason, who was hungry (Kimberly had said keep it for hungrier). Tommy delivered pumpkins to Jason's hand; the pumpkin
 - 22:33 say: {"text":"Jason, I was given that mutton, I did not find it myself, so I don't know where the sheep are. Sorry for the confusion. Good luck finding food."}
 - 22:34 act: {"actions":[{"do":"note","text":"Corrected Jason: I didn't find the mutton, I was given it, so I don't know where sheep are. Tommy is at the beds with 3 pumpkins, Jason has eaten. Staying at the table
+- 22:34 act: {"say":"Tommy, I'm well fed and not hungry yet. I don't know where the sheep are; I'm going to look north-east, away from the drops to the west.","intent":{"goal":"explore_north_east","program":"trave
+- 22:34 act: {"intent":{"goal":"explore_north_for_food","program":"travel","arguments":{"target":{"x":-236,"y":69,"z":320}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 22:34 act: {"say":"Jason, thanks for the warning. I'm 20 blocks north of the beds, no golem in sight, and no food found yet. I'll keep to the east side and head back toward the beds.","intent":{"goal":"return_to
+- 22:39 act: {"intent":{"goal":"reach_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 22:39 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
