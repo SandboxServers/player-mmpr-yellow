@@ -976,3 +976,8 @@
 - 11:16 say: {"text":"Thank you Kimberly, and Tommy, eat yours. I'm still at the beds with hunger 20 and will look for food on open ground nearby."}
 - 11:17 act: {"say":"Kimberly, I'm at the beds at -240,69,344. Please drop the potatoes here or give them to me directly. Thank you.","intent":{"goal":"await_food_at_beds","program":"rest","arguments":{},"wake_on"
 - 11:17 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"reasoning":"Dusk, at the beds, full health and hunger. Sleep here; potatoes can come when I wake."}
+- 11:17 act: {"say":"Trini here at the beds, health 20 and hunger 20. Kimberly, Tommy, Jason, send food when it is safe. I'm waiting here.","intent":{"goal":"await_food_at_beds","program":"rest","arguments":{},"wa
+- 11:18 act: {"say":"Jason, I'm at full hunger with no food, but I have 8 cobblestone if you need it. Kimberly's potato should go to you first. Tommy, stay safe in the water.","intent":{"goal":"await_food_at_beds"
+- 11:19 act: {"actions":[{"do":"sleep"}],"reasoning":"Night at the beds, full health and hunger. Rest here until morning; food news can wait."}
+- 11:19 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, unsheltered. Nearest bed is white bed to the north. Try to sleep there."}
+- 11:19 act: {"actions":[{"do":"unstick"},{"do":"sleep"}],"reasoning":"Blocked by a villager at the bed. Try to get free and sleep where I stand."}
