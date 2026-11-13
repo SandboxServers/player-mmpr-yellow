@@ -1270,3 +1270,6 @@
 - 17:58 act: {"actions":[],"say":"I am at the beds, -263,67,353, next to the table. Tommy, I am the hungriest and can reach you here. I have 1 cobblestone to give back if needed."}
 - 17:58 act: {"actions":[],"say":"Tommy, Billy, I will wait at the beds by the -261 table for Billy's wheat. If you craft bread, bring it here, or I will come to -202,58,351. Thank you."}
 - 17:59 act: {"actions":[],"say":"Billy, Tommy, Zack: I will stay here on my bed for the night. I still have no food, hunger 16. If bread comes, please bring it to the beds at -263,67,353."}
+- 18:00 act: {"actions":[],"say":"Billy, thank you. I cannot craft bread myself, so please keep your 2 wheat for Tommy's table, and tell Tommy I am waiting here. Any bread that comes, I will take."}
+- 18:00 act: {"actions":[],"say":"Thank you Billy, I have 2 wheat now. Bread needs 3 wheat, so Tommy's bread or one more wheat would finish it. I will wait here at the beds."}
+- 18:01 act: {"actions":[],"say":"Tommy, bring the bread to the beds when you can. I'll trade my 2 wheat for it, or give it to whoever is hungriest. Billy is here with hunger 16 too.","reasoning":"Night at the bed
