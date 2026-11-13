@@ -1298,3 +1298,5 @@
 - 18:18 act: {"say":"Trini here, with no food and no wheat, only one cobblestone. Zack, I'll help plant and tend the seeds. Let's all look for wheat or animals at first light.","intent":{"goal":"wait_for_night_at_
 - 18:19 act: {"say":"Dusk is here and I have no food yet. Hunger is 16. At first light I will look for animals or wheat, and share any find at the beds.","intent":{"goal":"rest_until_morning","program":"rest","arg
 - 18:19 act: {"actions":[{"do":"sleep"}]}
+- 18:20 act: {"say":"Kimberly, I'm awake. I still have no food either. I'll look for animals nearby and share anything I find at the beds.","intent":{"goal":"find_food_near_camp","program":"gather","arguments":{"b
+- 18:21 act: {"say":"Trini here. I'll stay at the beds tonight. Billy, keep your 2 wheat for now. At first light we search for animals and wheat together."}
