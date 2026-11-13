@@ -1,4 +1,5 @@
 # Journal
+- Day 171, at crafting table (-243,69,342): by mistake gave Tommy 1 mutton (meant to hold for Kimberly). Asked Tommy to return it. Kimberly still not in sight. Holding white wool for Billy; he says he already has his wool.
 - 17:36 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operati
 - 17:36 act: {"actions":[{"do":"unstick"}]}
 - 17:36 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operati
@@ -1531,3 +1532,5 @@
 - 22:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Billy is away from the beds and will meet me there at first light. Wait in the bed area, out of the open."}
 - 22:29 act: {"actions":[{"do":"goto","target":{"x":-243,"y":69,"z":342}}],"say":"Kimberly, I have two mutton. I am coming to you now.","reasoning":"It is day. Kimberly is hungry and low. I have two mutton to shar
 - 22:29 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"mutton","count":2}],"say":"Kimberly, here are two mutton for you."}
+- 22:31 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy, I'm holding two mutton for Kimberly. I'll give her one when she's in sight. Could you tell her I have it?"}
+- 22:31 act: {"actions":[],"say":"Tommy, I made a mistake: I handed you one mutton by accident. It was meant for Kimberly. Could you please give it back to me? Thank you."}
