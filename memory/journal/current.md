@@ -659,3 +659,7 @@
 - 04:01 act: {"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":"-236,60,347"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":1200,"ma
 - 04:07 act: {"intent":{"goal":"climb_out_pillar","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max
 - 04:13 say: {"text":"Trini still at -237,53,347, safe at health 20. Placing at my feet is blocked. Zack, if you can open a side step beside me, I'll climb."}
+- 04:18 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-237,"y":54,"z":347}}],"say":"Trini here, still in the pit at -237,53,347, healthy. Trying cobb
+- 04:18 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"say":"I moved to -236,53,349 and I'm perched on the edge now. Stacking cobblestone under me to get up."}
+- 04:18 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}]}
+- 04:19 say: {"text":"Trini, still in the pit at -236,52,349 on stone, health 20, not trapped. Placing and mining keep failing here, so I'm waiting for dawn and for a block or a path from someone nearby."}
