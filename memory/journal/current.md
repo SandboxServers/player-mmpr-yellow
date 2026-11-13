@@ -951,3 +951,8 @@
 - 10:29 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"note","text":"Day 135 dawn: still on stone at -245,62,348, health 20, hunger 20. Placements still fail. Waiting for
 - 10:30 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-244,"y":62,"z":348}}],"say":"Trying to stack cobblestone onto the water to the east.","reasoning":"Sheltered options are limited. Test placin
 - 10:32 say: {"text":"Billy, I'm on the stone at -245,62,348. Place cobble on the water at -244,62,348 (east of me) if you can reach it. Thanks."}
+- 10:38 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-245,"y":63,"z":348}}],"reasoning":"Try a roof block above my head at dusk; water around already blocks walking mobs."}
+- 10:46 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-244,"y":62,"z":348}}],"reasoning":"Dawn; retry placing on water east to start a path."}
+- 10:48 say: {"text":"Trini on the stone at -245,62,348. Drop food or cobble where you can reach, and tell me the cell. I have no food."}
+- 10:52 act: {"reasoning":"Golem attacking at 2 blocks west. Water blocks escape. Fight with stone sword.","actions":[{"do":"attack","target":"iron_golem"}],"say":"Golem is on me. I'm fighting it back."}
+- 10:52 act: {"reasoning":"Health 2.5, golem adjacent south. Get distance toward respawn point north-east.","actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}]}
