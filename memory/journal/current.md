@@ -1007,3 +1007,8 @@
 - 11:57 act: {"actions":[{"do":"goto","target":{"x":-242,"y":63,"z":346}}],"say":"Kimberly, coming to you with the 8 cobblestone now."}
 - 11:57 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-231,"y":62,"z":348}}],"say":"Kimberly, my walk west got blocked. Trying a shorter step; hold on."}
 - 11:57 act: {"actions":[{"do":"note","text":"Day 139: 8 cobblestone still in my pack at -225,61,348. Westward goto keeps moving 0 blocks. Kimberly at -244,63,346 needs blocks; asked Zack or Billy to help if they 
+- 11:57 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"}],"say":"Billy, Kimberly: I can't reach you, so I
+- 11:57 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"note","text":"Dusk day 139: walled up from -225,61,348 to y=64 with cobblestone and dirt; 
+- 11:58 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 11:58 act: {"actions":[{"do":"attack","target":"villager"}]}
+- 11:58 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"}]}
