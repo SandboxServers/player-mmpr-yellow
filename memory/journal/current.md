@@ -1534,3 +1534,10 @@
 - 22:29 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"mutton","count":2}],"say":"Kimberly, here are two mutton for you."}
 - 22:31 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy, I'm holding two mutton for Kimberly. I'll give her one when she's in sight. Could you tell her I have it?"}
 - 22:31 act: {"actions":[],"say":"Tommy, I made a mistake: I handed you one mutton by accident. It was meant for Kimberly. Could you please give it back to me? Thank you."}
+- 22:32 say: {"text":"Tommy, Kimberly already has a mutton, so I will keep mine for now. I have no pumpkins; that was Jason's. I'm going to look for what's new nearby."}
+- 22:32 act: {"actions":[{"do":"note","text":"Day 171 at crafting table near (-243,69,342). Tommy says I owe him 3 pumpkins, but I gave my pumpkins to Billy only through Jason's hands; I have none. Kimberly alread
+- 22:32 say: {"text":"Kimberly, I'm glad you ate. My mutton is still with me. Tell me if you're still hungry and I'll bring it to you at the beds."}
+- 22:33 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":1}],"intent":{"goal":"hold_near_table","program":"trade_wait","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limi
+- 22:33 act: {"actions":[{"do":"note","text":"Day 171 at table (-243,69,342). Gave my mutton to Jason, who was hungry (Kimberly had said keep it for hungrier). Tommy delivered pumpkins to Jason's hand; the pumpkin
+- 22:33 say: {"text":"Jason, I was given that mutton, I did not find it myself, so I don't know where the sheep are. Sorry for the confusion. Good luck finding food."}
+- 22:34 act: {"actions":[{"do":"note","text":"Corrected Jason: I didn't find the mutton, I was given it, so I don't know where sheep are. Tommy is at the beds with 3 pumpkins, Jason has eaten. Staying at the table
