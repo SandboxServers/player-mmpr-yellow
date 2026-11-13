@@ -1452,3 +1452,15 @@
 - 21:13 act: {"actions":[{"do":"eat"}],"say":"Billy, you're right beside me. Could I have one porkchop? Hunger is 18 and I have nothing else.","reasoning":"Billy is adjacent holding porkchop. Asking him directly i
 - 21:13 act: {"actions":[{"do":"eat"}],"say":"Thank you, Billy and Zack. I have porkchops now and I'm eating one.","reasoning":"Billy gave porkchops; I have 3 in pack. Eat to restore hunger."}
 - 21:13 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["directly_addressed","p
+- 21:20 act: {"actions":[{"do":"sleep"}],"say":"Going to bed by the white beds. Food is in my pack if I wake hungry."}
+- 21:21 act: {"actions":[{"do":"sleep"}]}
+- 21:25 act: {"actions":[{"do":"sleep"}],"say":"I'm at the white beds with full health and food. Come here if you're hurt; I'll share my porkchops with anyone who needs them."}
+- 21:25 act: {"actions":[{"do":"goto","target":{"x":-284,"y":67,"z":340}}],"say":"Jason, I'm coming with a porkchop. Keep sealed and tell me when you see me."}
+- 21:25 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"porkchop","count":2}],"say":"Jason, I'm right beside you. I'm passing you two porkchops now."}
+- 21:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}}],"say":"Jason, I can't see you through the dirt, so I can't hand the food over. I'm going back to the beds. Open a gap and come to me there
+- 21:29 act: {"actions":[{"do":"goto","target":{"x":-284,"y":67,"z":340}}],"say":"Morning, Billy. Jason, I'm heading to you with the porkchops now. Open a gap so I can see you."}
+- 21:29 act: {"actions":[{"do":"goto","target":{"x":-286,"y":66,"z":338}},{"do":"give","to":"ag_jason_01","item":"porkchop","count":2}],"say":"Jason, here are two porkchops. Eat them."}
+- 21:29 act: {"actions":[],"say":"Jason, I'm at -286,66,338, south of the beds, and the iron golem is at the beds. Come to me here and I'll hand you the porkchops."}
+- 21:30 act: {"actions":[{"do":"goto","target":{"x":-279,"y":66,"z":341}}],"say":"Jason, I'm coming toward you, northwest of the golem. Show yourself and I'll hand you the porkchops."}
+- 21:30 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"give","to":"ag_jason_01","item":"porkchop","count":2}],"say":"Jason, here are your two porkchops."}
+- 21:30 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"porkchop","count":2}],"say":"Jason, you lost your pack in the pond, so take these two porkchops now."}
