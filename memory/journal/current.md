@@ -1430,3 +1430,4 @@
 - 21:01 act: {"say":"Kimberly, I'm here by the white beds. Zack, thank you for the pork and the pumpkins. I have no food either. We look for cows and sheep at first light.","actions":[{"do":"goto","target":{"x":-2
 - 21:01 act: {"actions":[{"do":"sleep"}]}
 - 21:02 act: {"actions":[{"do":"sleep"}],"say":"Trini here, in my bed at -270,67,319. No food, hunger 17. Kimberly, Tommy, Billy: I'll meet you at first light to search for cows or sheep.","reasoning":"Night, in b
+- 21:03 act: {"say":"Kimberly, I'm here by the white beds at -270, 67, 319. No food yet, hunger 17. I'll search for cows or sheep at first light with you.","actions":[{"do":"sleep"}]}
