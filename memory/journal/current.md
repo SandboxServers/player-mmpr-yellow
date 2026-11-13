@@ -1149,3 +1149,84 @@
 - 15:12 act: {"actions":[],"say":"Zack, I am about 90 blocks from you, too far to dig to. Keep to open ground and walk toward the farm, which is at x -296 to -290, z 288 to 294. I have no food to spare."}
 - 15:16 act: {"actions":[],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage",
 - 15:19 act: {"actions":[{"do":"goto","target":{"x":-268,"y":66,"z":326}}],"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-268,"y":66,"z":326}},"wake_on":["directly_addressed","
+- 15:19 act: {"intent":{"goal":"reach_beetroot","program":"travel","arguments":{"x":-288,"y":69,"z":292},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1200,"max_
+- 15:19 act: {"intent":{"goal":"reach_beetroot","program":"travel","arguments":{"x":-288,"y":69,"z":292},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"max_
+- 15:19 act: {"actions":[{"do":"goto","target":{"x":-288,"y":69,"z":292}}],"reasoning":"Drifted away from the beetroot at (-265,66,353). Walk back toward the farm with a direct goto."}
+- 15:19 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-288,"y":69,"z":292}}],"reasoning":"Still night, a golem is closing. Free myself and try the beetroot again. If this fails, I shelter instead."}
+- 15:20 act: {"actions":[{"do":"goto","target":{"x":-288,"y":69,"z":292}}],"reasoning":"Golem 7 blocks south. Move northwest, away from it, toward the beetroot."}
+- 15:20 say: {"text":"Billy, I'm at the beetroot edge soon. Golems are closing from the north, so be careful."}
+- 15:20 act: {"actions":[{"do":"mine","block":"beetroots","count":2},{"do":"eat"}],"reasoning":"I'm next to the ripe beetroot. Try to harvest two, then eat."}
+- 15:20 act: {"actions":[{"do":"eat"}],"reasoning":"I have one beetroot. Eat it now."}
+- 15:20 act: {"actions":[{"do":"goto","target":{"x":-290,"y":69,"z":290}},{"do":"mine","block":"beetroots","count":2}],"reasoning":"Hunger 18 and the reflex-eaten beetroot did not finish. Move to a spot next to th
+- 15:20 act: {"actions":[{"do":"eat"}],"say":"Billy, thank you. I have two beetroots now, and I am eating one.","reasoning":"Hunger 17 and I hold two beetroots. Eat one now; keep the other for later."}
+- 15:21 say: {"text":"Goodnight, Billy. I am staying here by the water until light."}
+- 15:29 act: {"actions":[{"do":"goto","target":{"x":-291,"y":69,"z":293}},{"do":"mine","block":"beetroots","count":2}],"say":"Morning. Wheat is not food to eat raw, so I am after beetroot at the farm.","reasoning"
+- 15:29 act: {"actions":[{"do":"goto","target":{"x":-288,"y":68,"z":293}}],"reasoning":"Two villagers marked attacking are within a block of me, and no beetroot is in range. Get clear first."}
+- 15:34 say: {"text":"Billy, I have one beetroot. I will share it if we need it. I will wait here for the beetroot to ripen."}
+- 15:39 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"A phantom is attacking me. I am fighting back.","reasoning":"A hostile phantom is hitting me from the west, 2 blocks away. I have no sword, but I
+- 15:39 act: {"actions":[{"do":"eat"}],"reasoning":"Hunger 18 and health falling. I hold one beetroot, which is edible. Eat it now, then deal with shelter.","say":"Eating my last beetroot. Then I will get under co
+- 15:39 act: {"actions":[{"do":"mine","block":"oak_log","count":4},{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"crafting_table","count":1}],"reasoning":"Phantom closing, no weapon. Get wood, 
+- 15:40 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"stone_sword","count":1}],"reasoning":"Table is in the pack. Place it at my feet and craft a stone sword from cobbl
+- 15:40 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Sword in hand. Phantom closing from the north. Strike when in reach.","say":"I have a sword. Come on."}
+- 15:40 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":289}},{"do":"mine","block":"beetroots","count":1}],"reasoning":"Health 10 and falling; food is the cure but hunger blocks regen. Nearest ripe bee
+- 15:40 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":289}},{"do":"mine","block":"beetroots","count":1},{"do":"eat"}],"reasoning":"Health 6. The ripe beetroot is still at -294,69,288. Phantoms are 14
+- 15:40 act: {"actions":[{"do":"eat"}],"reasoning":"Health 2. I hold an edible beetroot. Eat immediately.","say":"Eating now."}
+- 15:40 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-294,"y":69,"z":288}},{"do":"place","block":"cobblestone","at":{"x":-293,"y":68,"z":288}},{"do":"place","block":"cobblestone","at":{"x":-295,"
+- 15:40 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Health 2, phantom adjacent and attacking. Only option left is to fight back.","say":"Fighting the phantom."}
+- 15:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Respawned with nothing at night. A bed is four blocks west. Get in it and rest. The handoff is in the journal.
+- 15:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"The previous goto was rejected as busy. Send it again; the queue is clear now.","say":"Going to the bed."}
+- 15:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Still night, not enclosed, no food in pack. The bed is 2 blocks away. Get into it and sleep.","say":"Heading i
+- 15:41 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"dirt","count":1}],"reasoning":"Tommy offered help. I'm not hurt and hunger is full. The beds are taken, so I'll wait nearby.","say":"I'm not hurt, t
+- 15:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Beds may be free now. Try the bed again."}
+- 15:42 act: {"actions":[{"do":"sleep"}],"reasoning":"The goto cannot move me because Tommy is in the way. The bed is adjacent, so try sleep from here."}
+- 15:46 act: {"actions":[{"do":"sleep"}],"reasoning":"Time has passed. Retry the bed once more."}
+- 15:46 act: {"actions":[{"do":"unstick"}],"reasoning":"Dawn, health and hunger full. The body is stuck on a ledge. Free it, then go for food.","say":"It's morning. Getting free, then I'll go for food."}
+- 15:46 act: {"actions":[{"do":"goto","target":{"x":-199,"y":62,"z":352}}],"reasoning":"Dawn. Check on Zack in his pocket near -199,61,352, as planned.","say":"Going to check on Zack."}
+- 15:46 act: {"actions":[{"do":"goto","target":{"x":-199,"y":62,"z":352}}],"reasoning":"Only a short move last time. Send the goto again toward Zack."}
+- 15:47 act: {"actions":[{"do":"goto","target":{"x":-296,"y":69,"z":285}}],"reasoning":"Zack is hungry and far off, and I have no food either. My dropped items lie at the farm near (-296,69,285). Recover them ther
+- 15:47 act: {"actions":[{"do":"goto","target":{"x":-276,"y":67,"z":330}}],"reasoning":"Long gotos fail with no movement. Try a closer waypoint on the way to the farm."}
+- 15:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":340}}],"reasoning":"Last goto failed with zero movement. Try a shorter leg, about 15 blocks, toward the farm."}
+- 15:47 act: {"actions":[{"do":"unstick"}],"reasoning":"Position unchanged for six minutes across short gotos. Likely stuck; unstick first."}
+- 15:48 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":330}}],"reasoning":"Unstick freed me. Try a moderate 30-block leg toward the fence field where Billy shares food."}
+- 15:48 act: {"actions":[{"do":"unstick"}],"reasoning":"Perched on a ledge after the failed leg. Unstick before any other move."}
+- 15:48 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Dark now and I have no shelter. Try the nearby yellow bed, then sleep."}
+- 15:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-262,"y":66,"z":355}}],"reasoning":"Still in the pit at y=60 with no path to the bed. Unstick, then a short leg to the bed area."}
+- 15:48 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"Dark and thundering with no shelter. Go to the yellow bed and try to sleep."}
+- 16:08 act: {"actions":[{"do":"unstick"}],"reasoning":"Dawn on day 152. I'm in the stone pit with no food. Climb out first, then go to the yellow bed.","say":"Morning. I'm climbing out of this pit, then I'll look
+- 16:09 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"reasoning":"Out of the pit now at (-261,61,353). Try the short walk to the yellow bed."}
+- 16:09 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"reasoning":"I'm at the pit's lip, 7 blocks below the yellow beds. Try the bed directly once more."}
+- 16:09 act: {"actions":[{"do":"goto","target":{"x":-290,"y":69,"z":292}}],"reasoning":"The bed is unreachable from this pit. Food matters more than sleep now, so head toward the beetroot and wheat field."}
+- 16:09 act: {"actions":[{"do":"unstick"}],"reasoning":"Still boxed in by the pit walls. Unstick once more before trying the food field again."}
+- 16:09 act: {"actions":[{"do":"goto","target":{"x":-290,"y":69,"z":292}}],"reasoning":"I'm out on the pit floor again. One more try toward the food field, then wait if it fails."}
+- 16:21 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-262,"y":63,"z":352}}],"reasoning":"Night has come and I'm in the open pit. Try to roof it with dirt overhead, then check whether it's enclosed.","sa
+- 16:21 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-262,"y":62,"z":352}}],"reasoning":"The block at y=63 was occupied. Try the block just above my head at y=62."}
+- 16:26 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-261,"y":62,"z":352}}],"intent":{"goal":"wall_in_for_night","program":"rest","arguments":{"note":"seal pit walls and roof, then sleep"},"wake_on":["d
+- 16:30 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_farm_food","program":"travel","arguments":{"target":{"x":-258,"y":68,"z":352},"note":"short leg out of pit toward farm near -251,68,353; look for 
+- 16:30 act: {"actions":[{"do":"goto","target":{"x":-256,"y":68,"z":353}}],"intent":{"goal":"reach_farm_food","program":"travel","arguments":{"target":{"x":-256,"y":68,"z":353},"note":"farm near -251,68,353; find 
+- 16:30 act: {"actions":[{"do":"unstick"}],"say":"Still in my pit by the farm. Trying to dig out toward the open ground."}
+- 16:35 act: {"actions":[{"do":"mine","block":"stone","count":4}],"intent":{"goal":"dig_out_of_pit","program":"gather","arguments":{"block":"stone","count":4,"note":"mine walls to open a path out of the pit"},"wak
+- 16:35 act: {"actions":[],"say":"I'm boxed in a stone pit at -262,61,354. Digging and walking both fail. If anyone is near with a pickaxe, please open a gap on the west side."}
+- 16:40 act: {"actions":[],"say":"Tommy, thanks. I'm at -262,61,354, safe, health 20, hunger 20. Morning is fine. Dig a gap on the west side if you find a pickaxe."}
+- 16:44 act: {"actions":[],"say":"Tommy, no daylight yet here. I'm still in the pit at -262,61,354. Dig the west gap when you see light."}
+- 16:50 act: {"actions":[{"do":"goto","target":{"x":-258,"y":66,"z":354}}],"intent":{"goal":"reach_farm_food","program":"travel","arguments":{"target":{"x":-258,"y":66,"z":354},"note":"short leg out of the pit; th
+- 16:50 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":353}}],"intent":{"goal":"find_farm_food","program":"travel","arguments":{"target":{"x":-252,"y":68,"z":353},"note":"farm with carrots and beetroo
+- 16:51 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":353}}],"intent":{"goal":"find_farm_food","program":"travel","arguments":{"target":{"x":-252,"y":68,"z":353},"note":"farm; eat only ripe beetroot 
+- 16:51 act: {"actions":[{"do":"unstick"}],"say":"I'm at -257,61,351 next to Jason, still walled in. Hungry? No, I'm at 20. I need a way up to the farm."}
+- 16:51 act: {"actions":[{"do":"goto","target":{"x":-255,"y":61,"z":351}}],"intent":{"goal":"find_farm_food","program":"travel","arguments":{"target":{"x":-255,"y":61,"z":351},"note":"short leg east, then the farm
+- 16:51 act: {"actions":[],"say":"Jason, Tommy: I'm still stuck at -257,61,351. Hunger is fine, but I can't walk to the farm. Could one of you open a gap up to the surface?"}
+- 16:53 act: {"actions":[],"say":"Tommy, I'm still at -257,60,351 next to Jason, walled in. Dig to me from the east side, please."}
+- 16:54 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":353}}],"intent":{"goal":"find_farm_food","program":"travel","arguments":{"target":{"x":-252,"y":68,"z":353},"note":"farm; eat only ripe beetroot 
+- 16:54 act: {"actions":[{"do":"unstick"}],"say":"Jason, thanks. I'm still boxed in at the pit. I'll unstick and try a new way to the farm.","intent":{"goal":"reach_farm","program":"travel","arguments":{"target":{
+- 16:54 act: {"actions":[],"say":"Tommy, I'm still stuck at (-257,60,351); the farm walk fails right away. Could you open a path from my east side toward (-252,68,353)?"}
+- 17:10 act: {"actions":[{"do":"goto","target":{"x":-254,"y":61,"z":352}}],"say":"Morning. I'm heading out through Tommy's opening at -254,61,352, then on to the farm."}
+- 17:10 act: {"actions":[],"say":"Morning. I'm still stuck at -257,58,351 in the pit. The goto to -254,61,352 moved 0. Could someone dig a step up from the east side? Tommy, Jason, anyone with a pickaxe."}
+- 17:13 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-257,"y":59,"z":351}}],"say":"Jason, I'm still in my pit at -257,58,351. I'm trying to build dirt up to climb out."}
+- 17:18 act: {"actions":[],"say":"Kimberly, Billy: I have 6 dirt if you need it for a pillar. I'm still in my pit at -257,58,351, so I can't reach you yet."}
+- 17:27 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-255,"y":58,"z":351}}],"say":"Morning. I'm trying one short step east to see if the pit opens."}
+- 17:28 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":353}}],"say":"I'm out of the pit and heading to the farm now."}
+- 17:28 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":353}}]}
+- 17:28 act: {"actions":[{"do":"goto","target":{"x":-261,"y":68,"z":352}}],"say":"Morning Tommy. Glad you're out. I'm heading to the crafting table at -261,68,352 too, to meet you and Billy."}
+- 17:28 act: {"actions":[{"do":"unstick"}],"say":"Tommy, the goto still moves 0 from here at -258,60,350. Which way did you get out? I'll follow your path."}
+- 17:28 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":353}}],"say":"I'm out at -261,57,351 with 6 dirt and 3 cobblestone. Heading to the farm for food."}
+- 17:28 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":353}}]}
+- 17:28 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-258,"y":60,"z":351}}],"say":"Tommy, thanks. I'll try a cobblestone block above me to climb, the way you did."}
