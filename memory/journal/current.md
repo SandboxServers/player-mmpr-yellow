@@ -845,3 +845,10 @@
 - 08:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Goto did not move me. Unstick and aim for the second bed."}
 - 08:50 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Perched near water. Build up with dirt, as Kimberly did, to get above the water."}
 - 08:50 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"On dry dirt, not trapped. Go to the bed."}
+- 08:51 say: {"text":"Trini here, at the beds. I have no food either. Billy, stay near the beds and keep clear of the water to the west."}
+- 08:51 act: {"actions":[{"do":"goto","target":{"x":-230,"y":66,"z":338}}],"intent":{"goal":"find_food_animals","program":"travel","arguments":{"target":{"x":-230,"y":66,"z":338}},"wake_on":["goal_completed","unex
+- 08:51 act: {"actions":[{"do":"goto","target":{"x":-218,"y":66,"z":330}}]}
+- 08:51 act: {"actions":[{"do":"goto","target":{"x":-210,"y":66,"z":336}}]}
+- 08:51 act: {"actions":[{"do":"goto","target":{"x":-226,"y":68,"z":324}}]}
+- 08:53 say: {"text":"Trini: no carrots or animals here either. I'm on grass at -216,66,332 and safe. I'll call out if I find anything."}
+- 08:57 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":343}}],"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-240,"y":69,"z":343}},"wake_on":["goal_completed
