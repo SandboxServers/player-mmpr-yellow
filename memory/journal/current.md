@@ -518,3 +518,5 @@
 - 00:54 act: {"intent":{"goal":"escape_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_operat
 - 00:55 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-236,"y":60,"z":360}}]}
 - 00:55 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-236,"y":62,"z":360}}]}
+- 00:56 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 00:57 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}}]}
