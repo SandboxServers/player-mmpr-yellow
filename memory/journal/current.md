@@ -595,3 +595,8 @@
 - 01:53 act: {"intent":{"goal":"deliver_cobblestone_to_zack","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":327}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addr
 - 01:54 act: {"say":"Zack, travel keeps pulling me back into the pit at -232,58,349. I have 19 cobblestone and will try a different route; I will not risk the drop to the west.","intent":{"goal":"hold_safe_near_pi
 - 01:55 act: {"say":"Thank you, Zack. I will keep the cobblestone for now and stay out of the pit. Stay safe.","intent":{"goal":"hold_and_wait_for_safe_route","program":"rest","arguments":{},"wake_on":["directly_a
+- 01:58 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
+- 02:00 act: {"intent":{"goal":"shelter_for_night_2","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"]
+- 02:00 act: {"intent":{"goal":"climb_out_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limit
+- 02:00 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":3}],"reasoning":"Blocked twice; unstick and mine stone to open the spot before retrying the shelter."}
+- 02:00 act: {"intent":{"goal":"shelter_here","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limit
