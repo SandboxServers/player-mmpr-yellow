@@ -1494,3 +1494,12 @@
 - 21:38 act: {"intent":{"goal":"get_clear_of_villager","program":"travel","arguments":{"target":{"x":-276,"y":67,"z":322}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world
 - 21:38 say: {"text":"Billy, I'm by the white beds at -272, 67, 319. A villager came at me, so I backed off. Come here and I'll give you the wool."}
 - 21:39 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_w
+- 21:47 say: {"text":"Billy, it's dawn. I'm at the white beds, -271, 67, 319. Come to me when you can and I'll hand over the wool."}
+- 21:48 act: {"say":"Morning, Billy. I'm heading to the oak logs at -292, 70, 345 with the wool.","intent":{"goal":"meet_billy_with_wool","program":"travel","arguments":{"target":{"x":-291,"y":67,"z":343}},"wake_o
+- 21:48 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"white_wool","count":1}]}
+- 21:48 act: {"actions":[{"do":"goto","target":{"x":-295,"y":70,"z":336}}]}
+- 21:48 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"white_wool","count":1}]}
+- 21:48 say: {"text":"Billy, I'm stepping back so I can hand you the wool at a distance. Wait there, I'll give it to you from a few blocks away."}
+- 21:49 act: {"actions":[{"do":"goto","target":{"x":-304,"y":70,"z":336}}]}
+- 21:49 say: {"text":"Billy, I'm about five blocks off now. Stay where you are and I'll hand the wool over from here."}
+- 21:50 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"intent":{"goal":"return_to_beds_with_wool","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["goal_completed
