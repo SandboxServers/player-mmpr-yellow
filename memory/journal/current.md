@@ -981,3 +981,10 @@
 - 11:19 act: {"actions":[{"do":"sleep"}],"reasoning":"Night at the beds, full health and hunger. Rest here until morning; food news can wait."}
 - 11:19 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, unsheltered. Nearest bed is white bed to the north. Try to sleep there."}
 - 11:19 act: {"actions":[{"do":"unstick"},{"do":"sleep"}],"reasoning":"Blocked by a villager at the bed. Try to get free and sleep where I stand."}
+- 11:24 act: {"say":"Morning. I'm at -271,68,365 with 8 cobblestone and no food. Jason and Kimberly, tell me if you still need blocks and I'll bring them to you.","intent":{"goal":"await_daylight_requests","progra
+- 11:25 act: {"actions":[{"do":"goto","target":{"x":-246,"y":65,"z":348}},{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":8}],"say":"Kimberly, coming to you with 8 cobblestone. Stay on your stone."
+- 11:25 act: {"say":"Tommy, I'm at -245,65,349 with 8 cobblestone. Where is Kimberly? The signs here say she was slain on day 134, so I need to know if she is alive.","intent":{"goal":"find_kimberly_and_blocks","p
+- 11:26 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":8}],"say":"Kimberly, giving you the 8 cobblestone now.","reasoning":"Kimberly is alive and asked for cobble. Try give at thi
+- 11:26 act: {"say":"Kimberly, I'm 3 blocks away with 8 cobblestone. Trying to hand them to you now.","actions":[{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":8}],"reasoning":"Kimberly is alive o
+- 11:26 act: {"say":"Kimberly, my give failed again, so I'm keeping my 8 cobblestone for now. Jason, I'll search open ground for food; I have none yet.","intent":{"goal":"search_food_nearby","program":"travel","ar
+- 11:27 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":8}],"say":"Kimberly, coming to you now with the cobblestone.","reasoning":"Kimberly 
