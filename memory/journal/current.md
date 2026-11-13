@@ -1300,3 +1300,9 @@
 - 18:19 act: {"actions":[{"do":"sleep"}]}
 - 18:20 act: {"say":"Kimberly, I'm awake. I still have no food either. I'll look for animals nearby and share anything I find at the beds.","intent":{"goal":"find_food_near_camp","program":"gather","arguments":{"b
 - 18:21 act: {"say":"Trini here. I'll stay at the beds tonight. Billy, keep your 2 wheat for now. At first light we search for animals and wheat together."}
+- 18:25 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 18:30 say: {"text":"Trini, morning. I'll search north of the beds for animals or wheat, since the others went east, south-east and south-west."}
+- 18:30 act: {"intent":{"goal":"search_north_for_food","program":"travel","arguments":{"x":-256,"y":67,"z":330},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":240
+- 18:30 act: {"intent":{"goal":"search_north_for_food","program":"travel","arguments":{"target":{"x":-256,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 18:30 act: {"actions":[{"do":"goto","target":{"x":-251,"y":67,"z":352}}],"say":"Trini here. There is an iron golem to the north, so I'm heading south to the old farm to help Tommy look for wheat."}
+- 18:31 say: {"text":"Trini here. No wheat seen north or at this farm. Nobody has seen cows, pigs or sheep yet, so I'll look further west past the water. Jason, plant your seeds and we'll all check back."}
