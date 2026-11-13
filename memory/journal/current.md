@@ -1306,3 +1306,29 @@
 - 18:30 act: {"intent":{"goal":"search_north_for_food","program":"travel","arguments":{"target":{"x":-256,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
 - 18:30 act: {"actions":[{"do":"goto","target":{"x":-251,"y":67,"z":352}}],"say":"Trini here. There is an iron golem to the north, so I'm heading south to the old farm to help Tommy look for wheat."}
 - 18:31 say: {"text":"Trini here. No wheat seen north or at this farm. Nobody has seen cows, pigs or sheep yet, so I'll look further west past the water. Jason, plant your seeds and we'll all check back."}
+- 18:34 act: {"say":"Tommy, Zack. Has anyone found food yet? I am hungry and have nothing to eat.","intent":{"goal":"find_food_animals","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":330}},"wake_on"
+- 18:34 act: {"say":"Nobody has food yet, so I'll search north-west past the signs for animals or wheat.","intent":{"goal":"search_nw_for_food","program":"travel","arguments":{"x":-285,"y":67,"z":325},"wake_on":["
+- 18:36 act: {"intent":{"goal":"search_nw_for_food","program":"travel","arguments":{"x":-285,"y":67,"z":325},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":{"m
+- 18:36 act: {"intent":{"goal":"search_nw_food","program":"travel","arguments":{"target":{"x":-285,"y":67,"z":325}},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 18:36 act: {"say":"Kimberly, I am Trini and very hungry. Could you spare some of that beef? Where are the cows, west of the beds?","intent":{"goal":"reach_kimberly_beds","program":"travel","arguments":{"target":
+- 18:37 act: {"say":"Kimberly, I am waiting here by the yellow bed, north of the oak logs. Please share some beef with me when you are back. Thank you.","intent":{"goal":"wait_for_kimberly_beef","program":"rest","
+- 18:37 act: {"say":"Thank you Kimberly. I'm going to the cows at about -313, 81, 369 too, to look for more food.","intent":{"goal":"reach_cows_west","program":"travel","arguments":{"target":{"x":-310,"y":81,"z":3
+- 18:37 act: {"intent":{"goal":"find_cows_away_from_golem","program":"travel","arguments":{"target":{"x":-322,"y":80,"z":378}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 18:37 act: {"say":"I see a cow to the south-west. I'm going for it.","intent":{"goal":"reach_cow_sw","program":"travel","arguments":{"target":{"x":-333,"y":92,"z":389}},"wake_on":["directly_addressed","unexpecte
+- 18:37 act: {"actions":[{"do":"attack","target":"cow"}]}
+- 18:38 act: {"say":"I got 3 beef from a cow. I'll eat one now, and I'll tell Kimberly and Billy where the cows are.","actions":[{"do":"eat"}]}
+- 18:38 act: {"say":"Billy, I'm at -332, 88, 400. I have 2 beef and can give you one. Cows and a sheep are out west and south-west of me. Walk to me, or I'll come to you.","actions":[{"do":"note","text":"Ate one b
+- 18:39 act: {"say":"Zack, Tommy, I'm at -332, 88, 400 with 2 beef. I'm coming toward you now. Wait for me near the cows.","intent":{"goal":"reach_zack_with_beef","program":"travel","arguments":{"target":{"x":-316
+- 18:39 act: {"actions":[{"do":"goto","target":"ag_zack_01"},{"do":"give","to":"ag_zack_01","item":"beef","count":1}],"say":"Zack, one beef for you. I'll keep the other for Tommy or Jason."}
+- 18:39 act: {"say":"Zack has one beef from me. I have one left. Tommy or Jason, come to me here by the cows and I'll hand it over.","actions":[{"do":"note","text":"Gave 1 beef to Zack at the cows. 1 beef left for
+- 18:40 act: {"actions":[{"do":"goto","target":"ag_tommy_01"},{"do":"give","to":"ag_tommy_01","item":"beef","count":1}],"say":"Tommy, here is my last beef. Eat well."}
+- 18:40 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"beef","count":1}],"say":"Tommy, the beef is coming to you now."}
+- 18:40 act: {"actions":[{"do":"goto","target":{"x":-316,"y":79,"z":372}},{"do":"give","to":"ag_tommy_01","item":"beef","count":1}],"say":"Tommy, I'm stepping back a few blocks so the beef can be handed over. Stay
+- 18:40 act: {"say":"Tommy, the beef didn't go through, so I'm keeping it. A skeleton and a zombie are near here, so I'll stay put. Come to me in the morning and I'll hand it over.","actions":[{"do":"note","text":
+- 18:41 act: {"say":"Tommy, I still have the beef and will hand it to you at first light, at the yellow bed or wherever you are. Stay safe in your pit tonight.","actions":[{"do":"note","text":"Night 159, still hol
+- 18:41 act: {"intent":{"goal":"wait_for_dawn_then_give_beef","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_opera
+- 18:41 act: {"say":"Trini here. Something is hitting me and I'm at 16 health. Heading north-east toward the yellow beds, away from the zombie and golem to the south-west.","actions":[{"do":"goto","target":{"x":-2
+- 18:44 act: {"say":"Trini here. I no longer have the beef, it seems it was lost in the fighting. I'm sorry, Tommy and Jason. I'm moving away from the iron golem now.","actions":[{"do":"goto","target":{"x":-270,"y
+- 18:44 act: {"say":"Trini here, at the yellow beds with no food, hunger 17. Kimberly, I'd be grateful for a share of the beef after the others. I'm sorry I lost mine in the fight.","intent":{"goal":"wait_for_morn
+- 18:44 act: {"say":"Kimberly, Trini coming to you now for my share of the beef. I'll stand next to you and pick it up.","intent":{"goal":"reach_kimberly_for_beef","program":"travel","arguments":{"target":{"x":-26
+- 18:45 act: {"say":"Kimberly, Trini here, standing next to you. I'm at hunger 17 with no food, so I'll take a share whenever you can give it."}
