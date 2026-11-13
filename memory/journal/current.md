@@ -475,3 +475,5 @@
 - 00:21 act: {"intent":{"goal":"shelter_again","program":"build","arguments":{"blueprint":"shelter","block":"birch_planks"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_
 - 00:22 act: {"actions":[{"do":"note","text":"Day104 night: build/sleep blocked at (-228,59,348); shelter not building. Waiting for morning, then go to birch grove NE."},{"do":"wait","seconds":120}]}
 - 00:23 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":12},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4800,"max_block_operat
+- 00:27 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":12},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 00:28 act: {"intent":{"goal":"follow_tommy","program":"follow","arguments":{"target":"ag_tommy_01"},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":1200,"max_block_operations":32}}}
