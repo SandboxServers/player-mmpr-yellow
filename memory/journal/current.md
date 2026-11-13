@@ -1402,3 +1402,27 @@
 - 20:29 act: {"say":"A villager is attacking me from the west, right next to me. Tommy, Zack, we go now toward the cow at -240,69,440. Stay close.","actions":[{"do":"attack","target":"villager"}]}
 - 20:29 act: {"say":"Billy, I'm hungry, hunger 16. I have 1 leather, 2 birch logs, 1 oak log and 3 birch planks. Could you spare a bread for them? I'll give what you want."}
 - 20:31 act: {"say":"Billy, I'm coming to your table at -292,69,283 for bread. I'll give my leather or a log for one. Thank you.","actions":[{"do":"goto","target":{"x":-292,"y":69,"z":283}}]}
+- 20:33 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"leather","count":1}],"say":"Billy, I'm hungry. I'm giving you my leather for a bread, if you can spare one.","reasoning":"Food is the priority. Bill
+- 20:33 act: {"intent":{"goal":"escape_villager","program":"flee","arguments":{},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":600,"max_block_operations":32}},"r
+- 20:33 act: {"actions":[{"do":"wait","seconds":10}],"say":"Billy, did the leather reach you? I'm starving. Could you give me a bread?","reasoning":"Billy has my leather. Ask plainly and give him a moment before d
+- 20:33 act: {"intent":{"goal":"wait_for_billys_bread","program":"rest","arguments":{},"wake_on":["unexpected_damage","directly_addressed","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":
+- 20:33 act: {"actions":[{"do":"wait","seconds":20}],"say":"Thanks, Billy. If the chicken comes to you, please share some with me. I'll wait here.","reasoning":"No bread now. Billy is after a chicken. Wait here an
+- 20:33 act: {"actions":[{"do":"wait","seconds":30}],"say":"Jason, thank you. I'm still here at the crafting table, hungry. Please hand the bread over when you can.","reasoning":"Jason offered his last bread. He i
+- 20:36 act: {"intent":{"goal":"escape_villager_again","program":"flee","arguments":{},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":600,"max_block_operations":3
+- 20:38 act: {"say":"Hi Kimberly. Food is scarce here: the wheat is still unripe, so don't eat it yet. A villager by the table turned on me at close range, so keep clear of it. Billy is after a chicken, and Jason 
+- 20:38 act: {"say":"Jason, thank you. I'm at the crafting table, hungry at 16. Where are you? I'll come to you."}
+- 20:39 act: {"actions":[{"do":"goto","target":{"x":-299,"y":68,"z":283}}],"say":"On my way to you, Jason."}
+- 20:39 act: {"say":"Jason, I'm right beside you. Please hand over the bread. I'm very hungry."}
+- 20:39 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"bread","count":1}]}
+- 20:39 act: {"say":"Kimberly, Jason's bread went to you by mistake. I'm starving. Could you give it to me, please?"}
+- 20:40 act: {"say":"Kimberly, the hand-over keeps failing. Please drop the bread on the ground right here at my feet, and I'll pick it up. Thank you."}
+- 20:40 act: {"say":"Goodnight, Kimberly. Thank you for keeping the bread. Try again at first light, please.","intent":{"goal":"wait_out_night_near_camp","program":"rest","arguments":{},"wake_on":["directly_addres
+- 20:43 act: {"say":"Good morning, Kimberly. Could you give me the bread now, please? I'm at the yellow beds."}
+- 20:44 act: {"say":"I'm standing at the yellow beds, at the planks by the oak logs. Come close and hand the bread over. Thank you."}
+- 20:54 act: {"say":"Kimberly, I heard the bread went to Billy. I'm still at the yellow beds and very hungry. Billy, if you find any food, please think of me.","intent":{"goal":"wait_for_food_news","program":"rest
+- 20:57 act: {"say":"Zack, thank you for the pork. I'm waiting here at the yellow beds, standing by the planks. Please come close and I'll take it."}
+- 20:58 act: {"say":"Zack, I'm here at -280, 69, 291, by the yellow beds, standing on the oak planks. I can see you're close. Please hand over the pork, I'm very hungry. Thank you."}
+- 20:59 act: {"actions":[{"do":"eat"}],"say":"Thank you, Zack. The pork is a true gift. Good night, and sleep well in the bed."}
+- 20:59 act: {"actions":[{"do":"eat"},{"do":"sleep"}]}
+- 20:59 act: {"actions":[{"do":"sleep"}]}
+- 20:59 act: {"actions":[{"do":"goto","target":{"x":-280,"y":69,"z":291}},{"do":"sleep"}]}
