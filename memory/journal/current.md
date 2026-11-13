@@ -1060,3 +1060,25 @@
 - 13:28 say: {"text":"Kimberly, thank you. I'm at -231,56,350. Dirt would help, and any pickaxe-holder coming close. I'll wait here."}
 - 13:28 say: {"text":"Tommy, keep the wheat for now, you need it too. I'm at -231,56,350, about 11 blocks off and 6 down. Dig toward me; I can't open a path from here yet. Kimberly, bring dirt if you can."}
 - 13:37 say: {"text":"Kimberly, I'm at -231,56,350, inside stone and dirt, not visible from the shore. Please stand near the stone wall at -235,56,350 and dig toward me if you can. Villagers down the shore may hel
+- 13:50 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"mine","block":"cobblestone","count":2}],"say":"I'm still boxed in on stone at -231,56,350. I'm digging out by hand, and I'll head for Tommy's
+- 13:51 act: {"actions":[{"do":"mine","block":"birch_log","count":2},{"do":"goto","target":{"x":-233,"y":56,"z":350}}],"say":"The mining gave me nothing, so I'm trying west toward the birch log.","intent":{"goal":
+- 13:51 act: {"say":"Trini here at -233,56,351, out of the stone. I have no food. Tommy, Kimberly, I'm heading to you now.","actions":[{"do":"goto","target":{"x":-240,"y":62,"z":343}}],"intent":{"goal":"reach_tomm
+- 13:51 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":3}]}
+- 13:52 act: {"actions":[{"do":"craft","item":"birch_planks","count":4},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 13:52 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-240,"y":62,"z":343}}],"say":"I made a wooden pickaxe and I'm digging toward Tommy now.","intent":{"goal":"reach_tommy","
+- 13:52 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-240,"y":62,"z":343}},{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-240,"y":62,"z":343}}],"say":"To
+- 13:53 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-242,"y":62,"z":345}}],"say":"Tommy, I'm at -239,54,349 in my dug tunnel, 11 cobblestone in hand. I'm climbing toward you now."}
+- 13:53 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"intent":{"goal":"climb_out_pit","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","p
+- 13:53 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"intent":{"goal":"climb_out_pit","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["g
+- 13:54 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"},{"do":"goto","target":{"x":-239,"y":62,"z":345}}],"say":"Zack, I'm in a stone pit at -239,55,349 with gravel above. I'm digging tow
+- 13:54 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-241,"y":62,"z":343}}],"say":"I'm at -239,58,346, nearly up to Tommy. I have no food, and I'm coming for the wheat."}
+- 13:54 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-241,"y":62,"z":343}}],"say":"Tommy, I'm at -240,58,343, just below you. I'm hungry with no food. If you can spare the wh
+- 13:55 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":62,"z":343}},{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-241,"y":62,"z"
+- 13:55 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"intent":{"goal":"climb_out_pit","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","p
+- 13:55 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"say":"Tommy, I don't see any wheat in my hands yet. Please drop it where I can reach, or tell me where. I'm climbing toward you.","intent
+- 13:55 act: {"say":"Tommy, I'm at 20 hunger, so keep the wheat for Kimberly or Zack. I'm climbing out of this pit now, and I'll dig toward Zack from here."}
+- 13:56 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"intent":{"goal":"climb_to_tommy","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","
+- 13:56 act: {"actions":[{"do":"goto","target":{"x":-239,"y":68,"z":345}}],"say":"I'm out of the pit at -239,64,344, heading up to the grass where Kimberly is.","intent":{"goal":"reach_grass_near_kimberly","progra
+- 13:56 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"intent":{"goal":"climb_out_of_pit_again","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_comp
+- 13:56 act: {"say":"Kimberly, I'm out on the grass beside you at -239,68,344. I'm not hungry, so keep Tommy's wheat for you. There's a bed three blocks west of me.","actions":[{"do":"write_sign","text":"Trini her
+- 14:00 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"intent":{"goal":"stand_by_bed_for_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":344}},"wake_on":["goal_completed",
