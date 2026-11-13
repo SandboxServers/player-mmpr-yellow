@@ -988,3 +988,5 @@
 - 11:26 act: {"say":"Kimberly, I'm 3 blocks away with 8 cobblestone. Trying to hand them to you now.","actions":[{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":8}],"reasoning":"Kimberly is alive o
 - 11:26 act: {"say":"Kimberly, my give failed again, so I'm keeping my 8 cobblestone for now. Jason, I'll search open ground for food; I have none yet.","intent":{"goal":"search_food_nearby","program":"travel","ar
 - 11:27 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":8}],"say":"Kimberly, coming to you now with the cobblestone.","reasoning":"Kimberly 
+- 11:29 act: {"intent":{"goal":"search_food","program":"travel","arguments":{"target":{"x":-245,"y":65,"z":349},"radius":30,"look_for":["wheat","carrots","potatoes","beetroot","cow","pig","chicken","sheep"],"avoid
+- 11:29 say: {"text":"Trini here, at the beds with 8 cobblestone. Kimberly, I'm sending someone to search the grass for food. If you come within 2 blocks, I'll drop the cobblestone."}
