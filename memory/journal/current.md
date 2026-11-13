@@ -1570,3 +1570,17 @@
 - 23:00 act: {"actions":[{"do":"note","text":"Dusk, at -395,69,333 with Zack beside me. Wall partly built (3 placed, 9 solid); south side blocked by someone standing there. Hunger 19, I hold 1 rotten_flesh."}],"sa
 - 23:00 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-396,"y":68,"z":333}}],"say":"Billy, placing dirt on the square just west of me, at -396,68,333."}
 - 23:00 act: {"actions":[{"do":"note","text":"Night, enclosed in the wall at -395,69,333 with Billy, Zack, Kimberly, Jason nearby. Placed dirt; view shows solid all around. Going to sleep. Plan at first light: go 
+- 23:01 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-395,"y":69,"z":334}},{"do":"note","text":"Night 172: placed dirt on south square to help seal the wall with Billy, Kimberly, Jason, Zack."}],"say":"
+- 23:01 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-396,"y":69,"z":333}}],"say":"Trini here. Trying the square just west of me now, at -396,69,333. Shout if it is still open after this."}
+- 23:01 say: {"text":"Trini: my placements both hit occupied squares, and my view says I am enclosed on every side now. I'm not placing more dirt. Kimberly, Billy, if you can see an open gap, name its exact coordi
+- 23:08 act: {"actions":[{"do":"attack","target":"skeleton"}],"say":"Skeletons on me at the wall. Fighting back."}
+- 23:08 act: {"actions":[{"do":"attack","target":"minecraft:skeleton"}]}
+- 23:08 act: {"actions":[{"do":"unstick"}],"say":"I'm hurt, health 9, two skeletons on me. Trying to get clear."}
+- 23:08 say: {"text":"Trini: I died in the wall to skeletons and woke at spawn with nothing. My things lie at -395,69,333, but the skeletons are there. I'm staying near the spawn beds until I can find food."}
+- 23:12 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":4},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"
+- 23:13 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":291}},{"do":"mine","block":"wheat","count":1}],"say":"Trini: I see ripe wheat to the south-west, going to get it for food."}
+- 23:13 act: {"actions":[{"do":"mine","block":"wheat","count":5}]}
+- 23:13 say: {"text":"Trini: I found a ripe wheat field by the water at -294,69,290. I have 6 wheat and 13 seeds. I'm coming southwest to you with the wheat now."}
+- 23:14 act: {"intent":{"goal":"reach_billy_with_wheat","program":"travel","arguments":{"target":{"x":-425,"y":68,"z":346}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed
+- 23:14 act: {"intent":{"goal":"reach_billy_with_wheat","program":"travel","arguments":{"target":{"x":-425,"y":68,"z":346}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed
+- 23:14 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wheat","count":6}],"say":"Jason, I'm here with 6 wheat and 13 seeds. Billy's hungry, so please share them with him."}
