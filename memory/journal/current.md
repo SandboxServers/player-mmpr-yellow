@@ -741,3 +741,12 @@
 - 06:57 act: {"actions":[{"do":"goto","target":{"x":-236,"y":60,"z":347}},{"do":"place","block":"dirt","at":{"x":-240,"y":58,"z":347}},{"do":"place","block":"dirt","at":{"x":-241,"y":57,"z":346}}],"say":"Tommy, mo
 - 06:59 act: {"actions":[{"do":"goto","target":{"x":-236,"y":60,"z":347}},{"do":"place","block":"dirt","at":{"x":-240,"y":58,"z":347}},{"do":"place","block":"dirt","at":{"x":-241,"y":57,"z":346}}]}
 - 07:00 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Tommy, I can't walk to you from here; the path west is blocked. I'm building a dirt shelter for the night at -230,63,347 and will drop dir
+- 07:01 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Trini here, climbing out of the pit with dirt. Tommy, I'll hea
+- 07:01 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning
+- 07:01 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Almost up. I'll drop dirt for Tommy as soon as I'm within reac
+- 07:01 act: {"actions":[{"do":"eat"}],"say":"I'm out of the pit at -230,62,346. Tommy, I'm about 10 blocks east of you. I'll come to you at dawn with dirt.","reasoning":"Out of pit, not trapped. Eat, then wait fo
+- 07:04 act: {"actions":[],"say":"Zack, I'm right above you at -230,62,346. I have 34 dirt and 13 cobblestone. I can't reach down to you from here, so tell me if you can mine toward me and I'll drop blocks.","reas
+- 07:06 act: {"actions":[],"say":"Jason, Billy, Tommy: I'm too far from your shafts from here. At dawn I'll walk to the pit edge with 34 dirt and drop it where I can reach.","reasoning":"Dirt drops need me within 
+- 07:14 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-229,"y":57,"z":346}}],"say":"Zack, I'm trying to drop dirt onto your head at -229,57,346 from here.","reasoning":"Zack needs a block under him. Test
+- 07:14 act: {"actions":[],"say":"Zack, my drop failed; I'm too far above you to place at your feet. I can't reach you from this spot. Could you mine a step toward me so I can get within reach?","reasoning":"Remot
+- 07:17 act: {"actions":[{"do":"goto","target":{"x":-230,"y":62,"z":349}}],"say":"Zack, I'm moving toward you. I'll try to drop blocks at your feet.","reasoning":"Zack is about 5 blocks away on the shaft. Get with
