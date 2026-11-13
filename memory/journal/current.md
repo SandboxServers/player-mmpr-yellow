@@ -612,3 +612,20 @@
 - 02:18 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-234,"y":57,"z":350}},{"do":"place","block":"dirt","at":{"x":-236,"y":57,"z":350}},{"do":"place","block":"dirt","at":{"x":-235,"y":57,"z":349}},{"do"
 - 02:18 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-236,"y":57,"z":350}},{"do":"place","block":"dirt","at":{"x":-235,"y":57,"z":349}},{"do":"place","block":"dirt","at":{"x":-235,"y":57,"z":351}},{"do"
 - 02:18 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":345}}],"reasoning":"Friends are crowding my spot and blocking placements. Get clear and head toward Zack's bed area on open grou
+- 02:19 act: {"intent":{"goal":"night_shelter_alone","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"]
+- 02:19 act: {"intent":{"goal":"climb_up_pillar","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"lim
+- 02:23 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Friends are gathering at the bed to shelter together. Join them, and bring cobblestone for Zack."}
+- 02:27 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"give","to":"ag_zack_01","item":"cobblestone","count":20}],"reasoning":"Daylight. Walk to Zack's bed and give him the 20 cobblestone 
+- 02:27 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"give","to":"ag_zack_01","item":"cobblestone","count":20}],"reasoning":"Still boxed in the pit. Unstick, then try th
+- 02:27 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Mine stone to open an exit from the pit, then head to Zack's bed."}
+- 02:27 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"dirt","count":10},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Billy is boxed in and needs dirt to climb. I have plenty, so I'll s
+- 02:29 act: {"actions":[{"do":"mine","block":"stone","count":2}],"reasoning":"Kimberly needs a side step on the west wall. Mining stone there gives her a way up, and it helps me too."}
+- 02:29 say: {"text":"Kimberly, I'm mining the west stone now to make you a side step. Tell me when you're out."}
+- 02:30 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":10},{"do":"give","to":"ag_kimberly_01","item":"dirt","count":10}],"reasoning":"Jason and Kimberly are stuck in the pit and need a way 
+- 02:30 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":10},{"do":"give","to":"ag_kimberly_01","item":"dirt","count":10}],"reasoning":"Retry the dirt handoffs to Jason and Kimberly now that 
+- 02:30 act: {"actions":[{"do":"unstick"},{"do":"give","to":"ag_jason_01","item":"dirt","count":10}],"reasoning":"A leftover action is blocking my gives. Clear it, then hand Jason his dirt."}
+- 02:30 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":10}],"reasoning":"The action queue is clear now. Hand Jason 10 dirt so he can climb out."}
+- 02:30 say: {"text":"Jason, sent you 10 dirt to climb out. I still have 31 dirt if anyone else needs it. Tell me who."}
+- 02:31 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":10}],"reasoning":"Kimberly is still stuck with no side step. Send her 10 dirt to climb out."}
+- 02:31 act: {"intent":{"goal":"climb_out_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_opera
+- 02:31 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}],"reasoning":"The pillar keeps failing. Mining nearby stone opens a side route out of the pit."}
