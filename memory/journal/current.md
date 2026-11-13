@@ -1355,3 +1355,5 @@
 - 19:32 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":362}}],"say":"No cow at the old farm. There's an iron golem to the northeast, so I'm heading back south-west to the beds, away from it."}
 - 19:41 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}],"say":"Night at the beds. I'm going to sleep in the yellow bed here, fed at 20."}
 - 19:42 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}},{"do":"sleep"}],"reasoning":"It is night, I am at the yellow beds, health and hunger full. Sleep now.","say":"Night is here, so I'm going t
+- 19:43 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}},{"do":"sleep"}],"say":"Night is here. I am going to my bed by the yellow beds."}
+- 19:43 act: {"actions":[{"do":"sleep"}]}
