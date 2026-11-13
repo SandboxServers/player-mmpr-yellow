@@ -663,3 +663,5 @@
 - 04:18 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"say":"I moved to -236,53,349 and I'm perched on the edge now. Stacking cobblestone under me to get up."}
 - 04:18 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}]}
 - 04:19 say: {"text":"Trini, still in the pit at -236,52,349 on stone, health 20, not trapped. Placing and mining keep failing here, so I'm waiting for dawn and for a block or a path from someone nearby."}
+- 04:27 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"}],"say":"Morning, day 117. Still in the pit at -236,52,349, health 20. Try
+- 04:29 act: {"actions":[{"do":"goto","target":{"x":-235,"y":52,"z":348}},{"do":"place","block":"cobblestone","at":"feet"}],"say":"Billy, Kimberly thinks we may share a block, which blocks placing. I'm stepping to
