@@ -457,3 +457,7 @@
 - 00:14 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-221,"y":64,"z":348}}]}
 - 00:14 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-221,"y":66,"z":348}}]}
 - 00:14 act: {"intent":{"goal":"dig_out","program":"gather","arguments":{"block":"stone","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":40}}}
+- 00:14 act: {"intent":{"goal":"dig_out","program":"gather","arguments":{"block":"stone","count":10},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 00:15 act: {"actions":[{"do":"goto","target":{"x":-223,"y":66,"z":348}}]}
+- 00:15 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-223,"y":62,"z":348}}]}
+- 00:16 act: {"actions":[{"do":"goto","target":{"x":-223,"y":66,"z":348}}]}
