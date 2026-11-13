@@ -1389,3 +1389,4 @@
 - 20:19 act: {"actions":[{"do":"mine","block":"cobblestone","count":2}],"say":"Zack, I'm breaking the cobblestone around you with my wooden pickaxe now. Stand still.","intent":{"goal":"free_zack_from_stone","progr
 - 20:20 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}],"say":"It's night and I'm going to the yellow bed. Zack, I couldn't find stone next to you to mine, so tell me where you ar
 - 20:20 act: {"actions":[{"do":"sleep"}]}
+- 20:21 act: {"actions":[{"do":"sleep"}],"say":"Trini here. It's night, I'm by the yellow beds with hunger 20. Tomorrow I'll help find cows and sheep and go free Zack with my pickaxe."}
