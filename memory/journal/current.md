@@ -630,3 +630,9 @@
 - 02:31 act: {"intent":{"goal":"climb_out_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_opera
 - 02:31 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}],"reasoning":"The pillar keeps failing. Mining nearby stone opens a side route out of the pit."}
 - 02:40 act: {"actions":[{"do":"place","block":"torch","at":"feet"}],"reasoning":"Night is here and I am not enclosed. A torch gives light against mobs while I wait for an exit."}
+- 02:44 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"I have dirt and will stack up to climb out of the pit.","reasoning":"Stuck in pit at night. Stac
+- 02:44 act: {"actions":[{"do":"unstick"}],"reasoning":"Dirt placement at feet was rejected silently. Trying unstick to get free of the pit."}
+- 02:45 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-237,"y":54,"z":348}}],"reasoning":"Need to know whether placing blocks works at all here. Testing placement on my own cell's neighbour."}
+- 02:45 act: {"say":"I'm still stuck in the pit at -237,54,348. Placing and unstick have not worked. If anyone can drop a block or dig a side step, please do.","actions":[{"do":"note","text":"Night 111: in pit at 
+- 02:45 act: {"actions":[{"do":"mine","block":"stone","count":2}],"say":"Dawn. I'm mining stone to open a side exit. Kimberly, if you dig toward me, I'll meet you.","reasoning":"Daylight now. Mining stone to try a
+- 02:48 act: {"say":"Zack, thank you. I'm at -237,53,348. Placing dirt is not working for me, so I'm waiting for Kimberly's dig. Please drop dirt next to Jason and Billy if they need it.","actions":[],"reasoning":
