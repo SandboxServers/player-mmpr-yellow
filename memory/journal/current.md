@@ -1036,3 +1036,6 @@
 - 12:28 act: {"actions":[{"do":"goto","target":{"x":-212,"y":66,"z":347}}],"reasoning":"Climb out of the pit toward the surface east."}
 - 12:28 act: {"actions":[{"do":"goto","target":{"x":-200,"y":66,"z":340}}],"reasoning":"Keep searching east for grassland with animals."}
 - 12:28 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-212,"y":66,"z":344}}],"reasoning":"Goto moved zero; try unstick and a short hop."}
+- 12:28 act: {"intent":{"goal":"hold_position_until_day","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":16}},"reasoning
+- 12:28 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-220,"y":62,"z":348}},{"do":"place","block":"dirt","at":{"x":-219,"y":62,"z":348}}],"reasoning":"Night is here and I have no food. Seal the pi
+- 12:32 say: {"text":"Trini: the worker found no food east through the forest. I'm in a pit near -220,61,348 with my top still open and I have no food to share. I'll look for food once it's light."}
