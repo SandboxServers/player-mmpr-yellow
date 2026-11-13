@@ -573,3 +573,10 @@
 - 01:15 act: {"say":"Tommy, I'm at -233,57,351 on the birch log. Kimberly is at -223,59,349. Dig to me when ready. I have 20 cobblestone if anyone needs it.","reasoning":"Tommy asked for exact spots. Give them pla
 - 01:25 act: {"say":"I'm not enclosed now, and I'm at full health. Jason, Billy, Tommy, thanks for digging. I have 20 cobblestone for whoever needs it: Kimberly first, then Zack.","intent":{"goal":"rest_until_help
 - 01:25 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"cobblestone","count":10}],"say":"Tommy, I'm giving you 10 cobblestone to dig Kimberly out. I'm keeping 10 for Zack."}
+- 01:26 act: {"intent":{"goal":"reach_zack_with_cobblestone","program":"travel","arguments":{"target":{"x":-273,"y":63,"z":317}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max
+- 01:28 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_zack_with_cobblestone","program":"travel","arguments":{"target":{"x":-273,"y":63,"z":317}},"wake_on":["goal_completed","directly_addressed","unexp
+- 01:28 act: {"say":"Zack, Billy is bringing you a pickaxe. My path is blocked by stone, so I'm holding 10 cobblestone here and will bring it when I can get out.","intent":{"goal":"hold_and_wait_for_way_out","prog
+- 01:29 act: {"say":"Zack, Billy is bringing you a pickaxe. My path is blocked, so I'm holding 10 cobblestone and will bring it when I can get out.","actions":[{"do":"wait","seconds":120}]}
+- 01:29 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":5}],"say":"Billy, I'm giving you 5 cobblestone to build your way out. Carry the pickaxe to Zack. I'm keeping 5 for Zack too."}
+- 01:29 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":5}]}
+- 01:29 act: {"actions":[{"do":"unstick"},{"do":"give","to":"ag_billy_01","item":"cobblestone","count":5}]}
