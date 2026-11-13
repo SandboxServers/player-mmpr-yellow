@@ -679,3 +679,7 @@
 - 05:24 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"sand"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
 - 05:26 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"sand"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
 - 05:26 act: {"actions":[{"do":"unstick"},{"do":"place","block":"sand","at":"feet"}],"say":"Trying to wall in with sand. If anyone nearby has an open path, tell me."}
+- 05:40 act: {"intent":{"goal":"shelter_sand","program":"build","arguments":{"blueprint":"shelter","block":"sand"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
+- 05:42 act: {"intent":{"goal":"shelter_sand_retry","program":"build","arguments":{"blueprint":"shelter","block":"sand"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_
+- 05:46 act: {"intent":{"goal":"shelter_day","program":"build","arguments":{"blueprint":"shelter","block":"sand"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":
+- 05:47 say: {"text":"Trini here, at -235,52,348. Shelter placement fails after one block for me too. Has anyone found a way that works?"}
