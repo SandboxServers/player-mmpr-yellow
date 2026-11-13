@@ -885,3 +885,4 @@
 - 09:18 act: {"intent":{"goal":"reach_beds_before_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
 - 09:19 act: {"actions":[{"do":"note","text":"Waking 284: at beds, night, health 20, hunger 17. Summary memory was empty. Holding 2 porkchop for hungry friends. Sleeping in bed."},{"do":"sleep"}],"say":"Trini at t
 - 09:19 act: {"actions":[{"do":"note","text":"Something unseen hit me twice from the left at the beds; health still 20. No carrots on hand. Staying by the beds, watching."}],"say":"Trini here at the beds. Somethin
+- 09:19 act: {"actions":[{"do":"sleep"}]}
