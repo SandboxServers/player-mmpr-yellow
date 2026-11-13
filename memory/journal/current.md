@@ -879,3 +879,5 @@
 - 09:10 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}]}
 - 09:10 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"porkchop","count":1}],"say":"Zack, sending you a porkchop. Stay safe in the pit.","reasoning":"Zack is hungry at 17 with no food. One porkchop helps 
 - 09:10 act: {"intent":{"goal":"rest_near_beds","program":"rest","arguments":{"bed":{"x":-241,"y":69,"z":343}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
+- 09:11 act: {"say":"Trini here, at the beds with 2 porkchop. Zack, Kimberly: if you can reach the beds, say so and I'll give food.","actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Full h
+- 09:11 act: {"say":"Trini: I have 2 porkchop. Kimberly, if you get hungry, ask and I'll give you one. Zack, same for you.","actions":[],"reasoning":"Holding food for those who ask. Nobody is starving right now."}
