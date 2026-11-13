@@ -1517,3 +1517,17 @@
 - 22:17 act: {"say":"Billy, I'm at -275,65,320 and I can't see you yet. Where are you? I have your wool and I'll hand it over as soon as you're in reach."}
 - 22:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Billy, night has come and I'm going to the bed at -271,67,318. Come within reach there and I'll give you the wool."}
 - 22:20 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. Billy, I'm keeping your wool safe and will give it to you at first light."}
+- 22:21 act: {"say":"Billy, I'm here by the beds. I have your white wool and will hand it over when you're close.","intent":{"goal":"await_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","un
+- 22:21 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"white_wool","count":1}],"say":"Billy, here is your white wool. Goodnight."}
+- 22:22 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"white_wool","count":1}],"say":"Here you go, Billy. Goodnight."}
+- 22:22 act: {"actions":[{"do":"goto","target":{"x":-267,"y":67,"z":319}},{"do":"give","to":"ag_billy_01","item":"white_wool","count":1}],"say":"Stepping back a bit so I can hand it over, Billy."}
+- 22:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 22:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Goodnight, Billy. I will give you the wool at first light.","reasoning":"Night, not enclosed, Billy is abed and will
+- 22:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":315}},{"do":"give","to":"ag_billy_01","item":"white_wool","count":1}],"say":"Billy, here is your white wool. Stay safe from the phantoms.","reaso
+- 22:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":315}}],"reasoning":"Billy is not in my sight yet. Move to a spot near the beds where I can see him, then hand over the wool."}
+- 22:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Billy is out of sight and a phantom is closing in the open. Get into the bed and rest; the wool handover waits
+- 22:23 act: {"actions":[{"do":"goto","target":{"x":-267,"y":67,"z":319}},{"do":"give","to":"ag_billy_01","item":"white_wool","count":1}],"say":"Billy, my pack still shows the white wool, so I will hand it to you 
+- 22:24 say: {"text":"Billy, my pack still shows the white wool. When you are in sight in the morning, tell me and we will sort it out."}
+- 22:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Billy is away from the beds and will meet me there at first light. Wait in the bed area, out of the open."}
+- 22:29 act: {"actions":[{"do":"goto","target":{"x":-243,"y":69,"z":342}}],"say":"Kimberly, I have two mutton. I am coming to you now.","reasoning":"It is day. Kimberly is hungry and low. I have two mutton to shar
+- 22:29 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"mutton","count":2}],"say":"Kimberly, here are two mutton for you."}
