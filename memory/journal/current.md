@@ -492,3 +492,4 @@
 - 00:36 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-215,"y":62,"z":340}}]}
 - 00:36 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}]}
 - 00:37 act: {"actions":[{"do":"goto","target":{"x":-215,"y":62,"z":340}}]}
+- 00:37 act: {"actions":[{"do":"goto","target":{"x":-215,"y":62,"z":340}}],"intent":{"goal":"reach_grove","program":"travel","arguments":{"x":-215,"y":62,"z":340},"wake_on":["goal_completed","unexpected_damage"],"
