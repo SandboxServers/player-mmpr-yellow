@@ -683,3 +683,7 @@
 - 05:42 act: {"intent":{"goal":"shelter_sand_retry","program":"build","arguments":{"blueprint":"shelter","block":"sand"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_
 - 05:46 act: {"intent":{"goal":"shelter_day","program":"build","arguments":{"blueprint":"shelter","block":"sand"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":
 - 05:47 say: {"text":"Trini here, at -235,52,348. Shelter placement fails after one block for me too. Has anyone found a way that works?"}
+- 05:59 act: {"say":"Trini here, still at -235,52,348, not enclosed. I'm trying a cobblestone placement one block up to test whether placement works here.","actions":[{"do":"place","block":"cobblestone","at":{"x":
+- 06:03 act: {"say":"Trini here. Thanks Billy. I'm trying the build program with a shelter blueprint in sand, since I carry 28 of it.","intent":{"goal":"shelter_in_pit","program":"build","arguments":{"blueprint":"
+- 06:03 act: {"intent":{"goal":"shelter_in_pit_retry","program":"build","arguments":{"blueprint":"shelter","block":"sand"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world
+- 06:07 act: {"say":"Trini, dawn, still in the pit. Trying unstick, then the shelter build with my 17 sand.","actions":[{"do":"unstick"}],"intent":{"goal":"shelter_at_dawn","program":"build","arguments":{"blueprin
