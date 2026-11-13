@@ -1230,3 +1230,9 @@
 - 17:28 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":353}}],"say":"I'm out at -261,57,351 with 6 dirt and 3 cobblestone. Heading to the farm for food."}
 - 17:28 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":353}}]}
 - 17:28 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-258,"y":60,"z":351}}],"say":"Tommy, thanks. I'll try a cobblestone block above me to climb, the way you did."}
+- 17:33 say: {"text":"Tommy, I'm right beside you at -258,58,351. I have 10 dirt and 2 cobblestone. Is the way open to the farm yet?"}
+- 17:33 act: {"say":null,"intent":{"goal":"hold_and_wait_for_tommy_path","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_
+- 17:33 say: {"text":"Understood, Tommy. I'll dig a step myself to see if I can open a way out."}
+- 17:33 act: {"actions":[{"do":"mine","block":"stone","count":2}],"intent":{"goal":"dig_way_out","program":"gather","arguments":{"block":"stone","count":2},"wake_on":["goal_completed","unexpected_damage","directly
+- 17:33 act: {"actions":[{"do":"goto","target":{"x":-262,"y":68,"z":352}}],"intent":{"goal":"reach_table_and_beds","program":"travel","arguments":{"x":-262,"y":68,"z":352},"wake_on":["goal_completed","unexpected_d
+- 17:34 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"intent":{"goal":"reach_bed","program":"travel","arguments":{"x":-263,"y":67,"z":353},"wake_on":["goal_completed","unexpected_damage","dir
