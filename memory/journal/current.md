@@ -776,3 +776,6 @@
 - 07:48 act: {"intent":{"goal":"climb_out_dirt","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_op
 - 07:50 act: {"say":"Kimberly, I'm still boxed in at -230,62,346. Could you mine a hole in the wall next to me, or drop dirt so I can climb? I have 3 carrots for Zack.","reasoning":"Movement blocked for many attem
 - 07:55 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":68,"z":340}},{"do":"give","to":"ag_billy_01","item":"carrot","count":3}],"say":"Billy, I'm coming with 3 carrots for you.","reasoning":
+- 07:58 act: {"intent":{"goal":"climb_out_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_ope
+- 07:58 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":2},{"do":"goto","target":{"x":-230,"y":64,"z":346}},{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":2},{"d
+- 07:59 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":2},{"do":"goto","target":{"x":-230,"y":64,"z":346}}],"say":"Trini still in the pit at -230,62,346, 
