@@ -1503,3 +1503,5 @@
 - 21:49 act: {"actions":[{"do":"goto","target":{"x":-304,"y":70,"z":336}}]}
 - 21:49 say: {"text":"Billy, I'm about five blocks off now. Stay where you are and I'll hand the wool over from here."}
 - 21:50 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"intent":{"goal":"return_to_beds_with_wool","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["goal_completed
+- 21:59 act: {"actions":[{"do":"note","text":"Dusk at the white beds. Staying here with the wool for Billy until he can be reached safely; a golem is southwest of him."}],"say":"Zack, I'm staying by the white beds
+- 22:00 act: {"say":"Zack, I'll tell Billy. I'll bring the wool at first light.","actions":[{"do":"note","text":"Dusk at white beds (-272,67,319). Zack says he will sleep in a bed tonight and help Billy with wool 
