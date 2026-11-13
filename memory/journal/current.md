@@ -571,3 +571,5 @@
 - 01:14 act: {"say":"Jason, I'm waiting here at -233,57,351. Thank you. Zack, I have 20 cobblestone; I'll bring some to you once I'm out.","reasoning":"Jason is digging toward me, so I stay put. I promise Zack cob
 - 01:14 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"cobblestone","count":6}],"reasoning":"Tommy is two blocks away and needs cobblestone for a pickaxe. I have 20; give 6 and keep the rest for Zack.","
 - 01:15 act: {"say":"Tommy, I'm at -233,57,351 on the birch log. Kimberly is at -223,59,349. Dig to me when ready. I have 20 cobblestone if anyone needs it.","reasoning":"Tommy asked for exact spots. Give them pla
+- 01:25 act: {"say":"I'm not enclosed now, and I'm at full health. Jason, Billy, Tommy, thanks for digging. I have 20 cobblestone for whoever needs it: Kimberly first, then Zack.","intent":{"goal":"rest_until_help
+- 01:25 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"cobblestone","count":10}],"say":"Tommy, I'm giving you 10 cobblestone to dig Kimberly out. I'm keeping 10 for Zack."}
