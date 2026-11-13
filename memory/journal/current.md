@@ -495,3 +495,4 @@
 - 00:37 act: {"actions":[{"do":"goto","target":{"x":-215,"y":62,"z":340}}],"intent":{"goal":"reach_grove","program":"travel","arguments":{"x":-215,"y":62,"z":340},"wake_on":["goal_completed","unexpected_damage"],"
 - 00:38 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"birch_planks"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":40}}}
 - 00:38 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":40}}}
+- 00:39 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
