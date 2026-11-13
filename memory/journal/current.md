@@ -1287,3 +1287,12 @@
 - 18:11 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":1}]}
 - 18:11 act: {"actions":[],"say":"Zack, I think the wheat already went to you; my pack shows none left. Tell me if you still need something."}
 - 18:11 act: {"actions":[],"say":"Good. The wheat went to Billy, so it's his for bread. I have no food now. I'll stay by the beds, and I'll look for food once it's light again."}
+- 18:12 say: {"text":"Trini here. I have no food and no wheat, sorry, Zack and Billy. I've sent a helper out to look for animals and food nearby. I'll share what they find."}
+- 18:12 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":374}}],"reasoning":"Walls block view; move toward grass south to search for animals.","say":"Trini here. I have no food and no wheat, sorry Billy
+- 18:12 act: {"actions":[{"do":"goto","target":{"x":-262,"y":68,"z":376}}],"reasoning":"Head south-east onto open grass to look for animals within sight of the beds."}
+- 18:12 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":392}}],"reasoning":"Keep searching south on open grass for animals."}
+- 18:13 say: {"text":"Zack, I have no food either. The helper I sent is out looking for animals. Let's share what we find."}
+- 18:13 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"x":-271,"y":68,"z":364},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"max_
+- 18:14 act: {"say":"Trini here. I have no food either, only one cobblestone. I'm going to the beds to wait for Zack, and I'll look for food at first light.","intent":{"goal":"reach_beds","program":"travel","argum
+- 18:14 act: {"say":"I'm at the beds now. Jason, wall yourself in and come back to the beds if you can. Keep your health up.","intent":{"goal":"wait_at_beds_for_night","program":"rest","arguments":{},"wake_on":["d
+- 18:18 act: {"say":"Trini here, with no food and no wheat, only one cobblestone. Zack, I'll help plant and tend the seeds. Let's all look for wheat or animals at first light.","intent":{"goal":"wait_for_night_at_
