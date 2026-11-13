@@ -553,3 +553,21 @@
 - 01:10 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}]}
 - 01:10 say: {"text":"Jason, I'm stuck in the pit at -232,58,350 too. I have a pickaxe and cobblestone. Please dig a tunnel toward me if you can."}
 - 01:11 act: {"actions":[{"do":"mine","block":"coal_ore","count":2},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 01:11 act: {"actions":[{"do":"mine","block":"coal_ore","count":3},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}]}
+- 01:11 act: {"actions":[{"do":"goto","target":{"x":-223,"y":59,"z":349}}]}
+- 01:11 act: {"actions":[{"do":"mine","block":"coal_ore","count":1},{"do":"goto","target":{"x":-231,"y":58,"z":350}}]}
+- 01:12 act: {"say":"Trini here, still in a pit at -232,56,351. I'm stacking dirt to climb out. Kimberly, Billy, Jason, I hear you.","reasoning":"Errand sent to worker to climb out. I say where I am so friends can
+- 01:12 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"intent":{"goal":"climb_out_of_pit","program":"build","argume
+- 01:12 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-232,"y":58,"z":351}},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-232,"y":60,"z":351}}]}
+- 01:12 act: {"actions":[{"do":"mine","block":"coal_ore","count":3},{"do":"mine","block":"stone","count":2}],"reasoning":"Worker report says out, but view shows I am still enclosed. Mining coal and stone to open a
+- 01:12 act: {"actions":[{"do":"mine","block":"coal_ore","count":2},{"do":"goto","target":{"x":-231,"y":57,"z":351}},{"do":"mine","block":"coal_ore","count":2},{"do":"goto","target":{"x":-231,"y":58,"z":351}}]}
+- 01:12 act: {"actions":[{"do":"mine","block":"coal_ore","count":1}],"say":"Trini here, still in the pit at -232,56,351. Digging up toward the coal now."}
+- 01:12 act: {"say":"Billy, I'm free of the wall now at -233,56,351 and not enclosed. Stay put, I'll wait here for you. Kimberly, hang on.","reasoning":"Opened a gap by mining coal. Billy is digging toward me; wai
+- 01:13 act: {"actions":[{"do":"goto","target":{"x":-233,"y":57,"z":351}},{"do":"mine","block":"coal_ore","count":1},{"do":"goto","target":{"x":-233,"y":58,"z":351}},{"do":"place","block":"dirt","at":"feet"}]}
+- 01:13 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"coal_ore","count":1},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-233,"y":57,"z":351}}]}
+- 01:13 act: {"say":"Hi, I'm Trini. I'm stuck in this pit, but I'm glad you're close. No rush.","reasoning":"Tommy Oliver is nearby, a quiet loner. Greet him gently, as my identity says, and do not crowd him."}
+- 01:13 act: {"actions":[{"do":"unstick"}],"say":"Trini: I'm still in the pit at about -232,56,351. Jason, I'm close to you; dig me a side step and I'll follow."}
+- 01:13 act: {"say":"Thank you, Tommy. I'm at -233,57,351 on a birch log, and I'm not enclosed right now. Dig from the side when you can. Zack, keep stacking, you'll get out.","reasoning":"Tommy offered to dig me 
+- 01:14 act: {"say":"Jason, I'm waiting here at -233,57,351. Thank you. Zack, I have 20 cobblestone; I'll bring some to you once I'm out.","reasoning":"Jason is digging toward me, so I stay put. I promise Zack cob
+- 01:14 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"cobblestone","count":6}],"reasoning":"Tommy is two blocks away and needs cobblestone for a pickaxe. I have 20; give 6 and keep the rest for Zack.","
+- 01:15 act: {"say":"Tommy, I'm at -233,57,351 on the birch log. Kimberly is at -223,59,349. Dig to me when ready. I have 20 cobblestone if anyone needs it.","reasoning":"Tommy asked for exact spots. Give them pla
