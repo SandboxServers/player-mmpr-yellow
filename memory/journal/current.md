@@ -675,3 +675,4 @@
 - 05:09 act: {"say":"Trini here, alive at -235,52,348, health and hunger 20. Staying put and waiting for a clear spot to shelter.","intent":{"goal":"hold_and_shelter","program":"rest","arguments":{},"wake_on":["di
 - 05:09 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":6},{"do":"give","to":"ag_kimberly_01","item":"dirt","count":6}],"say":"Kimberly, sending you 6 cobblestone and 6 dirt to sta
 - 05:14 act: {"actions":[{"do":"goto","target":{"x":-236,"y":52,"z":348}},{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":6},{"do":"give","to":"ag_kimberly_01","item":"dirt","count":6}],"say":"Kimb
+- 05:22 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-234,"y":52,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-236,"y":52,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-235,"
