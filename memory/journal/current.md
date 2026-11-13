@@ -667,3 +667,6 @@
 - 04:29 act: {"actions":[{"do":"goto","target":{"x":-235,"y":52,"z":348}},{"do":"place","block":"cobblestone","at":"feet"}],"say":"Billy, Kimberly thinks we may share a block, which blocks placing. I'm stepping to
 - 04:34 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":10},{"do":"give","to":"ag_billy_01","item":"dirt","count":8}],"say":"Billy, sent you 10 cobblestone and 8 dirt. Dig up and shou
 - 04:46 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-235,"y":53,"z":348}},{"do":"unstick"}],"say":"Morning, day 118. Still in the pit at -235,52,348, health 20. Trying a block placed above me."}
+- 04:51 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"say":"Trini here, at -235,52,348, healthy. Trying to place cobblestone at my feet. Billy, I'm not sharing your block, so this should work
+- 04:51 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":8}],"say":"Billy, sending you 8 cobblestone to stack up with. I'm still at -235,52,348, placing has not worked for me yet.","re
+- 04:51 act: {"actions":[{"do":"note","text":"Day 118 morning. At -235,52,348 on stone, not trapped. Placing at feet accepted but no change. Gave Billy 8 cobblestone to climb out. Keeping 12 cobblestone."}],"inten
