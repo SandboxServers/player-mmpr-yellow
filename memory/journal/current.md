@@ -608,3 +608,7 @@
 - 02:13 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-250,"y":68,"z":350}}],"reasoning":"Goto blocked with zero movement; unstick then retry."}
 - 02:13 act: {"intent":{"goal":"shelter_on_granite","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],
 - 02:13 act: {"intent":{"goal":"shelter_on_granite_2","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"
+- 02:18 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limi
+- 02:18 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-234,"y":57,"z":350}},{"do":"place","block":"dirt","at":{"x":-236,"y":57,"z":350}},{"do":"place","block":"dirt","at":{"x":-235,"y":57,"z":349}},{"do"
+- 02:18 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-236,"y":57,"z":350}},{"do":"place","block":"dirt","at":{"x":-235,"y":57,"z":349}},{"do":"place","block":"dirt","at":{"x":-235,"y":57,"z":351}},{"do"
+- 02:18 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":345}}],"reasoning":"Friends are crowding my spot and blocking placements. Get clear and head toward Zack's bed area on open grou
