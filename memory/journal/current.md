@@ -770,3 +770,9 @@
 - 07:39 act: {"actions":[{"do":"goto","target":{"x":-221,"y":61,"z":347}},{"do":"give","to":"ag_zack_01","item":"carrot","count":2}],"say":"Zack, I'm bringing you 2 carrots. Eat them and hold on.","reasoning":"Zac
 - 07:40 act: {"actions":[{"do":"goto","target":{"x":-220,"y":60,"z":348}},{"do":"give","to":"ag_zack_01","item":"carrot","count":3}],"say":"Zack, bringing you my carrots now.","intent":{"goal":"bring_carrots_to_za
 - 07:40 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-220,"y":60,"z":348}},{"do":"give","to":"ag_zack_01","item":"carrot","count":3}],"say":"Billy, I'm taking the carrots to Zack first; he's lower.
+- 07:43 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Try to dig a way free before waiting for dawn."}
+- 07:43 act: {"actions":[{"do":"goto","target":{"x":-220,"y":60,"z":348}},{"do":"give","to":"ag_zack_01","item":"carrot","count":3}],"intent":{"goal":"bring_carrots_to_zack","program":"travel","arguments":{"x":-22
+- 07:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-220,"y":60,"z":348}}],"say":"Zack, morning. Coming to you with the carrots.","reasoning":"Daylight; unstick then walk to Zack."}
+- 07:48 act: {"intent":{"goal":"climb_out_dirt","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_op
+- 07:50 act: {"say":"Kimberly, I'm still boxed in at -230,62,346. Could you mine a hole in the wall next to me, or drop dirt so I can climb? I have 3 carrots for Zack.","reasoning":"Movement blocked for many attem
+- 07:55 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":68,"z":340}},{"do":"give","to":"ag_billy_01","item":"carrot","count":3}],"say":"Billy, I'm coming with 3 carrots for you.","reasoning":
