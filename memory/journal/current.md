@@ -737,3 +737,7 @@
 - 06:56 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-227,"y":65,"z":346}},{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-226,"y":66,"z":346}}],"reasoning"
 - 06:56 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-228,"y":65,"z":346}},{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-227,"y":65,"z":346}}],"reasoning"
 - 06:56 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_compl
+- 06:57 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Trini here, I'm out on dirt at -229,64,347, not enclosed. I have 30 dirt and 13 cobblestone. Tommy, Billy, Jason: tell me exactly which bl
+- 06:57 act: {"actions":[{"do":"goto","target":{"x":-236,"y":60,"z":347}},{"do":"place","block":"dirt","at":{"x":-240,"y":58,"z":347}},{"do":"place","block":"dirt","at":{"x":-241,"y":57,"z":346}}],"say":"Tommy, mo
+- 06:59 act: {"actions":[{"do":"goto","target":{"x":-236,"y":60,"z":347}},{"do":"place","block":"dirt","at":{"x":-240,"y":58,"z":347}},{"do":"place","block":"dirt","at":{"x":-241,"y":57,"z":346}}]}
+- 07:00 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Tommy, I can't walk to you from here; the path west is blocked. I'm building a dirt shelter for the night at -230,63,347 and will drop dir
