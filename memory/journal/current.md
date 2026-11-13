@@ -753,3 +753,14 @@
 - 07:19 act: {"actions":[],"say":"Kimberly, Zack: I can't reach his feet from up here at -230,62,346. If Zack can get to y60 or closer to the rim, I'll drop dirt straight down to him.","reasoning":"Kimberly confir
 - 07:20 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-230,"y":59,"z":351}}],"say":"Zack, dropping dirt at -230,59,351 now.","reasoning":"Zack is 4 below me; one try at the exact spot he asked for."}
 - 07:20 act: {"actions":[],"say":"Zack, the drop timed out. I can't place that far from here. I'm stopping remote drops. You'll need to climb toward the rim where I can reach, or Kimberly can reach you once you're
+- 07:25 act: {"say":"Zack, I'm on the rim above you at -230,62,346. I can't reach your feet from here, so I'm building a dirt shelter for the night and will drop blocks if you climb within reach.","intent":{"goal"
+- 07:25 act: {"actions":[{"do":"sleep"}]}
+- 07:25 act: {"say":"Trini here, on the rim at -230,62,346. Zack, Tommy, Jason: I can't drop blocks onto your heads from up here, so climb toward me if you can. Kimberly is closest with planks.","intent":{"goal":"
+- 07:25 act: {"actions":[{"do":"sleep"}]}
+- 07:29 act: {"say":"Zack, you're at y60 now. Kimberly has planks at the rim and I'm close with dirt. Tell us which block you need and we'll drop it.","intent":{"goal":"help_zack_out","program":"rest","arguments":
+- 07:30 act: {"say":"Tommy, Jason: I'm walking to the rim above your shaft at -239,344 to drop dirt. Hold on.","actions":[{"do":"goto","target":{"x":-238,"y":62,"z":344}},{"do":"place","block":"dirt","at":{"x":-23
+- 07:30 act: {"say":"Jason, my move to the rim over your shaft didn't go through. I'll try a closer spot; if I can't reach, Tommy or Kimberly will have to drop for you.","actions":[{"do":"unstick"},{"do":"goto","t
+- 07:30 act: {"say":"Jason, Tommy: my path west is blocked, so I can't reach your shaft from here. Kimberly and Zack are nearer the rim; please ask them for drops.","intent":{"goal":"hold_position_and_watch","prog
+- 07:31 act: {"say":"Kimberly, I'm giving you 8 dirt so you can drop it onto Jason and Tommy's shaft at -239,49,344. I'm too far to reach from here.","actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","co
+- 07:34 act: {"say":"Billy, I'm trying to reach your head from the rim. If the drop fails, Kimberly is nearest.","actions":[{"do":"place","block":"dirt","at":{"x":-237,"y":58,"z":348}},{"do":"place","block":"dirt"
+- 07:34 act: {"say":"Billy, my remote placement timed out twice, so I can't reach your head from here. Zack and Kimberly are closer to the shaft; please ask them, and keep climbing with your own cobblestone."}
