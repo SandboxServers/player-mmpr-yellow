@@ -831,3 +831,7 @@
 - 08:24 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"I'm falling, so place one block and check."}
 - 08:24 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Golems are close and one is attacking. Move away toward the beds."}
 - 08:24 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-243,"y":66,"z":340}}],"reasoning":"Path north was blocked. Try a different heading, north-east and up, to get clear of the water edge."}
+- 08:29 act: {"actions":[{"do":"goto","target":{"x":-239,"y":52,"z":344}}],"reasoning":"Daylight, health full. Go toward the shaft rim to drop dirt for Jason and Tommy."}
+- 08:29 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"The shaft route is through the water pocket. Return to the beds and stop risking drowning.","say":"Jason, Tommy: the water ro
+- 08:29 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Zack has the dirt run. Get back to the beds and out of the golems' reach."}
+- 08:31 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Still perched on water with a golem near. Try a climb block, then head for t
