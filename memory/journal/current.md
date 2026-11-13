@@ -1354,3 +1354,4 @@
 - 19:32 act: {"actions":[{"do":"goto","target":{"x":-256,"y":67,"z":352}}],"say":"Tommy, I'm fed now, hunger 20. I'm heading to the old farm at -256, 67, 352 to look for a cow. If I see one I'll say where.","inten
 - 19:32 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":362}}],"say":"No cow at the old farm. There's an iron golem to the northeast, so I'm heading back south-west to the beds, away from it."}
 - 19:41 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}],"say":"Night at the beds. I'm going to sleep in the yellow bed here, fed at 20."}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}},{"do":"sleep"}],"reasoning":"It is night, I am at the yellow beds, health and hunger full. Sleep now.","say":"Night is here, so I'm going t
