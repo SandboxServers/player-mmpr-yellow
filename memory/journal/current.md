@@ -1012,3 +1012,11 @@
 - 11:58 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
 - 11:58 act: {"actions":[{"do":"attack","target":"villager"}]}
 - 11:58 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"}]}
+- 12:02 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 12:07 act: {"actions":[{"do":"goto","target":{"x":-218,"y":70,"z":349}}],"say":"Morning. I'm fed for now, so I'll head east on the grass to look for animals and crops for Jason and the others.","reasoning":"Dawn
+- 12:07 act: {"actions":[{"do":"goto","target":{"x":-200,"y":68,"z":349}}],"reasoning":"Off the pillar. Keep heading east over open grass to look for animals and crops for the friends."}
+- 12:07 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-195,"y":69,"z":349}}],"reasoning":"A threat triggered a reflex and my goto was blocked. Unstick, then try a shorter step east."}
+- 12:07 act: {"actions":[{"do":"goto","target":{"x":-185,"y":69,"z":349}}],"reasoning":"Moving east over open grass to look for animals and crops. Friends need food."}
+- 12:07 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-193,"y":70,"z":352}}],"reasoning":"Goto failed at 0 blocks. There's a dropped item just east, maybe food. Unstick and go to it."}
+- 12:07 act: {"actions":[{"do":"goto","target":{"x":-180,"y":70,"z":350}}],"reasoning":"Picked up an oak plank, no food yet. Continue east over the grass to search for animals or crops."}
+- 12:07 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-186,"y":70,"z":346}}],"reasoning":"Trees block the path south. Try a different route northeast around them."}
