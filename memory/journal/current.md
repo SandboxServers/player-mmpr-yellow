@@ -1464,3 +1464,9 @@
 - 21:30 act: {"actions":[{"do":"goto","target":{"x":-279,"y":66,"z":341}}],"say":"Jason, I'm coming toward you, northwest of the golem. Show yourself and I'll hand you the porkchops."}
 - 21:30 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"give","to":"ag_jason_01","item":"porkchop","count":2}],"say":"Jason, here are your two porkchops."}
 - 21:30 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"porkchop","count":2}],"say":"Jason, you lost your pack in the pond, so take these two porkchops now."}
+- 21:31 act: {"say":"Jason, you're welcome. I'm full for now, so I'll go west to the pumpkins and bring some back for the others.","intent":{"goal":"reach_pumpkins","program":"travel","arguments":{"x":-368,"y":64,
+- 21:31 act: {"intent":{"goal":"reach_pumpkins","program":"travel","arguments":{"target":{"x":-368,"y":64,"z":318}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
+- 21:31 act: {"intent":{"goal":"reach_pumpkins_west","program":"travel","arguments":{"target":{"x":-330,"y":64,"z":325}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_t
+- 21:31 act: {"intent":{"goal":"reach_pumpkin_patch","program":"travel","arguments":{"target":{"x":-363,"y":65,"z":323}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_t
+- 21:31 act: {"actions":[{"do":"mine","block":"pumpkin","count":4}],"say":"I'm at the pumpkin patch now, gathering a few for the others. Jason, I'll share what I get."}
+- 21:32 act: {"actions":[{"do":"goto","target":{"x":-366,"y":64,"z":320}},{"do":"mine","block":"pumpkin","count":2}],"intent":{"goal":"gather_pumpkins","program":"gather","arguments":{"block":"pumpkin","count":4},
