@@ -653,3 +653,6 @@
 - 03:33 act: {"intent":{"goal":"climb_out_pit_2","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_
 - 03:34 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-236,"y":54,"z":348}}]}
 - 03:39 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-235,"y":53,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-237,"y":53,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-236,"
+- 03:45 act: {"intent":{"goal":"climb_out_dawn","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_b
+- 03:48 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"x":-241,"y":69,"z":343},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":64}},"a
+- 03:53 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-236,"y":54,"z":348}}]}
