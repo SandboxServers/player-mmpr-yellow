@@ -881,3 +881,5 @@
 - 09:10 act: {"intent":{"goal":"rest_near_beds","program":"rest","arguments":{"bed":{"x":-241,"y":69,"z":343}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
 - 09:11 act: {"say":"Trini here, at the beds with 2 porkchop. Zack, Kimberly: if you can reach the beds, say so and I'll give food.","actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Full h
 - 09:11 act: {"say":"Trini: I have 2 porkchop. Kimberly, if you get hungry, ask and I'll give you one. Zack, same for you.","actions":[],"reasoning":"Holding food for those who ask. Nobody is starving right now."}
+- 09:18 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Something is hitting me in the dusk. Fighting back.","reasoning":"Dusk, unseen attackers around me, not enclosed. Health 18.7. Try to strike the h
+- 09:18 act: {"intent":{"goal":"reach_beds_before_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
