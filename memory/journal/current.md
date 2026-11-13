@@ -450,3 +450,6 @@
 - 23:56 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
 - 23:57 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
 - 00:08 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":12},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4800,"max_block_operations
+- 00:12 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":12},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations
+- 00:13 act: {"actions":[{"do":"unstick"}]}
+- 00:13 act: {"actions":[{"do":"mine","block":"birch_log","count":3}]}
