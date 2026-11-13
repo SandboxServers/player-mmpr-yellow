@@ -589,3 +589,8 @@
 - 01:38 act: {"actions":[{"do":"goto","target":{"x":-272,"y":63,"z":316}}]}
 - 01:38 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
 - 01:42 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
+- 01:44 act: {"say":"Zack, I am still in the coal pit at night. I will carry the cobblestone to you at first light.","intent":{"goal":"rest_in_pit_until_light","program":"rest","arguments":{},"wake_on":["unexpecte
+- 01:48 act: {"intent":{"goal":"deliver_cobblestone_to_zack","program":"travel","arguments":{"target":{"x":-273,"y":63,"z":318}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"ma
+- 01:53 act: {"actions":[{"do":"goto","target":{"x":-227,"y":59,"z":349}}],"say":"Billy, thank you for the cobblestone. I am trying to climb out west now to reach Zack."}
+- 01:53 act: {"intent":{"goal":"deliver_cobblestone_to_zack","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":327}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addr
+- 01:54 act: {"say":"Zack, travel keeps pulling me back into the pit at -232,58,349. I have 19 cobblestone and will try a different route; I will not risk the drop to the west.","intent":{"goal":"hold_safe_near_pi
