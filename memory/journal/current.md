@@ -835,3 +835,6 @@
 - 08:29 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"The shaft route is through the water pocket. Return to the beds and stop risking drowning.","say":"Jason, Tommy: the water ro
 - 08:29 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Zack has the dirt run. Get back to the beds and out of the golems' reach."}
 - 08:31 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Still perched on water with a golem near. Try a climb block, then head for t
+- 08:36 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Still perched after a long wait. Try unstick, then goto the beds once more."}
+- 08:36 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"On dirt path after unstick. Head for the beds before the golems close."}
+- 08:38 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Back in the water pocket at dusk. Unstick and retry the beds."}
