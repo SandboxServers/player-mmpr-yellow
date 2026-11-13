@@ -1505,3 +1505,6 @@
 - 21:50 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"intent":{"goal":"return_to_beds_with_wool","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["goal_completed
 - 21:59 act: {"actions":[{"do":"note","text":"Dusk at the white beds. Staying here with the wool for Billy until he can be reached safely; a golem is southwest of him."}],"say":"Zack, I'm staying by the white beds
 - 22:00 act: {"say":"Zack, I'll tell Billy. I'll bring the wool at first light.","actions":[{"do":"note","text":"Dusk at white beds (-272,67,319). Zack says he will sleep in a bed tonight and help Billy with wool 
+- 22:01 act: {"intent":{"goal":"hold_for_daylight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}},
+- 22:01 act: {"actions":[{"do":"wait","seconds":120}],"intent":{"goal":"wait_for_daylight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 22:02 act: {"say":"Thanks Zack. I'll wait here for light, then go find Billy with the wool.","intent":{"goal":"wait_for_daylight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damag
