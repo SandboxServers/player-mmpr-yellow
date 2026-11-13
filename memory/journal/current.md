@@ -1273,3 +1273,17 @@
 - 18:00 act: {"actions":[],"say":"Billy, thank you. I cannot craft bread myself, so please keep your 2 wheat for Tommy's table, and tell Tommy I am waiting here. Any bread that comes, I will take."}
 - 18:00 act: {"actions":[],"say":"Thank you Billy, I have 2 wheat now. Bread needs 3 wheat, so Tommy's bread or one more wheat would finish it. I will wait here at the beds."}
 - 18:01 act: {"actions":[],"say":"Tommy, bring the bread to the beds when you can. I'll trade my 2 wheat for it, or give it to whoever is hungriest. Billy is here with hunger 16 too.","reasoning":"Night at the bed
+- 18:07 say: {"text":"Trini at the beds. I have 2 wheat. Zack, Billy, if either of you can reach me, say so and I'll hand it over. Tommy, bring the bread here at first light."}
+- 18:07 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wheat","count":2}],"say":"Billy, here are my 2 wheat. Make bread at the table, and share it with Zack."}
+- 18:07 say: {"text":"Trini here. My give to Billy failed, he is not in sight. I'm still holding 2 wheat. Zack, when you reach the beds, say so and I'll hand it to you, since you're hungrier."}
+- 18:08 act: {"actions":[],"say":"Billy, my earlier give did not go through, so I'm still holding 2 wheat. Come into sight and I'll hand it over. Zack, the same goes for you."}
+- 18:08 say: {"text":"Zack, good, come to the beds and I'll hand you the 2 wheat as soon as you're in sight. You're the hungriest, so you get it first."}
+- 18:10 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, giving you my 2 wheat now."}
+- 18:10 act: {"actions":[{"do":"goto","target":{"x":-270,"y":68,"z":362}}],"say":"My gives fail because I can't see you. I'm walking to the beds at -273,68,364 to hand over the wheat in person."}
+- 18:10 act: {"actions":[{"do":"goto","target":"ag_zack_01"},{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, you're hungrier, so the 2 wheat is yours. Coming to you now."}
+- 18:10 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":362}}],"say":"Jason, thank you. Zack, I'm near the beds with the 2 wheat for you. Say when you're close enough and I'll hand it over."}
+- 18:10 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}],"say":"It's dark. I'm going to bed by the beds. Zack, Billy, the 2 wheat is still here for whoever is closest when you wake
+- 18:11 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, here are the 2 wheat. You're the hungriest, so they're yours."}
+- 18:11 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":1}]}
+- 18:11 act: {"actions":[],"say":"Zack, I think the wheat already went to you; my pack shows none left. Tell me if you still need something."}
+- 18:11 act: {"actions":[],"say":"Good. The wheat went to Billy, so it's his for bread. I have no food now. I'll stay by the beds, and I'll look for food once it's light again."}
