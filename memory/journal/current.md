@@ -501,3 +501,11 @@
 - 00:41 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
 - 00:43 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"sleep"}]}
 - 00:45 act: {"actions":[{"do":"unstick"}]}
+- 00:46 act: {"intent":{"goal":"go_to_beds","program":"travel","arguments":{"x":-282,"y":69,"z":371},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations":100}}}
+- 00:46 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
+- 00:47 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-282,"y":69,"z":371}}],"reasoning":"Get out of pit first: unst
+- 00:47 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-226,"y":61,"z":350}},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","t
+- 00:47 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-225,"y":59,"z":350}},{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-224,"y":59,"z":350}},{"do":"unsti
+- 00:47 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-225,"y":59,"z":350}},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-225,"y":60,"z":350}}],"reasoni
+- 00:47 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-282,"y":69,"z":371}}],"reasoning":"One more unstick and travel attempt before reporting back."}
+- 00:47 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-224,"y":59,"z":350}}]}
