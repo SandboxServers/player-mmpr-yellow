@@ -1427,3 +1427,5 @@
 - 20:59 act: {"actions":[{"do":"sleep"}]}
 - 20:59 act: {"actions":[{"do":"goto","target":{"x":-280,"y":69,"z":291}},{"do":"sleep"}]}
 - 21:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Night is here. I'm going to bed at my white bed. Food is short for everyone, so we'll look for animals at first light."}
+- 21:01 act: {"say":"Kimberly, I'm here by the white beds. Zack, thank you for the pork and the pumpkins. I have no food either. We look for cows and sheep at first light.","actions":[{"do":"goto","target":{"x":-2
+- 21:01 act: {"actions":[{"do":"sleep"}]}
