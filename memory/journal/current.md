@@ -905,3 +905,15 @@
 - 09:52 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Out of water on stone; finish the goto to the beds."}
 - 09:52 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Goto stalled at -246,63,344; unstick then retry."}
 - 09:52 act: {"actions":[],"say":"Trini here: I hold 11 cobblestone. I'm stuck at -246,63,344 on stone at the pool edge, not at the beds yet. Goto keeps reporting success without moving me.","reasoning":"Errand pa
+- 09:53 act: {"actions":[{"do":"goto","target":{"x":-241,"y":67,"z":347}}],"reasoning":"Leave the pool edge for dry ground near the beds, away from deep water."}
+- 09:53 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":67,"z":347}}],"reasoning":"Blocked by water and stone. Unstick, then try the walk back again."}
+- 09:54 act: {"actions":[{"do":"goto","target":{"x":-241,"y":67,"z":346}}],"say":"Going back to the beds, away from the water.","reasoning":"Last goto moved only 0.2 blocks. Try a nearby dry target to get off the 
+- 09:54 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":67,"z":346}}],"say":"Zack, thank you. I'm stuck at the pool edge; I'm trying to reach the beds now.","reasoning":"Zack offers 13 cobble
+- 09:54 act: {"actions":[{"do":"goto","target":{"x":-244,"y":64,"z":346}},{"do":"goto","target":{"x":-242,"y":67,"z":344}}],"reasoning":"Now on stone, not perched. Try shorter hops toward the beds."}
+- 09:55 act: {"actions":[{"do":"goto","target":{"x":-243,"y":66,"z":350}},{"do":"goto","target":{"x":-241,"y":67,"z":348}}],"reasoning":"Pool is north and east of me; try going around via the south-east side to th
+- 09:55 act: {"actions":[{"do":"unstick"}],"say":"I'm stuck on the water's edge at -245,62,349. Zack, Tommy, if you can, come to the shore by the signs and throw me a block path. I can't get to the beds.","reasoni
+- 09:55 act: {"actions":[{"do":"goto","target":{"x":-241,"y":67,"z":346}}],"reasoning":"One more try toward the beds; if it fails, wait for help."}
+- 09:58 act: {"actions":[{"do":"goto","target":{"x":-241,"y":68,"z":346}}],"reasoning":"Dusk is falling. I'm on stone, not perched. Try the beds again before night."}
+- 09:59 act: {"actions":[],"say":"Billy, thanks. I'm at -244,63,346 on stone at the pool's edge, and the beds are out of reach. Could you drop 12 cobblestone for me? I'll wall myself in here with 23 cobble.","reas
+- 09:59 act: {"actions":[],"say":"Billy, nothing reached me yet. I'm on the stone at -244,63,346 and I can't cross the water to you. Stay safe in your pit; I'll hold here and wall myself in with my 11 cobblestone.
+- 10:00 act: {"actions":[{"do":"goto","target":{"x":-244,"y":63,"z":348}}],"say":"Thank you Tommy, I see the cobble on the ground to the south. Picking it up.","reasoning":"Tommy dropped cobblestone two blocks sou
