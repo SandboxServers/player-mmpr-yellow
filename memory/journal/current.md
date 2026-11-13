@@ -644,3 +644,7 @@
 - 03:20 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":1}],"reasoning":"Try to get free by a sideways step and a single stone mine for room."}
 - 03:21 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"I'm out of the pit. Heading to the beds.","reasoning":"Out of the pit, perched and not enclosed. Going to the beds for food and she
 - 03:21 act: {"actions":[{"do":"goto","target":{"x":-236,"y":54,"z":346}}],"reasoning":"Long goto failed. Trying a short step first."}
+- 03:25 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Dawn. Heading to the beds now.","reasoning":"Dawn. Retrying the walk to the beds for food and rest."}
+- 03:28 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":10},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Kimberly, sending you 10 dirt. I'm out and heading to the beds.","reas
+- 03:28 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Previous attempts did not move me. Trying unstick then the walk again."}
+- 03:29 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Billy, I'm climbing out toward the beds. Tell me if you need anything.","reasoning":"Still at y 52, goto was blocked. Retrying the 
