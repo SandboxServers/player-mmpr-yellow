@@ -1088,3 +1088,19 @@
 - 14:04 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Night is here and I'm nearly out of cobblestone-and-dirt shelter options, so I'm going to the yellow bed to sleep. T
 - 14:04 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"First sleep attempt left me still standing; retry once from the bed's cell."}
 - 14:04 act: {"actions":[{"do":"sleep"}],"say":"The bed won't let me reach it from here, so I'll try resting where I stand. Nobody is in sight.","reasoning":"Goto to the bed moved me 0 blocks; sleeping here, no mo
+- 14:05 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"reasoning":"Night, not enclosed. Bed is adjacent; reach it and sleep sheltered.","say":"It's night. I'm going to the bed to the west to r
+- 14:05 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed adjacent but goto fails. Try sleep in place; night, no threats visible."}
+- 14:09 act: {"actions":[],"say":"Morning, Zack. I'm at the beds by -262,67,354. I have no food myself, only stone, dirt and a little birch wood. Come here and we'll find some together.","reasoning":"Zack is hungr
+- 14:10 act: {"intent":{"goal":"reach_zack_pit","program":"travel","arguments":{"x":-199,"y":64,"z":352},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":3000,"max_
+- 14:12 act: {"actions":[{"do":"goto","target":{"x":-199,"y":65,"z":351}}],"say":"Zack, Billy, Jason: I'm walking east toward Zack's pit now with dirt and stone.","reasoning":"Previous travel intent did not start.
+- 14:12 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-198,"y":65,"z":353}},{"do":"place","block":"dirt","at":{"x":-198,"y":66,"z":353}}],"say":"Zack, I'm at your pit's edge and placing dirt up beside yo
+- 14:14 act: {"actions":[],"say":"Zack, I'm right here at -198,67,352, on the grass beside you. Good that you're out. I have dirt and stone if you need to block anything.","reasoning":"Zack asked where I am. Tell 
+- 14:15 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-197,"y":63,"z":352}},{"do":"place","block":"dirt","at":{"x":-197,"y":64,"z":352}},{"do":"place","block":"dirt","at":{"x":-197,"y":65,"z":352}}],"say
+- 14:15 act: {"actions":[{"do":"mine","block":"dirt","count":2}],"say":"Zack, mining the dirt east of you now.","reasoning":"Zack needs the east side opened so he can walk out. Mine dirt nearby."}
+- 14:15 act: {"actions":[],"say":"Zack, I opened a dirt block on your east side. Try to walk out east now.","reasoning":"Tell Zack the east block is mined so he can climb out."}
+- 14:18 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"x":-262,"y":67,"z":354},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":3000,"max_
+- 14:22 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-197,"y":67,"z":352}},{"do":"place","block":"cobblestone","at":{"x":-199,"y":67,"z":352}},{"do":"place","block":"cobblestone","at":{"x":-198,"
+- 14:26 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"say":"Morning. I'm heading to the beds to meet Billy, Zack and Tommy. I have no food, but I'll help where I can.","reasoning":"Dawn, no t
+- 14:26 act: {"actions":[{"do":"note","text":"Day 147 dawn: reached beds at -240,69,344. Billy and Kimberly here. I have no food; carry 10 cobblestone, 5 dirt."}],"say":"Billy, Kimberly, I'm here. I have no food, 
+- 14:27 act: {"actions":[],"say":"Zack, good that you're out. Nobody here has food yet. Jason has 2 wheat for Billy at first light. Let's find seeds or animals next.","reasoning":"Share what I know. Food is the sh
+- 14:40 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-241,"y":69,"z":344}},{"do":"place","block":"cobblestone","at":{"x":-239,"y":69,"z":344}},{"do":"place","block":"cobblestone","at":{"x":-240,"
