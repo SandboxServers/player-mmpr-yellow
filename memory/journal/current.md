@@ -76,3 +76,5 @@
 - 13:22 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Goodnight. I'm trying the white bed at -298,68,295 next to Jason. Kimberly, I have only 7 planks left, so I cannot s
 - 13:22 act: {"actions":[{"do":"goto","target":{"x":-282,"y":70,"z":309}},{"do":"sleep"}],"reasoning":"Last wait's goto was blocked by a running action. Retry now with the free bed at -282,70,309."}
 - 13:22 act: {"intent":{"goal":"rest_till_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_block_operations":4}},
+- 13:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Night. I'm going into the white bed beside Jason. Tommy, stay in sight of the beds.","reasoning":"Night, dim light, 
+- 13:24 act: {"actions":[{"do":"sleep"}],"reasoning":"Walking into the bed failed (it changed nothing). I'm adjacent to it, so try sleep from here."}
