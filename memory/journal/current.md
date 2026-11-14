@@ -1762,3 +1762,10 @@
 - 05:37 act: {"say":"No sheep left here, so I'm heading back to the beds for the night. Billy, Jason, Tommy, Zack: we meet at the beds and sleep there.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":339}}]
 - 05:37 act: {"say":"I'm at the beds now. Going to sleep here for the night.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}}],"intent":{"goal":"reach_beds_for_night","program":"travel","arguments":{"t
 - 05:37 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}}]}
+- 05:38 act: {"say":"Trini here, at the beds. I have 24 dirt and no food, hunger is full. Heading to the sheep spot at (-299,66,262) to look for sheep and salmon.","intent":{"goal":"reach_sheep_spot","program":"tr
+- 05:38 act: {"intent":{"goal":"reach_sheep_spot","program":"travel","arguments":{"target":{"x":-299,"y":66,"z":262}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
+- 05:38 act: {"say":"Trini at the lake sheep spot (-299,66,263). No sheep in sight yet. I have 24 dirt to share if anyone needs it."}
+- 05:39 act: {"say":"No sheep here at the lake spot now. Night is coming, so I'm heading back to the beds to sleep. Will look for sheep at first light.","intent":{"goal":"return_to_beds","program":"travel","argume
+- 05:39 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Heading to bed for the night. First light, we go to the lake sheep together."}
+- 05:40 act: {"actions":[{"do":"sleep"}]}
+- 05:40 act: {"actions":[{"do":"sleep"}]}
