@@ -41,3 +41,4 @@
 - 06:42 act: {"actions":[{"do":"sleep"}]}
 - 06:42 say: {"text":"Morning-ish, Zack. Thanks, I'll take you up on first light food. I'm going to bed now beside the yellow beds."}
 - 06:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
+- 06:43 act: {"say":"Morning is near. I am going to the bed to the west to rest. Food first when light comes.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
