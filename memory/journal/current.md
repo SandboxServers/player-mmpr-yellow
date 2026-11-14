@@ -1722,3 +1722,4 @@
 - 02:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Dusk, no food needed yet (hunger 20), no errand running, others are heading to beds. Take the white bed here a
 - 02:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Kimberly, I hear you. I'm going to bed by the white beds now."}
 - 02:00 act: {"actions":[{"do":"sleep"}]}
+- 02:02 act: {"actions":[{"do":"sleep"}],"say":"Night is here. Sleeping by the white beds. Zack, Billy, see you at first light."}
