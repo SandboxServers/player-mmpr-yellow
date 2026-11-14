@@ -9,3 +9,10 @@
 - 16:33 act: {"say":"Jason, Zack: I'm going to the dry grass south-west at -285, 66, 339 to look for animals. Calling out any I see.","intent":{"goal":"scout_dry_grass_sw","program":"travel","arguments":{"target":
 - 16:33 act: {"say":"Iron golems are closing in from the south, about 17 blocks. I'm turning back to the white beds. Scouting south-west is off for now.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}
 - 16:34 act: {"say":"Trini here, back at the white beds with the group. Health 20, hunger 20, no food. I'm holding here until the golems clear, then I'll scout the dry grass with whoever is ready. Kimberly first f
+- 16:35 act: {"say":"Trini here at the white beds, health 20, hunger 20. No golems in sight now. I'm heading to the dry grass south-west to scout with the group. Call any animal you see.","intent":{"goal":"scout_d
+- 16:35 act: {"say":"Trini at the dry grass edge, -285,66,338. Iron golems are close: one 2 blocks east, others south-east. I won't go closer. Tommy, are you with me?","intent":{"goal":"hold_clear_of_golems","prog
+- 16:39 act: {"say":"Trini: dusk, no animals seen. Heading north to the white bed at -282,67,320 for the night, away from the golems.","intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target
+- 16:39 act: {"actions":[{"do":"sleep"}],"say":"Trini: at -283,67,320 for the night. Bed here seems taken, so I'll try a sleep here. Health 20, hunger 20."}
+- 16:40 act: {"actions":[{"do":"sleep"}]}
+- 16:40 act: {"actions":[{"do":"sleep"}],"say":"Trini: night, I'm in a walled pocket at -258,68,352 by the water. Trying to sleep here."}
+- Day 225 summary: no food found; golems roam south and east of the beds all day. Beds at the white and yellow groups were often taken, so sleep failed at several. My sleep finally worked in a yellow bed near -263,67,353. Lesson: try a free bed early at dusk, and don't leave the beds in the evening with golems about. Still no sword; Zack and Jason are scouting too. Meat still goes to Kimberly first.
