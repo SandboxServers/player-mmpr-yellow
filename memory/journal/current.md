@@ -116,3 +116,5 @@
 - 22:15 act: {"actions":[{"do":"wait","seconds":240}],"say":"Thank you, Billy and Tommy. I'm staying at the beds. Sheep field news noted; mutton to me or Riker first."}
 - 22:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini here, night of day 242. Health 3, hunger 11. Trying the white bed at -271,67,318 with the group. Chicken to me
 - 22:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night, group at the white beds, no monsters in view now. Try the bed again; hunger 11 means chicken still wait
+- 22:30 act: {"say":"Trini here, morning of day 243. Health 3, hunger 11, holding the chicken until hunger is 6, then I eat it. Riker is next for food. I'm staying at the beds with the group.","intent":{"goal":"ho
+- 22:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
