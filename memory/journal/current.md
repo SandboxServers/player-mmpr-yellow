@@ -21,3 +21,8 @@
 - 06:31 act: {"say":"Everyone, I have no food either, only dirt and planks. Billy gets the first share of Tommy's wheat and pumpkins, as agreed. I've sent a worker out to look for chickens within 30 blocks of the 
 - 06:31 act: {"actions":[{"do":"goto","target":{"x":-236,"y":68,"z":412}}]}
 - 06:35 act: {"say":"No food from me either. Tommy's wheat seeds could go in the ground if we find a hoe, so keep an eye out for tools. I'll walk the south-east edge toward the chicken spot now and call out anythi
+- 06:35 act: {"say":"Southeast run is done. No chickens here. A creeper is 9 blocks north-east of me, so I'm keeping my distance.","intent":{"goal":"hold_clear_of_creeper","program":"travel","arguments":{"target":
+- 06:35 act: {"say":"Zack, I'm coming to the wall to stand with you. I have no food, only dirt and planks.","intent":{"goal":"join_group_at_wall","program":"travel","arguments":{"target":{"x":-222,"y":69,"z":412}}
+- 06:35 act: {"say":"Thanks, Jason. I'm at the wall with you now. Zack, Billy, stay close to me. I'll keep watch on the north-east side.","intent":{"goal":"keep_watch_at_wall","program":"rest","arguments":{},"wake
+- 06:35 act: {"say":"I'm going to check the dropped item north-east at -216, 68, 403. If it's food I'll bring it to the wall.","intent":{"goal":"check_dropped_item_northeast","program":"travel","arguments":{"targe
+- 06:35 act: {"say":"The drop was only leaf litter, no food. Zack, your health is rising, good. I'm heading back to the wall.","intent":{"goal":"return_to_wall_group","program":"travel","arguments":{"target":{"x":
