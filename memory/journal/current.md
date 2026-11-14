@@ -1706,3 +1706,17 @@
 - 01:42 act: {"actions":[{"do":"eat"}],"say":"Thank you, Billy. Eating the beef now."}
 - 01:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Fed now, thanks to Billy. Going to bed by the yellow beds."}
 - 01:43 say: {"text":"Trini here, heading to sleep in the white bed beside me. Hunger is full. I'll help look for animals at first light."}
+- 01:44 say: {"text":"Trini here. I'm by the white beds at -270, 67, 337. I'll look north-west for cows and sheep at first light, and call out if I find one."}
+- 01:44 say: {"text":"Billy, good, I'm at the white beds. Let's search north-west together for cows and sheep, and call out if we see one."}
+- 01:45 say: {"text":"Morning. Trini here, going north-west now to look for cows and sheep. I'll call out if I see one."}
+- 01:45 act: {"intent":{"goal":"search_northwest_animals","program":"travel","arguments":{"x":-300,"y":67,"z":300},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":
+- 01:45 act: {"intent":{"goal":"search_northwest_animals","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":300}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wo
+- 01:45 say: {"text":"Trini here. My walk north-west failed and it's getting dim, so I'll stay by the white beds tonight. We search at first light, and I'll call out if I see an animal."}
+- 01:49 say: {"text":"Trini here. I have no food either, sorry Tommy. I'll search due west of the beds, away from the water and the drowned, and call out if I find a cow, sheep or crop."}
+- 01:49 act: {"intent":{"goal":"search_west_animals","program":"travel","arguments":{"target":{"x":-310,"y":67,"z":337}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_t
+- 01:51 say: {"text":"Zack, good find. Trini here, I'm heading east toward your cow at -208, 72, 285 now."}
+- 01:51 act: {"intent":{"goal":"reach_zack_cow","program":"travel","arguments":{"target":{"x":-210,"y":72,"z":285}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
+- 01:51 say: {"text":"Trini here. My walk east got blocked by drops near -304, 71, 336. I'm not hungry, so Tommy and Jason, take the beef and the cow. I'll head back toward the white beds and look out for more ani
+- 01:51 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":338}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_
+- 01:55 say: {"text":"Trini here, at the white beds. The cow is gone, so no meat from me, but I'll keep looking near the beds. Tommy, I hope you get the beef from Kimberly."}
+- 02:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Dusk, no food needed yet (hunger 20), no errand running, others are heading to beds. Take the white bed here a
