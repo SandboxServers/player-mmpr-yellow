@@ -1656,3 +1656,21 @@
 - 01:13 act: {"actions":[{"do":"goto","target":{"x":-340,"y":64,"z":300}}],"reasoning":"Surrounded by water on a sand island and the salmon left view. Head back to the dry land I came from and look again for land 
 - 01:13 act: {"actions":[{"do":"goto","target":{"x":-362,"y":64,"z":306}}],"intent":{"goal":"explore_west_for_animals","program":"travel","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected
 - 01:13 act: {"actions":[{"do":"goto","target":{"x":-368,"y":64,"z":330}}],"say":"Going south-west, there is a drop to the west. Still no animals. Zack, Kimberly, anyone who sees animals, tell me where."}
+- 01:14 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}}],"reasoning":"Walk to the yellow beds as the errand says."}
+- 01:15 say: {"text":"Zack, Kimberly, Jason: I'm heading to the yellow beds now to meet you and the trader. I have 6 planks and 13 wheat seeds to trade for food. No animals found on my side."}
+- 01:15 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}}]}
+- 01:15 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}}]}
+- 01:15 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}}]}
+- 01:15 act: {"actions":[{"do":"goto","target":{"x":-300,"y":68,"z":316}}],"say":"Iron golems closing in from the south-east. Backing off north-west."}
+- 01:15 say: {"text":"I'm at the yellow beds now (-264, 66, 349). I have 6 planks and 13 wheat seeds. No food yet. Where is the trader? An iron golem is wandering nearby, so keep clear of it."}
+- 01:15 act: {"actions":[{"do":"goto","target":{"x":-240,"y":67,"z":365}}],"reasoning":"Nothing visible at the beds. Search south-east within range for animals."}
+- 01:15 say: {"text":"Searching south-east of the beds for animals. Will report."}
+- 01:15 act: {"actions":[{"do":"goto","target":{"x":-232,"y":67,"z":352}}],"reasoning":"Nothing edible seen yet. Keep searching east, away from the golem."}
+- 01:15 act: {"actions":[{"do":"goto","target":{"x":-252,"y":67,"z":374}}],"reasoning":"No animals yet. One more search to the south, still within 40 blocks."}
+- 01:16 act: {"actions":[{"do":"goto","target":{"x":-285,"y":67,"z":340}}],"intent":{"goal":"find_and_kill_animal_west","program":"travel","arguments":{"target":{"x":-285,"y":67,"z":340}},"wake_on":["goal_complete
+- 01:17 act: {"actions":[{"do":"goto","target":{"x":-302,"y":67,"z":348}}],"say":"Tommy, no salmon seen. I'm searching west, away from the golem."}
+- 01:18 act: {"actions":[{"do":"goto","target":{"x":-305,"y":67,"z":325}}]}
+- 01:18 act: {"actions":[{"do":"goto","target":{"x":-305,"y":67,"z":325}}]}
+- 01:18 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"search_northwest_animals","program":"travel","arguments":{"target":{"x":-305,"y":67,"z":325}},"wake_on":["goal_completed","directly_addressed","unexpect
+- 01:19 act: {"actions":[],"say":"Jason, Zack, no food found in the west. No animals seen, only a golem and villager near -275,335. Hunger 16."}
+- 01:19 act: {"intent":{"goal":"walk_to_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":354}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
