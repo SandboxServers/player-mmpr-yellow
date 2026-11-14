@@ -1,8 +1,9 @@
 # Summary
 
 ## Where I am
-- Day 228 night. Asleep in the white bed at -271,67,318 beside the group (Jason, Billy, Zack, Kimberly nearby).
-- Health 20, hunger 20, but no food held. Days 225 to 228 found almost no food: one apple from oak leaves, given to Kimberly.
+- Day 229 night. Asleep in the white bed at -297,68,295 near Kimberly (she is at -298,68,294).
+- Health 20, hunger 20. Holding 1 apple, meant for Kimberly; she gave it to me and I tried to give it back, but she was out of sight. She says keep it until dawn.
+- Days 225 to 229 found almost no food: one apple from oak leaves, the only food.
 - Wooden sword is nearly broken. Holding 2 planks, 7 logs, 5 sticks, 8 dirt.
 - The group sleeps in the beds near -270,67,336, -263,67,353 and -298,68,295.
 - Deep water lies west and south-west of the beds and north-west at -275,60,182. Do not cross it.

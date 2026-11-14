@@ -86,3 +86,5 @@
 - 18:00 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"apple","count":1}],"say":"Kimberly, I'm coming to you with my apple. Hunger is 20 for me, so you need it 
 - 18:00 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, I can't see you. I'm at the white bed by -297,68,295 with my apple; come find me."}
 - 18:00 act: {"actions":[{"do":"sleep"}]}
+- 18:01 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"apple","count":1},{"do":"sleep"}],"say":"Kimberly, I'm full, so the apple is yours. Eat it. Goodnight.","intent":{"goal":"rest_night","program":"
+- 18:02 act: {"actions":[{"do":"sleep"}],"say":"Kimberly, I'll keep the apple for you. Find me at dawn and I'll hand it over."}
