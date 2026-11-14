@@ -67,3 +67,7 @@
 - 13:19 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}}]}
 - 13:19 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
 - 13:19 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":292}},{"do":"sleep"}],"say":"Jason, goodnight. I'm going into the yellow bed at -274,69,292, close to you. I still hold one mutton for Zack.","re
+- 13:20 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":292}},{"do":"sleep"}],"say":"Goodnight. I'm trying the yellow bed next to me. Zack, I still hold the mutton for you."}
+- 13:20 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_address
+- 13:20 act: {"intent":{"goal":"finish_shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_
+- 13:21 act: {"intent":{"goal":"close_west_wall","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed
