@@ -1629,3 +1629,5 @@
 - 00:30 act: {"say":"Tommy, I'm coming to you at -185, 67, 460. I have no food, but I can share what I can; Kimberly needs it more.","actions":[{"do":"goto","target":{"x":-185,"y":67,"z":460}}]}
 - 00:30 act: {"say":"Tommy, I'm here with you. I have no food. Please share one beef with whoever is hungriest first, then me if there's enough. I'll keep watch for the zombie."}
 - 00:39 act: {"say":"Night is coming. I'm heading back to my yellow beds at -263, 67, 354 to sleep. Stay safe, all of you.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
+- 00:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Night. Trying the yellow bed again, hunger 17, health 20.","reasoning":"Sleep failed due to monsters nearby; entitie
+- 00:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Goto failed because I am already next to the bed. Sleep from here."}
