@@ -1732,3 +1732,13 @@
 - 05:13 act: {"say":"Trini here, awake at -305, 69, 330. I have no food and need to find some. Does anyone know where food is?","intent":{"goal":"look_for_food","program":"travel","arguments":{"x":-300,"y":69,"z":
 - 05:13 act: {"actions":[{"do":"goto","target":{"x":-300,"y":69,"z":326}}]}
 - 05:13 act: {"say":"Kimberly, it's Trini. I'm at -300, 69, 327 with no food either. I'll come toward the old beds and meet you there.","actions":[{"do":"goto","target":{"x":-299,"y":69,"z":329}}]}
+- 05:13 act: {"say":"Trini here. Tommy, I have no food either, but I have wheat seeds. I'm heading north to the old farm with you.","actions":[{"do":"goto","target":{"x":-300,"y":69,"z":300}}]}
+- 05:13 act: {"say":"Kimberly, Trini here. I'm coming to the old beds at -263, 67, 353 to meet you. I need a bed too.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
+- 05:13 act: {"say":"Trini is here at the old beds. Jason, Billy, Tommy, Kimberly: I have 13 wheat seeds and 17 dirt. Let's plant wheat at the old farm and find food together.","actions":[{"do":"note","text":"Day 
+- 05:14 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":353}},{"do":"give","to":"ag_tommy_01","item":"wheat_seeds","count":13}],"say":"Tommy, sending you my 13 wheat seeds for the farm. Plant them near
+- 05:14 act: {"actions":[{"do":"goto","target":{"x":-257,"y":68,"z":350}},{"do":"give","to":"ag_tommy_01","item":"wheat_seeds","count":13}]}
+- 05:15 act: {"actions":[{"do":"note","text":"Gave 13 wheat seeds to Tommy at the old farm. Hunger 18, no food in pack."}],"say":"Tommy, the wheat seeds are yours now. Kimberly, could you spare that apple? I'm hun
+- 05:15 act: {"actions":[{"do":"eat"}],"say":"Thank you, Kimberly. I'll keep clear of that iron golem. Tommy, I haven't tilled soil either; a hoe on dirt should do it, I'll try with my stone hoe."}
+- 05:15 act: {"actions":[],"say":"I've eaten the apple, so I'm steadier now. I'll search south and west for animals or berries, away from the golem."}
+- 05:16 act: {"actions":[{"do":"goto","target":{"x":-248,"y":67,"z":366}}],"say":"Billy, I don't have a hoe anymore, sorry. I'll search south-east for animals and berries, away from Kimberly and the golem."}
+- 05:21 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}},{"do":"sleep"}],"say":"Trini here, night, going to the old bed at -263,67,354. No food yet; I'll look at first light."}
