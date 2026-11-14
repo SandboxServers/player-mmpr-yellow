@@ -1601,3 +1601,5 @@
 - 23:56 act: {"say":"Tommy, I still owe you back that mutton. Kimberly, the sheep are near here, so I'll look for food with you.","reasoning":"Schema rejected intent wake_on values. Retry with valid wake_on set.",
 - 23:56 act: {"actions":[{"do":"unstick"}],"say":"Jason, we're here by the oak logs. Where are the sheep from you?","reasoning":"The sheep travel finished without moving me. Unstick first, and ask Jason where he i
 - 23:57 act: {"say":"Kimberly, I'm with you. Let's look for sheep together, and whoever sees one calls out. Tommy, I still owe you the mutton; I'll bring it back when I have it.","reasoning":"Agreed to search toge
+- 00:00 act: {"say":"Kimberly, Tommy, Jason: no sheep in view here yet. Night is coming and I have 15 oak planks, so I'll build a wall near here for shelter.","intent":{"goal":"shelter_for_night","program":"build"
+- 00:00 act: {"say":"Kimberly, I'm heading to the yellow beds at -263,67,353 now.","intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addr
