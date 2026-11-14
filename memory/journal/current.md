@@ -1603,3 +1603,11 @@
 - 23:57 act: {"say":"Kimberly, I'm with you. Let's look for sheep together, and whoever sees one calls out. Tommy, I still owe you the mutton; I'll bring it back when I have it.","reasoning":"Agreed to search toge
 - 00:00 act: {"say":"Kimberly, Tommy, Jason: no sheep in view here yet. Night is coming and I have 15 oak planks, so I'll build a wall near here for shelter.","intent":{"goal":"shelter_for_night","program":"build"
 - 00:00 act: {"say":"Kimberly, I'm heading to the yellow beds at -263,67,353 now.","intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addr
+- 00:01 act: {"reasoning":"Night, sleep failed by timeout. Beds are 27 west at -263,67,353. Go there and sleep.","say":"Heading to the yellow beds to sleep.","intent":{"goal":"reach_yellow_beds","program":"travel"
+- 00:01 act: {"reasoning":"At beds, night, health steady, hunger 20. Sleep.","actions":[{"do":"sleep"}]}
+- 00:02 act: {"reasoning":"Sleep timed out twice and I got moved 26 west of the beds. Return to the bed and try once more.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 00:03 act: {"reasoning":"Sleep has timed out three times and each time I drift off. Stop retrying sleep; stand at the beds and wait for light.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
+- 00:11 act: {"reasoning":"Morning, day 176. I have no food to spare; hunger 20. Zack is empty-handed and needs food. I'll say what I hold and offer to search for sheep with the group.","say":"Morning. I'm fine on
+- 00:11 act: {"reasoning":"My travel stopped short. Group is searching south-east for sheep; I'll rejoin and look near -257,66,375.","say":"Joining the sheep search south-east. I'll look near -257, 66, 375.","inte
+- 00:11 act: {"reasoning":"No sheep at the spot. Try further south, a new direction, and wake on sightings.","say":"No sheep at this spot. I'm pushing further south to look.","intent":{"goal":"scout_south_for_shee
+- 00:16 act: {"reasoning":"Panic reflexes keep firing with no threat visible. Rejoin the group at -257,66,375 rather than stay alone out here.","say":"Something is spooking me out here, so I'm rejoining the group 
