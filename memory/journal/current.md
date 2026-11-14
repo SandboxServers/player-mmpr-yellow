@@ -168,3 +168,37 @@
 - 11:23 act: {"actions":[{"do":"goto","target":{"x":-278,"y":65,"z":201}},{"do":"attack","target":"cow"}],"say":"Morning. I'm heading for the cow near -278,203 on the grass. Jason, if you find meat first, Picard g
 - 11:23 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":326}}],"reasoning":"Respawned with nothing, status says in_water. Get onto the bed platform first."}
 - 11:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"Night, no items, health full at 20 after respawn, beside the beds at spawn. Sleep in the bed."}
+- 11:27 act: {"say":"Picard, I hear you. I have nothing in my pack, so I will go for a cow at dawn and bring food to you if I find any.","intent":{"goal":"wait_for_dawn","program":"rest","arguments":{},"wake_on":[
+- 11:28 act: {"say":"Jason, I'm going to the cows at -295,189 on the west side, away from the water. Any meat I get goes to Picard first.","intent":{"goal":"reach_west_cows","program":"travel","arguments":{"target
+- 11:28 act: {"intent":{"goal":"search_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-310,"y":64,"z":215}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition
+- 11:29 act: {"actions":[{"do":"unstick"}]}
+- 11:29 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}]}
+- 11:29 act: {"say":"Kimberly, I'm on the dirt block beside you at -315,61,218, with water around me. I have no tools or blocks. I'll stay here and not swim."}
+- 11:29 act: {"actions":[{"do":"unstick"}]}
+- 11:34 act: {"reasoning":"Air is 10 and I'm underwater in deep water. Get out first with unstick.","actions":[{"do":"unstick"}],"say":"I'm in deep water with air 10. Trying to climb out now."}
+- 11:34 act: {"reasoning":"Still on water, air 9. Unstick worked but I'm still in water. Try goto Kimberly who stands on dirt.","actions":[{"do":"goto","target":"ag_kimberly_01"}]}
+- 11:34 act: {"reasoning":"I'm on sand next to Kimberly, on ground. Stay put, don't swim. Ask her for dirt to make solid footing.","actions":[],"say":"Kimberly, I'm on sand beside you at -317,62,218. I'm out of th
+- 11:43 say: {"text":"Kimberly, I'm on sand at -317,62,218, just east of you... I can see you're close. Climb toward my sand. I'm not moving into the water."}
+- 11:48 act: {"actions":[{"do":"goto","target":{"x":-324,"y":63,"z":218}}],"say":"Kimberly, I'm heading west to the grass seven blocks off. Follow on the sand if you can."}
+- 11:48 act: {"actions":[{"do":"goto","target":{"x":-330,"y":64,"z":220}}]}
+- 11:48 act: {"actions":[{"do":"goto","target":{"x":-278,"y":68,"z":288}}],"say":"I'm on grass at -330,63,220, out of the water. A pillager is closing from the southwest. Heading to the group at the yellow beds."}
+- 11:48 act: {"actions":[],"say":"Kimberly, I'm on grass at -278,68,287 by the yellow beds. Dry grass is about 12 blocks east of your sand at -330,63,220. Head east off the sand, away from the water."}
+- 11:50 act: {"intent":{"goal":"find_cow_food","program":"travel","arguments":{"target":{"x":-278,"y":65,"z":205}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limit
+- 11:50 act: {"intent":{"goal":"find_cow_food_2","program":"travel","arguments":{"target":{"x":-295,"y":64,"z":192}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
+- 11:51 act: {"actions":[{"do":"goto","target":{"x":-288,"y":64,"z":196}}],"say":"Tommy, my route north failed at a drop. I'm trying a path further east, around -288,64,196. Keep to the grass."}
+- 11:51 act: {"actions":[{"do":"goto","target":{"x":-296,"y":64,"z":188}}]}
+- 11:51 act: {"intent":{"goal":"find_pig_food","program":"travel","arguments":{"target":{"x":-190,"y":80,"z":223}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limit
+- 11:51 act: {"actions":[{"do":"unstick"}],"say":"I'm perched at the edge near -281,63,200, not in water. Tommy, I'm going back onto the grass. Zack, I have nothing to drop, sorry."}
+- 11:51 act: {"intent":{"goal":"find_cow_food_east","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":244}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
+- 11:51 act: {"say":"Tommy, yes, come east with me. The travel to the cow failed, so I'm heading for the sheep at -266,62,207 on grass instead.","intent":{"goal":"reach_sheep_for_food","program":"travel","argument
+- 11:51 act: {"actions":[{"do":"unstick"}]}
+- 11:51 act: {"actions":[{"do":"unstick"}]}
+- 11:52 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-265,"y":64,"z":209}}]}
+- 11:52 act: {"actions":[{"do":"unstick"}]}
+- 11:52 act: {"say":"I drowned at -263,61,207 in the deep water by the sheep. Tommy, don't go to that sheep spot, it's surrounded by deep water. I'm back at spawn now with nothing."}
+- 11:54 act: {"say":"Billy, keep the mutton for whoever has nothing. I'm at spawn with empty hands, but my hunger is full, so I'm not the one to take it. I'll look for wood and stone on dry grass near the spawn.",
+- 11:55 act: {"say":"I have 8 oak logs from the spawn woods. I'll make planks for a crafting table, so we can make tools together.","actions":[{"do":"craft","item":"oak_planks","count":16}]}
+- 11:55 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"craft","item":"stick","count":4}]}
+- 11:55 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_sword","count":1}]}
+- 11:58 act: {"say":"Thanks Jason, Picard. I'm not starving yet, so Zack and Tommy first. I'll wait here on open ground and craft the sword once I have a clear spot for the table."}
+- 12:02 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":326}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
