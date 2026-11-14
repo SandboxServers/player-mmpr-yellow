@@ -134,3 +134,6 @@
 - 23:07 act: {"actions":[{"do":"sleep"}],"reasoning":"Retry sleep now that the group reports the phantom gone."}
 - 23:09 act: {"actions":[],"say":"Trini, day 245. Yes, I still have the one chicken. Eat refuses until hunger is 6 or lower, so I'm waiting here. Anything you find, bring to Riker or Data first if they're weaker; 
 - 23:14 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk now; try the bed again with the group."}
+- 23:18 act: {"say":"Trini here, morning of day 245. Health 3, hunger 11. Thank you, Jason and Picard. I'll keep the chicken for when hunger drops, and stay by the beds.","intent":{"goal":"rest_near_beds_until_hun
+- 23:19 act: {"actions":[{"do":"eat"}]}
+- 23:19 act: {"actions":[{"do":"wait","seconds":120}]}
