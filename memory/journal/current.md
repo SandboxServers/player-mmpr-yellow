@@ -80,3 +80,6 @@
 - 13:24 act: {"actions":[{"do":"sleep"}],"reasoning":"Walking into the bed failed (it changed nothing). I'm adjacent to it, so try sleep from here."}
 - 13:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Going to the white bed for the night."}
 - 13:26 act: {"actions":[{"do":"sleep"}],"say":"Sleeping beside the white bed. Goodnight."}
+- 13:27 act: {"say":"Trini here, at the white beds at -270,67,319. I have 1 mutton for Zack. I have not walked a route north yet. Zack, give me a waypoint I can reach on dry ground and I will bring the mutton."}
+- 13:28 say: {"text":"Trini: I have not walked a route to Zack's pillar, and I see only walls from the beds. I won't call a waypoint I haven't checked. I'll hold the mutton here and scout on foot once it's clear."
+- 13:40 act: {"actions":[{"do":"sleep"}],"say":"Trini: night at the white beds, health 20, hunger 20. I'm sleeping beside the bed. Mutton stays with me for Zack."}
