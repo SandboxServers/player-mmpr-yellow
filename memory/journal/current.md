@@ -41,3 +41,4 @@
 - 17:02 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"say":"Monsters near, so I cannot sleep yet. Putting a plank down and staying close to the bed."}
 - 17:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 17:03 act: {"actions":[{"do":"sleep"}]}
+- 17:04 act: {"actions":[{"do":"sleep"}],"say":"Trini here, at the white bed by the group for the night. Food goes to Kimberly first at dawn."}
