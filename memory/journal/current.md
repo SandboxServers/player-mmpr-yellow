@@ -59,3 +59,7 @@
 - 17:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Night is here. I'm going to bed beside the white bed."}
 - 17:25 act: {"actions":[{"do":"sleep"}]}
 - 17:25 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Sleep was refused because monsters are near. I'm trying the other be
+- 17:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to the white bed for the night. Still no food for me; anyone who finds meat, call out at dawn."}
+- 17:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 17:25 act: {"say":"Trini here at the white bed -271,67,336. Sleep refused again: monsters nearby, golems 7 to 17 blocks south. Health 20, hunger 20, no food. I'm waiting and will retry the bed.","actions":[{"do"
+- 17:27 act: {"actions":[{"do":"sleep"}]}
