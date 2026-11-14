@@ -202,3 +202,21 @@
 - 11:55 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_sword","count":1}]}
 - 11:58 act: {"say":"Thanks Jason, Picard. I'm not starving yet, so Zack and Tommy first. I'll wait here on open ground and craft the sword once I have a clear spot for the table."}
 - 12:02 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":326}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
+- 12:09 act: {"say":"Jason, morning. I'm not hungry, hunger is 20, so Zack and Kimberly first. I'll make a wooden sword here at the beds, then join the hunt.","actions":[{"do":"place","block":"crafting_table","at"
+- 12:09 act: {"say":"Trini: I have a wooden sword now, at the beds. Tommy, Jason: I'll escort you on dry grass to Kimberly, staying out of the water. Kimberly, hold tight, hunger 13 is the priority."}
+- 12:10 act: {"say":"Trini: coming to you now, Tommy, on the grass route. Holding at the beds until you're close.","intent":{"goal":"join_tommy_at_grass","program":"travel","arguments":{"target":{"x":-282,"y":68,"
+- 12:10 act: {"say":"Trini: my travel to Tommy stopped. I'll hold at the yellow beds for Jason and follow him on the grass. Jason, tell me when you're at the beds."}
+- 12:10 act: {"say":"Trini: Jason, I'm walking to you now on the grass. Going to Kimberly with you and Tommy.","intent":{"goal":"join_jason_on_grass","program":"follow","arguments":{"target":"ag_jason_01"},"wake_o
+- 12:10 act: {"actions":[{"do":"goto","target":{"x":-281,"y":68,"z":300}}],"say":"Trini: my follow failed and I'm boxed in by a door and cobblestone. Trying a direct walk to Jason's spot at the yellow beds."}
+- 12:10 act: {"say":"Trini: I'm with you at the beds now, Jason and Tommy. I have no food, so I'll walk with you to Kimberly and keep watch on the grass. Jason, lead on."}
+- 12:11 act: {"say":"Trini: following Jason north-west on the grass to -301,66,270. Keeping off the water.","intent":{"goal":"walk_grass_to_jason_waypoint","program":"travel","arguments":{"target":{"x":-301,"y":66
+- 12:11 act: {"say":"Trini: I'm at -300,66,270 with you, Jason. Going on to your waypoint at -304,66,238.","intent":{"goal":"walk_grass_to_waypoint_north","program":"travel","arguments":{"target":{"x":-304,"y":66,
+- 12:11 act: {"actions":[{"do":"goto","target":{"x":-303,"y":63,"z":249}}],"say":"Trini: I'm in deep water at -304,61,238. Getting out to the east edge now."}
+- 12:12 act: {"say":"Trini: I'm out of the water on grass at -303,63,248. Holding here. Jason, get out of the water; the north line is all deep water, so Kimberly needs another dry route."}
+- 12:12 act: {"say":"Trini: I'm holding on grass at -303,63,248, out of the water. I have 8 oak planks. Kimberly, if you can stand on a sand spot next to water, I can try to lay planks over the water between us; s
+- 12:13 act: {"say":"Trini: The lake between us is about 30 blocks of water. My 8 planks can't bridge that. Kimberly, stay on the sand. Jason, if you find a dry line on the east side, shout the coordinates and I'l
+- 12:18 act: {"say":"Trini: Night is coming and I have only 8 planks, so I can't wall a shelter yet. I'm staying on grass at -303,63,248 next to Billy. Jason, if you find a bed or a dry spot near the shore, tell m
+- 12:21 act: {"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"x":-281,"y":68,"z":300},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limits":{"ma
+- 12:22 act: {"actions":[{"do":"goto","target":{"x":-281,"y":68,"z":300}}],"say":"Trini: Going to the yellow beds now, on grass."}
+- 12:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"Trini: I'm at the beds, near -282,69,288. I'm going to the white bed at -271,67,318 to rest for the night."}
+- 12:22 act: {"actions":[{"do":"sleep"}]}
