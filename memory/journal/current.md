@@ -45,3 +45,4 @@
 - 17:05 act: {"actions":[{"do":"sleep"}],"say":"Night again, Billy. I'm in the white bed by the group. Goodnight."}
 - 17:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"It is night, and I am beside the white beds. I am going to sleep."}
 - 17:06 act: {"actions":[{"do":"sleep"}]}
+- 17:07 act: {"actions":[{"do":"sleep"}]}
