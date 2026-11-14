@@ -36,3 +36,8 @@
 - 16:59 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
 - 17:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Night is here. Going to the bed near the group."}
 - 17:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini here, going to bed at the white bed with the group. Kimberly gets any food first at dawn.","reasoning":"Night,
+- 17:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Night. I'm going to the white bed by the group. Food goes to Kimberly first at dawn."}
+- 17:02 act: {"actions":[{"do":"sleep"}]}
+- 17:02 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"say":"Monsters near, so I cannot sleep yet. Putting a plank down and staying close to the bed."}
+- 17:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 17:03 act: {"actions":[{"do":"sleep"}]}
