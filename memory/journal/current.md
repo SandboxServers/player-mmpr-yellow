@@ -121,3 +121,4 @@
 - 22:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini here at the white bed. Health 3, hunger 11. I hold one chicken and will eat when hunger drops."}
 - 22:41 act: {"actions":[{"do":"sleep"}]}
 - 22:45 act: {"actions":[{"do":"eat"}],"say":"Trini at the white bed, health 3, hunger 11, phantom keeps sleep from working. I'm eating my chicken now so health can start to recover. Thank you all for holding food
+- 22:50 act: {"say":"Trini at the beds, dawn of day 244. Health 3, hunger 11. I hold one chicken and I'll eat it when hunger drops to 6. Riker, if you're near, say so and I'll hand you the chicken instead.","inten
