@@ -91,3 +91,10 @@
 - 18:02 act: {"say":"Trini here, beside the white bed at -297,68,295. Health 20, hunger 20. Kimberly, I'm keeping the apple for you as you asked; I'm going to sleep now.","actions":[{"do":"sleep"}]}
 - 18:03 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"apple","count":1}],"say":"Kimberly, here is the apple. Eat it, you need it more than I do.","reasoning":"Kimberly is in reach and asked for the a
 - 18:03 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"apple","count":1}],"say":"Kimberly, I'm right beside you. Take the apple.","reasoning":"The first give wa
+- 18:04 act: {"say":"Goodnight, Kimberly. Glad the apple helped. I'm staying by the white bed.","actions":[{"do":"sleep"}]}
+- 18:04 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Goodnight, Kimberly. I'm trying the bed again. Look for animals at first light and call me."}
+- 18:09 act: {"say":"Trini here, morning of day 230. Health 20, hunger 20, no food. Joining the west grass search with Billy and Zack. Calling out any animal I see.","intent":{"goal":"scout_west_grass_day230","pro
+- 18:09 act: {"say":"Trini at the west grass edge with Billy. No animals in sight. There is an item on the ground to the north-east at -289,66,318; I'm checking it.","actions":[{"do":"goto","target":{"x":-289,"y":
+- 18:09 act: {"say":"Trini: the item was not food. An iron golem is closing from the south-east, 17 blocks. I'm staying near Data and Troi by the beds at -282,67,320. Still no food.","actions":[{"do":"goto","targe
+- 18:10 act: {"say":"Trini here. Zack, the iron golems are 15 and 23 blocks south, so I'm holding by the beds for now. If anyone sees an animal or apples, call it out and I'll come."}
+- 18:19 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Trini: dusk is coming, golems are 12 blocks south. Going to the bed at -282,67,320 to rest. Still no food for me; ap
