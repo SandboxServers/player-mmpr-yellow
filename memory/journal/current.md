@@ -75,3 +75,6 @@
 - 21:11 act: {"actions":[{"do":"goto","target":{"x":-270,"y":69,"z":305}}],"say":"An iron golem is 5 blocks south-west. I'm backing north out of its reach. Zack, if you hear me, the chicken goes to Riker first."}
 - 21:11 act: {"actions":[],"say":"Zack, I'm at the north edge, by the sign at -266,70,305. Where exactly are you? I can't see you."}
 - 21:12 act: {"actions":[{"do":"eat"}],"say":"Thank you, Troi. Eating the rotten flesh now. Riker has the chicken, so that is fair."}
+- 21:15 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":289}}],"say":"Trini heading north to Zack's spot at -274, 67, 289. I have no sheep knowledge yet; I'll follow the group's call."}
+- 21:15 act: {"actions":[],"say":"I'm here with Zack and Jason at -274, 67, 289. Health 3, hunger 11, no food. Anyone who sees a sheep or cow, call out the spot."}
+- 21:15 act: {"actions":[],"say":"I'll stay with Zack and Troi here, and go wherever mutton is called. Thank you all, I'm not going far."}
