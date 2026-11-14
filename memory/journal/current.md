@@ -137,3 +137,5 @@
 - 14:52 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"say":"Heading to the yellow beds with a porkchop for Trini."}
 - 14:52 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}]}
 - 14:52 act: {"say":"Everyone: the pig was killed near -171,74,201, but the carrier was killed by an unseen attacker near -241,268 and the porkchop lies there. Nobody go there alone. Jason, Kimberly, Tommy: a pig 
+- 14:53 act: {"say":"Thanks, all. I'm at the yellow beds near -263,67,353, health and hunger full. I'll hold here and not travel east alone. Jason, Tommy, Kimberly: bring the meat back here, and I'll take a share 
+- 14:54 act: {"say":"Trini here at the yellow bed -263,67,353, health 20, hunger 20. Night is coming, so I'm going to bed. Tommy, Jason, bring meat in the morning if you get it, and I'll share it out.","actions":[
