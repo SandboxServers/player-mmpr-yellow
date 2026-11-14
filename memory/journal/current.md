@@ -1,12 +1,1 @@
 # Journal
-- 16:14 act: {"say":"Ellis here, no food on me, hunger full. Days since sleep is five, so I'll head to the beds near the group before dusk. I'll call out any animal I see.","intent":{"goal":"reach_group_beds","pro
-- Day 224 midday: no food, hunger 20. Sent worker south-west to hunt animals. Iron golems wander close; left them alone. Waiting on the worker's report.
-- Day 224: first hunt south-west found no animals. Back at the beds (-270,67,337). Sent worker to search north-west with Tommy and Billy. Zack is scouting east-south.
-- 16:14 say: {"text":"Trini here. I have no food. I've sent a hand south-west to look for a cow, pig or sheep on the dry grass. Call out if you see one."}
-- 16:14 act: {"actions":[{"do":"goto","target":{"x":-283,"y":66,"z":339}}],"say":"Trini here, searching for cow, pig or sheep south-west of the beds. Iron golems nearby; not attacking them."}
-- 16:14 act: {"actions":[{"do":"goto","target":{"x":-292,"y":66,"z":348}}]}
-- 16:14 act: {"actions":[{"do":"goto","target":{"x":-278,"y":66,"z":358}}],"say":"No animals seen yet near -285,348. Checking south now."}
-- 16:15 act: {"actions":[{"do":"unstick"}]}
-- 16:15 say: {"text":"Trini: no cow, pig or sheep seen in the grass south-west of the beds. Searched around -283,339 and -292,348. Heading back to the beds."}
-- 16:15 act: {"intent":{"goal":"walk_to_group_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
-- 16:15 act: {"intent":{"goal":"search_north_west_for_animals","program":"travel","arguments":{"target":{"x":-292,"y":66,"z":318}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"m
