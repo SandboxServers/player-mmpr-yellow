@@ -1674,3 +1674,4 @@
 - 01:18 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"search_northwest_animals","program":"travel","arguments":{"target":{"x":-305,"y":67,"z":325}},"wake_on":["goal_completed","directly_addressed","unexpect
 - 01:19 act: {"actions":[],"say":"Jason, Zack, no food found in the west. No animals seen, only a golem and villager near -275,335. Hunger 16."}
 - 01:19 act: {"intent":{"goal":"walk_to_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":354}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 01:20 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Night is here. I'm going to rest in this bed and look for food when it's light.","reasoning":"Night, bed adjacent, safe. Sleep, the
