@@ -71,3 +71,8 @@
 - 13:20 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_address
 - 13:20 act: {"intent":{"goal":"finish_shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_
 - 13:21 act: {"intent":{"goal":"close_west_wall","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed
+- 13:21 act: {"intent":{"goal":"rest_till_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_block_operations":4}}}
+- 13:22 act: {"actions":[{"do":"sleep"}],"say":"Still at the yellow beds with Billy beside me. The wall did not place, so I will try a different bed.","reasoning":"Build intent has failed and cleared. Sleep may no
+- 13:22 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Goodnight. I'm trying the white bed at -298,68,295 next to Jason. Kimberly, I have only 7 planks left, so I cannot s
+- 13:22 act: {"actions":[{"do":"goto","target":{"x":-282,"y":70,"z":309}},{"do":"sleep"}],"reasoning":"Last wait's goto was blocked by a running action. Retry now with the free bed at -282,70,309."}
+- 13:22 act: {"intent":{"goal":"rest_till_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_block_operations":4}},
