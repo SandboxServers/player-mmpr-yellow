@@ -1613,3 +1613,7 @@
 - 00:16 act: {"reasoning":"Panic reflexes keep firing with no threat visible. Rejoin the group at -257,66,375 rather than stay alone out here.","say":"Something is spooking me out here, so I'm rejoining the group 
 - 00:21 act: {"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"l
 - 00:21 act: {"actions":[{"do":"sleep"}]}
+- 00:22 act: {"say":"Morning, all. I'm up and will come south-east with you to look for sheep and food.","intent":{"goal":"join_sheep_search","program":"travel","arguments":{"x":-257,"y":66,"z":372},"wake_on":["go
+- 00:22 act: {"say":"Morning, all. I'm up and will come south-east with you to look for sheep and food.","intent":{"goal":"join_sheep_search","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":372}},"wa
+- 00:22 act: {"say":"Night is here. I'll go to the yellow beds with Jason and Zack and sleep, then sheep at first light.","intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":
+- 00:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
