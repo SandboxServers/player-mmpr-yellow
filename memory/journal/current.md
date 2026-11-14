@@ -66,3 +66,4 @@
 - 13:19 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-281,"y":69,"z":292}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
 - 13:19 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}}]}
 - 13:19 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 13:19 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":292}},{"do":"sleep"}],"say":"Jason, goodnight. I'm going into the yellow bed at -274,69,292, close to you. I still hold one mutton for Zack.","re
