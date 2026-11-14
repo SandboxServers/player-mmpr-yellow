@@ -108,3 +108,4 @@
 - 18:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini going to the white bed for the night. Health 20, hunger 20, no food. Food goes to whoever is weakest at dawn."
 - 18:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to bed at the white bed. No food yet; I'll look for food first thing at dawn, weakest first."}
 - 18:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 18:45 act: {"actions":[{"do":"sleep"}],"say":"Worf: night, health 20, hunger 20, no food. I'm in the white bed at -270,67,318. Food goes to the weakest at dawn."}
