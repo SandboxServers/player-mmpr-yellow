@@ -121,3 +121,19 @@
 - 14:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
 - 14:42 say: {"text":"Trini: I'm in the yellow bed at -263,67,353, health 1, hunger 16, no food. Sleeping now. First light, I'll hunt on dry ground."}
 - 14:42 act: {"say":"Goodnight, Tommy and Jason. I'm in the yellow bed at -263,67,353, health 1, no food. First light, dry ground, food."}
+- 14:43 act: {"say":"Morning is the plan, Picard. I'm at the yellow beds, safe. First light I'll hunt for food with the group.","intent":{"goal":"rest_until_first_light","program":"rest","arguments":{},"wake_on":[
+- 14:45 act: {"intent":{"goal":"wait_for_daylight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations":1}}}
+- 14:48 act: {"intent":{"goal":"reach_cow_area_dry","program":"travel","arguments":{"target":{"x":-297,"y":64,"z":194}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
+- 14:49 act: {"intent":{"goal":"find_cow_or_sheep_dry","program":"travel","arguments":{"target":{"x":-320,"y":64,"z":200}},"wake_on":["goal_completed","unexpected_damage","directly_addressed","new_agent_within_8"]
+- 14:50 act: {"actions":[{"do":"goto","target":{"x":-297,"y":64,"z":196}}]}
+- 14:50 act: {"intent":{"goal":"find_cow_or_sheep_east","program":"travel","arguments":{"target":{"x":-280,"y":64,"z":215}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_worl
+- 14:50 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":232}},{"do":"goto","target":{"x":-210,"y":70,"z":228}}],"say":"Heading east on the known dry route to look for a sheep or cow.","reasoning":"Erra
+- 14:50 act: {"actions":[{"do":"goto","target":{"x":-210,"y":70,"z":228}},{"do":"goto","target":{"x":-189,"y":80,"z":223}}],"reasoning":"Continue the known dry route east, watching for drops and water."}
+- 14:51 act: {"intent":{"goal":"hunt_pig_southeast","program":"travel","arguments":{"target":{"x":-173,"y":90,"z":234},"stop_if":["water","drop","deep_water"]},"wake_on":["goal_completed","unexpected_damage","dire
+- 14:51 act: {"actions":[{"do":"goto","target":{"x":-172,"y":89,"z":226}}]}
+- 14:51 act: {"actions":[{"do":"goto","target":{"x":-168,"y":89,"z":225}},{"do":"attack","target":"pig"},{"do":"attack","target":"pig"},{"do":"attack","target":"pig"}]}
+- 14:51 act: {"actions":[{"do":"goto","target":{"x":-166,"y":89,"z":224}},{"do":"attack","target":"pig"},{"do":"attack","target":"pig"}]}
+- 14:52 act: {"actions":[{"do":"eat"}],"say":"Eating a porkchop now."}
+- 14:52 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"say":"Heading to the yellow beds with a porkchop for Trini."}
+- 14:52 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}]}
+- 14:52 act: {"say":"Everyone: the pig was killed near -171,74,201, but the carrier was killed by an unseen attacker near -241,268 and the porkchop lies there. Nobody go there alone. Jason, Kimberly, Tommy: a pig 
