@@ -105,3 +105,5 @@
 - 18:28 act: {"say":"Trini back at the white beds, health and hunger 20, no food. Zack, I'll hold here near the beds while you scout north. Call me if you find any animal."}
 - 18:34 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"crafting_table","count":1},{"do":"craft","item":"wooden_sword","count":1}],"say":"Tommy, Jason: I have no food either. I'
 - 18:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini going to the white bed for the night. Health 20, hunger 20, no food. Food goes to whoever is weakest at dawn."
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to bed at the white bed. No food yet; I'll look for food first thing at dawn, weakest first."}
+- 18:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
