@@ -76,3 +76,10 @@
 - 17:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Jason, I'm going to the bed east of me for the night. Food goes to Kimberly first at dawn."}
 - 17:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini here, night of day 228, in the white bed by the group. Health 20, hunger 20, no food. Food goes to Kimberly fi
 - 17:46 act: {"say":"Morning, Trini here. It is night and I am beside the white bed. I will sleep now.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 17:48 act: {"say":"Trini, dawn of day 228. Health 20, hunger 20, no food. I'm going to break oak leaves near camp for apples and call out any animal I see. Any meat or apple goes to Kimberly first.","actions":[{
+- 17:48 act: {"say":"Trini, day 229 dawn. I'm at the oak leaves for apples. Any apple goes to Kimberly first.","actions":[{"do":"mine","block":"oak_leaves","count":6}]}
+- 17:48 act: {"say":"Trini at the oak leaves, -282,66,324. Iron golems closing from the south, 13 blocks. Mining leaves quickly for apples, then back north to the beds.","actions":[{"do":"mine","block":"oak_leaves
+- 17:48 act: {"say":"Trini: three saplings from the leaves, no apple yet. Mining more leaves here. Golems out of sight now.","actions":[{"do":"mine","block":"oak_leaves","count":4}]}
+- 17:49 act: {"say":"Trini: no apples from the leaves, only saplings. Going west to the grass to look for animals, staying in sight of Billy and Zack. Calling out anything I see.","intent":{"goal":"scout_west_gras
+- 17:51 act: {"say":"Trini on the west grass with Billy, Jason, Kimberly and Tommy. Still no animals in sight. I'll keep watching here and call out anything."}
+- 18:00 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":295}},"wake_on":["directly_addressed"
