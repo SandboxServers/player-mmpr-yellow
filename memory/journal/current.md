@@ -1727,3 +1727,5 @@
 - 02:04 act: {"actions":[{"do":"sleep"}],"say":"Zack, I have no food, only dirt and wheat seeds. Tommy's beef should go to you first, since you're the hungriest. I'll search with the others at first light."}
 - 02:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}]}
 - 02:06 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}]}
+- 02:08 act: {"say":"Trini here, awake at dawn with no food. I'm heading west with the search for cows and sheep.","intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"x":-305,"y":66,"z":330
+- 02:08 act: {"intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"x":-305,"y":66,"z":330}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wor
