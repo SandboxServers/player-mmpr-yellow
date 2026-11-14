@@ -111,3 +111,50 @@
 - 18:45 act: {"actions":[{"do":"sleep"}],"say":"Worf: night, health 20, hunger 20, no food. I'm in the white bed at -270,67,318. Food goes to the weakest at dawn."}
 - 18:47 act: {"say":"It's night and I'm beside the white bed. Worf is close by. I'll rest here.","actions":[{"do":"sleep"}]}
 - 18:48 say: {"text":"Trini here, in the white bed at -270,67,318. No food on me. I'm trying to sleep now; at first light I'll hunt with Zack and the group."}
+- 18:49 act: {"say":"Trini here, awake at dawn, hunger 20, no food. I have a wooden sword and 7 logs. I'll look for animals on the dry grass with Worf and Zack. Call out any cow, sheep or pig you see.","actions":[
+- 18:51 act: {"say":"Trini here, day 232. Worf is out of sight, so I'm going south-west along the sign line to the dry grass. I'll call out any cow, sheep or pig.","intent":{"goal":"scout_southwest_for_animals","p
+- 18:51 act: {"say":"Three iron golems stand 9 to 11 blocks south-east of me at the sign line. I'm keeping my distance and watching the grass west of here for animals.","actions":[]}
+- 18:55 act: {"say":"Trini: an iron golem is 3 blocks east of me. I'm backing off west and north toward the beds, away from the golems.","intent":{"goal":"back_off_golems_to_beds","program":"travel","arguments":{"
+- 18:59 act: {"say":"Trini back at the beds, no food found today either. Rest well everyone; I'll go out at dawn with whoever calls out first.","actions":[]}
+- 19:03 act: {"say":"Trini going to the white bed at -271,67,318 for the night. Health 20, hunger 20, no food. Food goes to the weakest at dawn.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"
+- 19:03 act: {"say":"Sleep refused: monsters near. I'm trying the other white bed at -270,67,318.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 19:04 act: {"say":"Trini: golems are 7 to 9 blocks south of me. I'm heading north to the white bed at -271,67,318 to sleep away from them.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"slee
+- 19:05 act: {"intent":{"goal":"reach_camp_bed_and_sleep","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":320}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
+- 19:05 act: {"actions":[{"do":"sleep"}]}
+- 19:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"say":"Trini: sleep failed at the yellow bed. Trying the white bed at -271,67,318 with the group."}
+- 19:06 act: {"say":"Trini: sleep failed again, the beds are taken. I'm staying awake near Kimberly and the group at the white bed area until dawn.","intent":{"goal":"stay_with_group_until_dawn","program":"follow"
+- 19:08 act: {"intent":{"goal":"search_grass_west_for_food","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 19:08 act: {"intent":{"goal":"search_far_west_for_animals","program":"travel","arguments":{"target":{"x":-325,"y":66,"z":300}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
+- 19:13 act: {"intent":{"goal":"scout_north_for_food","program":"travel","arguments":{"target":{"x":-310,"y":66,"z":265}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 19:13 act: {"say":"Trini: salmon to the west, about 20 blocks off. Going for them. Any meat goes to Billy first.","intent":{"goal":"fish_salmon_west","program":"travel","arguments":{"target":{"x":-330,"y":62,"z"
+- 19:13 act: {"actions":[{"do":"attack","target":"salmon"}],"say":"Trini: I'm in the water with salmon close to the west. Trying to take one."}
+- 19:14 act: {"intent":{"goal":"rejoin_billy_near_shore","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_ope
+- 19:14 act: {"actions":[{"do":"unstick"}],"say":"Trini: I'm out in the water, getting back to the bank. Billy, you go to the pig with Tommy and Data. I'll stay on the bank and come if they call."}
+- 19:14 act: {"actions":[{"do":"goto","target":{"x":-323,"y":64,"z":269}}]}
+- 19:14 act: {"intent":{"goal":"return_to_beds_before_dusk","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":318}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_
+- 19:15 act: {"say":"Trini: I'm back at the white beds. I have no food. Tommy, the porkchop goes to Billy first, as Troi said. I'll stay here near the group."}
+- 19:19 act: {"say":"Trini: my hunger is 20, so the porkchops go to Billy, Picard and Worf. I have none to give. A bow was drawn to the southeast, so I'm staying close to the white beds and watching."}
+- 19:23 act: {"intent":{"goal":"reach_bed_and_sleep","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 19:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}]}
+- 19:25 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"sleep"}],"say":"Trini at the yellow bed by Worf, -272,67,326. Sleep refused for monsters; a bow is drawn to the southeast. Trying aga
+- 19:25 act: {"actions":[{"do":"craft","item":"oak_planks","count":8},{"do":"place","block":"oak_planks","at":"feet"},{"do":"sleep"}],"say":"Trini: golems are closing from the south, 14 blocks. Crafting planks to 
+- 19:26 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
+- 19:26 act: {"say":"Trini: sleep keeps failing in the crowded beds, golems are close. I'm standing by the group at -272,67,336 until light. No food; Billy eats first.","actions":[{"do":"note","text":"Night 233: b
+- 19:31 act: {"intent":{"goal":"scout_west_grass_for_food","program":"travel","arguments":{"target":{"x":-299,"y":66,"z":325}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 19:31 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-330,"y":64,"z":240}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 19:31 act: {"intent":{"goal":"retreat_to_group_at_crafting_table","program":"travel","arguments":{"target":{"x":-292,"y":69,"z":283}},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks"
+- 19:40 act: {"actions":[{"do":"sleep"}],"say":"Night is here. No food, health 9. Trying to sleep beside the table with LaForge nearby."}
+- 19:49 act: {"intent":{"goal":"find_apples_in_oak_leaves","program":"gather","arguments":{"block":"oak_leaves","count":8},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 19:49 act: {"intent":{"goal":"scout_for_leaves_and_apples","program":"gather","arguments":{"block":"oak_leaves","count":4},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 19:50 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Trini: breaking the oak leaves here for apples. Wesley, thank you for the seeds."}
+- 19:53 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Trini: no apples from the first leaves, only saplings. Breaking more leaves nearby. Anything edible goes to Riker first."}
+- 19:53 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Trini: the last mine was blocked by a busy action. Trying the leaves again."}
+- 19:54 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}]}
+- 19:54 act: {"actions":[{"do":"mine","block":"oak_leaves","count":3}],"say":"Trini: still no food. Trying the oak leaves once more."}
+- 19:54 act: {"actions":[],"intent":{"goal":"gather_oak_leaves_apples","program":"gather","arguments":{"block":"oak_leaves","count":4},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits"
+- 19:54 act: {"actions":[],"say":"Trini: my leaf attempts keep failing, so I'm stopping them. Troi, Riker, I have no food. I'll watch for animals to the north-west."}
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}],"say":"Trini: night. Trying the white bed at -282,67,320. If it is taken I'll find another."}
+- 20:02 act: {"actions":[{"do":"sleep"}]}
+- 20:04 act: {"actions":[{"do":"sleep"}]}
+- 20:08 act: {"actions":[{"do":"mine","block":"short_grass","count":4}],"say":"Trini here, dawn of day 236. I have no food either. I'm breaking grass by the beds for seeds for Wesley's wheat. Any food goes to Rike
+- 20:09 act: {"actions":[{"do":"mine","block":"grass","count":4}]}
