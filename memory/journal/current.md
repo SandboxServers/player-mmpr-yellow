@@ -73,3 +73,4 @@
 - 17:41 act: {"actions":[{"do":"goto","target":{"x":-282,"y":66,"z":319}},{"do":"sleep"}]}
 - 17:41 act: {"actions":[{"do":"sleep"}]}
 - 17:41 act: {"actions":[{"do":"goto","target":{"x":-281,"y":66,"z":320}},{"do":"sleep"}]}
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Jason, I'm going to the bed east of me for the night. Food goes to Kimberly first at dawn."}

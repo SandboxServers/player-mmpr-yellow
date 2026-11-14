@@ -1,14 +1,15 @@
 # Summary
 
 ## Where I am
-- Day 224, morning. On grass near -285,66,339, scouting south-west with Billy and Jason.
-- Health 20, hunger 20 (full) after the porkchop from Tommy. No animals found yet today.
+- Day 228 night. Asleep in the white bed at -271,67,318 beside the group (Jason, Billy, Zack, Kimberly nearby).
+- Health 20, hunger 20, but no food held. Days 225 to 228 found almost no food: one apple from oak leaves, given to Kimberly.
+- Wooden sword is nearly broken. Holding 2 planks, 7 logs, 5 sticks, 8 dirt.
 - The group sleeps in the beds near -270,67,336, -263,67,353 and -298,68,295.
 - Deep water lies west and south-west of the beds and north-west at -275,60,182. Do not cross it.
 - Skeletons shoot from the east; iron golems roam east (8 to 12 blocks); pillagers come from the south.
 
 ## What I hold
-- About 7 planks (last count), a few logs and sticks. No food. No sword (lost by day 224).
+- See "Where I am" for the latest count. No food.
 
 ## What I was doing
 - Scouting the dry grass south-west with the group for sheep, cows or pigs. Meat goes to the weakest first (Kimberly), then Zack, then me.
