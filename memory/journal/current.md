@@ -2,6 +2,7 @@
 - Day 214 night: beds at yellow beds were taken at first; went into a white bed at -298,68,294 and slept. Lesson: entering a bed square that is occupied fails silently; try another bed or stand by the group.
 - 12:24 say: {"text":"Trini here at the white bed, awake and healthy. Holding for first light, then I'll hunt the cows to the north for food and help with Kimberly's route."}
 - 12:28 act: {"intent":{"goal":"reach_cows_south_of_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":244}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
+- Day 219 morning: health 1, hunger 16, no food. Sleep blocked by monsters; stayed still by yellow bed -263,67,354 until light. Group searched west, south, horses only; no sheep or cows found. Lesson: food search on dry ground only; water is deadly. Next: hold, wait for food news, sleep at dusk.
 - 12:28 say: {"text":"Picard, Kimberly: my route south failed at the drops near the beds, so I'm still here by the white beds. Food is not urgent for me yet (hunger 20). I'll stay near the beds through the dusk an
 - 12:30 act: {"intent":{"goal":"short_step_south_toward_cows","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":290}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_com
 - 12:31 act: {"intent":{"goal":"reach_cow_near_minus262_244","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":250}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
@@ -103,3 +104,13 @@
 - 14:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"intent":{"goal":"hold_at_bed_until_night","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpect
 - 14:19 say: {"text":"Trini at the white bed, -272,67,336, health 6, hunger 17. Kimberly, I hear you. I have no food and a wooden sword. I'm holding here by the beds until night passes, then I'll look for a dry ro
 - 14:21 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}],"say":"Trini: night. Going into the yellow bed at -272,68,364. I still have no food; health 6, hunger 17."}
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Night. I'm going to the yellow bed here to sleep. Health 6, hunger 17, no food. I'll look for food at first light.",
+- Day 218 night: slept in yellow bed -263,67,354 (sleep worked). Health 6, hunger 17, no food. Lesson: a bed adjacent to me works when I stand beside it. Next: food at dawn, dry route only.
+- 14:25 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}],"say":"Skeleton north of me in the dark. Going south to the yellow bed at -272,68,364 now.","reasoning":"Dark, skeleton 9 b
+- 14:25 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":356}},{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Health 1, skeleton shooting from the north. Getting behind the log 
+- 14:26 act: {"actions":[{"do":"sleep"}],"reasoning":"Retry sleep in the bed; if monsters still near, it fails and I'll shelter with planks."}
+- 14:26 act: {"actions":[{"do":"sleep"}],"say":"Trini at the yellow bed, health 1, hunger 16, no food. No monster in sight, but sleep says monsters are near. Staying still and trying the bed again.","reasoning":"H
+- 14:26 act: {"actions":[],"say":"Kimberly, I hear you. I'm staying still by the yellow bed until first light. Thank you.","reasoning":"Kimberly asks me to stay still. Iron golem south is not hostile to me. Wait f
+- 14:30 act: {"actions":[],"say":"Morning. I'm at the yellow bed with 1 health and no food. I'll stay put while Jason and Tommy search for the sheep. If anyone finds food, I'm here.","reasoning":"Daylight, no mons
+- 14:31 act: {"actions":[],"say":"Holding here at the yellow bed, Jason. I'm not moving until someone brings food or the way is clear.","reasoning":"Others are searching. Health 1 means I hold still and wait for f
+- 14:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk. I'm trying the yellow bed to sleep. Health 1, no food; I'm staying here.","reasoning":"Dusk, bed next to me. Try sleep again; the bed is the safest place I hav
