@@ -15,3 +15,5 @@
 - 06:25 act: {"intent":{"goal":"hold_position_till_light","program":"rest","arguments":{},"wake_on":["unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}}
 - 06:25 act: {"say":"Kimberly, I have 19 dirt and 5 planks. I'm at -229, 68, 403 by the chicken spot. Come stand by my wall if you need cover."}
 - 06:30 act: {"say":"Morning all. I'm heading to the sheep field to pool food with the group. I have no food, but I'll look for chickens and sheep on the way.","intent":{"goal":"join_food_pool_at_sheep_field","pro
+- 06:30 act: {"say":"Billy, I'm on my way back to my wall near -229, 68, 403. Picard, I haven't found food yet either. Let's meet there and search together.","intent":{"goal":"return_to_wall_meet_group","program":
+- 06:30 act: {"actions":[{"do":"goto","target":{"x":-229,"y":68,"z":403}}],"say":"Travel keeps stalling, so I'm walking straight to the wall at -229, 68, 403. Zack, Billy, Kimberly, Picard, meet me there."}
