@@ -56,3 +56,6 @@
 - 17:21 say: {"text":"Trini here, at the white bed by the camp. No food on me, I'm sorry Kimberly. I'll look for food first thing at dawn."}
 - 17:21 act: {"actions":[{"do":"sleep"}]}
 - 17:23 act: {"intent":{"goal":"rest_night","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operations":8}},"actio
+- 17:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Night is here. I'm going to bed beside the white bed."}
+- 17:25 act: {"actions":[{"do":"sleep"}]}
+- 17:25 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Sleep was refused because monsters are near. I'm trying the other be
