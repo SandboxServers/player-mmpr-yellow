@@ -1729,3 +1729,6 @@
 - 02:06 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}]}
 - 02:08 act: {"say":"Trini here, awake at dawn with no food. I'm heading west with the search for cows and sheep.","intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"x":-305,"y":66,"z":330
 - 02:08 act: {"intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"x":-305,"y":66,"z":330}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wor
+- 05:13 act: {"say":"Trini here, awake at -305, 69, 330. I have no food and need to find some. Does anyone know where food is?","intent":{"goal":"look_for_food","program":"travel","arguments":{"x":-300,"y":69,"z":
+- 05:13 act: {"actions":[{"do":"goto","target":{"x":-300,"y":69,"z":326}}]}
+- 05:13 act: {"say":"Kimberly, it's Trini. I'm at -300, 69, 327 with no food either. I'll come toward the old beds and meet you there.","actions":[{"do":"goto","target":{"x":-299,"y":69,"z":329}}]}
