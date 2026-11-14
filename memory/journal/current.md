@@ -31,3 +31,14 @@
 - 20:50 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"No golems in view now. I'll try the bed at -270,67,318 once; if refused, I'll wait."}
 - 20:51 say: {"text":"Jason, thank you. Wheat alone won't feed me, so please give it to Riker, who is next."}
 - 20:52 say: {"text":"Picard, thanks. I learned wheat alone can't be eaten, and golems roam south of the beds. I'm waiting here for food."}
+- 20:56 act: {"say":"Trini here at the beds, health 3, hunger 12, no food. Ag_wcrusher, if you can spare wheat seeds or anything edible, I need it most now.","intent":{"goal":"gather_short_grass_for_seeds","progra
+- 20:56 act: {"intent":{"goal":"gather_seeds_from_short_grass","program":"gather","arguments":{"block":"short_grass","count":6},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 20:56 act: {"say":"Trini here, health 3, hunger 12, no food. Gathering grass failed, so I'll stay at the beds. Billy and Data, if you go west for animals and I'm still here, call me and I'll come, with my wooden
+- 20:57 act: {"say":"Thank you Billy, Tommy, Data and Troi. I'm staying at the beds with my sword ready. Call me the moment you find an animal."}
+- 20:57 act: {"say":"Thank you Troi, I'll plant the seed. I'm placing my crafting table here to make a hoe for tilling.","actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_
+- 20:57 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":326}},{"do":"craft","item":"wooden_hoe","count":1}]}
+- 20:58 act: {"say":"Got the hoe. Tilling the grass here to plant Troi's wheat seed.","actions":[{"do":"till","at":{"x":-268,"y":65,"z":326}}]}
+- 20:58 act: {"say":"Tilled. Planting Troi's wheat seed now.","actions":[{"do":"place","block":"wheat_seeds","at":{"x":-268,"y":65,"z":326}}]}
+- 20:58 act: {"say":"Dusk, health 3, hunger 12, no food. The seed is not planted yet; I'll try again at first light. Going to the white bed to sleep.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"
+- 20:59 act: {"say":"Riker, thank you, but keep your wheat. Raw wheat can't be eaten, so it's no use to me. Save it for bread. I'm waiting at the beds for night."}
+- 21:00 act: {"actions":[{"do":"sleep"}]}

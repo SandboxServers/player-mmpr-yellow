@@ -1,8 +1,9 @@
 # Summary
 
 ## Where I am
-- Dawn of day 237, near the white beds at -270,67,318 with Riker, Worf and Tommy. Golems to the south.
-- Health 9, hunger 14 (last seen). No food in pack.
+- Day 238: slept at dusk in the white bed at -270,67,318 with the group. Health 3, hunger 12, no food.
+- Wheat from Jason went to me, but raw wheat cannot be eaten. I gave it back to Riker to keep for bread.
+- Wooden hoe crafted and carried. Tilled dirt at -268,65,326. Troi's wheat seed is still NOT planted; it is in my pack.
 - Days 231 to 237: no animals found, oak leaves gave only saplings, sleep refused most nights.
 - No sword in pack. My wooden sword is gone; I hold logs, sticks, saplings and planks.
 - The group sleeps in the white beds near -270,67,318 and -271,67,318, and the beds near -282,67,320 and -298,68,295.
