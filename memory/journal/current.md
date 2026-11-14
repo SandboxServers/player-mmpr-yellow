@@ -1640,3 +1640,7 @@
 - 01:02 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["goal_completed","unex
 - 01:03 say: {"text":"Zack, I have no food either, only planks, seeds and one cobblestone. I'm sleeping in the bed here for the night."}
 - 01:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
+- 01:04 act: {"say":"I have no food. I have wheat seeds and planks to trade, if you have bread or anything to eat.","actions":[{"do":"goto","target":{"x":-267,"y":65,"z":345}}],"intent":{"goal":"reach_wandering_tr
+- 01:04 act: {"say":"Trader, I am hungry. Do you sell food? I can offer wheat seeds or planks.","actions":[]}
+- 01:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"escape_llamas","program":"flee","arguments":{},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_tic
+- 01:05 act: {"actions":[{"do":"sleep"}]}
