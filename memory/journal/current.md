@@ -13,3 +13,33 @@
 - 12:42 act: {"actions":[{"do":"sleep"}]}
 - 12:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}],"say":"Trini here, at the yellow beds for the night. Health 20, hunger 20. Food hunt at first light, Kimberly and Zack firs
 - 12:43 act: {"actions":[{"do":"sleep"}],"say":"Kimberly, I'm at -270,67,327 by the yellow beds, not enclosed. I have no food to share tonight, only wood and a sword."}
+- 12:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}],"say":"Trini here at the yellow beds, health 20, hunger 20. Sleeping for the night; at first light I'll look for a dry line
+- 12:45 act: {"actions":[{"do":"sleep"}]}
+- 12:49 say: {"text":"Trini here, morning at the yellow beds. I've sent a helper to hunt a cow on dry grass; any meat goes to Kimberly first, then Zack."}
+- 12:50 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":246}}],"intent":{"goal":"reach_cow_dry_route","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":246}},"wake_on":["goal_completed","pr
+- 12:51 act: {"actions":[{"do":"goto","target":{"x":-281,"y":65,"z":232}}]}
+- 12:51 act: {"actions":[{"do":"goto","target":{"x":-279,"y":65,"z":207}}]}
+- 12:51 act: {"actions":[{"do":"goto","target":{"x":-293,"y":64,"z":192}}]}
+- 12:52 act: {"actions":[{"do":"goto","target":{"x":-296,"y":64,"z":192}},{"do":"attack","target":"cow"}],"say":"Trini's helper: going to the cow at -297,64,194 on grass, meat goes to Kimberly."}
+- 12:52 act: {"actions":[{"do":"goto","target":{"x":-297,"y":64,"z":193}},{"do":"attack","target":"cow"},{"do":"attack","target":"cow"}]}
+- 12:52 act: {"actions":[{"do":"goto","target":{"x":-278,"y":65,"z":201}}]}
+- 12:53 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":232}}]}
+- 12:53 act: {"actions":[{"do":"goto","target":{"x":-210,"y":70,"z":228}}]}
+- 12:53 act: {"actions":[{"do":"goto","target":{"x":-189,"y":80,"z":223}}]}
+- 12:53 act: {"actions":[{"do":"goto","target":{"x":-184,"y":86,"z":228}},{"do":"attack","target":"sheep"}]}
+- 12:53 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":300}}]}
+- 12:55 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Trini's helper here with 2 mutton for Kimberly."}
+- 12:55 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":328}}],"say":"Trini, Kimberly, I have 2 mutton from the sheep at -184,86,230. Tell me where to hand it over."}
+- 12:56 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"mutton","count":2}]}
+- 12:56 act: {"actions":[],"say":"Kimberly, Trini: I'm at the yellow beds with 2 mutton, not eaten. Kimberly is not in sight; I'll hold it here for either of you."}
+- 12:56 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}}],"say":"Kimberly, I'm coming to you at -270,67,335 with mutton from the helper. Stay put, please."}
+- 12:56 act: {"actions":[{"do":"give","to":"Kimberly","item":"mutton","count":2}],"say":"Kimberly, I have 2 mutton from the helper. I'm at -270,66,334 and will give it to you now."}
+- 12:56 act: {"actions":[{"do":"note","text":"Holding 2 mutton at -270,66,334. Kimberly not in sight for give. Will give when she or Zack is in sight; not eating it."}],"say":"Kimberly, Zack, Tommy: I'm holding 2 
+- 12:57 act: {"intent":{"goal":"carry_mutton_to_tommy_for_zack","program":"travel","arguments":{"target":{"x":-255,"y":66,"z":206}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_c
+- 12:57 say: {"text":"Tommy, Zack: I'm at -255,66,205 with 2 mutton. Zack's pillar is out of reach from here, so I'll hold the mutton and give it to whoever gets within reach of him first. Tell me the spot."}
+- 12:58 say: {"text":"Tommy, Billy: dusk is coming and I'm not sheltered. I'll stay close to Tommy on grass; I have 8 planks and 2 mutton. Billy, if you reach a bed, tell me where."}
+- 12:58 act: {"intent":{"goal":"reach_yellow_beds_by_tommy_before_night","program":"travel","arguments":{"target":{"x":-281,"y":69,"z":291}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage
+- 12:58 act: {"actions":[{"do":"goto","target":{"x":-280,"y":69,"z":291}}],"say":"Trini heading to Tommy at the yellow beds, -280,69,291, on grass. Holding 2 mutton for Zack."}
+- 12:59 act: {"actions":[{"do":"goto","target":{"x":-279,"y":69,"z":290}}],"say":"Trini on my way to the yellow beds, close to Tommy and Billy. Will look for a free bed."}
+- 12:59 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}],"say":"Trini: I'm taking the yellow bed at -281,69,292 next to Billy's. Mutton stays with me for Zack."}
+- 12:59 act: {"actions":[{"do":"sleep"}]}
