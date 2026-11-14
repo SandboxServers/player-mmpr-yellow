@@ -63,3 +63,13 @@
 - 17:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 17:25 act: {"say":"Trini here at the white bed -271,67,336. Sleep refused again: monsters nearby, golems 7 to 17 blocks south. Health 20, hunger 20, no food. I'm waiting and will retry the bed.","actions":[{"do"
 - 17:27 act: {"actions":[{"do":"sleep"}]}
+- 17:31 act: {"say":"Ellis at dawn of day 228. Health and hunger 20, no food. I'll scout west with the group and call out any animal. Meat goes to Kimberly first.","intent":{"goal":"scout_west_for_animals","progra
+- 17:31 act: {"say":"Trini at dawn of day 228. Health and hunger 20, no food. Scouting the west grass with the group and calling out any animal. Meat goes to Kimberly first.","intent":{"goal":"scout_west_grass_for
+- 17:31 act: {"say":"Trini at the west grass, -299,66,325. No animals here, health and hunger 20. Billy, Jason, Zack and Tommy are in sight. I'll try the oak leaves for apples next, and tell you what I find.","act
+- 17:31 act: {"say":"Trini: going to the oak leaves at -283,66,324 to look for apples. Billy, Jason, stay in sight please.","actions":[{"do":"goto","target":{"x":-283,"y":66,"z":324}},{"do":"mine","block":"oak_lea
+- 17:32 act: {"say":"Trini: the oak leaves gave nothing; the mine changed nothing. No leaves in view from here. I'll stay near Billy and Tommy and try the leaves by the log line later.","actions":[{"do":"note","te
+- 17:32 act: {"say":"Trini here with Billy, in sight of the group. No apples yet. I'll keep looking at the oak leaves and call out anything I find."}
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":321}}],"say":"Trini: no food found today. Going to the white bed near the group for the night. Anyone with meat or apple, call out at dawn and I'
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-282,"y":66,"z":319}},{"do":"sleep"}]}
+- 17:41 act: {"actions":[{"do":"sleep"}]}
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-281,"y":66,"z":320}},{"do":"sleep"}]}
