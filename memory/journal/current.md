@@ -88,3 +88,4 @@
 - 18:00 act: {"actions":[{"do":"sleep"}]}
 - 18:01 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"apple","count":1},{"do":"sleep"}],"say":"Kimberly, I'm full, so the apple is yours. Eat it. Goodnight.","intent":{"goal":"rest_night","program":"
 - 18:02 act: {"actions":[{"do":"sleep"}],"say":"Kimberly, I'll keep the apple for you. Find me at dawn and I'll hand it over."}
+- 18:02 act: {"say":"Trini here, beside the white bed at -297,68,295. Health 20, hunger 20. Kimberly, I'm keeping the apple for you as you asked; I'm going to sleep now.","actions":[{"do":"sleep"}]}
