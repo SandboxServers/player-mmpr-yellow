@@ -1611,3 +1611,5 @@
 - 00:11 act: {"reasoning":"My travel stopped short. Group is searching south-east for sheep; I'll rejoin and look near -257,66,375.","say":"Joining the sheep search south-east. I'll look near -257, 66, 375.","inte
 - 00:11 act: {"reasoning":"No sheep at the spot. Try further south, a new direction, and wake on sightings.","say":"No sheep at this spot. I'm pushing further south to look.","intent":{"goal":"scout_south_for_shee
 - 00:16 act: {"reasoning":"Panic reflexes keep firing with no threat visible. Rejoin the group at -257,66,375 rather than stay alone out here.","say":"Something is spooking me out here, so I'm rejoining the group 
+- 00:21 act: {"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"l
+- 00:21 act: {"actions":[{"do":"sleep"}]}
