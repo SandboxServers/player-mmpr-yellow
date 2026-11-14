@@ -1631,3 +1631,4 @@
 - 00:39 act: {"say":"Night is coming. I'm heading back to my yellow beds at -263, 67, 354 to sleep. Stay safe, all of you.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
 - 00:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Night. Trying the yellow bed again, hunger 17, health 20.","reasoning":"Sleep failed due to monsters nearby; entitie
 - 00:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Goto failed because I am already next to the bed. Sleep from here."}
+- 00:44 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"It is night. I am by the yellow bed. Hunger is 17, so food comes first in the morning."}
