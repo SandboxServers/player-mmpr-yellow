@@ -53,3 +53,5 @@
 - 17:12 act: {"actions":[{"do":"unstick"}]}
 - 17:16 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":319}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
 - 17:21 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Trini going to the white bed for the night. Food goes to Kimberly first at dawn."}
+- 17:21 say: {"text":"Trini here, at the white bed by the camp. No food on me, I'm sorry Kimberly. I'll look for food first thing at dawn."}
+- 17:21 act: {"actions":[{"do":"sleep"}]}
