@@ -99,3 +99,4 @@
 - 14:18 act: {"say":"Trini here. I ate my mutton to stay alive at 3 health. Zack, I am sorry, I could not keep it for you.","intent":{"goal":"rest_near_beds","program":"travel","arguments":{"target":{"x":-271,"y":
 - 14:18 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}]}
 - 14:18 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}]}
+- 14:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
