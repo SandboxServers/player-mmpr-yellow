@@ -110,3 +110,9 @@
 - 21:49 act: {"actions":[{"do":"eat"}],"say":"Got it, thank you Jason. Eating now."}
 - 22:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"intent":{"goal":"rest_at_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","g
 - 22:10 act: {"say":"Trini, dawn of day 242. Health 3, hunger 11. I hold the chicken and rotten flesh and will eat when hunger drops to 6. Thank you all."}
+- 22:15 act: {"say":"Morning. I'm holding one chicken and 3 rotten flesh, and I'll eat once hunger drops to 6. Shout if you see animals to the south.","intent":{"goal":"wait_for_hunger_then_eat","program":"rest","
+- 22:15 act: {"intent":{"goal":"wait_for_hunger_to_fall","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations
+- 22:15 act: {"actions":[{"do":"wait","seconds":120}],"say":"Trini here at the white beds, health 3, hunger 11. I still hold one chicken, and I'll eat it when hunger reaches 6. Call me if you find food."}
+- 22:15 act: {"actions":[{"do":"wait","seconds":240}],"say":"Thank you, Billy and Tommy. I'm staying at the beds. Sheep field news noted; mutton to me or Riker first."}
+- 22:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini here, night of day 242. Health 3, hunger 11. Trying the white bed at -271,67,318 with the group. Chicken to me
+- 22:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night, group at the white beds, no monsters in view now. Try the bed again; hunger 11 means chicken still wait
