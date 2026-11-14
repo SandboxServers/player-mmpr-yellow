@@ -5,3 +5,7 @@
 - 16:22 act: {"actions":[{"do":"sleep"}]}
 - 16:30 act: {"intent":{"goal":"travel_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
 - 16:30 say: {"text":"Trini here, day 225, at the yellow beds. Health 20, hunger 20, no food. Kimberly, I'm coming to you at the white bed now. Any meat goes to you first."}
+- 16:33 act: {"say":"Kimberly, Jason, Billy, Zack: I'm at the beds, health 20, hunger 20, no food. I'll scout the dry grass with you for animals. Any meat goes to Kimberly first.","intent":{"goal":"scout_grass_wit
+- 16:33 act: {"say":"Jason, Zack: I'm going to the dry grass south-west at -285, 66, 339 to look for animals. Calling out any I see.","intent":{"goal":"scout_dry_grass_sw","program":"travel","arguments":{"target":
+- 16:33 act: {"say":"Iron golems are closing in from the south, about 17 blocks. I'm turning back to the white beds. Scouting south-west is off for now.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}
+- 16:34 act: {"say":"Trini here, back at the white beds with the group. Health 20, hunger 20, no food. I'm holding here until the golems clear, then I'll scout the dry grass with whoever is ready. Kimberly first f
