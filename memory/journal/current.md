@@ -75,3 +75,4 @@
 - 17:41 act: {"actions":[{"do":"goto","target":{"x":-281,"y":66,"z":320}},{"do":"sleep"}]}
 - 17:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Jason, I'm going to the bed east of me for the night. Food goes to Kimberly first at dawn."}
 - 17:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini here, night of day 228, in the white bed by the group. Health 20, hunger 20, no food. Food goes to Kimberly fi
+- 17:46 act: {"say":"Morning, Trini here. It is night and I am beside the white bed. I will sleep now.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
