@@ -128,3 +128,9 @@
 - 23:02 act: {"actions":[{"do":"eat"}],"say":"A phantom is near, so sleep was refused. I'm eating my chicken now and will try the bed again."}
 - 23:02 act: {"actions":[{"do":"wait","seconds":40},{"do":"sleep"}]}
 - 23:03 act: {"actions":[{"do":"wait","seconds":120}],"say":"Trini at the white bed, health 3, hunger 11. A phantom is near so sleep keeps failing. I'll wait here for hunger to drop to 6, then eat the chicken."}
+- 23:04 act: {"actions":[{"do":"eat"}],"reasoning":"Hungry with a chicken in pack; try eating before anything else.","say":"Trini at the white bed, night of day 244. Health 3, hunger 11. I have one chicken and I'm
+- 23:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Phantom no longer listed nearby; try the white bed.","say":"Trini trying the white bed again, night of day 244
+- 23:07 act: {"actions":[{"do":"sleep"}],"reasoning":"Phantom gone from view; retry sleep in the bed."}
+- 23:07 act: {"actions":[{"do":"sleep"}],"reasoning":"Retry sleep now that the group reports the phantom gone."}
+- 23:09 act: {"actions":[],"say":"Trini, day 245. Yes, I still have the one chicken. Eat refuses until hunger is 6 or lower, so I'm waiting here. Anything you find, bring to Riker or Data first if they're weaker; 
+- 23:14 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk now; try the bed again with the group."}
