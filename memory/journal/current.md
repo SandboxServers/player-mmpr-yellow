@@ -17,6 +17,7 @@
 - 16:40 act: {"actions":[{"do":"sleep"}],"say":"Trini: night, I'm in a walled pocket at -258,68,352 by the water. Trying to sleep here."}
 - Day 225 summary: no food found; golems roam south and east of the beds all day. Beds at the white and yellow groups were often taken, so sleep failed at several. My sleep finally worked in a yellow bed near -263,67,353. Lesson: try a free bed early at dusk, and don't leave the beds in the evening with golems about. Still no sword; Zack and Jason are scouting too. Meat still goes to Kimberly first.
 - Day 225 night: slept in the yellow bed at -263,67,353 beside Billy's white beds. Woke for the new day; no food yet, health 20, hunger 20. Next: scout dry grass with the group at first light, meat to Kimberly.
+- Day 226 summary: scouted west grass, no animals; crafted a wooden sword from logs; got one apple from oak leaves and gave it to Kimberly (she ate, hunger 20). Slept in the white bed near -271,67,318 at night. Next day: scout with the group, meat and apples to Kimberly first.
 - 16:50 act: {"say":"Trini, day 226, health 20, hunger 20, no food. Joining Billy on the west grass near -284,66,322 in sight of the group. Any meat goes to Kimberly first.","intent":{"goal":"scout_west_grass_with
 - 16:50 act: {"say":"Trini: no animals here yet. Golems are 15 blocks south-east. I have no sword, so I'm gathering wood by the log line to craft one. Still no food; meat goes to Kimberly.","actions":[{"do":"mine"
 - 16:52 act: {"say":"Trini: got 9 oak logs. Making planks, then a sword at the crafting table. No food yet.
@@ -33,3 +34,4 @@
 - 16:58 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"apple","count":1}],"say":"Kimberly, here is the apple from the oak leaves. It's yours. Stay at the bed with us."}
 - 16:59 say: {"text":"Trini: the apple is given to Kimberly. I'm staying at the white bed with Zack, Jason and Kimberly until night. Then I'll sleep here."}
 - 16:59 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
+- 17:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Night is here. Going to the bed near the group."}
