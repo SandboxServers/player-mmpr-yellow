@@ -147,3 +147,18 @@
 - 15:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 15:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini: trying the white bed at -271,67,336 once more. If it fails I hold on the planks until morning.","intent":{"go
 - 15:03 act: {"actions":[],"say":"Trini here at the white bed -271,67,336, health 20, hunger 20, holding one porkchop. Not enclosed, but Tommy and Billy are close. Holding until first light, then the pig hunt at -
+- 15:07 act: {"actions":[],"say":"Trini: morning. Kimberly, you're at 5.8 health, so my porkchop goes to you first. I'm walking to you on the grass now. Tell me your exact spot if the way is blocked. Then we go to
+- 15:07 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":295}}],"say":"Kimberly, I'm on the way to you from -281,66,329. Coming on grass with the porkchop."}
+- 15:07 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"porkchop","count":1}],"say":"Kimberly, here is my porkchop. Eat it now. Then we go to the pig at -168,89,225 on dry ground."}
+- 15:07 act: {"actions":[],"say":"Kimberly got my porkchop. I have no food and no sword now; I'll walk the pig hunt with the group on grass. Tell me the route and I'll follow it.","intent":{"goal":"follow_kimberly
+- 15:08 act: {"actions":[],"say":"Kimberly, I'm right beside you at -297,67,296. Jason and Tommy, call your spot and I'll walk to you on grass. I have no sword, so I'll stay behind the group."}
+- 15:08 act: {"actions":[],"say":"Trini: walking with Jason and Kimberly to the pig on dry grass. Stay in sight, I'm right behind you. Meat to Kimberly first, then me.","intent":{"goal":"follow_jason_to_pig","prog
+- 15:08 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Trini walking to Jason now on grass, behind the group. Wait for me at the grass by the logs."}
+- 15:09 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Trini here, heading to Jason. Pig site is the target; I'll walk behind you on the grass."}
+- 15:09 act: {"actions":[],"say":"Trini is standing still at the dirt by the oak logs at -270,67,296. Jason, Kimberly, come into sight and I will walk with you to the pig."}
+- 15:10 act: {"actions":[{"do":"goto","target":{"x":-200,"y":84,"z":254}}],"say":"Trini walking to Jason at -200,84,254 on the grass. Kimberly, walk with me."}
+- 15:10 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}}],"say":"Trini agrees: the pig spot is empty. I'm walking back to the yellow beds with Jason, on dry ground, away from the water to the west
+- 15:10 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":294}}],"say":"Kimberly, I have no food; my last porkchop went to you. I'm coming to you at -270,67,294 on dry ground. I'll look nearby for animal
+- 15:11 act: {"actions":[],"say":"I'm with you, Kimberly, on the dry grass. No animals in sight here. I'll stay near and watch for any food."}
+- 15:11 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":294}}],"say":"Agreed, Kimberly. I'm scouting 8 blocks east on dry grass within sight of the group, and I'll call out any animal."}
+- 15:19 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":292}},{"do":"sleep"}],"say":"Trini: going to the yellow bed at -274,69,292 for the night, next to Tommy. No food, health 20. First light: meat to
