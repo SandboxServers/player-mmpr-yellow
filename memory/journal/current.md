@@ -78,3 +78,35 @@
 - 21:15 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":289}}],"say":"Trini heading north to Zack's spot at -274, 67, 289. I have no sheep knowledge yet; I'll follow the group's call."}
 - 21:15 act: {"actions":[],"say":"I'm here with Zack and Jason at -274, 67, 289. Health 3, hunger 11, no food. Anyone who sees a sheep or cow, call out the spot."}
 - 21:15 act: {"actions":[],"say":"I'll stay with Zack and Troi here, and go wherever mutton is called. Thank you all, I'm not going far."}
+- 21:21 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}}],"say":"Trini here, going to the yellow bed near the group for the night. Phantoms to the north-east. Still no food, hunger 11.","intent":{
+- 21:21 act: {"actions":[{"do":"sleep"}],"say":"Trini at the yellow bed by the group, health 3, hunger 11, no food. Mutton still goes to me first at light."}
+- 21:21 act: {"actions":[{"do":"sleep"}],"say":"Trini at the white bed, health 3, hunger 11. Golem 24 blocks south. Trying to sleep again."}
+- 21:22 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":292}}],"say":"Trini: iron golem 7 blocks south of me. Moving north to the yellow bed to sleep, away from it.","intent":{"goal":"get_away_from_gol
+- 21:22 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}},{"do":"sleep"}],"say":"Trini at the yellow bed with Worf and Billy. Health 3, hunger 11. Trying to sleep."}
+- 21:22 act: {"actions":[{"do":"sleep"}]}
+- 21:23 act: {"actions":[{"do":"sleep"}],"say":"Trini at the yellow bed, health 3, hunger 11. Thank you Jason, Data and Kimberly. Trying to sleep again."}
+- 21:28 act: {"actions":[],"say":"Trini: dawn, health 3, hunger 11. Thank you Riker, I'll take the chicken if it is raw and safe to eat. Please pass it to me here at the white bed."}
+- 21:29 act: {"say":"Trini here, health 3, hunger 11. Riker, I'm at the white bed with the group. If you can see me, hand over the chicken now. Zack, if you're weaker, say so and it goes to you.","reasoning":"Dawn
+- 21:30 act: {"say":"Trini: still at the white beds, golem to the south-west and bow sounds to the south. Riker, where is the chicken? I'll come to you if it's safer, or wait here.","reasoning":"Chicken has not ar
+- 21:31 act: {"say":"Trini here at the white beds, -271,67,318. I'm right here. Riker, come to me, I'm waiting.","reasoning":"Riker is coming with the chicken. Stay put so he can find me."}
+- 21:32 act: {"say":"Riker, that's fine, Data needs it at health 3 too. Trini gets the next food. Keep it safe. I'm walking over to you.","reasoning":"Chicken went to Data, agreed fair enough. Next food to me. Rik
+- 21:33 act: {"say":"Trini: thanks Troi, but I'm staying at the white beds with the group. Bring the seed here if you can. Bows are sounding south.","reasoning":"Troi's offer means going south, where bows are soun
+- 21:34 act: {"say":"Trini: I'm right here at the white beds. Riker, give me the wheat and one rotten flesh now.","reasoning":"Riker is at the beds. Ask him to hand over the wheat.","intent":{"goal":"wait_at_beds_
+- 21:34 act: {"say":"Riker, I'm at -271,67,318, two blocks from you. Jason, yes, bring the chicken here and I'll eat it.","reasoning":"Riker and Jason both have food for me. Make my position clear and take whichev
+- 21:34 act: {"say":"Trini, in reach now. Riker, Jason, hand over the food now please.","reasoning":"Now in reach of Riker and Jason. Ask for the food directly.","intent":{"goal":"receive_food_at_beds","program":"
+- 21:35 act: {"say":"Trini here at -271,67,316. I have no chicken in my pack yet, only 3 rotten flesh and 1 wheat. Jason, if the chicken is still with you, please give it to me now.","reasoning":"Inventory shows n
+- 21:37 act: {"actions":[{"do":"eat"}],"say":"Trini: I don't have the chicken in my pack. It dropped on the ground near me. Jason, can you drop it again right on my square, -271,67,316?","reasoning":"The chicken i
+- 21:38 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":315}},{"do":"goto","target":{"x":-271,"y":67,"z":316}},{"do":"eat"}],"reasoning":"Others say the chicken lies on my square. Step off and back on 
+- 21:38 act: {"say":"Trini: I stepped off and back on my square at -271,67,316. Still no chicken in my pack and eat says only rotten flesh. The chicken is not reachable by me. Jason, Kimberly, if you can see it on
+- 21:38 act: {"say":"Trini: understood, Jason. No hard feelings. I have no chicken; I will wait for hunger to reach 6 and then eat my rotten flesh. Zack, you're next for any food found.","reasoning":"The chicken i
+- 21:39 act: {"actions":[{"do":"eat"}],"say":"Trini: thank you Jason. If the chicken is in my pack I will eat it now; if not, tell me once it is in hand.","reasoning":"Jason says the chicken is raw and in reach. T
+- 21:39 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini: no chicken came through, so I have only rotten flesh. Dusk now; I'm going to the white bed to sleep at -271,6
+- 21:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini going to bed for the night. Thank you, Jason, for the chicken offer."}
+- 21:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 21:43 act: {"actions":[],"say":"Thank you Kimberly. Please give me the chicken here if it will pass to my hands; I'll eat it when it is in my inventory."}
+- 21:48 act: {"actions":[],"say":"Jason, yes, please try once more and drop the chicken at my feet. I'm ready."}
+- 21:48 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Coming to you, Jason. Hand it over."}
+- 21:48 act: {"actions":[],"say":"I'm next to you now, Jason. Drop the chicken at my feet."}
+- 21:49 act: {"actions":[{"do":"eat"}],"say":"Got it, thank you Jason. Eating now."}
+- 22:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"intent":{"goal":"rest_at_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","g
+- 22:10 act: {"say":"Trini, dawn of day 242. Health 3, hunger 11. I hold the chicken and rotten flesh and will eat when hunger drops to 6. Thank you all."}
