@@ -17,3 +17,5 @@
 - 06:30 act: {"say":"Morning all. I'm heading to the sheep field to pool food with the group. I have no food, but I'll look for chickens and sheep on the way.","intent":{"goal":"join_food_pool_at_sheep_field","pro
 - 06:30 act: {"say":"Billy, I'm on my way back to my wall near -229, 68, 403. Picard, I haven't found food yet either. Let's meet there and search together.","intent":{"goal":"return_to_wall_meet_group","program":
 - 06:30 act: {"actions":[{"do":"goto","target":{"x":-229,"y":68,"z":403}}],"say":"Travel keeps stalling, so I'm walking straight to the wall at -229, 68, 403. Zack, Billy, Kimberly, Picard, meet me there."}
+- 06:30 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":388}}],"say":"Searching for food toward the sheep field. Will report."}
+- 06:31 act: {"say":"Everyone, I have no food either, only dirt and planks. Billy gets the first share of Tommy's wheat and pumpkins, as agreed. I've sent a worker out to look for chickens within 30 blocks of the 
