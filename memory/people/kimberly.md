@@ -1,0 +1,5 @@
+# Kimberly
+
+- Impression: the weakest of the group most days, and the first I share food with. She asks for food directly and eats it.
+- I gave her porkchop (day 224), an apple (day 226), and an apple (day 231). I have not kept track of her health after that.
+- Trust: 60. Why: she is honest about needing food and she has eaten what I gave, but she is often out of sight, and I could not always find her to hand over food.
