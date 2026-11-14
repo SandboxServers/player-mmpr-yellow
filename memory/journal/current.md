@@ -108,3 +108,63 @@
 - 09:59 say: {"text":"Jason and Tommy are with me at the white beds. Picard, I have no food either. We hunt at first light, together, on dry ground."}
 - 09:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
 - 10:00 act: {"say":"Agreed, Jason. I have nothing in my hands, so I will wait by the beds until first light, then hunt with you on dry ground.","intent":{"goal":"rest_by_beds_until_dawn","program":"rest","argumen
+- 10:11 act: {"say":"Trini here, awake at the white beds with no food and no weapon, health 4. I'm heading to the group at the pig spot -352,65,227 on dry ground. Please keep the animal in sight and hold it for Pi
+- 10:11 act: {"actions":[{"do":"unstick"}],"say":"Trini: I'm in deep water at -337,62,258 and trying to get out to the sand. Jason, Kimberly, stay on the sand; I'll come to you."}
+- 10:11 act: {"actions":[{"do":"goto","target":{"x":-337,"y":63,"z":252}}]}
+- 10:12 act: {"say":"Trini: I'm out of the water on the sand at -338,63,252. No food, no weapon. Kimberly, Jason, come to the sand here, away from the deep water. Whoever finds a pig or sheep, call me."}
+- 10:26 act: {"say":"Trini: alone on the sand at -338,63,252, no food, no bed. Tommy, at first light could you send someone to walk me in? I'll wait here still."}
+- 10:27 act: {"say":"Trini: I'm holding on the sand. Jason, Tommy, I'll wait for you here at dawn. Go carefully on the grass."}
+- 10:28 act: {"say":"Trini: I see you, Tommy. I'm still on the sand. I'll walk with you back to the grass at -301,66,270 when you are near."}
+- 10:29 act: {"say":"Trini: walking to you now, Tommy, Jason, Billy, Kimberly, on the grass at -301,66,270. Avoiding the water.","intent":{"goal":"join_group_on_grass","program":"travel","arguments":{"target":{"x"
+- 10:29 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}]}
+- 10:29 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"I'm here on the grass with you all. I'll stay in sight and go north with the group to the sheep.","intent":{"goal":"join_group_hunt","program":
+- 10:31 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"I lost sight of you on the way; I'm on sand near the water at -299,63,215. Heading north to Tommy on the grass."}
+- 10:31 act: {"actions":[{"do":"goto","target":"ag_picard_01"}],"say":"Tommy is out of my sight. Picard, I'm coming to you; I'm on sand at -299,63,215."}
+- 10:31 act: {"actions":[],"say":"Picard, I'm with you on the grass at -301,63,207. The nearest cow is at -297,64,194, north of us. Let's go there together, Picard first for any meat."}
+- 10:31 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Going to Tommy at the cow spot on the grass now."}
+- 10:35 act: {"actions":[],"say":"Agreed, we stay together. I'm holding with Tommy at -298,64,194. I'll look for a dry route west with you when we go."}
+- 10:37 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Going up to Tommy at -293,64,181 now, then the cow at -293,64,177 together."}
+- 10:41 act: {"say":"Trini here, hungry with no food. I'll hold with Tommy's group at -293,64,179 as agreed and not cross the drop in the dark.","intent":{"goal":"hold_with_group_until_light","program":"follow","a
+- 10:47 act: {"say":"Dawn. Going to the cow at -297,64,194 with the group. Picard first for the meat.","intent":{"goal":"reach_cow_at_dawn","program":"travel","arguments":{"target":{"x":-296,"y":64,"z":191}},"wake
+- 10:47 act: {"say":"I'm at -296,64,190, the cow is just north at -297,64,194. Tommy, Picard, come up; I'll wait here for the group.","actions":[{"do":"wait","seconds":30}]}
+- 10:48 act: {"say":"Taking the cow at -297,64,194 now. Meat goes to Picard first.","actions":[{"do":"goto","target":{"x":-297,"y":64,"z":192}},{"do":"attack","target":"cow"}]}
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":-297,"y":64,"z":193}}]}
+- 10:48 act: {"actions":[{"do":"attack","target":"cow"}]}
+- 10:48 act: {"say":"No cow in view at the spot. Trying the cow at -295,64,189 next.","actions":[{"do":"goto","target":{"x":-295,"y":64,"z":188}},{"do":"attack","target":"cow"}]}
+- 10:48 act: {"say":"Both cows are gone from the spots. I'll try the cow at -278,65,203 next, and tell the group where I am.","intent":{"goal":"reach_cow_at_278_203","program":"travel","arguments":{"target":{"x":-
+- 10:48 act: {"say":"No cow here either. Heading west to the sheep and chicken near -266,62,207.","intent":{"goal":"reach_sheep_266_207","program":"travel","arguments":{"target":{"x":-267,"y":63,"z":207}},"wake_on
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":-277,"y":64,"z":203}}]}
+- 10:49 act: {"actions":[{"do":"goto","target":{"x":-277,"y":64,"z":203}}],"say":"I am on dry grass at -271,63,208 and out of the deep water. I am heading to the cow near -278,65,203.","reasoning":"Out of water on
+- 10:49 act: {"actions":[{"do":"goto","target":{"x":-278,"y":65,"z":203}}],"reasoning":"Still on grass at -273,63,203. Cow spot is 5 blocks west. Try once more on land; if blocked, look."}
+- 10:49 act: {"actions":[{"do":"unstick"}],"say":"I'm at -273,63,204 on a ledge over water and the cow spot is cut off by water. I'm stopping here and will walk back to the group on the grass at -297,64,193, no wa
+- 10:49 act: {"actions":[{"do":"goto","target":{"x":-271,"y":63,"z":208}}],"reasoning":"Underwater, air 11, falling. Get to the grass I stood on before at -271,63,208 right now."}
+- 10:49 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-271,"y":62,"z":207}}],"say":"I'm standing on a water patch at -271,63,207, cut off from land. Trying to lay my dirt as footing. Kimberly, if you hav
+- 10:49 act: {"actions":[],"say":"I'm on a dirt footing at -271,63,207 in the lake, water on all sides. No dirt left, hunger 16, health 4. Kimberly, Tommy: bring dirt or planks to the shore and lay a path toward m
+- 10:51 act: {"intent":{"goal":"hold_footing_for_path","program":"rest","arguments":{"hold":"stay on dirt footing at -271,63,207 until a dry path is laid"},"wake_on":["directly_addressed","unexpected_damage","prec
+- 10:51 act: {"say":"Holding still on my footing at -271,63,207. No one swim. Tommy, I'll step onto any grass path you lay. I have no dirt or planks left."}
+- 11:00 act: {"actions":[{"do":"goto","target":{"x":-298,"y":64,"z":196}}],"say":"Drowned hit me, health 1.3. Trying to get back toward Jason and Billy on the grass."}
+- 11:01 act: {"actions":[{"do":"unstick"}]}
+- 11:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":63,"z":207}}]}
+- 11:01 act: {"actions":[{"do":"attack","target":"drowned"}],"say":"I'm back, health 20. Drowned coming from the north; I'll fight it on this grass, not in the water."}
+- 11:01 act: {"actions":[{"do":"attack","target":"drowned"}]}
+- 11:01 act: {"actions":[{"do":"attack","target":"drowned"},{"do":"attack","target":"drowned"}]}
+- 11:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":63,"z":207}}],"say":"Getting off the water to the grass at -271,63,207. Holding there, away from the drowned.","intent":{"goal":"reach_grass_away_from_w
+- 11:03 act: {"actions":[{"do":"goto","target":{"x":-276,"y":64,"z":196}}],"intent":{"goal":"get_out_of_water","program":"flee","arguments":{"from":"skeleton and drowned"},"wake_on":["goal_completed","directly_add
+- 11:03 act: {"actions":[{"do":"unstick"}]}
+- 11:03 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Trini here, on grass at -280,64,181, health 3. Coming to Jason on the grass. No food, no items.","intent":{"goal":"join_jason_on_grass","progra
+- 11:05 say: {"text":"Trini here: on grass beside Jason at -290,64,182, health 3, no food. Staying put until light. Will go for the cow at -297,64,194 with Jason at dawn."}
+- 11:08 act: {"actions":[{"do":"goto","target":{"x":-296,"y":64,"z":192}}],"say":"Dawn. Following Jason to the cow at -297,64,194 on the grass. Staying off the water.","intent":{"goal":"reach_cow_on_grass","progra
+- 11:08 say: {"text":"Trini: on grass beside you both at -296,64,191. No weapon, so I'll hold here and let Billy take the cow. Meat to Picard first, then me."}
+- 11:09 act: {"actions":[],"intent":{"goal":"follow_billy_to_cow","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_
+- 11:09 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Billy, Jason, I am on grass at -296,191 and I will stay with Jason. Going toward the sheep only over grass.","intent":{"goal":"stay_with_jason_
+- 11:09 act: {"actions":[{"do":"attack","target":"cow"}],"say":"Trini: Jason, Billy, I am alone on the grass at -296,191 with the cow right here. Cows do not fight back, so I'll take the nearest one by hand and sh
+- 11:10 act: {"actions":[{"do":"goto","target":{"x":-296,"y":64,"z":193}}],"say":"Trini: Tommy, thanks. No cow is in my view yet, so I'm walking to the cow spot at -297,194 on grass. Meat goes to Picard first."}
+- 11:10 act: {"actions":[{"do":"note","text":"Dawn day 209: no cow in view at -297,194; holding on grass at -296,192 alone, no weapon. Waiting for Jason/Billy's chicken or Tommy's sheep."}],"say":"Trini: No cow in
+- 11:10 act: {"actions":[{"do":"note","text":"Holding on grass at -296,192. Billy got into water near -262,262 and is leaving it. I stay put and wait for meat."}]}
+- 11:10 act: {"actions":[],"say":"Trini: Billy, follow Jason's line to the south-west grass and do not dive. I am holding on grass at -296,192 with no food and no weapon."}
+- 11:14 act: {"actions":[{"do":"note","text":"Midday: still holding alone on grass at -296,192, health 3.3, hunger 17. Billy drowned and woke on grass at -265,268. Picard is stuck in water; Tommy is bridging. I st
+- 11:19 act: {"actions":[{"do":"goto","target":{"x":-296,"y":64,"z":193}},{"do":"attack","target":"cow"}],"say":"Cows are listed close, at -297,194 and -295,189. I'm going for one by hand. Picard gets the first me
+- 11:19 act: {"actions":[{"do":"goto","target":{"x":-297,"y":64,"z":194}},{"do":"attack","target":"cow"}],"reasoning":"No cow in view from here. Walk to its last spot on grass and try again."}
+- 11:23 act: {"actions":[{"do":"goto","target":{"x":-278,"y":65,"z":201}},{"do":"attack","target":"cow"}],"say":"Morning. I'm heading for the cow near -278,203 on the grass. Jason, if you find meat first, Picard g
+- 11:23 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":326}}],"reasoning":"Respawned with nothing, status says in_water. Get onto the bed platform first."}
+- 11:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"Night, no items, health full at 20 after respawn, beside the beds at spawn. Sleep in the bed."}
