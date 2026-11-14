@@ -142,3 +142,8 @@
 - 14:56 wait: health 20, hunger 20, no food in pack; Tommy's porkchop has not arrived yet. Holding at the yellow bed -262,67,353, waiting on Tommy.
 - 14:55 act: {"say":"Thank you, Tommy. I'm at the yellow bed and will keep the porkchop for later when I'm hungry.","intent":{"goal":"receive_porkchop_from_tommy","program":"rest","arguments":{},"wake_on":["direct
 - 14:55 act: {"say":"Thank you, Tommy. I have the porkchop now and I'll keep it for when my hunger drops. I'm at the yellow beds, -262,67,353, health 20, hunger 20.","intent":{"goal":"hold_at_beds_until_news","pro
+- 14:56 say: {"text":"Trini here, at the yellow beds, health 20, hunger 20. Thank you both. I'll hold my porkchop and join the pig hunt at -168,89,225 at first light."}
+- 15:00 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Trini: dusk, I'm going into the yellow bed at -263,67,354 for the night. Porkchop held for hunger; pig hunt at first
+- 15:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 15:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini: trying the white bed at -271,67,336 once more. If it fails I hold on the planks until morning.","intent":{"go
+- 15:03 act: {"actions":[],"say":"Trini here at the white bed -271,67,336, health 20, hunger 20, holding one porkchop. Not enclosed, but Tommy and Billy are close. Holding until first light, then the pig hunt at -
