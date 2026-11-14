@@ -83,3 +83,6 @@
 - 17:49 act: {"say":"Trini: no apples from the leaves, only saplings. Going west to the grass to look for animals, staying in sight of Billy and Zack. Calling out anything I see.","intent":{"goal":"scout_west_gras
 - 17:51 act: {"say":"Trini on the west grass with Billy, Jason, Kimberly and Tommy. Still no animals in sight. I'll keep watching here and call out anything."}
 - 18:00 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":295}},"wake_on":["directly_addressed"
+- 18:00 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"apple","count":1}],"say":"Kimberly, I'm coming to you with my apple. Hunger is 20 for me, so you need it 
+- 18:00 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, I can't see you. I'm at the white bed by -297,68,295 with my apple; come find me."}
+- 18:00 act: {"actions":[{"do":"sleep"}]}
