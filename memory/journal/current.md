@@ -48,3 +48,21 @@
 - 13:00 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}},{"do":"sleep"}],"say":"Trini: going into the bed now. Mutton stays with me until Zack or Kimberly can be reached.","reasoning":"First sleep
 - 13:00 act: {"say":"Trini: the beds are taken, so I'll stay here beside Tommy and Billy on the planks with my sword and keep watch until light.","reasoning":"Beds occupied, not enough material for shelter. Hold n
 - 13:04 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}],"reasoning":"Night, thunder, open ground. Tommy has gone from the beds; try the other bed."}
+- 13:09 act: {"say":"Trini here, morning. I still hold 2 mutton for Zack or Kimberly. Kimberly, where are you exactly? I'll come to you on the grass once Jason is with you.","intent":{"goal":"reach_kimberly_group"
+- 13:09 act: {"actions":[{"do":"goto","target":{"x":-275,"y":68,"z":306}}],"say":"Kimberly, I'm heading to your last spot at -275,70,312 on the grass with 2 mutton. Tell me if you see me."}
+- 13:09 act: {"say":"Kimberly, I see you 6 blocks off, Tommy is near too. I'll stay on the grass here and hold the mutton for Zack until the dry route is known."}
+- 13:10 act: {"say":"Zack, heard you. I have 8 planks and 2 mutton; I'll bring the planks and bridge with Jason from the north side. Jason, I'm here at -275,69,306 waiting for you."}
+- 13:10 act: {"say":"Jason, good. I'll walk north with you on the grass, planks in hand. Lead the way and I'll stay in sight.","intent":{"goal":"follow_jason_to_zack","program":"follow","arguments":{"target":"jaso
+- 13:10 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, the follow ended, so I'm walking to you now. I'll keep the mutton and planks with me."}
+- 13:10 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}],"say":"Thanks Jason. I'll turn the logs into planks for the bridge toward Zack's pillar, then we lay the route from the north side."}
+- 13:11 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, following you north on the grass, staying in sight. I have 24 planks for the bridge."}
+- 13:12 act: {"say":"Tommy, keep your planks for now, I have 24 and that's enough to start. Jason, Picard: there's a drop 7 blocks northeast of me, so I'm scouting the grass north first. I'll call the next waypoin
+- 13:12 act: {"actions":[{"do":"goto","target":{"x":-270,"y":69,"z":298}}],"say":"Everyone, follow me. First waypoint is the grass at -270,69,298, north-west of the logs. I'll call the next step once I see it.","i
+- 13:12 act: {"actions":[],"say":"Everyone, I'm at -270,69,299. Ahead north there is open air but the ground drops about 5 blocks, so this is not a dry step yet. Jason, hold where you are; I'll check the north-eas
+- 13:13 act: {"actions":[],"say":"Thank you Billy, I have 36 planks now. Jason, Kimberly, Tommy: we are still holding at the waypoint. Dry ground north is not found yet, so I'll call the next step only after I see
+- 13:15 act: {"actions":[],"say":"Billy, come to me, you're safe here on the grass. Everyone, pillagers to the south: stay close together and keep out of their line. Billy, if you're hungry, tell me and I'll give 
+- 13:15 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"mutton","count":1}],"say":"Billy, here is one mutton. Eat it now. The other stays for Zack."}
+- 13:17 act: {"actions":[],"say":"Everyone: the group's spot is here, grass at -267,68,291, by the yellow beds. Come here, out of the pillagers' line to the south. Jason, Kimberly, Tommy, Picard: come to this spot
+- 13:19 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-281,"y":69,"z":292}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 13:19 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}}]}
+- 13:19 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
