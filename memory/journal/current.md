@@ -1,1 +1,13 @@
 # Journal
+- 12:24 say: {"text":"Trini here at the white bed, awake and healthy. Holding for first light, then I'll hunt the cows to the north for food and help with Kimberly's route."}
+- 12:28 act: {"intent":{"goal":"reach_cows_south_of_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":244}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
+- 12:28 say: {"text":"Picard, Kimberly: my route south failed at the drops near the beds, so I'm still here by the white beds. Food is not urgent for me yet (hunger 20). I'll stay near the beds through the dusk an
+- 12:30 act: {"intent":{"goal":"short_step_south_toward_cows","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":290}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_com
+- 12:31 act: {"intent":{"goal":"reach_cow_near_minus262_244","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":250}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
+- 12:31 say: {"text":"Trini here, at -261,65,265. Deep water is 4 blocks north of me, so I'm turning back. Billy, I'll follow your line south-east on grass; tell me where the cow is when you see it."}
+- 12:31 act: {"intent":{"goal":"return_to_dry_grass_near_beds","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":288}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_co
+- 12:31 act: {"actions":[{"do":"note","text":"Day 213 morning: routes south/north blocked by deep water and drops; cow hunt not done. Picard holds porkchop nearby, asked him to bring it to Kimberly. I am back on d
+- 12:33 say: {"text":"Thank you, Picard. I'm still on the dry grass near -268,288, hunger 20. I'll watch for cows to the east and report any dry line."}
+- 12:41 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_
+- 12:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 12:42 act: {"actions":[{"do":"sleep"}]}
