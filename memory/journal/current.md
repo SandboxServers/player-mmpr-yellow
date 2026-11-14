@@ -42,3 +42,4 @@
 - 17:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 17:03 act: {"actions":[{"do":"sleep"}]}
 - 17:04 act: {"actions":[{"do":"sleep"}],"say":"Trini here, at the white bed by the group for the night. Food goes to Kimberly first at dawn."}
+- 17:05 act: {"actions":[{"do":"sleep"}],"say":"Night again, Billy. I'm in the white bed by the group. Goodnight."}
