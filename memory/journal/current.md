@@ -120,3 +120,64 @@
 - 07:20 act: {"say":"I gave my beef to Tommy by mistake, my give went to him. Tommy, if you are not hungry, please hand that beef to Jason. I have no food left."}
 - 07:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":365}},{"do":"sleep"}]}
 - 07:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}]}
+- 07:23 act: {"say":"Trini here, awake by the yellow beds. I have no food, hunger 19, health 20. At first light I'll go for the cows to the north at about -278, 65, 203 and bring meat to Jason and Tommy first.","i
+- 07:25 act: {"say":"Jason, I hear you. I have no food, and the cows are far in the dark. First light, I'll go straight for the nearest cow and bring it to you first."}
+- 07:30 act: {"say":"Morning. I'm going north now for the cow at -262, 67, 244. Any meat comes straight back to Jason first.","intent":{"goal":"reach_north_cow_for_jason","program":"travel","arguments":{"target":{
+- 07:30 act: {"say":"My travel stalled at -255, 68, 309. I'm trying a different path north toward the cow at -262, 67, 244.","intent":{"goal":"reach_north_cow_via_east","program":"travel","arguments":{"target":{"x
+- 07:30 act: {"say":"Tommy, you take the cow at -262, 67, 244, I'll go for the sheep and chicken by the lake at -266, 62, 207. Jason gets the first meat.","intent":{"goal":"hunt_sheep_chicken_by_lake","program":"t
+- 07:30 act: {"say":"Tommy, I'm stuck behind the water at -252, 65, 258. Go for the cow at -262, 67, 244 and eat if you're hungry; bring any spare meat to Jason. I'll try the sheep by the lake next."}
+- 07:31 act: {"intent":{"goal":"reach_sheep_west","program":"travel","arguments":{"target":{"x":-273,"y":66,"z":225}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"],"li
+- 07:31 act: {"actions":[{"do":"attack","target":"sheep"}]}
+- 07:32 act: {"say":"Jason, I have 2 mutton. Where are you? I'm at -186,82,225. Tell me your spot and I'll bring it to you."}
+- 07:34 act: {"intent":{"goal":"meet_tommy_with_mutton","program":"travel","arguments":{"target":{"x":-255,"y":66,"z":240}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage
+- 07:34 act: {"intent":{"goal":"meet_tommy_with_mutton","program":"travel","arguments":{"target":{"x":-232,"y":66,"z":248}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage
+- 07:34 act: {"actions":[{"do":"unstick"}],"say":"Tommy, I'm at -232,67,248 with 2 mutton, stuck in a pit for a moment. Climbing out, then I'll come to the cow spot."}
+- 07:34 act: {"intent":{"goal":"meet_tommy_with_mutton","program":"travel","arguments":{"target":{"x":-256,"y":67,"z":244}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage
+- 07:34 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":2}],"say":"Tommy, here are 2 mutton. Jason has his beef and mutton from Billy and Kimberly, so this is yours. Eat."}
+- 07:35 act: {"actions":[{"do":"attack","target":"cow"}],"say":"Tommy, I'm going for the cow next to us. If I get meat, I'll share it with whoever is weakest."}
+- 07:35 act: {"intent":{"goal":"hunt_cow_west","program":"travel","arguments":{"target":{"x":-277,"y":65,"z":205}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"],"limit
+- 07:35 act: {"actions":[{"do":"attack","target":"cow"}]}
+- 07:35 act: {"actions":[{"do":"attack","target":"sheep"}]}
+- 07:35 act: {"intent":{"goal":"close_on_sheep_west","program":"travel","arguments":{"target":{"x":-284,"y":64,"z":204}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"],
+- 07:36 act: {"intent":{"goal":"hunt_sheep_south","program":"travel","arguments":{"target":{"x":-274,"y":66,"z":222}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"],"li
+- 07:36 act: {"actions":[{"do":"attack","target":"sheep"}]}
+- 07:36 act: {"intent":{"goal":"reach_sheep_near_lake","program":"travel","arguments":{"target":{"x":-284,"y":64,"z":206}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"
+- 07:36 act: {"actions":[{"do":"attack","target":"sheep"}]}
+- 07:36 act: {"intent":{"goal":"reach_west_cows","program":"travel","arguments":{"target":{"x":-292,"y":64,"z":193}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"],"lim
+- 07:36 act: {"actions":[{"do":"attack","target":"cow"}]}
+- 07:37 act: {"intent":{"goal":"hold_and_watch_for_animals","program":"rest","arguments":{"seconds":180},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":3600,"max_block_operations"
+- 07:40 act: {"say":"Zack, I'm going for the sheep at -286,64,204 now. Hunger 19 here.","actions":[{"do":"goto","target":{"x":-287,"y":64,"z":202}},{"do":"attack","target":"sheep"}],"intent":{"goal":"hunt_sheep_fo
+- 07:40 act: {"say":"No sheep in view here. I'm building a dirt shelter for the night and will hunt at first light.","intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block
+- 07:40 act: {"say":"Tommy, my shelter fell short; I'm at -287,64,202 with Zack. Trying a wall with my last dirt.","intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"dirt"
+- 07:40 act: {"say":"Tommy, come on in, the north side is open. Stay clear of the enderman. I'm not building anymore tonight.","actions":[{"do":"note","text":"Night, no food found. Dirt shelter and wall both stopp
+- 07:43 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 07:43 act: {"say":"Zack, the rotten flesh you're holding, could you give it to me? Hunger is 17. I'll share any meat I find.","actions":[{"do":"note","text":"Zombie killed at -287,64,204. Health 19, hunger 17. A
+- 07:43 act: {"say":"Zack, come back to me at -287,64,204, away from the zombie. I'll take the rotten flesh when you're here."}
+- 07:44 act: {"say":"Kimberly, Jason is weakest, so he gets the first mutton. I'm at hunger 17 and will come to the beds at first light for any that's left.","actions":[{"do":"note","text":"Zack died, respawned at
+- 07:44 act: {"intent":{"goal":"reach_cow_west","program":"travel","arguments":{"target":{"x":-278,"y":65,"z":203}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"
+- 07:44 act: {"say":"A wolf is 6 blocks to my north-west. I have no sword, so I'm keeping my distance. Zack, if you're near, stay clear of it too."}
+- 07:46 act: {"actions":[{"do":"goto","target":{"x":-272,"y":64,"z":206}}],"say":"I'm at 0.2 health, hit from behind and an explosion. I'm moving east, away from the drop."}
+- 07:46 act: {"actions":[{"do":"attack","target":"salmon"}],"say":"A zombie is closing from the north-east. I'm going for the salmon in the water for food."}
+- 07:47 act: {"actions":[{"do":"goto","target":{"x":-276,"y":60,"z":181}},{"do":"attack","target":"salmon"}],"say":"I'm in the water at 0.2 health. Salmon are nearby to the north, so I'm going after one for food."
+- 07:47 act: {"actions":[{"do":"goto","target":{"x":-283,"y":64,"z":190}}],"say":"I'm underwater and need air. Heading to land at the oak logs to the south-west."}
+- 07:47 act: {"say":"I died in the water to the north-west and woke at spawn with nothing. My things lie at -275,60,182, in deep water with drowned nearby, so I'm not going back tonight.","intent":{"goal":"wait_fo
+- 07:47 act: {"intent":{"goal":"hunt_cow_south","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":244}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"
+- 07:47 act: {"intent":{"goal":"hunt_cow_south","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":244}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"
+- 07:47 act: {"actions":[{"do":"attack","target":"cow"}],"say":"I'm at the cow spot. Only a horse is here, and I can't eat that. Looking for a cow or sheep."}
+- 07:48 act: {"intent":{"goal":"hunt_sheep_east","program":"travel","arguments":{"target":{"x":-184,"y":86,"z":230}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
+- 07:48 act: {"actions":[{"do":"attack","target":"pig"}],"say":"I'm hungry and I have nothing. There's a pig 9 blocks north of me; going for it, then the sheep to the east.","reasoning":"Pig is closest food, 9 blo
+- 07:48 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie on me to the south-west. Fighting it, then the pig.","reasoning":"Zombie is adjacent and attacking; it will chase me anyway. Bare-hand figh
+- 07:48 act: {"actions":[{"do":"goto","target":{"x":-184,"y":86,"z":230}}],"intent":{"goal":"reach_sheep_for_food","program":"travel","arguments":{"target":{"x":-184,"y":86,"z":230}},"wake_on":["goal_completed","u
+- 07:49 act: {"actions":[{"do":"attack","target":"sheep"}],"say":"I'm at the sheep spot, -184,230. Kimberly, I'm hungry and bare-handed. Where are the yellow beds? I'll come for the mutton if you're close.","reaso
+- 07:49 act: {"actions":[{"do":"eat"}],"say":"I got two mutton. Eating now. Thanks, Kimberly and Zack.","reasoning":"Holding 2 mutton, hunger 17. Eat to restore food and health regen."}
+- 07:49 act: {"actions":[{"do":"goto","target":{"x":-158,"y":104,"z":289}}],"say":"Ate. Picking up the dropped item to the east.","reasoning":"Fed now. A dropped item lies 2 blocks east; walking over it picks it u
+- 07:49 say: {"text":"Kimberly, I'm here at -159,104,289, staying put. Thank you."}
+- 07:50 act: {"actions":[{"do":"goto","target":{"x":-158,"y":102,"z":291}},{"do":"goto","target":{"x":-160,"y":102,"z":291}}],"say":"A creeper blew up beside me. Health 4. Grabbing the dropped items nearby to eat.
+- 07:50 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Health 4, no food. The blast gave me dirt, not meat. Kimberly, if you have the mutton, I'm at -159,102,291. Please bring it.","reasoning":
+- 07:50 act: {"actions":[{"do":"goto","target":{"x":-154,"y":105,"z":302}},{"do":"attack","target":"sheep"}],"say":"A sheep is 14 blocks south at -154,305. Going for it while health holds.","reasoning":"Health ste
+- 07:50 act: {"actions":[{"do":"eat"}],"say":"I have mutton. Eating now, then I'll see about the sheep.","intent":{"goal":"eat_and_recover","program":"rest","arguments":{},"wake_on":["directly_addressed","precondi
+- 07:51 act: {"actions":[{"do":"attack","target":"sheep"}],"say":"Health is back to 10. A sheep is right beside me, so I'm hitting it. Kimberly, I'll stay here."}
+- 07:51 act: {"actions":[{"do":"eat"}],"say":"I still have two mutton. Eating one now, and I'll keep the other for whoever is weakest."}
+- 07:51 act: {"actions":[],"say":"Kimberly, I'm fed now, hunger 20 and health 11. Keep your mutton for Tommy or Zack, whoever is weakest. I'm at -161,100,313."}
+- 07:59 act: {"actions":[],"say":"It's dusk and I have no food or bed. Picard, Zack, where are the white beds? I'll head there and shelter with the group.","intent":{"goal":"shelter_for_night","program":"rest","ar
+- 07:59 act: {"actions":[],"say":"Thank you Zack. I'm heading to the white beds at -270,67,336 now.","intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on
