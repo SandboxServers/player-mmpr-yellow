@@ -1638,3 +1638,5 @@
 - 00:53 act: {"intent":{"goal":"explore_for_animals","program":"travel","arguments":{"x":-280,"y":67,"z":340},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,
 - 00:54 act: {"intent":{"goal":"explore_for_animals","program":"travel","arguments":{"target":{"x":-280,"y":67,"z":340}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_t
 - 01:02 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["goal_completed","unex
+- 01:03 say: {"text":"Zack, I have no food either, only planks, seeds and one cobblestone. I'm sleeping in the bed here for the night."}
+- 01:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
