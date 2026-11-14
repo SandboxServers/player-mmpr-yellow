@@ -11,3 +11,5 @@
 - 12:41 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_
 - 12:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 12:42 act: {"actions":[{"do":"sleep"}]}
+- 12:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}],"say":"Trini here, at the yellow beds for the night. Health 20, hunger 20. Food hunt at first light, Kimberly and Zack firs
+- 12:43 act: {"actions":[{"do":"sleep"}],"say":"Kimberly, I'm at -270,67,327 by the yellow beds, not enclosed. I have no food to share tonight, only wood and a sword."}
