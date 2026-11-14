@@ -42,3 +42,61 @@
 - 06:42 say: {"text":"Morning-ish, Zack. Thanks, I'll take you up on first light food. I'm going to bed now beside the yellow beds."}
 - 06:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
 - 06:43 act: {"say":"Morning is near. I am going to the bed to the west to rest. Food first when light comes.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
+- 06:43 act: {"say":"Picard, Billy and I are with you. When light comes, I will go with you to look for food.","intent":{"goal":"rest_until_light","program":"rest","arguments":{},"wake_on":["directly_addressed","p
+- 06:44 act: {"say":"Night, all. Trini here, I agree: we search for food together at first light."}
+- 06:49 act: {"say":"Morning. Trini here, I have no food either. Jason, Picard: I will search north, where no one has looked yet. I will call out any cow, sheep, chicken or fish.","intent":{"goal":"search_north_fo
+- 06:49 act: {"say":"Zack, come to the sign by the crafting table; I will search west, and Billy takes north. Anything edible, I'll share first with the weakest.","intent":{"goal":"search_west_for_food","program":
+- 06:50 act: {"say":"Tommy, I have no food to give, only dirt and planks. I'm searching further west now and will call out any animal I find.","intent":{"goal":"search_far_west_for_animals","program":"travel","arg
+- 06:50 act: {"say":"No animals in the far west, only trees. I'm heading back to the crafting table sign to help watch over Tommy, Zack and Jason.","intent":{"goal":"return_to_group_at_sign","program":"travel","ar
+- 06:54 act: {"say":"I have no food, but I'll go to the north-west lake where Billy and Picard found salmon and help bring fish back to Tommy.","intent":{"goal":"reach_salmon_lake","program":"travel","arguments":{
+- 06:54 act: {"intent":{"goal":"reach_salmon_lake_via_north","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":300}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_d
+- 06:54 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_salmon_lake_north","program":"travel","arguments":{"target":{"x":-340,"y":64,"z":220}},"wake_on":["directly_addressed","goal_completed","precondit
+- 06:55 act: {"actions":[{"do":"goto","target":{"x":-346,"y":65,"z":236}},{"do":"attack","target":"pig"}],"say":"There is a pig and a sheep to the south, near -348,65,241. I'll go for them and bring any meat to To
+- 06:55 act: {"intent":{"goal":"bring_porkchop_to_tommy","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":348}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_damag
+- 06:56 act: {"say":"Tommy, I have two porkchops. Where are you? Call out and I'll hand them over."}
+- 06:57 act: {"intent":{"goal":"deliver_porkchops_to_tommy","program":"travel","arguments":{"target":{"x":-266,"y":67,"z":363}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_da
+- 06:57 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"porkchop","count":2}],"say":"Tommy, here are two porkchops. Eat them, and share with Zack and Jason."}
+- 06:57 act: {"intent":{"goal":"hunt_sheep_north_west","program":"travel","arguments":{"target":{"x":-347,"y":65,"z":243}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_damage"
+- 06:57 act: {"intent":{"goal":"hunt_sheep_north_west_via_west","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":300}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpecte
+- 06:57 act: {"intent":{"goal":"hunt_sheep_north_west_final","program":"travel","arguments":{"target":{"x":-347,"y":65,"z":243}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_d
+- 06:58 act: {"intent":{"goal":"reach_sheep_north","program":"travel","arguments":{"target":{"x":-337,"y":63,"z":245}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_damage"],"l
+- 06:58 act: {"actions":[{"do":"goto","target":{"x":-342,"y":64,"z":248}}],"say":"Tommy, Zack, I'm still out at the lake. Water keeps blocking me. I'm going for the sheep at the north-west now."}
+- 06:58 act: {"actions":[{"do":"goto","target":{"x":-337,"y":63,"z":244}}]}
+- 06:58 act: {"actions":[{"do":"attack","target":"sheep"},{"do":"attack","target":"sheep"},{"do":"attack","target":"sheep"}],"say":"I see a sheep just north of me. Going for it now, Tommy. I'll bring the meat to t
+- 06:59 act: {"intent":{"goal":"bring_mutton_to_jason_at_sign","program":"travel","arguments":{"target":{"x":-338,"y":64,"z":248}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected
+- 06:59 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"give","to":"ag_jason_01","item":"mutton","count":3}],"say":"Jason, coming to you with the mutton now."}
+- 06:59 act: {"actions":[{"do":"goto","target":{"x":-341,"y":64,"z":251}}],"say":"Jason, Tommy, I'm at the sign with 3 mutton. Jason, where are you? Tell me and I'll bring it to you."}
+- 07:00 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 07:00 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 07:00 act: {"actions":[{"do":"goto","target":{"x":-344,"y":64,"z":250}}],"say":"A zombie is hitting me by the water. I'm heading back toward Jason's bed."}
+- 07:00 act: {"actions":[{"do":"goto","target":{"x":-344,"y":64,"z":250}}],"say":"Heading to the yellow bed with the mutton now, Jason. Dark out and a zombie is north of me.","intent":{"goal":"reach_jason_bed","pr
+- 07:01 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-341,"y":63,"z":251}}],"say":"A drowned one is on me in the water. Getting out toward the sign now."}
+- 07:01 act: {"actions":[{"do":"goto","target":{"x":-344,"y":64,"z":250}}],"say":"I'm getting out of the water toward Jason's bed. Something keeps hitting me in the water."}
+- 07:01 act: {"actions":[{"do":"goto","target":{"x":-338,"y":64,"z":240}}],"say":"Jason, I ate the mutton on the way; the water hit me hard. I'm going for the sheep to the north now."}
+- 07:02 act: {"actions":[{"do":"attack","target":"sheep"}]}
+- 07:02 act: {"actions":[{"do":"eat"},{"do":"attack","target":"sheep"}]}
+- 07:02 act: {"actions":[{"do":"attack","target":"sheep"}],"say":"Eating the mutton fixed my hunger a bit. Hunting another sheep here by the cows."}
+- 07:02 act: {"actions":[{"do":"eat"}],"say":"Got another mutton from a sheep here. I'm eating this one to get my strength back, and I'll bring food to the group at first light."}
+- 07:02 act: {"actions":[{"do":"attack","target":"sheep"}]}
+- 07:03 act: {"actions":[{"do":"eat"}],"say":"I have two mutton now. I'll keep one for Jason and Picard at first light."}
+- 07:03 act: {"actions":[{"do":"attack","target":"cow"}],"say":"Tommy, I'm hunting a cow close by for food, and I'll bring it to you at the yellow bed."}
+- 07:03 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Tommy, I have 3 beef. I'm coming to you at the yellow bed now.","intent":{"goal":"bring_beef_to_tommy","program":"travel","arguments":{"target"
+- 07:04 act: {"actions":[{"do":"goto","target":{"x":-342,"y":64,"z":248}}],"say":"Tommy, I'm walking to the sign with the beef. Tell me where you are."}
+- 07:04 act: {"actions":[],"say":"I'm at the sign at -340,64,250 with 2 beef. Tommy, I can't see you; call out. Zack, I'll bring this toward you if Tommy isn't here."}
+- 07:04 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":362}}],"say":"Jason, Tommy: I have 1 beef left and I'm on my way to you at the yellow bed by the signs. Zombie behind me, moving now.","intent":{
+- 07:05 act: {"actions":[],"say":"My beef was eaten by my own hunger reflex on the way, so I have none left. I'm near the signs now, health 18. I'll look for a cow or sheep close by and bring it to Tommy and Zack.
+- 07:09 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":222}}],"say":"Morning. I have no food. I'm heading to the sheep on the grass to the south at -274,66,224 and will bring meat back to the yellow b
+- 07:09 act: {"actions":[{"do":"attack","target":"sheep"}]}
+- 07:10 act: {"actions":[{"do":"attack","target":"chicken"}],"say":"I'm hunting a chicken and a sheep near the water east of here; I have no food yet."}
+- 07:10 act: {"actions":[{"do":"eat"}],"say":"I got a chicken, but I'm about 150 blocks from the yellow bed, so I'm eating it to keep my own hunger up. I'll hunt for the group next.","intent":{"goal":"hunt_cow_for
+- 07:13 act: {"actions":[{"do":"goto","target":{"x":-277,"y":65,"z":203}},{"do":"attack","target":"cow"}],"say":"Kimberly gave the mutton to Jason, good. I have no food. I'm going for the cow to the west to bring 
+- 07:13 act: {"intent":{"goal":"bring_beef_to_jason","program":"travel","arguments":{"target":{"x":-272,"y":68,"z":365}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_t
+- 07:14 act: {"actions":[{"do":"goto","target":{"x":-290,"y":64,"z":225}}],"say":"Kimberly, I'm coming south with beef. I'll reach the yellow bed as soon as I can.","reasoning":"Travel intent failed partway. Retry
+- 07:14 act: {"intent":{"goal":"reach_yellow_bed_with_beef","program":"travel","arguments":{"target":{"x":-272,"y":68,"z":362}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_
+- 07:14 act: {"intent":{"goal":"reach_yellow_bed_with_beef","program":"travel","arguments":{"target":{"x":-272,"y":68,"z":362}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_
+- 07:14 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":360}}],"say":"I'm at the yellow bed area now, coming to Jason with beef.","reasoning":"Close to the yellow beds. Short goto to get in sight of Ja
+- 07:14 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, here is the beef. Eat it. Then Tommy and Zack, I'll hunt again.","reasoning":"Jason is weakest and in sight. Give th
+- 07:15 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, I'm right beside you with the beef. Taking it now.","reasoning":"Give failed once because items fell on the ground. 
+- 07:15 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"beef","count":1}],"say":"Jason, the give keeps failing because items are on the ground by you. Tommy, I'm handing you the beef. Share it with Jason 
+- 07:15 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":363}}],"say":"Tommy got the beef. Jason, Tommy, Zack, share it. I'm going to the yellow bed for the night.","reasoning":"Night has come. Beef is 
+- 07:15 act: {"actions":[{"do":"note","text":"At yellow bed -271,68,363 in daylight. Beef went to Tommy. Jason has no food yet. Cows known at -262,67,244 and -278,65,203."}],"say":"Jason, Tommy got the beef and is
