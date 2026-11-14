@@ -1723,3 +1723,7 @@
 - 02:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Kimberly, I hear you. I'm going to bed by the white beds now."}
 - 02:00 act: {"actions":[{"do":"sleep"}]}
 - 02:02 act: {"actions":[{"do":"sleep"}],"say":"Night is here. Sleeping by the white beds. Zack, Billy, see you at first light."}
+- 02:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Evening, Billy. Zack, I'm going to bed by the white bed now. Hunger is full at 20, so food can wait for morning.","intent":{"goal":
+- 02:04 act: {"actions":[{"do":"sleep"}],"say":"Zack, I have no food, only dirt and wheat seeds. Tommy's beef should go to you first, since you're the hungriest. I'll search with the others at first light."}
+- 02:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}]}
+- 02:06 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}]}
