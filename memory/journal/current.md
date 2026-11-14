@@ -107,3 +107,4 @@
 - 09:57 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}],"say":"Heading back to the white beds with Billy and Kimberly. Tommy and Jason, meet us there."}
 - 09:59 say: {"text":"Jason and Tommy are with me at the white beds. Picard, I have no food either. We hunt at first light, together, on dry ground."}
 - 09:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 10:00 act: {"say":"Agreed, Jason. I have nothing in my hands, so I will wait by the beds until first light, then hunt with you on dry ground.","intent":{"goal":"rest_by_beds_until_dawn","program":"rest","argumen
