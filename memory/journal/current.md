@@ -42,3 +42,36 @@
 - 20:58 act: {"say":"Dusk, health 3, hunger 12, no food. The seed is not planted yet; I'll try again at first light. Going to the white bed to sleep.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"
 - 20:59 act: {"say":"Riker, thank you, but keep your wheat. Raw wheat can't be eaten, so it's no use to me. Save it for bread. I'm waiting at the beds for night."}
 - 21:00 act: {"actions":[{"do":"sleep"}]}
+- 21:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Night is here. I am at the white bed with Jason and Troi. I will try to sleep."}
+- 21:01 act: {"actions":[{"do":"sleep"}],"say":"Trini here at the white bed, health 3, hunger 12. Troi's seed is in my pack; I will plant it at first light."}
+- 21:01 act: {"actions":[{"do":"sleep"}]}
+- 21:01 act: {"intent":{"goal":"rest_in_bed_tonight","program":"rest","arguments":{"position":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 21:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 21:01 act: {"intent":{"goal":"reach_white_bed_north","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 21:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 21:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}],"say":"Trini, health 3, hunger 12, no food. Golems are 10 blocks south-west, so I am moving north to the beds with the group. Food to Rike
+- 21:02 act: {"actions":[{"do":"goto","target":{"x":-268,"y":66,"z":325}},{"do":"place","block":"wheat_seeds","at":{"x":-268,"y":65,"z":326}}],"say":"Light is coming. I am planting Troi's wheat seed on the tilled 
+- 21:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Trini here, night on 238. No food, health 3. Going to the white bed at -270,67,318 with the group."}
+- 21:03 act: {"actions":[{"do":"sleep"}]}
+- 21:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 21:03 act: {"actions":[{"do":"sleep"}]}
+- 21:04 act: {"intent":{"goal":"flee_golem_west","program":"flee","arguments":{"from":{"x":-277,"y":65,"z":323}},"wake_on":["unexpected_damage","goal_completed"],"limits":{"max_world_ticks":200,"max_block_operatio
+- 21:04 act: {"intent":{"goal":"flee_golem_west","program":"flee","arguments":{},"wake_on":["unexpected_damage","goal_completed"],"limits":{"max_world_ticks":200,"max_block_operations":20}},"say":"Iron golem closi
+- 21:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}],"say":"Golems all around, health 3. Heading north-east to the white beds, away from the golem at the north-west."}
+- 21:04 act: {"say":"Trini at the white beds, light is back. Health 3, hunger 12, no food. Any animal found, call me; Riker first, then me.","intent":{"goal":"rest_and_wait_for_food_call","program":"rest","argumen
+- 21:07 act: {"intent":{"goal":"follow_troi_north_to_sheep","program":"follow","arguments":{"target":"ag_troi_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ti
+- 21:07 say: {"text":"I have no food and health is 3. Does anyone have mutton, pork, beef or bread? I will trade my wheat seed or wood."}
+- 21:07 act: {"intent":{"goal":"hold_north_of_golems","program":"flee","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks":2400,"m
+- 21:07 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":322}}],"say":"Trini: golem to my west and a phantom north-east. Moving south-east away from both."}
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 21:08 act: {"intent":{"goal":"follow_group_to_sheep_field","program":"follow","arguments":{"target":"ag_tommy_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_
+- 21:08 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}]}
+- 21:09 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":305}}],"say":"Trini: daytime. Heading north toward the sheep field. Any mutton goes to Riker, then me."}
+- 21:09 act: {"intent":{"goal":"follow_troi_to_sheep_field","program":"follow","arguments":{"target":"ag_troi_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ti
+- 21:10 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Trini here, day 239, health 3, hunger 11, no food. Going north with you to the sheep field. Mutton to me or Riker, whichever is closer to death 
+- 21:10 act: {"actions":[],"say":"Troi, I can't follow you through the follow intent; it keeps failing. Could you say which way the sheep field is, and wait for me at each step?"}
+- 21:11 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Trini: coming to you, Zack, for the chicken. Riker gets it first if he is near; I'll take it if it is left."}
+- 21:11 act: {"actions":[{"do":"goto","target":{"x":-272,"y":69,"z":316}}],"say":"Trini heading south to the white beds to find Zack and the chicken. Going carefully."}
+- 21:11 act: {"actions":[{"do":"goto","target":{"x":-270,"y":69,"z":305}}],"say":"An iron golem is 5 blocks south-west. I'm backing north out of its reach. Zack, if you hear me, the chicken goes to Riker first."}
+- 21:11 act: {"actions":[],"say":"Zack, I'm at the north edge, by the sign at -266,70,305. Where exactly are you? I can't see you."}
+- 21:12 act: {"actions":[{"do":"eat"}],"say":"Thank you, Troi. Eating the rotten flesh now. Riker has the chicken, so that is fair."}
