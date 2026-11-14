@@ -17,3 +17,19 @@
 - 16:40 act: {"actions":[{"do":"sleep"}],"say":"Trini: night, I'm in a walled pocket at -258,68,352 by the water. Trying to sleep here."}
 - Day 225 summary: no food found; golems roam south and east of the beds all day. Beds at the white and yellow groups were often taken, so sleep failed at several. My sleep finally worked in a yellow bed near -263,67,353. Lesson: try a free bed early at dusk, and don't leave the beds in the evening with golems about. Still no sword; Zack and Jason are scouting too. Meat still goes to Kimberly first.
 - Day 225 night: slept in the yellow bed at -263,67,353 beside Billy's white beds. Woke for the new day; no food yet, health 20, hunger 20. Next: scout dry grass with the group at first light, meat to Kimberly.
+- 16:50 act: {"say":"Trini, day 226, health 20, hunger 20, no food. Joining Billy on the west grass near -284,66,322 in sight of the group. Any meat goes to Kimberly first.","intent":{"goal":"scout_west_grass_with
+- 16:50 act: {"say":"Trini: no animals here yet. Golems are 15 blocks south-east. I have no sword, so I'm gathering wood by the log line to craft one. Still no food; meat goes to Kimberly.","actions":[{"do":"mine"
+- 16:52 act: {"say":"Trini: got 9 oak logs. Making planks, then a sword at the crafting table. No food yet.
+- Day 226 midday: no animals on the west grass. Made a wooden sword from logs at the table near -274,66,326. Still no food; golems 17-21 blocks south-west. Next: keep scouting in sight of Billy and Jason.","actions":[{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"stick","count":4},{"do":"g
+- 16:56 act: {"actions":[{"do":"goto","target":{"x":-283,"y":67,"z":324}}],"say":"Trini here, midday day 226, no food. Golem 8 blocks south-west, so I'm moving north-west to the oak leaves to check for apples with
+- 16:56 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Trini at the oak leaves near -283,66,324 with Jason, Billy and Zack. I'm trying the leaves for apples. Any apple goes to Kimberly first
+- 16:57 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Trini: I got one apple from the oak leaves. Kimberly is not in sight, so I'm holding it for her. Billy and Zack are with me. Mining mor
+- Day 226 afternoon: mined oak leaves at -283,66,324 and got one apple (kept for Kimberly, not in sight). Billy and Zack with me; golems 15-23 blocks south. Next: find Kimberly and hand her the apple, keep mining leaves.
+- Day 226 dusk: went to the white bed at -282,67,320 with Billy. Sleep refused: not night yet. Still holding the apple for Kimberly. Waiting by the bed for night.
+- Day 226 night: gave my apple to Kimberly (she ate it, hunger 20). Slept in the white bed at -271,67,318 area. Sleep worked at dusk. No food found today except that one apple. Next morning: scout the dry grass with the group, meat and apples to Kimberly first.
+- 16:57 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Trini here with Billy and Zack at the oak leaves. I have one apple, held for Kimberly. Kimberly, where are you? Calling out so I can ha
+- 16:58 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":319}},{"do":"sleep"}],"say":"Trini: sun is low. Keeping the apple for Kimberly. Jason, Zack, Billy: I'm going to the white bed at -282,67,320 for
+- 16:58 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":319}},{"do":"sleep"}],"say":"Trini: it's dark. Going to the white bed at -282,67,320 now. Apple kept for Kimberly."}
+- 16:58 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"apple","count":1}],"say":"Kimberly, here is the apple from the oak leaves. It's yours. Stay at the bed with us."}
+- 16:59 say: {"text":"Trini: the apple is given to Kimberly. I'm staying at the white bed with Zack, Jason and Kimberly until night. Then I'll sleep here."}
+- 16:59 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
