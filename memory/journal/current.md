@@ -46,3 +46,10 @@
 - 17:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"It is night, and I am beside the white beds. I am going to sleep."}
 - 17:06 act: {"actions":[{"do":"sleep"}]}
 - 17:07 act: {"actions":[{"do":"sleep"}]}
+- 17:08 act: {"say":"Morning. I'm with you for the animal scout. I'll hold my sword and call out anything I see. Meat goes to Kimberly first.","intent":{"goal":"scout_for_animals","program":"travel","arguments":{"
+- 17:08 act: {"intent":{"goal":"scout_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":325}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"l
+- 17:08 act: {"say":"Still no animals on the west grass at -299,66,325. Jason is about 16 blocks off. I'll keep looking in sight of the group."}
+- 17:12 act: {"say":"Trini at the west grass, health and hunger 20. Nothing here. Picard and Riker found no animals south. I'll look north of camp next, and call out anything I see. Kimberly first for food.","inte
+- 17:12 act: {"actions":[{"do":"unstick"}]}
+- 17:16 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":319}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 17:21 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Trini going to the white bed for the night. Food goes to Kimberly first at dawn."}
