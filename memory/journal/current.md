@@ -141,3 +141,4 @@
 - 14:54 act: {"say":"Trini here at the yellow bed -263,67,353, health 20, hunger 20. Night is coming, so I'm going to bed. Tommy, Jason, bring meat in the morning if you get it, and I'll share it out.","actions":[
 - 14:56 wait: health 20, hunger 20, no food in pack; Tommy's porkchop has not arrived yet. Holding at the yellow bed -262,67,353, waiting on Tommy.
 - 14:55 act: {"say":"Thank you, Tommy. I'm at the yellow bed and will keep the porkchop for later when I'm hungry.","intent":{"goal":"receive_porkchop_from_tommy","program":"rest","arguments":{},"wake_on":["direct
+- 14:55 act: {"say":"Thank you, Tommy. I have the porkchop now and I'll keep it for when my hunger drops. I'm at the yellow beds, -262,67,353, health 20, hunger 20.","intent":{"goal":"hold_at_beds_until_news","pro
