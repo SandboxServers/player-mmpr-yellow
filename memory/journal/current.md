@@ -78,3 +78,5 @@
 - 13:22 act: {"intent":{"goal":"rest_till_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_block_operations":4}},
 - 13:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Night. I'm going into the white bed beside Jason. Tommy, stay in sight of the beds.","reasoning":"Night, dim light, 
 - 13:24 act: {"actions":[{"do":"sleep"}],"reasoning":"Walking into the bed failed (it changed nothing). I'm adjacent to it, so try sleep from here."}
+- 13:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Going to the white bed for the night."}
+- 13:26 act: {"actions":[{"do":"sleep"}],"say":"Sleeping beside the white bed. Goodnight."}
