@@ -118,3 +118,6 @@
 - 22:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night, group at the white beds, no monsters in view now. Try the bed again; hunger 11 means chicken still wait
 - 22:30 act: {"say":"Trini here, morning of day 243. Health 3, hunger 11, holding the chicken until hunger is 6, then I eat it. Riker is next for food. I'm staying at the beds with the group.","intent":{"goal":"ho
 - 22:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 22:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini here at the white bed. Health 3, hunger 11. I hold one chicken and will eat when hunger drops."}
+- 22:41 act: {"actions":[{"do":"sleep"}]}
+- 22:45 act: {"actions":[{"do":"eat"}],"say":"Trini at the white bed, health 3, hunger 11, phantom keeps sleep from working. I'm eating my chicken now so health can start to recover. Thank you all for holding food
