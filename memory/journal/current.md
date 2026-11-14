@@ -1705,3 +1705,4 @@
 - 01:42 act: {"say":"Billy, I can see you now, I'm right here. Please hand me the beef. Thank you."}
 - 01:42 act: {"actions":[{"do":"eat"}],"say":"Thank you, Billy. Eating the beef now."}
 - 01:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Fed now, thanks to Billy. Going to bed by the yellow beds."}
+- 01:43 say: {"text":"Trini here, heading to sleep in the white bed beside me. Hunger is full. I'll help look for animals at first light."}
