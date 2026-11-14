@@ -1644,3 +1644,15 @@
 - 01:04 act: {"say":"Trader, I am hungry. Do you sell food? I can offer wheat seeds or planks.","actions":[]}
 - 01:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"escape_llamas","program":"flee","arguments":{},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_tic
 - 01:05 act: {"actions":[{"do":"sleep"}]}
+- 01:05 say: {"text":"Zack, the trader was south-west of the beds, about 16 away. Stay clear of his llamas, they attacked me. I have no food myself, so I can't help with beef."}
+- 01:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, at the white beds, no food. Safe enough to rest; food comes at first light."}
+- 01:06 act: {"actions":[{"do":"sleep"}],"reasoning":"The goto to the bed failed, so I'm already beside the beds. Try to sleep here."}
+- 01:10 act: {"intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"x":-300,"y":67,"z":330},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2
+- 01:12 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":326}}],"intent":{"goal":"escape_llama","program":"flee","arguments":{},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_tic
+- 01:12 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":318}}],"say":"I'm clear of the llamas now. Heading north-west to look for animals.","reasoning":"Clear of the trader's llamas. Explore north-west
+- 01:12 act: {"actions":[{"do":"goto","target":{"x":-340,"y":66,"z":300}}],"reasoning":"No animals in view here. Keep exploring further west-northwest."}
+- 01:12 act: {"actions":[{"do":"goto","target":{"x":-380,"y":66,"z":280}}],"reasoning":"Still no animals. Continue west-northwest."}
+- 01:13 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-378,"y":61,"z":272}},{"do":"attack","target":"salmon"}],"say":"There's a salmon to the north. I'm hungry, so I'll try to catch it.","reasoning"
+- 01:13 act: {"actions":[{"do":"goto","target":{"x":-340,"y":64,"z":300}}],"reasoning":"Surrounded by water on a sand island and the salmon left view. Head back to the dry land I came from and look again for land 
+- 01:13 act: {"actions":[{"do":"goto","target":{"x":-362,"y":64,"z":306}}],"intent":{"goal":"explore_west_for_animals","program":"travel","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected
+- 01:13 act: {"actions":[{"do":"goto","target":{"x":-368,"y":64,"z":330}}],"say":"Going south-west, there is a drop to the west. Still no animals. Zack, Kimberly, anyone who sees animals, tell me where."}
