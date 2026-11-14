@@ -137,3 +137,8 @@
 - 23:18 act: {"say":"Trini here, morning of day 245. Health 3, hunger 11. Thank you, Jason and Picard. I'll keep the chicken for when hunger drops, and stay by the beds.","intent":{"goal":"rest_near_beds_until_hun
 - 23:19 act: {"actions":[{"do":"eat"}]}
 - 23:19 act: {"actions":[{"do":"wait","seconds":120}]}
+- 23:20 act: {"actions":[{"do":"eat"}],"say":"Trini here at the white bed, health 3, hunger 11. I have a chicken in my pack, so I'm eating it now. Thank you all for holding food for me."}
+- 23:24 act: {"actions":[{"do":"sleep"}],"say":"Trini at the white bed, night of 245. Health 3, hunger 11. Thank you all. Trying to sleep now; chicken and any food go to me at light."}
+- 23:28 act: {"actions":[],"say":"Trini here at dawn of day 246. Health 3, hunger 11. I hold a raw chicken and will eat it once hunger is 6 or below. Still no food for anyone else from me; I'll share what I can fi
+- 23:35 act: {"say":"Trini at the beds, day 246. Health 3, hunger 11. I'll eat the chicken once hunger drops to 6.","intent":{"goal":"hold_for_hunger_six","program":"rest","arguments":{"at":{"x":-271,"y":67,"z":31
+- 23:43 act: {"actions":[{"do":"sleep"}],"say":"Trini at the white bed, night of day 246. Health 3, hunger 11. Trying to sleep with the group. Food to me first at light."}
