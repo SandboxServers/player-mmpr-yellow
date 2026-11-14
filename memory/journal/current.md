@@ -99,3 +99,4 @@
 - 18:10 act: {"say":"Trini here. Zack, the iron golems are 15 and 23 blocks south, so I'm holding by the beds for now. If anyone sees an animal or apples, call it out and I'll come."}
 - 18:19 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Trini: dusk is coming, golems are 12 blocks south. Going to the bed at -282,67,320 to rest. Still no food for me; ap
 - 18:22 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}]}
+- 18:27 act: {"say":"Night here, hunger full, no food on me. I'm in the bed by the white beds at -271,67,318 and going to sleep.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}

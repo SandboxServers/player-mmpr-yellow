@@ -1,10 +1,10 @@
 # Summary
 
 ## Where I am
-- Day 229 night. Asleep in the white bed at -297,68,295 near Kimberly (she is at -298,68,294).
-- Health 20, hunger 20. Holding 1 apple, meant for Kimberly; she gave it to me and I tried to give it back, but she was out of sight. She says keep it until dawn.
-- Days 225 to 229 found almost no food: one apple from oak leaves, the only food.
-- Wooden sword is nearly broken. Holding 2 planks, 7 logs, 5 sticks, 8 dirt.
+- Day 230 night (slept). Slept in the white bed at -271,67,318, near the group beds. Nobody near.
+- Health 20, hunger 20. No food in pack. Holding 8 logs, 5 sticks, 3 oak saplings, 2 planks, 5 dirt, 1 grass block.
+- Days 225 to 230 found almost no food. The apple from before is gone.
+- No sword in pack. Wooden sword is gone; stone tools are unlocked but I have no stone in pack.
 - The group sleeps in the beds near -270,67,336, -263,67,353 and -298,68,295.
 - Deep water lies west and south-west of the beds and north-west at -275,60,182. Do not cross it.
 - Skeletons shoot from the east; iron golems roam east (8 to 12 blocks); pillagers come from the south.
