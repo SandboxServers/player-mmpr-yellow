@@ -177,3 +177,6 @@
 - 16:00 act: {"say":"Trini here at the white beds, with Picard beside me and Zack three blocks off. Still no meat. Zack, come to the beds. An iron golem is 8 blocks west; I'm keeping my distance.","actions":[{"do"
 - 16:00 act: {"say":"Trini: night is here. I'm staying at the white beds with Picard and Zack coming in. Kimberly, I'm staying in sight of the group.","actions":[{"do":"note","text":"Day 223 night: at white beds -
 - 16:00 act: {"actions":[{"do":"note","text":"Day 223 night: still at white beds -272,67,337 with Picard and Jason. Zack and Tommy about 20 away. Health and hunger steady at 20. No shelter yet; will look for food 
+- 16:04 act: {"say":"Trini: agreed. Meat goes to Kimberly first, then Zack, then me. I'll scout the grass with you at first light.","actions":[{"do":"note","text":"Day 223 night: Group settling at the white beds; 
+- 16:08 act: {"say":"Trini: morning, day 224. Scouting the grass south-west with Billy and Jason. I'll call any cow, pig or sheep. Meat goes to Kimberly first, then Zack, then me.","actions":[{"do":"goto","target"
+- 16:08 act: {"actions":[{"do":"note","text":"Day 224: reached grass at -285,66,339 with Billy; Jason 7 away scouting. Eight iron golems within 12 blocks east; none attacking. No animals in sight yet."}],"intent":
