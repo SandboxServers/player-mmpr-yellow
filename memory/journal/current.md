@@ -100,3 +100,23 @@
 - 07:15 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"beef","count":1}],"say":"Jason, the give keeps failing because items are on the ground by you. Tommy, I'm handing you the beef. Share it with Jason 
 - 07:15 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":363}}],"say":"Tommy got the beef. Jason, Tommy, Zack, share it. I'm going to the yellow bed for the night.","reasoning":"Night has come. Beef is 
 - 07:15 act: {"actions":[{"do":"note","text":"At yellow bed -271,68,363 in daylight. Beef went to Tommy. Jason has no food yet. Cows known at -262,67,244 and -278,65,203."}],"say":"Jason, Tommy got the beef and is
+- 07:16 act: {"say":"Trini here, hunger 17 and no food. Heading to the cow at -262, 67, 244 now. Jason, I'll bring back any beef I get.","intent":{"goal":"hunt_cow_for_food","program":"travel","arguments":{"target
+- 07:16 act: {"say":"Tommy, Jason: I'm on my way south to the cow at -262, 67, 244. I'll bring beef back.","actions":[{"do":"goto","target":{"x":-262,"y":67,"z":300}}],"intent":{"goal":"reach_cow_south","program":
+- 07:16 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":242}},{"do":"attack","target":"cow"},{"do":"attack","target":"cow"},{"do":"attack","target":"cow"}],"say":"A cow is 6 blocks north-west of me. Go
+- 07:17 act: {"actions":[{"do":"eat"}],"say":"Zack, I got one beef from the cow. Jason has mutton coming from Kimberly, so I'm eating mine now to keep my hunger up, then I'll hunt the cow you saw to the east."}
+- 07:17 act: {"actions":[{"do":"eat"}]}
+- 07:17 act: {"actions":[{"do":"eat"}]}
+- 07:17 act: {"actions":[{"do":"attack","target":"cow"},{"do":"attack","target":"cow"},{"do":"attack","target":"cow"}],"say":"Zack, good. I'm going for the cow to the east now; I'll eat when I'm clear of the fight
+- 07:17 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-158,"y":72,"z":211}}]}
+- 07:18 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":68,"z":362}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limi
+- 07:18 act: {"actions":[{"do":"goto","target":{"x":-268,"y":68,"z":360}}],"say":"Jason, I'm coming to the beds with 3 beef. Hold on."}
+- 07:18 act: {"actions":[{"do":"goto","target":{"x":-266,"y":68,"z":358}}],"say":"Zack, I'm coming. Jason gets the beef first, then Tommy and Picard."}
+- 07:19 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, here is beef. Tommy and Picard, say if you are hungry and I'll share the rest."}
+- 07:19 act: {"actions":[{"do":"give","to":"Jason","item":"beef","count":1}]}
+- 07:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":363}}],"say":"I can't see Jason, so I'm keeping 3 beef by the yellow bed at -271,68,364. Whoever is hungry, come to me and I'll hand it over. I'm
+- 07:19 act: {"actions":[{"do":"give","to":"Jason","item":"beef","count":3}],"say":"Morning. Jason, I'm holding 3 beef. Tell me if you can see me and I'll hand it over. Tommy and Zack get the rest after you."}
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"give","to":"ag_jason_01","item":"beef","count":3}]}
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":366}},{"do":"give","to":"ag_jason_01","item":"beef","count":3}]}
+- 07:20 act: {"say":"I gave my beef to Tommy by mistake, my give went to him. Tommy, if you are not hungry, please hand that beef to Jason. I have no food left."}
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":365}},{"do":"sleep"}]}
+- 07:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}]}
