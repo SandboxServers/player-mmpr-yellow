@@ -14,3 +14,4 @@
 - 06:25 act: {"say":"Tommy, thanks for keeping watch. I have 19 dirt and I'm putting up a wall here for cover now.","intent":{"goal":"shelter_wall_dirt","program":"build","arguments":{"blueprint":"wall","block":"d
 - 06:25 act: {"intent":{"goal":"hold_position_till_light","program":"rest","arguments":{},"wake_on":["unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}}
 - 06:25 act: {"say":"Kimberly, I have 19 dirt and 5 planks. I'm at -229, 68, 403 by the chicken spot. Come stand by my wall if you need cover."}
+- 06:30 act: {"say":"Morning all. I'm heading to the sheep field to pool food with the group. I have no food, but I'll look for chickens and sheep on the way.","intent":{"goal":"join_food_pool_at_sheep_field","pro
