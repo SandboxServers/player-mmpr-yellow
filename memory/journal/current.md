@@ -1720,3 +1720,5 @@
 - 01:51 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":338}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_
 - 01:55 say: {"text":"Trini here, at the white beds. The cow is gone, so no meat from me, but I'll keep looking near the beds. Tommy, I hope you get the beef from Kimberly."}
 - 02:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Dusk, no food needed yet (hunger 20), no errand running, others are heading to beds. Take the white bed here a
+- 02:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Kimberly, I hear you. I'm going to bed by the white beds now."}
+- 02:00 act: {"actions":[{"do":"sleep"}]}
