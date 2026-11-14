@@ -1617,3 +1617,4 @@
 - 00:22 act: {"say":"Morning, all. I'm up and will come south-east with you to look for sheep and food.","intent":{"goal":"join_sheep_search","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":372}},"wa
 - 00:22 act: {"say":"Night is here. I'll go to the yellow beds with Jason and Zack and sleep, then sheep at first light.","intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":
 - 00:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 00:23 act: {"actions":[{"do":"sleep"}],"say":"Trini here at the yellow beds for the night. Goodnight, Zack.","reasoning":"Night, health and hunger full, in a bed beside Zack. Sleep now, then reflect."}
