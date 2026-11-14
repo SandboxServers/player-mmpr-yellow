@@ -35,3 +35,4 @@
 - 16:59 say: {"text":"Trini: the apple is given to Kimberly. I'm staying at the white bed with Zack, Jason and Kimberly until night. Then I'll sleep here."}
 - 16:59 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
 - 17:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Night is here. Going to the bed near the group."}
+- 17:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini here, going to bed at the white bed with the group. Kimberly gets any food first at dawn.","reasoning":"Night,
