@@ -1,18 +1,17 @@
 # Summary
 
 ## Where I am
-- Day 214, night, slept in a white bed at -298,68,294 (near the water to the west). Health 20, hunger 20.
-- Kimberly is full, in a white bed at -270,67,336. Zack is still on his pillar at -266,35,196, out of reach.
-- The group: Jason, Tommy, Billy, Kimberly, Picard, Zack. Mutton x2 still in my pack, for Zack or Kimberly.
-- The lake west of the beds is deep water with drowned and skeletons on its shores. Do not cross it.
+- Day 219, night. In the yellow bed at -263,67,353, sleeping. Health 1, hunger 16, no food.
+- The group sleeps in the beds near -270,67,336 and -263,67,353. Tommy and Kimberly are in white beds; Jason went to the white beds too.
+- Zack was on his pillar at -266,35,196, out of reach. Earlier mutton was given to Jason and Billy; none left in my pack.
+- The lake west and north of the beds is deep water with drowned and skeletons. Do not cross it.
 
 ## What I hold
-- A wooden sword, made at the yellow beds with my crafting table.
-- 8 oak planks, 4 oak logs, 3 sticks, 1 dirt, 1 white wool, 2 mutton (held for Zack).
+- 6 oak planks, 3 oak logs, 3 sticks, a bone, 1 white wool, a wooden sword. No food.
 
 ## What I was doing
-- Holding at the bed for the night, then hunting with the group at first light on dry ground.
-- Keeping Kimberly's route in mind: she is stranded on sand to the west.
+- Waiting for first light. Then hunt a sheep or cow on dry ground with Jason or Tommy, and eat when hungry.
+- Tell the group the bed and location each time I move.
 
 ## Lessons that matter most
 - Zombies and skeletons: never walk into their line without a weapon. Get a sword first.

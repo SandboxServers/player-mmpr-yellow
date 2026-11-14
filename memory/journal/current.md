@@ -114,3 +114,9 @@
 - 14:30 act: {"actions":[],"say":"Morning. I'm at the yellow bed with 1 health and no food. I'll stay put while Jason and Tommy search for the sheep. If anyone finds food, I'm here.","reasoning":"Daylight, no mons
 - 14:31 act: {"actions":[],"say":"Holding here at the yellow bed, Jason. I'm not moving until someone brings food or the way is clear.","reasoning":"Others are searching. Health 1 means I hold still and wait for f
 - 14:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk. I'm trying the yellow bed to sleep. Health 1, no food; I'm staying here.","reasoning":"Dusk, bed next to me. Try sleep again; the bed is the safest place I hav
+- 14:39 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Trini here, health 1, hunger 16, no food. It is dusk with thunder, so I'm going into the yellow bed for the night. W
+- 14:39 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 14:40 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"hold_enclosed_until_mobs_leave","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 14:40 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"say":"Trini: health 1, monsters near me at night, sleep refused. I'm placing planks to close in, and I'll keep trying the bed."}
+- 14:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 14:42 say: {"text":"Trini: I'm in the yellow bed at -263,67,353, health 1, hunger 16, no food. Sleeping now. First light, I'll hunt on dry ground."}
