@@ -1632,3 +1632,9 @@
 - 00:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Night. Trying the yellow bed again, hunger 17, health 20.","reasoning":"Sleep failed due to monsters nearby; entitie
 - 00:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Goto failed because I am already next to the bed. Sleep from here."}
 - 00:44 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"It is night. I am by the yellow bed. Hunger is 17, so food comes first in the morning."}
+- 00:47 say: {"text":"Kimberly, I'm Trini, right beside you. I have no food myself, hunger 17. Jason has beef; I'll ask him at first light, and I'll bring some back for you."}
+- 00:47 say: {"text":"Jason, good morning. Kimberly is at 2 health with hunger 17. Please bring your beef to her at the yellow beds. I'm at 20 health and will look for food myself."}
+- 00:48 say: {"text":"Zack, I have no food, sorry. Jason is bringing his beef to Kimberly now. I'm going to look for food nearby and will share what I find."}
+- 00:53 act: {"intent":{"goal":"explore_for_animals","program":"travel","arguments":{"x":-280,"y":67,"z":340},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,
+- 00:54 act: {"intent":{"goal":"explore_for_animals","program":"travel","arguments":{"target":{"x":-280,"y":67,"z":340}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_t
+- 01:02 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["goal_completed","unex
