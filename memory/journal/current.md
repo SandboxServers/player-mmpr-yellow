@@ -166,3 +166,9 @@
 - 15:21 act: {"actions":[{"do":"wait","seconds":60}],"say":"Still awake here on the planks, not enclosed. I'll hold this spot until first light, then meet at the logs with the group."}
 - 15:30 act: {"actions":[{"do":"goto","target":{"x":-287,"y":68,"z":300}}],"say":"Trini here at dawn, health 20, no food. Coming to join you on the dry grass to scout. Kimberly first for any meat."}
 - 15:34 act: {"actions":[{"do":"goto","target":{"x":-288,"y":68,"z":300}}],"say":"Trini here, still no food. I'm staying within sight of the group. Will call any animal I see."}
+- 15:42 act: {"actions":[{"do":"goto","target":{"x":-280,"y":68,"z":292}}],"say":"Trini: a phantom is up to the north-east. I'm moving in with the group near the yellow beds for the night."}
+- 15:50 act: {"actions":[{"do":"goto","target":{"x":-284,"y":68,"z":316}}],"say":"Trini here, morning, no food. Joining the south-west scout toward Kimberly. Calling any animal I see; meat goes to Kimberly first."
+- 15:51 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, I'm with you now, south-west of the white beds. No animals in sight yet. I'll keep scouting the grass beside you.","intent":{"goal
+- 15:51 act: {"actions":[{"do":"note","text":"Day 223 morning: no food yet. Scouting grass with Kimberly, Picard, Tommy near -285,66,328. No animals in sight. Next: scout south-west on grass in sight."}],"say":"Ki
+- 15:51 act: {"actions":[{"do":"note","text":"Day 223 midday: reached -292,66,330 on grass with Picard and Tommy nearby. No animals found. Iron golem to the south-east, closing; keeping distance."}],"say":"Trini h
+- 15:52 act: {"actions":[{"do":"note","text":"Day 223 midday: group gathering on grass at -292,66,330 (Tommy, Billy, Kimberly, Picard). Still no animals. Holding in sight; will call any sighting."}],"say":"Trini: 
