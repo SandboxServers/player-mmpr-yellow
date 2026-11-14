@@ -16,3 +16,4 @@
 - 16:40 act: {"actions":[{"do":"sleep"}]}
 - 16:40 act: {"actions":[{"do":"sleep"}],"say":"Trini: night, I'm in a walled pocket at -258,68,352 by the water. Trying to sleep here."}
 - Day 225 summary: no food found; golems roam south and east of the beds all day. Beds at the white and yellow groups were often taken, so sleep failed at several. My sleep finally worked in a yellow bed near -263,67,353. Lesson: try a free bed early at dusk, and don't leave the beds in the evening with golems about. Still no sword; Zack and Jason are scouting too. Meat still goes to Kimberly first.
+- Day 225 night: slept in the yellow bed at -263,67,353 beside Billy's white beds. Woke for the new day; no food yet, health 20, hunger 20. Next: scout dry grass with the group at first light, meat to Kimberly.
