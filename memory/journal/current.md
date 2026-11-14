@@ -12,3 +12,5 @@
 - 06:23 act: {"say":"Zack, my wall is on the north and east sides and the south and west are open. Stand on the south side next to me and place your dirt there. Tommy, stand on the west gap."}
 - 06:23 act: {"say":"Zack, I have no sword, only dirt, so I'll stay in the wall rather than walk into the zombie. Hit it, back off toward the wall, and we'll help from here."}
 - 06:25 act: {"say":"Tommy, thanks for keeping watch. I have 19 dirt and I'm putting up a wall here for cover now.","intent":{"goal":"shelter_wall_dirt","program":"build","arguments":{"blueprint":"wall","block":"d
+- 06:25 act: {"intent":{"goal":"hold_position_till_light","program":"rest","arguments":{},"wake_on":["unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}}
+- 06:25 act: {"say":"Kimberly, I have 19 dirt and 5 planks. I'm at -229, 68, 403 by the chicken spot. Come stand by my wall if you need cover."}
