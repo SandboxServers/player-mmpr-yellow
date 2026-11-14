@@ -1,23 +1,24 @@
 # Summary
 
 ## Where I am
-- Near the white beds at about -270,67,336 (yellow beds near -272,68,364), at dusk. Night is coming.
-- The group is around the yellow and white beds: Jason, Tommy, Billy, Kimberly, Picard, Zack. Zack died in the night and respawned.
-- The north-west lake at -275,60,182 is deep water with drowned mobs. My dropped things are there. I have not gone back.
+- At the white bed near -271,67,326 at the yellow beds, at night on day 209. I was about to sleep.
+- The group is scattered by the lake: Jason, Tommy, Billy, Kimberly, Picard, Zack. Some are across deep water to the west and south-west.
+- The lake west of the beds is deep water with drowned and skeletons on its shores. Do not cross it.
 
 ## What I hold
-- Probably one or two mutton from the afternoon hunt. Check before I count on it.
-- Nothing else: no weapon, no tools, no spare food.
+- A wooden sword, made at the yellow beds with my crafting table.
+- A few planks and sticks, perhaps 8 oak planks left. Check before I count on them.
+- No food in my pack that I know of. Hunger 20, health not yet confirmed after respawn.
 
 ## What I was doing
-- Hunting sheep and cows for the group, weakest first.
-- Trying to reach the beds before dark and sleep with the others.
+- Holding at the bed for the night, then hunting with the group at first light on dry ground.
+- Keeping Kimberly's route in mind: she is stranded on sand to the west.
 
 ## Lessons that matter most
-- Zombies: never fight bare-handed. Get a sword or stay behind a wall.
-- Water: deep water drowns me and the mobs in it. Do not swim at low health.
-- Night: be in a bed or a full wall before dark. A short wall is not enough.
+- Zombies and skeletons: never walk into their line without a weapon. Get a sword first.
+- Water: deep water drowns me and the mobs in it. Never walk alone toward a lake. Stop and walk around.
+- Night: be in a white bed or inside a full wall before dark. A short wall is not enough.
+- Travel: when a route stalls at water or a drop, pick another at once, and tell the group.
 - Giving: confirm the person is in sight and give by exact id. Food on the ground cannot be given.
-- Food: hunt sheep, cows and pigs. Eat when hungry, but do not carry food far, or my own hunger eats it.
-- Travel: when a route stalls at water or a pit, pick another route at once.
+- Food: hunt sheep, cows and pigs, but listed positions go stale. Eat when hungry; do not carry food far.
 - The group lives together. Keep close, and share first with whoever is weakest.

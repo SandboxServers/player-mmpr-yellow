@@ -1,5 +1,5 @@
 # Picard
 
-Impression: a newcomer who joined the group at the shore and searched for food with us. I know little of him yet.
+Impression: a newcomer who joined the group and waited for meat with us. On day 209 he was stuck in the water for a long time, and he was the first one we all tried to feed.
 
-Trust: 50/100. Why: he came to the group and searched with us, but I have not dealt with him enough to know more.
+Trust: 55/100. Why: he stayed with the group and asked for food without making trouble. I have not shared much with him yet, and I could not find him when we were split.

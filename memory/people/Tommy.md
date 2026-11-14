@@ -1,5 +1,5 @@
 # Tommy
 
-Impression: a quiet one who stays near the group and holds the yellow bed area. He received my porkchops and mutton and I could not always find him in the dark.
+Impression: steady, and quick to share. On day 209 he gave me a porkchop when I had none, and he led the walk to the cow spot. He often went ahead on routes the group could not follow.
 
-Trust: 65/100. Why: he took food and stayed with the group, but he was hard to locate, and one beef meant for Jason ended up with him.
+Trust: 70/100. Why: he fed me and stayed with the group at dawn. He was hard to find in the dark, and one beef meant for Jason ended up with him earlier.
