@@ -162,3 +162,7 @@
 - 15:11 act: {"actions":[],"say":"I'm with you, Kimberly, on the dry grass. No animals in sight here. I'll stay near and watch for any food."}
 - 15:11 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":294}}],"say":"Agreed, Kimberly. I'm scouting 8 blocks east on dry grass within sight of the group, and I'll call out any animal."}
 - 15:19 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":292}},{"do":"sleep"}],"say":"Trini: going to the yellow bed at -274,69,292 for the night, next to Tommy. No food, health 20. First light: meat to
+- 15:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 15:21 act: {"actions":[{"do":"wait","seconds":60}],"say":"Still awake here on the planks, not enclosed. I'll hold this spot until first light, then meet at the logs with the group."}
+- 15:30 act: {"actions":[{"do":"goto","target":{"x":-287,"y":68,"z":300}}],"say":"Trini here at dawn, health 20, no food. Coming to join you on the dry grass to scout. Kimberly first for any meat."}
+- 15:34 act: {"actions":[{"do":"goto","target":{"x":-288,"y":68,"z":300}}],"say":"Trini here, still no food. I'm staying within sight of the group. Will call any animal I see."}
