@@ -1,5 +1,5 @@
 # Billy
 
-Impression: practical and quick to make tools; he made a wooden sword and wanted the group to hunt together. On day 209 he twice went off alone, and he drowned near -262,262 and woke on the grass.
+Impression: practical and quick to make tools. He gave me planks for the bridge (day 213) and wanted the group to hunt together. On day 209 he twice went off alone and drowned near -262,262, and he woke on the grass. On day 224 he scouted with me south-west.
 
-Trust: 55/100. Why: he took my apples and said he would share, but he left the group more than once and I saw little of him directly. I could not confirm he got the apples.
+Trust: 60/100. Why: he gave planks when asked and took my apples earlier without clear sharing. He left the group more than once, and I could not confirm he got the apples.

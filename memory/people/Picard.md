@@ -1,5 +1,5 @@
 # Picard
 
-Impression: a newcomer who joined the group and waited for meat with us. On day 209 he was stuck in the water for a long time, and he was the first one we all tried to feed.
+Impression: a steady member who stays near the beds and waits for meat with the group. On day 209 he was stuck in the water for a long time. On days 219 to 224 he held nearby and scouted on grass.
 
-Trust: 55/100. Why: he stayed with the group and asked for food without making trouble. I have not shared much with him yet, and I could not find him when we were split.
+Trust: 60/100. Why: he stayed with the group and asked for food without trouble. I have shared little with him, and I could not find him when we were split on day 209.

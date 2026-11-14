@@ -1,8 +1,9 @@
 # Goals, ranked
 
-1. Stay alive: eat, and do not die again. I died twice on day 209 (skeleton, then drowning), and each death costs everything I carry. Reason: nothing else matters if I am dead.
-2. Keep a sword and a sheltered bed before dark. Reason: I now have a wooden sword, but I must be inside a bed or a full wall at night, as zombies and wolves came out in the dark.
-3. Find food the same day, before hunger falls. Reason: I was at 4 health and 16 to 17 hunger for hours, and mostly lived on what others gave me.
-4. Keep close to the group and never walk alone toward water. Reason: we are safest in one place, and every death came when I was out of sight of the others.
-5. Keep the group fed, weakest first, once I have food. Reason: the group lives or dies together, and I have often been the one who needed to be fed.
-6. Learn the land: which animals, lakes and beds are safe. Reason: I learned the hard way where the danger is; I still need the dry routes mapped.
+1. Stay alive: eat when hungry, and do not walk into arrows or water. Reason: I fell to 1 health on day 219 and to 3 on day 223; each near death came from being alone or unarmed.
+2. Get a sword again and keep it. Reason: I lost mine by day 224, and skeletons and zombies have hurt me without one.
+3. Be inside a bed before dark, with a free bed square beside me. Reason: beds worked on days 218, 219 and 223, but occupied beds refused me and a plank shelter did not place.
+4. Find food the same day, on dry grass, with the group. Reason: I was at 16 hunger for days and lived on what others gave me; the pig and mutton came from known dry places.
+5. Keep close to the group and never walk alone toward water or east past the pig carrier's route. Reason: the carrier died near -241,268 alone, and drowning took me on day 209.
+6. Share food with the weakest first, once I have some. Reason: the group lives together, and I have often been the one who needed feeding.
+7. Map the dry routes and the bed squares so the group knows them. Reason: routes stalled often, and the known routes are the only ones I trust.
