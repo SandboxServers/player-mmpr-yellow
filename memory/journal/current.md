@@ -1675,3 +1675,23 @@
 - 01:19 act: {"actions":[],"say":"Jason, Zack, no food found in the west. No animals seen, only a golem and villager near -275,335. Hunger 16."}
 - 01:19 act: {"intent":{"goal":"walk_to_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":354}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
 - 01:20 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Night is here. I'm going to rest in this bed and look for food when it's light.","reasoning":"Night, bed adjacent, safe. Sleep, the
+- 01:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}],"say":"Trini here at the white beds. I have no food, only wheat seeds and planks. Tommy, Billy, Kimberly: let's pool what we find at first
+- 01:22 act: {"actions":[{"do":"sleep"}],"say":"Billy, agreed. First light, we search for food together with Tommy and Kimberly. Sleep well."}
+- 01:30 act: {"say":"Morning. I'm searching north-east for cows and sheep. Call out if you see any.","intent":{"goal":"search_north_east_for_animals","program":"travel","arguments":{"target":{"x":-245,"y":66,"z":3
+- 01:31 act: {"say":"Tommy says the old farm near -251, 68, 353 has wheat, carrots and beetroot. I'm heading there to look for food. Join me if you can.","intent":{"goal":"reach_old_farm_for_food","program":"trave
+- 01:31 act: {"say":"I'm at the old farm spot, -251, 68, 353. I see water, trees and beds, but no wheat or crops in sight. Tommy, where exactly was the farm?"}
+- 01:31 act: {"say":"Farm is gone, agreed. I'll search south past the birch trees for animals. Keep calling out what you see.","intent":{"goal":"search_south_for_animals","program":"travel","arguments":{"target":{
+- 01:32 act: {"say":"Nothing south here. I'm heading east now to look for animals.","intent":{"goal":"search_east_for_animals","program":"travel","arguments":{"target":{"x":-215,"y":66,"z":385}},"wake_on":["direct
+- 01:32 act: {"actions":[{"do":"unstick"}]}
+- 01:32 act: {"say":"I'm out of the pit. Still no animals. Going further east.","intent":{"goal":"search_far_east_for_animals","program":"travel","arguments":{"target":{"x":-190,"y":66,"z":385}},"wake_on":["direct
+- 01:32 act: {"say":"Jason, Zack, I have no food. I'm heading to the old farm now to find you.","intent":{"goal":"reach_old_farm_to_meet_group","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":362}},"
+- 01:33 act: {"say":"I'm here at the farm with no food. Jason, when you have spare, I'd be grateful for a share. I'll keep searching for animals too.","intent":{"goal":"search_south_for_animals","program":"travel"
+- 01:33 act: {"intent":{"goal":"search_southwest_for_animals","program":"travel","arguments":{"target":{"x":-285,"y":66,"z":395}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 01:33 act: {"say":"Jason, I'm coming to you for the chicken. Please keep it for Kimberly if she shows up first.","actions":[{"do":"goto","target":"ag_jason_01"}]}
+- 01:33 act: {"say":"Jason, I can't see you from here. I'll keep searching west for animals and come back if you call.","intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"x":-300
+- 01:34 act: {"say":"Billy, great find. I have no food, so I'm heading to the yellow beds to meet you. Please share the beef.","intent":{"goal":"meet_group_at_yellow_beds","program":"travel","arguments":{"target":
+- 01:34 act: {"say":"Kimberly, Zack, I'm on my way to the yellow beds. I'll go around the blocked path.","actions":[{"do":"goto","target":{"x":-262,"y":67,"z":356}}]}
+- 01:34 act: {"say":"Billy, I'm at the yellow beds now, I can see you. I'd gladly take one piece of beef. Thank you.","actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 01:34 act: {"say":"I'm standing at the yellow beds, -262,356. I don't see anyone yet. Billy, Kimberly, come into sight and I'll wait here."}
+- 01:35 act: {"say":"Thank you, Jason, I have the chicken. I'm eating it now. Kimberly, Billy, I'm at the yellow beds, and Kimberly should take the beef first.","actions":[{"do":"eat"}]}
+- 01:35 act: {"say":"I ate the chicken. Hunger is only up a little, so Billy, the beef should go to Kimberly first, then Zack. Kimberly, I'm here beside you."}
