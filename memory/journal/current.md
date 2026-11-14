@@ -158,3 +158,19 @@
 - 20:04 act: {"actions":[{"do":"sleep"}]}
 - 20:08 act: {"actions":[{"do":"mine","block":"short_grass","count":4}],"say":"Trini here, dawn of day 236. I have no food either. I'm breaking grass by the beds for seeds for Wesley's wheat. Any food goes to Rike
 - 20:09 act: {"actions":[{"do":"mine","block":"grass","count":4}]}
+- 20:12 act: {"intent":{"goal":"join_group_food_search","program":"travel","arguments":{"target":{"x":-290,"y":66,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 20:12 say: {"text":"Trini at the west grass with Riker, Data, Kimberly and Tommy. Still no food, hunger 15. Calling out any animal or apple I see."}
+- 20:13 say: {"text":"Trini: no food yet, hunger 15. Golems 10 blocks south-east and closing, so I'm holding with the group at the west grass. Meat goes to me only if no one weaker is near; Tommy and Billy first."
+- 20:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini: dusk, day 236. Going to the white bed at -270,67,318 with Riker and the group to sleep. Still no food, hunger
+- 20:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"place","block":"oak_planks","at":"feet"},{"do":"sleep"}],"say":"Trini: sleep failed at the beds with golems 4 to 7 blocks off. Headi
+- 20:21 act: {"actions":[{"do":"sleep"}]}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"intent":{"goal":"reach_bed_and_sleep","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["dire
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini: sleep failed out here, golems 15 and 20 blocks south. Going to the white bed at -271,67,318 with the group to
+- 20:22 act: {"actions":[{"do":"sleep"}],"say":"Trini at the white bed -270,67,318 with Tommy and Worf. No golems in sight. Trying to sleep. Hunger 14, no food; Tommy and Riker first at dawn."}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"Trini: sleep refused, golems 9 to 19 blocks south. Moving back to the white bed by the group at -270,67,319 and holding there with 
+- 20:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 20:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Trini: sleep refused again, golems 13 and 20 blocks south. I'm holding at the white bed with Wesley, Jason and Riker and will try a
+- 20:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"Trini here, with Riker, Worf and the group at the white beds. Golems 9 to 12 blocks south. No food, hunger 14. Riker and Tommy firs
+- 20:28 act: {"actions":[{"do":"note","text":"Dawn day 237: golems cleared. Scouting west grass for animals with the group; food to Riker and Tommy first."}],"say":"Trini at dawn, health 9, hunger 14. Golems have 
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":-312,"y":66,"z":318}}],"intent":{"goal":"scout_west_away_from_golems","program":"travel","arguments":{"target":{"x":-312,"y":66,"z":318}},"wake_on":["directly_ad
