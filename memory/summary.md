@@ -1,14 +1,14 @@
 # Summary
 
 ## Where I am
-- At the white bed near -271,67,326 at the yellow beds, at night on day 209. I was about to sleep.
-- The group is scattered by the lake: Jason, Tommy, Billy, Kimberly, Picard, Zack. Some are across deep water to the west and south-west.
+- Day 214, night, slept in a white bed at -298,68,294 (near the water to the west). Health 20, hunger 20.
+- Kimberly is full, in a white bed at -270,67,336. Zack is still on his pillar at -266,35,196, out of reach.
+- The group: Jason, Tommy, Billy, Kimberly, Picard, Zack. Mutton x2 still in my pack, for Zack or Kimberly.
 - The lake west of the beds is deep water with drowned and skeletons on its shores. Do not cross it.
 
 ## What I hold
 - A wooden sword, made at the yellow beds with my crafting table.
-- A few planks and sticks, perhaps 8 oak planks left. Check before I count on them.
-- No food in my pack that I know of. Hunger 20, health not yet confirmed after respawn.
+- 8 oak planks, 4 oak logs, 3 sticks, 1 dirt, 1 white wool, 2 mutton (held for Zack).
 
 ## What I was doing
 - Holding at the bed for the night, then hunting with the group at first light on dry ground.

@@ -1,4 +1,5 @@
 # Journal
+- Day 214 night: beds at yellow beds were taken at first; went into a white bed at -298,68,294 and slept. Lesson: entering a bed square that is occupied fails silently; try another bed or stand by the group.
 - 12:24 say: {"text":"Trini here at the white bed, awake and healthy. Holding for first light, then I'll hunt the cows to the north for food and help with Kimberly's route."}
 - 12:28 act: {"intent":{"goal":"reach_cows_south_of_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":244}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
 - 12:28 say: {"text":"Picard, Kimberly: my route south failed at the drops near the beds, so I'm still here by the white beds. Food is not urgent for me yet (hunger 20). I'll stay near the beds through the dusk an
@@ -43,3 +44,7 @@
 - 12:59 act: {"actions":[{"do":"goto","target":{"x":-279,"y":69,"z":290}}],"say":"Trini on my way to the yellow beds, close to Tommy and Billy. Will look for a free bed."}
 - 12:59 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}],"say":"Trini: I'm taking the yellow bed at -281,69,292 next to Billy's. Mutton stays with me for Zack."}
 - 12:59 act: {"actions":[{"do":"sleep"}]}
+- 13:00 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}},{"do":"sleep"}],"say":"Trini: I'm going into the yellow bed at -281,69,291 for the night. Mutton is still with me for Zack.","reasoning":"D
+- 13:00 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}},{"do":"sleep"}],"say":"Trini: going into the bed now. Mutton stays with me until Zack or Kimberly can be reached.","reasoning":"First sleep
+- 13:00 act: {"say":"Trini: the beds are taken, so I'll stay here beside Tommy and Billy on the planks with my sword and keep watch until light.","reasoning":"Beds occupied, not enough material for shelter. Hold n
+- 13:04 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}],"reasoning":"Night, thunder, open ground. Tommy has gone from the beds; try the other bed."}
