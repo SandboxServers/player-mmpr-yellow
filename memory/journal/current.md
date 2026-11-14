@@ -1618,3 +1618,14 @@
 - 00:22 act: {"say":"Night is here. I'll go to the yellow beds with Jason and Zack and sleep, then sheep at first light.","intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":
 - 00:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
 - 00:23 act: {"actions":[{"do":"sleep"}],"say":"Trini here at the yellow beds for the night. Goodnight, Zack.","reasoning":"Night, health and hunger full, in a bed beside Zack. Sleep now, then reflect."}
+- 00:25 act: {"say":"Morning-ish, Zack. I'm awake at the yellow beds, health and hunger full. Is the food search still on?"}
+- 00:25 act: {"say":"Kimberly, I have no food, only wheat seeds, sorry. Zack has 2 wheat. I'll help look for sheep and food once it is light."}
+- 00:27 act: {"intent":{"goal":"search_food_southeast","program":"travel","arguments":{"x":-250,"y":67,"z":365},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":240
+- 00:28 act: {"say":"Zack, I'm going south-east with you to look for sheep. Any spare wheat is welcome, and I'll share my seeds if they help.","intent":{"goal":"search_sheep_southeast","program":"travel","argument
+- 00:28 act: {"intent":{"goal":"follow_zack_to_sheep","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 00:28 act: {"say":"Thank you, Zack. Let's go together to the south-east once you're ready. I'll follow you.","actions":[{"do":"goto","target":"ag_zack_01"}]}
+- 00:29 act: {"say":"I'm here at the yellow beds, Zack. Come to me and hand over the wheat. Kimberly, give Zack the sword when he is close."}
+- 00:30 act: {"say":"Zack, I'm heading to the sheep area at -257, 66, 374 now to meet you. Tommy, I'm coming to the cow.","actions":[{"do":"goto","target":{"x":-257,"y":66,"z":374}}]}
+- 00:30 act: {"say":"Tommy, I'm coming to you at -185, 67, 460. I have no food, but I can share what I can; Kimberly needs it more.","actions":[{"do":"goto","target":{"x":-185,"y":67,"z":460}}]}
+- 00:30 act: {"say":"Tommy, I'm here with you. I have no food. Please share one beef with whoever is hungriest first, then me if there's enough. I'll keep watch for the zombie."}
+- 00:39 act: {"say":"Night is coming. I'm heading back to my yellow beds at -263, 67, 354 to sleep. Stay safe, all of you.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
