@@ -26,3 +26,14 @@
 - 06:35 act: {"say":"Thanks, Jason. I'm at the wall with you now. Zack, Billy, stay close to me. I'll keep watch on the north-east side.","intent":{"goal":"keep_watch_at_wall","program":"rest","arguments":{},"wake
 - 06:35 act: {"say":"I'm going to check the dropped item north-east at -216, 68, 403. If it's food I'll bring it to the wall.","intent":{"goal":"check_dropped_item_northeast","program":"travel","arguments":{"targe
 - 06:35 act: {"say":"The drop was only leaf litter, no food. Zack, your health is rising, good. I'm heading back to the wall.","intent":{"goal":"return_to_wall_group","program":"travel","arguments":{"target":{"x":
+- 06:36 act: {"say":"Billy, keep the wheat and pumpkins for Zack and whoever is hungriest. I have no food, but I'll keep watch with you and look for more wheat."}
+- 06:37 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 06:37 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 06:37 act: {"say":"A zombie is on me and I have no weapon. Running back to the wall group.","actions":[{"do":"goto","target":{"x":-222,"y":69,"z":412}}]}
+- 06:37 act: {"say":"I'm at 1.5 health with a zombie on me. I'm running east. Please keep clear of it.","actions":[{"do":"goto","target":{"x":-240,"y":67,"z":380}}]}
+- 06:38 act: {"say":"I burned and died, then woke at the spawn with nothing. I'm back up now. I'll go for my dropped things at the old spot first, then look for food.","intent":{"goal":"recover_dropped_items","pro
+- 06:38 act: {"say":"Zack, I'm back. I lost everything in a fire. Could you spare any food, or tell me where the others are?","actions":[{"do":"goto","target":{"x":-274,"y":67,"z":362}}]}
+- 06:38 act: {"actions":[{"do":"goto","target":{"x":-275,"y":67,"z":360}}]}
+- 06:38 act: {"say":"Thanks Zack. I'll get into a bed for the night here.","actions":[{"do":"goto","target":{"x":-272,"y":67,"z":363}}]}
+- 06:38 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}]}
+- 06:40 act: {"actions":[{"do":"sleep"}]}
