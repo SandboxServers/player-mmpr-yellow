@@ -83,3 +83,19 @@
 - 13:27 act: {"say":"Trini here, at the white beds at -270,67,319. I have 1 mutton for Zack. I have not walked a route north yet. Zack, give me a waypoint I can reach on dry ground and I will bring the mutton."}
 - 13:28 say: {"text":"Trini: I have not walked a route to Zack's pillar, and I see only walls from the beds. I won't call a waypoint I haven't checked. I'll hold the mutton here and scout on foot once it's clear."
 - 13:40 act: {"actions":[{"do":"sleep"}],"say":"Trini: night at the white beds, health 20, hunger 20. I'm sleeping beside the bed. Mutton stays with me for Zack."}
+- 13:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini here at the white beds, health 20, hunger 20. Still holding 1 mutton for Zack; I'll scout a dry route on foot 
+- 13:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Picard, no confirmed dry route to Zack yet; I have not walked one. I'm moving to the white bed at -270,67,336 now be
+- 13:49 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"give","to":"ag_jason_01","item":"mutton","count":1}],"say":"Morning. Jason, you have no food, so I'm bringing you my last mutton now. Picard has
+- 13:49 act: {"actions":[{"do":"goto","target":{"x":-267,"y":68,"z":300}}],"say":"Trini heading to the group spot near -267,68,300 with my mutton. Kimberly, I'll follow your walked waypoints north only; Zack gets 
+- 13:49 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"give","to":"ag_jason_01","item":"mutton","count":1}],"say":"Jason, coming to you now with the mutton. Eat it, then help lay the route to Zack."}
+- 13:49 act: {"actions":[],"say":"Everyone: Jason is out of sight from me, so I'm holding my one mutton at the group spot -266,68,300. Jason, Billy: come within reach and I'll hand it over. Zack still needs a dry 
+- 13:50 act: {"actions":[],"say":"Jason, Billy: I'll keep the mutton for Zack, since he is the weakest (health 6.8). You're both at hunger 20, so no need yet. I'll hand it over the moment Kimberly's dry line reach
+- 13:58 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],
+- 13:59 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to bed at the white bed here, -271,67,318."}
+- 14:03 act: {"actions":[{"do":"sleep"}]}
+- 14:08 act: {"say":"Trini awake at dawn, at -273,69,292. Health 20, hunger 20. Still holding my one mutton for Zack. Kimberly, what is your next walked waypoint toward -266,200?"}
+- 14:17 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":295}}],"say":"Skeletons shot me from the east. Moving west out of their line to -297,68,295."}
+- 14:18 act: {"actions":[{"do":"eat"}],"say":"I'm at 3 health from arrows. Eating my mutton now to live."}
+- 14:18 act: {"say":"Trini here. I ate my mutton to stay alive at 3 health. Zack, I am sorry, I could not keep it for you.","intent":{"goal":"rest_near_beds","program":"travel","arguments":{"target":{"x":-271,"y":
+- 14:18 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}]}
+- 14:18 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}]}
