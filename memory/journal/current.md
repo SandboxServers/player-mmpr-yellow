@@ -172,3 +172,5 @@
 - 15:51 act: {"actions":[{"do":"note","text":"Day 223 morning: no food yet. Scouting grass with Kimberly, Picard, Tommy near -285,66,328. No animals in sight. Next: scout south-west on grass in sight."}],"say":"Ki
 - 15:51 act: {"actions":[{"do":"note","text":"Day 223 midday: reached -292,66,330 on grass with Picard and Tommy nearby. No animals found. Iron golem to the south-east, closing; keeping distance."}],"say":"Trini h
 - 15:52 act: {"actions":[{"do":"note","text":"Day 223 midday: group gathering on grass at -292,66,330 (Tommy, Billy, Kimberly, Picard). Still no animals. Holding in sight; will call any sighting."}],"say":"Trini: 
+- 15:56 act: {"actions":[{"do":"note","text":"Day 223 midday: Jason, Billy, Tommy holding on grass at -292,66,330. Zack coming south-west from his pillar, alone with an empty pack. Still no animals. I hold nothing
+- 16:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini: dusk. Heading to the white bed at -270,67,336 with the group close by. Zack, come to the beds; I'll keep watc
