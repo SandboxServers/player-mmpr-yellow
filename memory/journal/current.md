@@ -120,3 +120,4 @@
 - 14:40 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"say":"Trini: health 1, monsters near me at night, sleep refused. I'm placing planks to close in, and I'll keep trying the bed."}
 - 14:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
 - 14:42 say: {"text":"Trini: I'm in the yellow bed at -263,67,353, health 1, hunger 16, no food. Sleeping now. First light, I'll hunt on dry ground."}
+- 14:42 act: {"say":"Goodnight, Tommy and Jason. I'm in the yellow bed at -263,67,353, health 1, no food. First light, dry ground, food."}
