@@ -1769,3 +1769,5 @@
 - 05:39 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Heading to bed for the night. First light, we go to the lake sheep together."}
 - 05:40 act: {"actions":[{"do":"sleep"}]}
 - 05:40 act: {"actions":[{"do":"sleep"}]}
+- 05:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini here at the beds, night. Hunger is fine for now. I'm going to sleep, and I'll join the lake sheep trip at firs
+- 05:44 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}],"reasoning":"Goto to bed failed (changed nothing). Try a different bed tile from an adjacent square, then 
