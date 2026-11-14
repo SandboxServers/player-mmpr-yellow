@@ -100,3 +100,6 @@
 - 18:19 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Trini: dusk is coming, golems are 12 blocks south. Going to the bed at -282,67,320 to rest. Still no food for me; ap
 - 18:22 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}]}
 - 18:27 act: {"say":"Night here, hunger full, no food on me. I'm in the bed by the white beds at -271,67,318 and going to sleep.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 18:28 act: {"say":"Dawn. Ellis here, health and hunger full, no food in pack. I'll scout the dry grass south-west for animals and call out anything I find.","intent":{"goal":"scout_for_food","program":"travel","
+- 18:28 act: {"say":"No animals here yet. An iron golem is closing in from the west, so I'm moving back toward the beds.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-271,"y":67
+- 18:28 act: {"say":"Trini back at the white beds, health and hunger 20, no food. Zack, I'll hold here near the beds while you scout north. Call me if you find any animal."}
