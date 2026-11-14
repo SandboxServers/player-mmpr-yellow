@@ -1695,3 +1695,13 @@
 - 01:34 act: {"say":"I'm standing at the yellow beds, -262,356. I don't see anyone yet. Billy, Kimberly, come into sight and I'll wait here."}
 - 01:35 act: {"say":"Thank you, Jason, I have the chicken. I'm eating it now. Kimberly, Billy, I'm at the yellow beds, and Kimberly should take the beef first.","actions":[{"do":"eat"}]}
 - 01:35 act: {"say":"I ate the chicken. Hunger is only up a little, so Billy, the beef should go to Kimberly first, then Zack. Kimberly, I'm here beside you."}
+- 01:38 act: {"say":"Trini here, hungry and looking for food. Billy, do you still have the beef? Kimberly, are you near?","intent":{"goal":"find_food_and_friends","program":"travel","arguments":{"x":-274,"y":68,"z
+- 01:38 act: {"actions":[{"do":"goto","target":{"x":-274,"y":68,"z":267}}],"intent":{"goal":"reach_billy_beef","program":"travel","arguments":{"target":{"x":-274,"y":68,"z":267}},"wake_on":["goal_completed","direc
+- 01:39 act: {"say":"Trini here at the cow spot, no Billy in sight. Jason, I'm hungry too, could I have one porkchop? I'm heading back to the yellow beds for the night.","actions":[{"do":"goto","target":{"x":-263,
+- 01:39 act: {"say":"Billy, Kimberly is right here with empty hands and I am too. Please give one beef to Kimberly and I will take the other if you can spare it."}
+- 01:39 act: {"say":"Billy, I can't see you from here. Please walk over to the bed by the stripped logs and give the beef to Kimberly and me. Thank you."}
+- 01:40 act: {"say":"Billy, I'm at -263,68,352, right beside the stripped oak logs on the west side of the two yellow beds. Walk two blocks south and I'm in reach. Kimberly is next to me."}
+- 01:41 act: {"say":"Thank you Billy. I'm checking my pack for the beef now.","actions":[{"do":"eat"}]}
+- 01:42 act: {"say":"Billy, I can see you now, I'm right here. Please hand me the beef. Thank you."}
+- 01:42 act: {"actions":[{"do":"eat"}],"say":"Thank you, Billy. Eating the beef now."}
+- 01:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Fed now, thanks to Billy. Going to bed by the yellow beds."}
