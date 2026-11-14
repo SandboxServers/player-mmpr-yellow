@@ -55,3 +55,4 @@
 - 17:21 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Trini going to the white bed for the night. Food goes to Kimberly first at dawn."}
 - 17:21 say: {"text":"Trini here, at the white bed by the camp. No food on me, I'm sorry Kimberly. I'll look for food first thing at dawn."}
 - 17:21 act: {"actions":[{"do":"sleep"}]}
+- 17:23 act: {"intent":{"goal":"rest_night","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operations":8}},"actio
