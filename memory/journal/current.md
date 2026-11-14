@@ -37,3 +37,5 @@
 - 06:38 act: {"say":"Thanks Zack. I'll get into a bed for the night here.","actions":[{"do":"goto","target":{"x":-272,"y":67,"z":363}}]}
 - 06:38 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}]}
 - 06:40 act: {"actions":[{"do":"sleep"}]}
+- 06:41 act: {"say":"Picard, I have no food either, only dirt, planks and leaves. I'll sleep in the yellow bed beside you and search for food at first light.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":
+- 06:42 act: {"actions":[{"do":"sleep"}]}
