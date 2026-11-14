@@ -100,3 +100,6 @@
 - 14:18 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}]}
 - 14:18 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}]}
 - 14:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 14:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"intent":{"goal":"hold_at_bed_until_night","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpect
+- 14:19 say: {"text":"Trini at the white bed, -272,67,336, health 6, hunger 17. Kimberly, I hear you. I have no food and a wooden sword. I'm holding here by the beds until night passes, then I'll look for a dry ro
+- 14:21 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}],"say":"Trini: night. Going into the yellow bed at -272,68,364. I still have no food; health 6, hunger 17."}
