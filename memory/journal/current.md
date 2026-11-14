@@ -1742,3 +1742,23 @@
 - 05:15 act: {"actions":[],"say":"I've eaten the apple, so I'm steadier now. I'll search south and west for animals or berries, away from the golem."}
 - 05:16 act: {"actions":[{"do":"goto","target":{"x":-248,"y":67,"z":366}}],"say":"Billy, I don't have a hoe anymore, sorry. I'll search south-east for animals and berries, away from Kimberly and the golem."}
 - 05:21 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}},{"do":"sleep"}],"say":"Trini here, night, going to the old bed at -263,67,354. No food yet; I'll look at first light."}
+- 05:22 act: {"reasoning":"Night at the farm bed. Hunger 20, no food. Wait for light and keep clear of golems. The last try failed because max_block_operations must be at least 1.","say":"Still dark. I'll wait for
+- 05:30 act: {"reasoning":"Dawn. Sheep are east of the beds near (-262,67,354). Hungry friends are heading there. I'll go find sheep and share, keeping clear of the golem NW.","say":"Morning all. I'm heading east 
+- 05:31 act: {"reasoning":"Group is hungry and sheep route east is water-blocked. I am still at the beds. Tell them, and offer to look in another direction.","say":"Trini here, still at the beds (-270,67,337). I h
+- 05:31 act: {"reasoning":"Travel intent args were wrong. Use a direct goto to the trees south-east instead.","actions":[{"do":"goto","target":{"x":-255,"y":67,"z":353}}]}
+- 05:31 act: {"reasoning":"No sheep east, water blocks that way. Grass is south (Jason is at z 441). Report to group, then search south.","say":"I'm at (-255,67,354). Water is north-east, no sheep or animals in si
+- 05:32 act: {"reasoning":"I am in a pit at -258,68,400. Use unstick to climb out, as the pit skill suggests.","actions":[{"do":"unstick"}]}
+- 05:32 act: {"reasoning":"Out of the pit. No animals seen on the south grass yet. Report and keep searching south.","say":"I'm out of a pit at (-257,67,400). No animals or sheep seen south yet. Going further sout
+- 05:32 act: {"say":"Still no animals at (-258,68,440). I'll sweep west over the grass from here and report.","actions":[{"do":"goto","target":{"x":-285,"y":67,"z":440}}],"intent":{"goal":"search_west_for_animals"
+- 05:33 act: {"say":"I'm at (-290,67,442) on grass, still no animals. There's a drop to the northwest, so I'm going further west along the edge.","actions":[{"do":"goto","target":{"x":-302,"y":67,"z":448}}]}
+- 05:33 act: {"say":"Zack, I'm heading to you for the sheep at (-299,66,262). I'll bring food back to the group.","actions":[{"do":"goto","target":{"x":-298,"y":66,"z":265}}]}
+- 05:33 act: {"say":"Good work Zack. My hunger is 20, so the mutton is for the hungry ones first. I'm still heading toward the lake sheep area; I'll check in when I arrive.","actions":[{"do":"goto","target":{"x":-
+- 05:34 act: {"say":"On my way, Zack. I'm at (-298,69,306). I'll find the other sheep near you.","actions":[{"do":"goto","target":{"x":-299,"y":65,"z":265}}]}
+- 05:34 act: {"say":"I'm here with you, Zack, at (-298,66,266). I don't see the other sheep in sight. Where are they?","actions":[]}
+- 05:36 act: {"say":"Zack, Billy: I can't see the sheep yet from (-298,66,266). My view shows animals a few blocks below me to the south. Can one of you point me to them?","actions":[]}
+- 05:36 act: {"say":"Thanks Billy. I'm going south to look for the sheep now.","actions":[{"do":"goto","target":{"x":-298,"y":66,"z":280}}]}
+- 05:36 act: {"say":"I'm at (-298,67,280) now and don't see sheep. Going back north to (-300,66,263) to look along the shore.","actions":[{"do":"goto","target":{"x":-300,"y":66,"z":263}}]}
+- 05:36 act: {"say":"I'm at (-300,66,264) by the shore. No sheep in sight here, only Zack. Zack, did the other sheep wander off? I'll head back toward the beds to sleep before night.","actions":[]}
+- 05:37 act: {"say":"No sheep left here, so I'm heading back to the beds for the night. Billy, Jason, Tommy, Zack: we meet at the beds and sleep there.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":339}}]
+- 05:37 act: {"say":"I'm at the beds now. Going to sleep here for the night.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}}],"intent":{"goal":"reach_beds_for_night","program":"travel","arguments":{"t
+- 05:37 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}}]}
