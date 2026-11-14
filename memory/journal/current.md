@@ -124,3 +124,7 @@
 - 22:50 act: {"say":"Trini at the beds, dawn of day 244. Health 3, hunger 11. I hold one chicken and I'll eat it when hunger drops to 6. Riker, if you're near, say so and I'll hand you the chicken instead.","inten
 - 22:55 act: {"actions":[{"do":"note","text":"Day 244 at the white beds. Health 3, hunger 11, holding one chicken for when hunger drops to 6. Group is here."}],"say":"Trini here at the beds, health 3, hunger 11. I
 - 22:59 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini at the white bed for the night, health 3, hunger 11. Chicken stays with me for when hunger is 6. Thank you all
+- 23:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Night is here and I'm at the white bed with everyone. I'm trying to sleep now."}
+- 23:02 act: {"actions":[{"do":"eat"}],"say":"A phantom is near, so sleep was refused. I'm eating my chicken now and will try the bed again."}
+- 23:02 act: {"actions":[{"do":"wait","seconds":40},{"do":"sleep"}]}
+- 23:03 act: {"actions":[{"do":"wait","seconds":120}],"say":"Trini at the white bed, health 3, hunger 11. A phantom is near so sleep keeps failing. I'll wait here for hunger to drop to 6, then eat the chicken."}
