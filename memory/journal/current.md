@@ -181,3 +181,4 @@
 - 07:51 act: {"actions":[],"say":"Kimberly, I'm fed now, hunger 20 and health 11. Keep your mutton for Tommy or Zack, whoever is weakest. I'm at -161,100,313."}
 - 07:59 act: {"actions":[],"say":"It's dusk and I have no food or bed. Picard, Zack, where are the white beds? I'll head there and shelter with the group.","intent":{"goal":"shelter_for_night","program":"rest","ar
 - 07:59 act: {"actions":[],"say":"Thank you Zack. I'm heading to the white beds at -270,67,336 now.","intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on
+- 08:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"sleep_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_
