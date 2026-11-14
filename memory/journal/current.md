@@ -7,3 +7,27 @@
 - 20:34 act: {"say":"Back with Wesley and Zack. No food here. I'm going back east to the white beds near -270,67,318 to sleep before dusk. Come along if you want.","intent":{"goal":"reach_white_beds_for_night","pr
 - 20:35 act: {"say":"Thanks, Jason. Riker first, then me. I'm at the beds with you. Whoever finds food, call it out and I'll come."}
 - 20:39 act: {"say":"Trini here, hunger 14, no food. I'll stay at the beds and watch the wheat at -263,66,321 with Kimberly and Jason. Zack, I have sticks and planks; if you find string I'll help make the rod."}
+- 20:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Trini here, dusk, hunger 13, health 9, no food. Heading to the white bed at -270,67,318 with the group for the night.","intent":{"g
+- 20:42 act: {"actions":[{"do":"sleep"}]}
+- 20:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}],"say":"Sleep was interrupted, so I'm trying the yellow bed at -270,67,326 next to Billy and Riker."}
+- 20:43 act: {"actions":[{"do":"sleep"}],"say":"Still night, no food, hunger 13. An iron golem is 5 blocks south; I'll stay by the group and try the bed again soon."}
+- 20:43 act: {"actions":[{"do":"sleep"}],"say":"Thank you Billy, Kimberly, Worf and Ezra. I'll share any food I find with Riker first. Trying to sleep now."}
+- 20:44 act: {"actions":[{"do":"sleep"}],"say":"Thanks Laforge, Kimberly, Jason and Worf. No hard feelings. Trying the bed again now."}
+- 20:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Riker, Worf, thank you. I'm going back to the yellow bed to sleep. Food at light goes to Riker first."}
+- 20:45 act: {"actions":[{"do":"sleep"}]}
+- 20:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Golems are hitting me, health 3. Running north to the white bed at -270,67,318.","intent":{"goal":"flee_to_beds_north","program":"f
+- 20:46 act: {"actions":[{"do":"sleep"}],"say":"Health 3 after the golems. I'm at the white bed -270,67,318. Trying to sleep here."}
+- 20:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":316}}],"say":"Moving north away from the golems. Trini, health 3, hunger 13, no food.","intent":{"goal":"retreat_north_from_golems","program":"tr
+- 20:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 20:48 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 20:48 act: {"actions":[],"say":"Trini here, dawn. Health 3, hunger 12, no food. Golems still south. I'm staying by the beds until light is full, then I'll look for food."}
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":-263,"y":66,"z":320}}],"say":"Thank you Jason and Riker. I'm heading to the wheat now to take my share.","intent":{"goal":"reach_wheat_for_food","program":"trave
+- 20:49 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, I'm coming to you for the wheat. Please hold it for me."}
+- 20:49 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":1}],"say":"Jason, I'm beside you now. Please hand me the wheat. There's also an item on the ground by the field; I'll pick it up."}
+- 20:49 act: {"actions":[{"do":"eat"}],"say":"Thank you Jason. Eating it now. Riker is next for the field."}
+- 20:50 say: {"text":"Riker, you're next for the field's food. Here is my wheat to you, as agreed."}
+- 20:50 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"wheat","count":1}],"reasoning":"Eat failed: wheat is not edible alone. Riker is next by agreement, so I give him the wheat."}
+- 20:50 act: {"intent":{"goal":"get_clear_of_golems","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":316}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"No golems in view now. I'll try the bed at -270,67,318 once; if refused, I'll wait."}
+- 20:51 say: {"text":"Jason, thank you. Wheat alone won't feed me, so please give it to Riker, who is next."}
+- 20:52 say: {"text":"Picard, thanks. I learned wheat alone can't be eaten, and golems roam south of the beds. I'm waiting here for food."}
