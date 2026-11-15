@@ -90,3 +90,5 @@
 - 18:02 act: {"actions":[{"do":"goto","target":"ag_laforge_01"},{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, I can see you. Coming to you with the chicken now, hunger 15."}
 - 18:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"LaForge is out of sight again, so I'm keeping the chicken. Going to the bed now."}
 - 18:03 act: {"actions":[{"do":"note","text":"Night 301. At -274,67,334 near the north white beds, hunger 20. Holding chicken and beef for the lowest. Trying sleep at the bed."},{"do":"sleep"}],"say":"I'm at hunge
+- 18:03 act: {"actions":[],"say":"Clark, you're in my reach. What's your hunger? I have a beef and a chicken for whoever is lowest. Bcrusher, call out and I'll bring the chicken."}
+- 18:05 act: {"actions":[],"say":"Bcrusher is fed, good. Clark is eating his own. I still hold the beef and chicken for whoever drops lowest. Call out and I'll hand it over."}
