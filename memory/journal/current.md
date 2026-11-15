@@ -55,3 +55,11 @@
 - 06:52 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-262,"y":68,"z":350}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
 - 06:53 act: {"say":"Trini back at the yellow beds. Seven iron golems to the west, so I'm staying close. Hunger 9, no food. Waiting for meat or ripe wheat; wheat at -269,66,331 is still unripe.","intent":{"goal":"
 - 07:00 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"note","text":"Dusk at yellow bed -263,67,353. Hunger 9, no food. Golem 20 west. Going to bed."}],"say":"Trini here, at the yellow be
+- 07:00 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Trini here at the yellow bed, hunger 9, no food. Going to sleep for the night and I will hunt animals at first light.","intent":{"g
+- 07:01 act: {"actions":[{"do":"sleep"}]}
+- 07:01 act: {"actions":[{"do":"sleep"}]}
+- 07:01 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}]}
+- 07:11 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":331}}],"say":"Trini here, morning of day 269, hunger 9, no food. I have 4 wheat seeds and a hoe. Heading to Picard's tilled ground at -273,66,330
+- 07:11 act: {"actions":[{"do":"till","at":{"x":-271,"y":65,"z":330}},{"do":"place","block":"wheat_seeds","at":{"x":-271,"y":66,"z":330}}]}
+- 07:11 say: {"text":"Trini: planted one wheat seed at -271,66,330 on dry ground. I'm going to search for cows or pigs with the group now. Meat to Chapman first, then me."}
+- 07:13 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"wheat_seeds","count":2}],"say":"Macdonald, 2 wheat seeds coming to you now. Plant them next to the unripe wheat."}
