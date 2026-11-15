@@ -41,3 +41,13 @@
 - 02:00 act: {"actions":[{"do":"sleep"}],"say":"Trini going to the white bed at -270,67,336 for the night. Health 3, hunger 16. Riker, the second porkchop is for me at dawn when I can eat.","reasoning":"Dusk and a
 - 02:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Sleep was refused: a creeper and skeleton are nearby. Wait for them to move off, then retry the bed."}
 - 02:00 act: {"actions":[{"do":"sleep"}],"reasoning":"I am at the white bed. Golems are 8 and 12 blocks away, no creeper or skeleton listed. Try sleep again."}
+- 02:01 act: {"actions":[{"do":"sleep"}],"say":"Tommy, I saw no creeper by the white beds just now, only iron golems to the south and west. Food first at dawn goes to Trini, then Worf.","reasoning":"I am at the wh
+- 02:02 act: {"actions":[],"say":"Riker, I am on the white bed at -270,67,336 and I cannot see you yet. Stand within arm's reach and I will take the porkchop and the seeds. I will eat at hunger 6.","reasoning":"Ri
+- 02:09 say: {"text":"Morning, day 254. I'm at 3 health and hunger 16, still waiting on Riker's porkchop. Riker, please come within arm's reach. Lewis, thanks for the seeds. I'll help plant once I can eat."}
+- 02:09 say: {"text":"Riker, I'm at -272,67,336, right by the white beds. Come within arm's reach and give me the porkchop, please."}
+- 02:10 say: {"text":"Thank you, Tommy. I'm taking the wheat, and I'll eat it when my hunger drops to 6. Riker, I still need that porkchop."}
+- 02:11 say: {"text":"Riker, I can't see you in my list, so the give keeps failing. Please step up next to me on the bed side, or stand in the open where I can see you, and I'll take the porkchop from you right aw
+- 02:12 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Riker, I'm coming to you now."}
+- 02:12 say: {"text":"Riker, I'm right here in reach. Please give me the porkchop and the seeds now."}
+- 02:13 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Riker, I'm next to you. Please hand me the porkchop."}
+- 02:13 say: {"text":"Riker, I don't see the porkchop in your hands. If you still have it, please give it to me. If not, tell me who has it. Anyone with meat, I'm at -274,66,333 and hunger 16."}
