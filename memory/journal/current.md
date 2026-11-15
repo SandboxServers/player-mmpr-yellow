@@ -156,3 +156,17 @@
 - 00:22 act: {"actions":[{"do":"eat"}],"say":"Trini here, health 3, hunger 11, no food but one chicken. Everyone else is at full health, so I'm eating it now. Staying at the white bed.","reasoning":"Health 3 with 
 - 00:23 act: {"actions":[{"do":"sleep"}],"say":"Trini, health 3, hunger 11. Golems are 8 to 10 blocks west, so I'm trying the bed now. Geldar, thank you, I'm keeping the chicken for when I can eat it."}
 - 00:23 act: {"actions":[{"do":"sleep"}]}
+- 00:24 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":336}}],"say":"Trini here, night of day 248, health 3, hunger 11. Iron golem 6 blocks west and closing, so I'm moving east, away from it, with Tro
+- 00:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini at the white bed, health 3, hunger 11. Golem is 12 blocks south-west. Trying to sleep."}
+- 00:24 act: {"intent":{"goal":"rest_with_group_at_beds","program":"rest","arguments":{"position":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 00:27 act: {"say":"Trini here at the white bed, health 3, hunger 11. Zack, you're weakest at health 0.67. If you come within reach I'll hand you the chicken. I can't see you yet; call me when you're close.","int
+- 00:28 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"chicken","count":1}],"say":"Zack, you're in reach and weakest at health 0.67, so the chicken is yours now. Eat it, then try the bed."}
+- 00:28 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":337}}],"say":"Golem 3 blocks west of me. Moving east away from it. Zack, if you are in sight, call me and I'll hand you the chicken."}
+- 00:28 act: {"actions":[{"do":"eat"}],"say":"Zack is not in sight, and I'm at health 3 with golems five blocks away. I'm eating the chicken now."}
+- 00:28 act: {"actions":[{"do":"goto","target":{"x":-254,"y":67,"z":332}}],"say":"Eating is refused until hunger is 6 or below, so I'll keep the chicken. Golems are closing from the south-west, so I'm moving north
+- 00:29 act: {"actions":[{"do":"goto","target":{"x":-268,"y":66,"z":325}},{"do":"place","block":"wheat_seeds","at":{"x":-268,"y":65,"z":326}}],"say":"Trini at dawn, day 249. Thanks Tommy and Troi. I'm going to pla
+- 00:29 act: {"intent":{"goal":"flee_golem_north_east","program":"flee","arguments":{"from":"iron_golem","distance":14},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
+- 00:29 act: {"intent":{"goal":"flee_golem_north_east","program":"flee","arguments":{"distance":14},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":600,"max_block_
+- 00:29 act: {"actions":[{"do":"goto","target":{"x":-259,"y":66,"z":318}}],"say":"Moving north-east, away from the golem to the south. Health 3, no food yet.","intent":{"goal":"reach_safe_spot_north_east","program
+- 00:30 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, you are weaker than me, so the chicken is yours. I'm coming to you now to hand it over."}
+- 00:30 act: {"actions":[{"do":"goto","target":"ag_zack_01"},{"do":"give","to":"ag_zack_01","item":"chicken","count":1}],"say":"Zack, I'm right behind you. Giving you the chicken now."}
