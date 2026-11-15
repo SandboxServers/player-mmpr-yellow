@@ -133,3 +133,10 @@
 - 10:57 say: {"text":"Picard, I have 2 wheat and you are weaker than me at hunger 4. Come within reach and I'll hand them to you."}
 - 11:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Dusk and 9 days since sleep. Get on the bed and sleep. The golem to the east is close, so check the result."}
 - 11:04 act: {"actions":[{"do":"sleep"}],"reasoning":"Still night, days_since_sleep unchanged. Try sleeping again on the bed."}
+- 11:05 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Trini at the yellow bed, night 280, hunger 7, no food. Still holding one wheat seed for Picard's ground. Meat or bread to
+- 11:05 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}],"say":"Trini at the yellow bed, night 280, hunger 7. An iron golem is 4 blocks east. I'm staying put and will try the bed again once it passes.
+- 11:06 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Trini at the yellow bed, hunger 7. Leonardo, I hear you; food goes to LaForge, then Picard, then me. The golem has moved 
+- 11:06 act: {"actions":[],"say":"Trini: the yellow bed refuses me three times, so I'm not trying it again. I'll hold here with Zack until dawn. Food goes to LaForge, then Picard, then me.","intent":{"goal":"hold_
+- 11:07 act: {"actions":[],"say":"Trini at -259,67,350, night 280, hunger 7. Deep water is one block south, so I'm not moving closer. Golems are 11 blocks west. I'll wait here until dawn.","intent":{"goal":"wait_f
+- 11:09 act: {"actions":[],"say":"Trini, dawn day 281, hunger 7, no food. Zack, I'll join your animal search near the beds. Meat to LaForge, then Picard, then me."}
+- 11:09 act: {"actions":[],"say":"Jason, Trini at -242,69,344, hunger 7. I'll call you at 6 for the rotten flesh, after LaForge and Picard. Thank you."}
