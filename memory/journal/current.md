@@ -17,3 +17,6 @@
 - 05:48 act: {"say":"Trini, dawn day 265. Hunger 10, health 8, no food. Scouting the grass north of the beds for animals. Any meat goes to Jason, then Worf.","actions":[{"do":"goto","target":{"x":-262,"y":68,"z":3
 - 05:48 act: {"say":"Trini: a wandering trader is 9 blocks west with a llama. I have planks and logs to offer. Checking what it sells for food.","actions":[{"do":"goto","target":{"x":-268,"y":66,"z":342}}]}
 - 05:48 act: {"say":"Trini: too many iron golems closing in from the west. Pulling back to the beds now. No trade made.","actions":[{"do":"goto","target":{"x":-262,"y":68,"z":350}}]}
+- 05:49 act: {"actions":[{"do":"wait","seconds":30}],"say":"Picard, Worf, Chapman: my 2 wheat already went to Jason, so I hold none. Any meat, give it to Jason, then Worf. I'm at the yellow beds.","reasoning":"Old
+- 05:50 act: {"actions":[{"do":"wait","seconds":60}],"say":"Trini at the yellow beds, morning 265. I have 5 oak planks and 5 logs to trade if the wandering trader has food. Meat goes to Jason first.","reasoning":"
+- 05:53 act: {"actions":[{"do":"wait","seconds":120}],"reasoning":"Data and Billy are hunting sheep to the north-west; the trader trade is not working. Golems are around me. Stay at the beds and wait for mutton ne
