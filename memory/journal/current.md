@@ -97,3 +97,16 @@
 - 18:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini going to the north white bed at dusk with the group. Holding a chicken and beef for the lowest. Jason, I'm clo
 - 18:21 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Trini here with a sword. Phantom to the south-west, I'm striking it. Picard, stay by me."}
 - 18:21 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini trying the bed for the night. Chicken and beef still held for whoever calls lowest."}
+- 18:22 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}],"say":"Trini here at the white bed, sword in hand. Phantom nearby, so I'm waiting and will try the bed again."}
+- 18:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Trini at night, holding a chicken and a beef. Jason, Chapman, if you are in my sight, step next to me and say so. Heading back to t
+- 18:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini going to the bed at -270,67,336 with my sword out. Holding one chicken and one beef for whoever is lowest; cal
+- 18:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 18:23 act: {"actions":[{"do":"sleep"}],"say":"Trini at the north white bed, health 20, hunger 20. I hold one chicken and one beef for anyone at 6 or below who is in my sight. Sleeping now."}
+- 18:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 18:24 act: {"actions":[{"do":"sleep"}]}
+- 18:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"wait","seconds":20},{"do":"sleep"}]}
+- 18:25 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini perched near the north white bed, health 20, hunger 20. Holding one chicken and one beef for 
+- 18:26 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Jason, Trini here with a chicken and a beef. If you are in my sight, step next to me and say so and it's yours. Clar
+- 18:27 act: {"actions":[{"do":"sleep"}]}
