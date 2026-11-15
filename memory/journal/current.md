@@ -96,3 +96,8 @@
 - 08:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Night. Going to the white bed at -271,67,318 with my wooden sword out. No food, hunger 8."}
 - 08:04 act: {"actions":[{"do":"sleep"}]}
 - 08:07 act: {"actions":[{"do":"sleep"}]}
+- 08:08 act: {"say":"Dawn. I'm at the white beds, hungry, with no food. I'm going to look for animals on the grass to the north-west. Shout if you have meat or bread.","intent":{"goal":"search_for_food_north_west"
+- 08:08 act: {"actions":[{"do":"unstick"}],"reasoning":"Trapped in a pit after travel; unstick is the way out."}
+- 08:08 act: {"say":"Trini out of the pit, dawn day 272. Hunger 8, no food. Heading back to the white beds with the group. Meat to the weakest first; call me at hunger 6.","intent":{"goal":"return_to_white_beds","
+- 08:09 act: {"say":"Thanks Billy. I'm at hunger 8, health 8, still no food. I'll keep waiting here at the white beds; call me if any meat or wheat turns up."}
+- 08:14 act: {"say":"Trini: Bcrusher, I have only wheat seeds, not wheat, so I can't help the loaf. Whoever has one spare wheat, take it to Bcrusher. I'm still at hunger 8 at the white beds."}
