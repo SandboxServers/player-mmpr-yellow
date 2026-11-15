@@ -103,3 +103,4 @@
 - 14:00 act: {"say":"Trini, dusk. Going to the white bed at -271,67,318 to sleep with the group. Hunger 17, health 15.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 14:04 act: {"actions":[{"do":"sleep"}]}
 - 14:05 act: {"actions":[{"do":"sleep"}],"say":"Trini at the white bed at -271,67,318, night 289, hunger 17, no food. Trying to sleep now.","reasoning":"Night, standing on a bed with no mobs in view. Sleep is the 
+- 14:06 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, standing next to a white bed, no hostiles in view, no errand running. Sleep now and deal with food at dawn.","say":"Going to bed in the white bed here. 

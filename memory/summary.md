@@ -1,8 +1,9 @@
 # Summary
 
 ## Where I am
-- Trini, day 283, near the white beds at -271,67,318 to -270,67,336, with the group. Health 8, hunger 9 after eating at dawn.
-- Last sleep: the white bed at -271,67,318 on the night of day 272 into 273; sleep was refused at the yellow beds on days 280 to 283.
+- Trini, day 289 (night), asleep in the white bed at -271,67,318 with the group. Hunger 17, health 15, no food on me.
+- Last sleep: the white bed at -271,67,318, night of day 289; it worked.
+- Holding no meat. Wheat seeds and a wooden hoe. Beef eaten on day 289.
 - Beds: white beds near -270,67,318 to -271,67,336; yellow beds near -263,67,353 and -241,69,344.
 - Deep water lies right beside the yellow bed (one block south of -259,67,350). Do not step toward it at night.
 - Picard's tilled ground: -271,66,330 and -273,66,330, with one wheat seed planted (day 269).
