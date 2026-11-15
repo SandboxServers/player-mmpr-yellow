@@ -23,3 +23,5 @@
 - 05:55 act: {"intent":{"goal":"hold_at_beds_for_food","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":
 - 06:01 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, golems near. Try sleeping at the yellow beds once; if refused, wait."}
 - 06:01 act: {"actions":[{"do":"use","at":{"x":-241,"y":69,"z":344}}],"reasoning":"Sleep was blocked; try using the bed block directly, once."}
+- 06:09 act: {"say":"Trini at the second yellow bed, day 266, hunger 10, no food. I'll scout the grass to the north for animals and call out any meat I find.","intent":{"goal":"scout_for_animals","program":"travel
+- 06:10 act: {"say":"Trini at -239,68,330, scouted north. No animals in sight, only oak logs. Still no food; hunger 10. Will keep looking nearby and report any meat to Jason first."}
