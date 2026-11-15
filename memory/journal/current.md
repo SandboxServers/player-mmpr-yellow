@@ -88,3 +88,10 @@
 - 13:44 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"I'm trying the bed here at 318 to sleep. LaForge, Troi: meat goes to whoever is weakest."}
 - 13:44 act: {"actions":[{"do":"sleep"}]}
 - 13:44 act: {"actions":[{"do":"sleep"}]}
+- 13:48 act: {"actions":[{"do":"goto","target":{"x":-280,"y":66,"z":333}}],"say":"Trini heading to the item at -280,66,333 to see if it is food. Hunger 15, no food on me. Meat still goes to Lewis and LaForge first
+- 13:48 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":322}}],"say":"The item was LaForge's gear, not food. Golems and a phantom are closing, so I'm going back north to the beds. Troi, I'm heading to 
+- 13:49 act: {"say":"Troi, I'm sorry. I have no food either. Bcrusher, once it is full light, let's search for animals together, staying in sight of each other. Whoever finds meat, call it out.","reasoning":"Every
+- 13:52 act: {"say":"Billy, that is good news. Lewis and LaForge first, then Troi, then me. I'm waiting at the white bed at -272,67,322. Come within arm's reach and I'll take my share.","reasoning":"Billy has beef
+- 13:52 act: {"say":"Billy, agreed: Lewis, LaForge, then Troi, then me. I'm at the white bed at -272,67,322 with hunger 15 and health 6. Whatever is left, I'll take.","reasoning":"Billy's beef queue is set. I am a
+- 13:53 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, I'm coming to you to take the beef. Thank you. Troi gets the second one.","reasoning":"Billy is offering one beef, but he is out of reac
+- 13:53 act: {"say":"Billy, Troi first with her beef. If there is a second one for me, I'm right here in reach. If not, I'll wait. Thank you.","reasoning":"Billy is in reach. Troi is ahead of me in the queue, so l
