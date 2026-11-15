@@ -148,3 +148,28 @@
 - 11:20 act: {"say":"Trini at -269,66,325, near the north beds. Picard, I still hold your wheat seed. Where are you?"}
 - 11:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":322}}],"say":"Trini going to a white bed near the north beds for the night. Picard, I still hold your seed; I'll give it at dawn."}
 - 11:21 act: {"actions":[{"do":"goto","target":"ag_picard_01"},{"do":"give","to":"ag_picard_01","item":"wheat_seeds","count":1}],"say":"Picard, here is the wheat seed I owe you."}
+- 11:21 act: {"actions":[],"say":"Jason, my hunger is 7, so not yet 6. I'll call you when it drops. Thank you for holding the flesh.","reasoning":"Jason asked my hunger. It is 7, so I wait for 6 as agreed. Night, 
+- 11:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Group is going to beds. Creeper may have left. Try sleep again here."}
+- 11:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}}],"reasoning":"Sleep was blocked where I drifted. Walk back to the spot by the beds and try again."}
+- 11:24 act: {"actions":[{"do":"sleep"}],"reasoning":"Back at the beds. Try sleep again; golems are 18+ blocks away."}
+- 11:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Several minutes passed. Try sleep again at the beds."}
+- 11:25 act: {"actions":[],"say":"Jason, my hunger is 6 now. Please give me the rotten flesh if you are in reach.","reasoning":"Hunger reached 6, the agreed threshold. Ask Jason for the flesh; I hold no food."}
+- 11:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}}],"say":"Jason, I'm at -267,66,325, a few blocks east of you. Coming to you now.","reasoning":"Jason is holding the flesh at -270,67,327 and
+- 11:27 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wheat","count":1}],"say":"Jason, I can see you now. Please hand me the rotten flesh. My hunger is 6.","reasoning":"I should not give wheat to Jason 
+- 11:28 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Thank you Jason. I'm stepping onto the flesh to pick it up.","reasoning":"The give failed, so I kept my wheat. Jason dropped 2 rotten flesh on 
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":-269,"y":66,"z":330}}],"say":"Jason, I'm moving next to you now. My hunger is 6.","reasoning":"Jason is at -269,66,330. Go next to him so the flesh can be handed
+- 11:28 act: {"actions":[],"say":"Jason, I'm at -270,66,330 and can't see you. Where are you? I'm holding out for the flesh.","reasoning":"I can't see Jason. Ask where he is so we can meet."}
+- 11:29 act: {"actions":[],"say":"Trini, dawn day 282. No flesh reached me yet, hunger 6. Anyone with meat, I'm at -270,66,330 and will take it.","reasoning":"New day. Flesh still hasn't arrived. Say my position a
+- 11:30 act: {"actions":[],"say":"Thank you, Data. I ate and I'm at hunger 10 now. Picard needs the last flesh more than I do; Picard, come to me and I'll hand it over.","reasoning":"I ate the reflex flesh. Picard
+- 11:32 say: {"text":"Trini here, hunger 10. I'm holding the last rotten flesh for Picard. Picard, come within reach and I'll give it to you."}
+- 11:41 act: {"intent":{"goal":"reach_bed_at_night","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block
+- 11:41 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"rotten_flesh","count":1}],"say":"LaForge, here is the last rotten flesh. You need it most. Eat it now."}
+- 11:41 say: {"text":"LaForge, my give failed; the flesh did not reach you. I'm still holding it. Tell me if you need me closer and I'll step in."}
+- 11:42 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"rotten_flesh","count":1}]}
+- 11:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 11:43 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"use","at":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 11:43 act: {"actions":[{"do":"sleep"}]}
+- 11:44 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}]}
+- 11:46 act: {"actions":[{"do":"sleep"}]}
+- 11:49 say: {"text":"Trini at dawn, day 283, hunger 9. I still hold the last rotten flesh for Picard. Picard, where are you? Call your place and I'll come to you."}
+- 12:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"say":"Going to the white bed at -270,67,336 to sleep with the group. Still holding one rotten flesh for Picard.","intent":
