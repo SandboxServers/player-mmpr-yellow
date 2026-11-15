@@ -60,3 +60,4 @@
 - 22:46 act: {"say":"The chicken is in the chest for Lewis. I'm keeping two for whoever gets hungry first. Jason, Tommy, stay close."}
 - 22:49 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Lewis, the chicken is in the chest at 433,107,-1051. Take it. I'm going to the bed for the night."}
 - 22:50 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, Lewis, thank you both. I'm going to sleep in the bed here by the beds. Keep your chicken until hunger is 6.
