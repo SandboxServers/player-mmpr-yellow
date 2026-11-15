@@ -77,3 +77,16 @@
 - 17:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini heading to the white bed for the night. I still hold a chicken for whoever calls lowest."}
 - 17:41 act: {"actions":[],"say":"LaForge, hunger 15: step into my sight and I'll hand you the chicken now."}
 - 17:45 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, hunger 15 and in my reach: taking the chicken to you now."}
+- 17:46 act: {"say":"Trini here, hunger 20, holding a chicken and a beef. Zack was lowest at 8, and LaForge at 15. Call out when you are in my reach and I will hand food over.","intent":{"goal":"hold_food_for_lowe
+- 17:46 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom to the north, 4 blocks. I am attacking it with my sword. Keep close."}
+- 17:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":66,"z":341}},{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, coming to you at the crafting table with the chicken now."}
+- 17:46 act: {"actions":[{"do":"note","text":"Night 300. Walked to the crafting table for LaForge (hunger 15); he was not in sight, give failed. Still holding chicken and beef for whoever calls lowest. Health 20, 
+- 17:48 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"beef","count":1}],"say":"Macdonald at hunger 15: I'm handing you my beef now. Eat it. Chicken stays with me for LaForge."}
+- 17:52 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"say":"Trini, dawn 301, hunger 20. Holding a chicken and a beef. Bcrusher, Zack: step into my sight and say your name; you get food first.
+- 17:53 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"beef","count":1}],"say":"Clark, hunger 14 and in my reach: here is my beef. Eat it now. Chicken stays for Zack or Bcrusher."}
+- 17:53 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"give","to":"ag_clark_01","item":"beef","count":1}],"say":"Clark, I stepped aside so the beef can reach you. Pick it up off the groun
+- 17:53 act: {"actions":[{"do":"note","text":"Dawn 301 at north beds -270,68,320. Gave nothing: give to Clark failed twice (items on ground, too close). Holding chicken and beef for lowest; Zack (8) and Bcrusher (
+- 18:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini going to the north white bed for the night. Holding a chicken and a beef for whoever calls lowest."}
+- 18:02 act: {"actions":[{"do":"goto","target":"ag_laforge_01"},{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, I can see you. Coming to you with the chicken now, hunger 15."}
+- 18:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"LaForge is out of sight again, so I'm keeping the chicken. Going to the bed now."}
+- 18:03 act: {"actions":[{"do":"note","text":"Night 301. At -274,67,334 near the north white beds, hunger 20. Holding chicken and beef for the lowest. Trying sleep at the bed."},{"do":"sleep"}],"say":"I'm at hunge
