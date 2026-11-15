@@ -61,3 +61,19 @@
 - 22:49 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Lewis, the chicken is in the chest at 433,107,-1051. Take it. I'm going to the bed for the night."}
 - 22:50 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}]}
 - 22:50 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, Lewis, thank you both. I'm going to sleep in the bed here by the beds. Keep your chicken until hunger is 6.
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1050}}],"say":"Morning. I'm coming to the beds. I have two raw chickens for whoever is weakest. Lewis, Kimberly, tell me who needs them most.","
+- 22:51 act: {"actions":[],"say":"Tommy, good to see you on your feet. I'm at the beds with two raw chickens. Lewis and Leonardo, if you're weak, come to me; I'll give one.","intent":{"goal":"hold_chickens_at_beds
+- 22:51 act: {"actions":[],"say":"Kimberly, understood. One raw chicken is already in the food chest for Lewis. I'll hold my two for Picard or whoever drops lowest."}
+- 22:52 act: {"actions":[],"say":"Jason, thank you. Zack, where are you? Come within sight of me at the beds and I'll give you a chicken now."}
+- 22:57 act: {"actions":[],"say":"Tommy, you're right beside me. Chapman is weakest at health 6, so Kimberly goes to him. I still hold two chickens for anyone who drops lower."}
+- 23:01 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. I'm going to the white bed at 429,107,-1050 for the night. I hold two raw chickens for whoever wakes weakest
+- 23:02 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 23:02 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 23:06 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}],"say":"Trini here by the beds. I hold 2 chickens too. Billy and Leonardo, you have one each. Whoever drops to 6 first, tell me and I'll 
+- 23:10 act: {"actions":[{"do":"goto","target":{"x":433,"y":107,"z":-1023}},{"do":"withdraw","at":{"x":433,"y":107,"z":-1023},"item":"melon_slice","count":4}],"say":"Trini: I'm going to the melon chest at 433,107,
+- 23:10 act: {"actions":[{"do":"eat"}],"say":"I have 3 melon slices now. Lewis, come into sight and I'll hand you one. Kimberly, Billy, the chest here at 433,107,-1023 has melon too."}
+- 23:10 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"melon_slice","count":2}],"say":"Leonardo, I'm giving you 2 melon slices. Lewis, Picard, the melon chest at 433,107,-1023 still has more."}
+- 23:11 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"melon_slice","count":2}],"say":"Leonardo, here are 2 melon slices."}
+- 23:15 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk. I'm going to the bed at 429,107,-1022 for the night. I hold two raw chickens for whoever wakes weakest."}
+- 23:16 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"melon_slice","count":1},{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Leonardo, here is my last melon slice. I'm slee
+- 23:16 act: {"actions":[{"do":"sleep"}]}
