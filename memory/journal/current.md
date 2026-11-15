@@ -89,3 +89,9 @@
 - 03:01 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
 - 03:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
 - 03:05 act: {"actions":[{"do":"sleep"}],"say":"Trini at the yellow bed, night of day 256. Health 8, hunger 15, still no food. Meat goes to Data, then me."}
+- 03:09 act: {"say":"Trini, dawn of day 257. Health 8, hunger 15, no food. I'm staying at the yellow beds with Clark and will look for animals in sight of the group. Any meat goes to Data first, then me.","intent"
+- 03:10 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":344}}],"say":"Trini walking east with Jason and Clark toward -250,68,344 to look for animals on the grass. Stay in sight; meat goes to Data first
+- 03:10 act: {"actions":[{"do":"goto","target":{"x":-236,"y":68,"z":338}}],"say":"Trini, still no animals in sight at -250,68,344. Moving east to the grass at -236,68,338 to look."}
+- 03:14 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":332}}],"say":"Trini heading north-east to join Clark at -228,68,332. Still no animals here. Meat goes to Data first, then me."}
+- 03:14 act: {"say":"Trini here at -228,68,332 with Clark. Still no animals in sight. Meat goes to Data first, then me.","intent":{"goal":"search_animals_near_clark","program":"travel","arguments":{"target":{"x":-
+- 03:18 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"intent":{"goal":"reach_bed_before_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":344}},"wake_on":["directly_address
