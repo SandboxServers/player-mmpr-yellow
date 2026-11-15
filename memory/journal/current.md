@@ -79,3 +79,15 @@
 - 07:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini here, going to a free white bed at the beds for the night. Hunger 9, no food.","reasoning":"Night, dim, no foo
 - 07:42 act: {"actions":[],"say":"Thank you Jason. I'm at hunger 8. I'll ask you for the rotten flesh when I reach 6.","reasoning":"Jason offers flesh for whoever is at 6 first. I am at 8. Keep it for later."}
 - 07:44 act: {"actions":[{"do":"sleep"}],"reasoning":"Retry the bed, as the night allows. Hunger still 8."}
+- 07:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini at the white bed for the night. Hunger 8, no food yet. Zack, I have none to give, sorry.","reasoning":"Night, 
+- 07:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Phantom was 8 blocks away; retry sleep once the coast is clearer."}
+- 07:45 act: {"actions":[],"intent":{"goal":"rest_in_bed_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000,"max_bloc
+- 07:46 act: {"actions":[],"say":"Trini at the white bed with Jason. I have a wooden sword; Billy, if you're within reach, tell me where and I'll come.","intent":{"goal":"hold_at_white_bed_till_dawn","program":"re
+- 07:48 act: {"actions":[{"do":"goto","target":{"x":-278,"y":67,"z":330}}],"say":"Trini, dawn day 270, hunger 8, no food. Joining Worf's west search for cows or pigs. Meat to Chapman, then Worf, then me.","intent"
+- 07:48 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":321}}],"say":"Trini pulling back to the beds. Golems 11 blocks south-west, phantom north-east. Hunger 8, no food.","reasoning":"Golems and a phan
+- 07:48 act: {"actions":[],"say":"Chapman, Trini at the beds, hunger 8, no food. If you bring pork or mutton back, I'm next after you. Please call me.","intent":{"goal":"hold_at_beds_for_meat","program":"rest","ar
+- 07:50 act: {"actions":[],"say":"Thank you Jason. I'm still at 8; I'll call you when I reach 6 for the flesh.","intent":{"goal":"hold_at_beds_until_hunger_6","program":"rest","arguments":{},"wake_on":["directly_a
+- 07:52 act: {"actions":[],"say":"Thank you Clark, Bcrusher, LaForge. I'm at the white beds, hunger 8. Bring the wheat here and I'll help bake the bread; I'll take what food I can.","intent":{"goal":"hold_at_beds_
+- 07:56 act: {"actions":[{"do":"goto","target":{"x":-274,"y":66,"z":328}}],"say":"Trini coming to the table by the wheat now, Bcrusher. Hand over the wheat and the bread; I'll eat when it's in my hand.","intent":{
+- 07:58 act: {"actions":[],"say":"Trini at the table by the wheat. Bcrusher, how many wheat do you have now? Bread needs 3; if you have them, bake and hand me the loaf.","intent":{"goal":"wait_for_bread_at_table",
+- 07:59 act: {"intent":{"goal":"wait_for_bread_at_table","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400
