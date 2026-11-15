@@ -91,3 +91,4 @@
 - 07:56 act: {"actions":[{"do":"goto","target":{"x":-274,"y":66,"z":328}}],"say":"Trini coming to the table by the wheat now, Bcrusher. Hand over the wheat and the bread; I'll eat when it's in my hand.","intent":{
 - 07:58 act: {"actions":[],"say":"Trini at the table by the wheat. Bcrusher, how many wheat do you have now? Bread needs 3; if you have them, bake and hand me the loaf.","intent":{"goal":"wait_for_bread_at_table",
 - 07:59 act: {"intent":{"goal":"wait_for_bread_at_table","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400
+- 07:59 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"lim
