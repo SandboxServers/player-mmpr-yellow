@@ -81,3 +81,6 @@
 - 13:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
 - 13:41 act: {"actions":[{"do":"sleep"}],"say":"Trini here at the white bed. No food, health 6, hunger 15. Going to sleep with the group."}
 - 13:42 act: {"actions":[{"do":"note","text":"Woke at the white bed, day 288 dusk. Sleep worked. Hunger 15, health 6, no food. Holding 2 wheat seeds and a wooden hoe."}],"say":"Trini awake at the white bed. Still 
+- 13:43 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Trini at the white bed, night 288. No food, hunger 15, health 6. Going to sleep with the group. Meat goes to Lewis and LaForge first.","
+- 13:43 act: {"actions":[],"intent":{"goal":"rest_at_bed_near_group","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 13:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep partly worked, group needs more asleep. Try sleep again at the bed."}
