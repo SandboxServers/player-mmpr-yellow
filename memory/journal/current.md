@@ -77,3 +77,9 @@
 - 23:15 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk. I'm going to the bed at 429,107,-1022 for the night. I hold two raw chickens for whoever wakes weakest."}
 - 23:16 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"melon_slice","count":1},{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Leonardo, here is my last melon slice. I'm slee
 - 23:16 act: {"actions":[{"do":"sleep"}]}
+- 23:17 act: {"say":"Trini here at the beds, holding 2 chickens and a melon slice. Lewis, Picard, Chapman, Zack: come into sight if you are at 6 or below.","intent":{"goal":"hold_food_for_weakest","program":"rest"
+- 23:17 act: {"say":"Trini: nobody weak in sight, so I am going to the chicken at 469,107,-1026 to find more food for the group.","intent":{"goal":"fetch_chicken_east","program":"travel","arguments":{"target":{"x"
+- 23:18 act: {"say":"Trini here, at 469,-1026 in the sun. No chicken in sight now. I still hold 2 chickens and a melon slice for whoever is weakest.","intent":{"goal":"hold_food_and_watch","program":"rest","argume
+- 23:19 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1021}}],"intent":{"goal":"return_to_beds_with_food","program":"travel","arguments":{"target":{"x":443,"y":107,"z":-1021}},"wake_on":["directly_a
+- 23:32 act: {"say":"Morning. Trini: I am going to the chicken spot at 421,107,-989 to look for food. Back at the beds soon.","intent":{"goal":"search_chickens_south","program":"travel","arguments":{"target":{"x":
+- 23:32 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1021}}]}
