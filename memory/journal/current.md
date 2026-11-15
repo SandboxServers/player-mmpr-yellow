@@ -105,3 +105,22 @@
 - 14:05 act: {"actions":[{"do":"sleep"}],"say":"Trini at the white bed at -271,67,318, night 289, hunger 17, no food. Trying to sleep now.","reasoning":"Night, standing on a bed with no mobs in view. Sleep is the 
 - 14:06 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, standing next to a white bed, no hostiles in view, no errand running. Sleep now and deal with food at dawn.","say":"Going to bed in the white bed here. 
 - 14:08 act: {"say":"I'm at the white bed with the group. I have no food, hunger 17. At first light I'll hunt with whoever is near.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 14:09 act: {"say":"Morning. I have no food and hunger is 17. I'm going to look for animals to hunt. Anyone with meat or ripe wheat, please tell me.","reasoning":"Dawn, no food, hunger 17. Need food first. Announ
+- 14:09 act: {"say":"Trini here, hunger 17, no food. Wesley and Billy, stay in sight. I'll walk slowly west and look for animals. Call out if you see any.","reasoning":"Group is with me and offers to hunt together
+- 14:09 act: {"intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"x":-305,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 14:09 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 14:10 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"reach_bed_safely","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],
+- 14:10 act: {"say":"I'm at the beds, daytime now. Still no food, hunger 17. I'll try north this time, and I'll stay in sight of Wesley and Billy.","intent":{"goal":"search_north_for_animals","program":"travel","a
+- 14:10 act: {"intent":{"goal":"search_far_north_for_animals","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":270}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"ma
+- 14:10 act: {"intent":{"goal":"pick_up_dropped_item","program":"travel","arguments":{"target":{"x":-260,"y":68,"z":286}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 14:10 act: {"intent":{"goal":"return_to_beds_with_flesh","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 14:11 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"rotten_flesh","count":1}],"say":"Laforge, you're closest and weakest. Here is one rotten flesh. Everyone, no animals found yet: north, west, and t
+- 14:11 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Data, thanks, we'll hunt together at first light. Picard, your chicken is for you when you are lowest, keep it. It i
+- 14:11 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"rotten_flesh","count":1}],"say":"Laforge, here is a rotten flesh, you are the weakest. Eat it when you need it.","reasoning":"Laforge is in reach 
+- 14:11 act: {"say":"Data, I'm ready to hunt with you now, west and north. I'll keep to the path and stay in sight.","intent":{"goal":"hunt_west_with_data","program":"travel","arguments":{"target":{"x":-300,"y":67
+- 14:11 act: {"intent":{"goal":"return_to_beds_and_wait_for_dawn","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":
+- 14:11 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"return_to_beds_and_wait_for_dawn","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["direct
+- 14:12 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"rotten_flesh","count":1}],"say":"Laforge, here is one rotten flesh, as promised. Keeping the other for myself."}
+- 14:12 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":316}}],"say":"Leonardo, I'm in your sight at the beds. Holding 1 rotten flesh for Laforge, not in sight now. Iron golems are closing from the sou
+- 14:12 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"rotten_flesh","count":1}],"say":"Laforge, one rotten flesh for you now."}
+- 14:16 act: {"actions":[],"say":"Billy: the rotten flesh I gave you should go to Zack or Leonardo, whichever comes into sight first. I have 1 more for myself at hunger 6."}
