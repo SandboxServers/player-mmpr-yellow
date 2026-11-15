@@ -5,3 +5,15 @@
 - 05:24 act: {"actions":[],"say":"Trini here, night of day 263. Beds refuse my use, so I stay with the group by the yellow beds until dawn. Picard, thank you for the wheat.","intent":{"goal":"wait_for_dawn_with_gr
 - 05:26 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":354}}],"say":"Trini here. Holding 2 wheat, hunger 11. Trying the south yellow bed."}
 - 05:27 act: {"actions":[],"say":"Trini here, night 263. Holding 2 wheat, hunger 11, health 8. Tommy and Clark, if you come within reach I'll hand over the wheat, since you're hungriest. Dawn search with the group
+- 05:28 act: {"say":"Trini, dawn, day 264. Hunger 11, health 8. I hold 2 wheat for whoever is weakest. Picard, if you have the seeds, can we plant them at the tilled dirt to the west?","intent":{"goal":"search_foo
+- 05:28 act: {"say":"Jason, I have 2 wheat for you, you are weakest. Heading to the wheat field at -263,66,321. Tell me when you are in reach.","actions":[{"do":"goto","target":{"x":-263,"y":66,"z":322}}]}
+- 05:28 act: {"say":"Trini, heading back to the yellow beds. An iron golem is closing from the west. Jason, I still have 2 wheat for you if you come near.","actions":[{"do":"goto","target":{"x":-263,"y":68,"z":351
+- 05:29 act: {"say":"Jason, yes. I'm at the yellow beds, -263,68,352. Come within reach and I'll give you the 2 wheat."}
+- 05:30 act: {"say":"Jason, I'm coming to you now with the wheat.","actions":[{"do":"goto","target":{"x":-264,"y":66,"z":339}},{"do":"give","to":"ag_jason_01","item":"wheat","count":2}]}
+- 05:30 act: {"say":"Jason, I'm at -258,68,352 by the water. Tell me when you are beside me and I'll hand over the wheat."}
+- 05:30 act: {"say":"Jason, I'm at -258,68,352, moving to you now.","actions":[{"do":"goto","target":{"x":-262,"y":68,"z":352}},{"do":"give","to":"ag_jason_01","item":"wheat","count":2}]}
+- 05:31 act: {"say":"Jason, I have no wheat left. Picard has seeds, and Troi is searching the south-east. Good luck with the bread."}
+- 05:41 act: {"say":"Trini going to the yellow bed for the night. No food; first meat to Jason, then Worf.","actions":[{"do":"goto","target":{"x":-263,"y":68,"z":352}},{"do":"use","at":{"x":-263,"y":67,"z":353}},{
+- 05:48 act: {"say":"Trini, dawn day 265. Hunger 10, health 8, no food. Scouting the grass north of the beds for animals. Any meat goes to Jason, then Worf.","actions":[{"do":"goto","target":{"x":-262,"y":68,"z":3
+- 05:48 act: {"say":"Trini: a wandering trader is 9 blocks west with a llama. I have planks and logs to offer. Checking what it sells for food.","actions":[{"do":"goto","target":{"x":-268,"y":66,"z":342}}]}
+- 05:48 act: {"say":"Trini: too many iron golems closing in from the west. Pulling back to the beds now. No trade made.","actions":[{"do":"goto","target":{"x":-262,"y":68,"z":350}}]}
