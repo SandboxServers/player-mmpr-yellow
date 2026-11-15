@@ -49,3 +49,5 @@
 - 17:21 act: {"actions":[{"do":"note","text":"Dusk day 299. Everyone is full; Lewis and Troi are offering food. Beef and chicken still in my pack for whoever gets low. Heading to a white bed to sleep."}],"say":"Ev
 - 17:21 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"At the bed at dusk with everyone fed. Try to sleep."}
 - 17:21 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"The first bed click was refused as a bed block. Try the other half of the bed."}
+- 17:22 act: {"actions":[{"do":"sleep"}],"say":"Night. Health and hunger are full. I hold a chicken and a beef for whoever gets low first."}
+- 17:22 act: {"actions":[{"do":"note","text":"Night 299: slept at white bed -270,67,318 with the group. Sleep worked. Health 20, hunger 20. Holding one chicken and one beef for whoever gets low first."}]}
