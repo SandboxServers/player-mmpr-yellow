@@ -169,3 +169,10 @@
 - 04:50 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":350}}],"say":"Trini going west with Riker and Data, staying in sight. Call out any animal."}
 - 04:50 act: {"actions":[{"do":"goto","target":{"x":-256,"y":67,"z":356}}],"say":"Golems five blocks north-west of me. Backing off east, no animals seen here."}
 - 04:51 act: {"actions":[],"say":"Trini, hunger 11, still no food. I am staying near the yellow beds. Any mutton goes to Worf or LaForge first; I can wait."}
+- 04:58 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":354}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
+- 04:59 act: {"say":"Macdonald, I'm at -260,70,352 by the yellow beds, in sight. No food on me; hunger 11, health 8. Meat goes to whoever is weakest first.","intent":{"goal":"hold_at_yellow_beds_for_food","program
+- 05:00 act: {"intent":{"goal":"sleep_in_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 05:01 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Zack, I hear you. Trini going to the yellow bed for the night, no food, 
+- 05:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"use","at":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 05:01 act: {"actions":[{"do":"sleep"}]}
+- 05:01 act: {"actions":[{"do":"sleep"}]}
