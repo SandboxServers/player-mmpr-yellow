@@ -16,3 +16,5 @@
 - 01:20 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Trini going to the yellow bed for the night. Worf, I still hold my chicken for you if you come into my sight."}
 - 01:20 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Trini here at the yellow beds, dusk of day 251. Health 3, hunger 16, holding one chicken for whoever is weakest once
 - 01:23 act: {"actions":[],"say":"Riker, I'm at the yellow bed -262,67,353, hunger 16. Worf is weaker than me, so give him the porkchops first. Trini takes one only after him.","reasoning":"Riker holds porkchops i
+- 01:28 act: {"say":"Trini here, dawn, health 3, hunger 16. I have one chicken and will hold it until hunger is 6. Iron golem 4 blocks east, so I'm keeping still.","actions":[],"reasoning":"Dawn, health 3. Eating 
+- 01:30 act: {"say":"Worf, I'm at the yellow beds, -262,67,353. Come within arm's reach and I'll give you the chicken now. Golem is 17 blocks west, the other is out of sight.","actions":[],"reasoning":"Worf asked 
