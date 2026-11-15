@@ -149,3 +149,9 @@
 - 15:11 act: {"say":"Trini heading back to the north beds with the group.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":322}},"wake_on":["directly_addressed","une
 - 15:11 act: {"actions":[{"do":"wait","seconds":240}],"say":"Trini back at the white beds. No food, hunger 15. Meat to the weakest first; I'm in sight here."}
 - 15:15 act: {"actions":[{"do":"note","text":"Day 293 morning at white beds. No food. LaForge (health 2) in reach: meat goes to LaForge, Riker, then Zack, Leonardo."}],"say":"Trini here, no food, hunger 15. LaForg
+- 15:18 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, I have the raw chicken Billy gave me. You are weakest in reach, so it's yours. Eat it."}
+- 15:18 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, your items seem to be on the ground near you. Pick them up, then I'll give you the chicken."}
+- 15:18 act: {"actions":[{"do":"goto","target":"ag_laforge_01"},{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, I'm moving to you with the chicken."}
+- 15:20 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Dusk. Trini sleeping at the north white bed with the group. No food, hunger 14. Meat goes to the weakest in reach at dawn
+- 15:20 act: {"actions":[{"do":"sleep"}]}
+- 15:22 act: {"actions":[{"do":"sleep"}],"say":"Night. Trini sleeping at the north white bed. LaForge, eat your chicken at hunger 6 or below."}
