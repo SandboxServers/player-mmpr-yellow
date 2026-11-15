@@ -121,3 +121,14 @@
 - 18:43 act: {"actions":[{"do":"note","text":"Night 303 at the north white beds. Health 20, hunger 20, no food in pack. LaForge is lowest at 1.5 health; Picard holds the mutton for him. Clark holds raw chicken, Tr
 - 18:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini going to the north white bed for the night. Zack is bringing his chicken to LaForge.","reasoning":"Night, heal
 - 18:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep was blocked at the north bed; I am already on the south bed square at -270,67,336. Try once here."}
+- 18:49 say: {"text":"Trini at dawn, day 303, health 20, hunger 20, no food. Clark is lowest; I have none to give, but I'll come near the bed if you call."}
+- 18:51 say: {"text":"Trini, day 304, health 20. I'll go with LaForge and Riker for meat in daylight. Call your position and I'll come."}
+- 18:51 say: {"text":"Trini joining the meat hunt east with LaForge, Worf, Riker, Billy and Macdonald. I hold no food; I'll go with you and call out."}
+- 18:51 act: {"intent":{"goal":"join_east_meat_hunt","program":"travel","arguments":{"target":{"x":-190,"y":67,"z":327}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],
+- 18:52 act: {"actions":[{"do":"goto","target":{"x":-242,"y":68,"z":345}}],"say":"Trini: my travel failed. Heading east by the known route toward -242,68,345 to catch the hunt. Call out if you see me stuck.","inte
+- 18:52 say: {"text":"Trini at -242,68,345 with Data, on the east route. Drop to the west here, so I'm keeping to the path. Waiting for LaForge to call the cow."}
+- 18:56 act: {"actions":[{"do":"goto","target":{"x":-244,"y":67,"z":331}}],"say":"Trini going to Chapman at -243,67,330 to stand guard with my sword. Chapman, health 3: no food here, but I'll keep the skeletons of
+- 19:00 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"say":"Trini going to the yellow bed for the night with Chapman and Data nearby. No food, health 20, hunger 20."}
+- 19:02 act: {"actions":[{"do":"sleep"}],"say":"Trini at the yellow bed for the night with Chapman, Picard and Lewis. No food on me; calling out at dawn."}
+- 19:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 19:03 act: {"intent":{"goal":"hold_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000,"max_bl
