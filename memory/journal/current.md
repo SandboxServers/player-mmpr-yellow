@@ -124,3 +124,8 @@
 - 14:12 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":316}}],"say":"Leonardo, I'm in your sight at the beds. Holding 1 rotten flesh for Laforge, not in sight now. Iron golems are closing from the sou
 - 14:12 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"rotten_flesh","count":1}],"say":"Laforge, one rotten flesh for you now."}
 - 14:16 act: {"actions":[],"say":"Billy: the rotten flesh I gave you should go to Zack or Leonardo, whichever comes into sight first. I have 1 more for myself at hunger 6."}
+- 14:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini here, hunger 16, two rotten flesh held for when I reach 6. Going into the white bed by the group for the night
+- 14:26 act: {"intent":{"goal":"rest_near_group","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_bl
+- 14:30 act: {"intent":{"goal":"join_pig_hunt","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed","goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_worl
+- 14:32 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":351}}],"say":"Trini heading east to the pig area at -213,69,351 now. Meat goes to Zack and Leonardo first.","reasoning":"Follow failed and group 
+- 14:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"No pigs here. Trini going back west with the group to the white beds for the night.","reasoning":"Dusk, no food foun
