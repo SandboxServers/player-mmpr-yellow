@@ -27,3 +27,7 @@
 - 06:10 act: {"say":"Trini at -239,68,330, scouted north. No animals in sight, only oak logs. Still no food; hunger 10. Will keep looking nearby and report any meat to Jason first."}
 - 06:12 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":341}}],"say":"Trini here, north of the yellow beds, hunger 10, no food yet. Going back to the beds to stay with the group. Will eat any meat hand
 - 06:12 say: {"text":"Trini at the yellow bed, hunger 10. Zack says meat goes to me first. Any meat or bread, hand it over, please."}
+- 06:15 act: {"say":"Trini at the yellow bed, hunger 10, health 8, no food in my pack. I'll search the grass to the north-east for animals and tell you if I find any.","intent":{"goal":"search_grass_for_animals","
+- 06:15 act: {"intent":{"goal":"search_north_east_for_animals","program":"travel","arguments":{"target":{"x":-226,"y":69,"z":322}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"m
+- 06:15 act: {"intent":{"goal":"search_further_for_animals","program":"travel","arguments":{"target":{"x":-210,"y":69,"z":310}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
+- 06:15 act: {"say":"Trini, north-east in the oak forest near -210,69,311. No animals seen here. Still hunger 10, no food. I'll keep looking and come back to the beds."}
