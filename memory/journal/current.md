@@ -37,3 +37,11 @@
 - 06:23 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}],"reasoning":"Sleep partly worked (1 of 9). Get into the yellow bed to sleep properly."}
 - 06:24 act: {"actions":[],"say":"Trini at the yellow beds, night 266, hunger 10, no food. The bed refused me again. Staying with the group until dawn; any meat goes to Jason first, then Worf.","reasoning":"Bed re
 - 06:27 act: {"actions":[],"say":"Trini at the yellow bed, hunger 10. LaForge, thank you. Keep the rotten flesh until I say I'm at 6, then hand it to me. Worf and Kimberly are weaker tonight; they go first if they
+- 06:29 act: {"say":"Trini here at the yellow bed, hunger 10, no food. I'm sending someone out to look for animals in the grass. Meat goes to Worf or Kimberly first if they are weaker.","intent":{"goal":"hold_at_b
+- 06:29 act: {"say":"Trini at the yellow beds. I have no wheat, only 4 wheat seeds, which are not food. Jason, I'm sorry. Any meat that comes in goes to you or Worf first. Worker is hunting the grass now."}
+- 06:29 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":358}}]}
+- 06:29 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":345}}]}
+- 06:29 act: {"actions":[{"do":"goto","target":{"x":-240,"y":68,"z":362}}]}
+- 06:29 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"reasoning":"In deep water with golem nearby. Leave water toward beds at once."}
+- 06:29 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"reasoning":"Golem closing from south. Move west to beds, away from it."}
+- 06:34 act: {"say":"Trini at the yellow bed, Clark. Yes, I'm here. Still no food. Scouts are calling out animals; I'll hold here and go when one is named."}
