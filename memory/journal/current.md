@@ -150,3 +150,6 @@
 - 00:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini: sleeping at the white bed with the group. Hunger 11, health 3. Trini first at light."}
 - 00:09 act: {"actions":[{"do":"eat"}],"say":"Trini: hunger 11, still too high to eat the chicken. Zack, you're near death, so the chicken is yours if you can reach me. Please say so."}
 - 00:10 act: {"actions":[],"say":"Thank you, Zack. I'll eat the chicken once hunger reaches 6. Stay in sight of the beds."}
+- 00:19 act: {"actions":[{"do":"eat"}],"say":"Trini, health 3, hunger 11, at the white beds. Trying rotten flesh now; the chicken waits until hunger is 6. Golems are south, so I'm staying by the beds.","reasoning"
+- 00:20 act: {"actions":[{"do":"sleep"}],"say":"Trini at the white bed, dusk, health 3, hunger 11. Rotten flesh did not register. Trying to sleep now; Kimberly and Data are beside me.","reasoning":"Dusk, beds adja
+- 00:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini, dusk, health 3, hunger 11. Sleep was refused for a creeper 10 blocks off. Going back to the white bed at -270
