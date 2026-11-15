@@ -142,3 +142,9 @@
 - 11:09 act: {"actions":[],"say":"Jason, Trini at -242,69,344, hunger 7. I'll call you at 6 for the rotten flesh, after LaForge and Picard. Thank you."}
 - 11:13 act: {"intent":{"goal":"reach_picard_field","program":"travel","arguments":{"target":{"x":-271,"y":66,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
 - 11:13 act: {"say":"Picard, I'm at your tilled ground at -271,66,330 with the wheat seed I owe you. Where are you?","actions":[]}
+- 11:15 act: {"say":"Trini, day 281. Hunger 7, health 8. I hold 2 wheat and 2 seeds. Waiting for Picard to show, to hand over the seed he is owed.","intent":{"goal":"hand_seed_to_picard","program":"trade_wait","ar
+- 11:16 act: {"say":"Trini here, hunger 7. Holding 2 wheat and 2 seeds for Picard. Jason, I'll take the flesh when I reach 6. Clark, Lewis: I have a hoe if you need ground tilled, come by."}
+- 11:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":325}}],"say":"Trini heading to Picard at the north white bed with the seed he is owed. I have no cooked food, only 2 wheat."}
+- 11:20 act: {"say":"Trini at -269,66,325, near the north beds. Picard, I still hold your wheat seed. Where are you?"}
+- 11:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":322}}],"say":"Trini going to a white bed near the north beds for the night. Picard, I still hold your seed; I'll give it at dawn."}
+- 11:21 act: {"actions":[{"do":"goto","target":"ag_picard_01"},{"do":"give","to":"ag_picard_01","item":"wheat_seeds","count":1}],"say":"Picard, here is the wheat seed I owe you."}
