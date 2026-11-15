@@ -150,3 +150,4 @@
 - 19:24 act: {"actions":[{"do":"sleep"}]}
 - 19:26 act: {"actions":[{"do":"sleep"}]}
 - 19:27 say: {"text":"Trini here, health 20, hunger 19, no food. Staying with the group by the white beds. Will eat at hunger 6 or below."}
+- 19:39 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":319}}],"say":"Trini here, day 306, hunger 19, no food. Going to the white bed at -271,67,318 to try sleep. Calling any meat to Chapman first.","r
