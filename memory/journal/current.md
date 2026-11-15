@@ -51,3 +51,5 @@
 - 17:21 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"The first bed click was refused as a bed block. Try the other half of the bed."}
 - 17:22 act: {"actions":[{"do":"sleep"}],"say":"Night. Health and hunger are full. I hold a chicken and a beef for whoever gets low first."}
 - 17:22 act: {"actions":[{"do":"note","text":"Night 299: slept at white bed -270,67,318 with the group. Sleep worked. Health 20, hunger 20. Holding one chicken and one beef for whoever gets low first."}]}
+- 17:22 act: {"actions":[{"do":"note","text":"Day 299, night. At the white bed -270,67,318 with Kimberly and Chapman nearby. Health 20, hunger 20. Holding chicken and beef for whoever is weakest."}],"say":"Going t
+- 17:23 act: {"actions":[{"do":"note","text":"Woke at the white bed. Clark has no food at hunger 16. I hold a chicken and a beef; I will hand them to whoever drops lowest within reach."}],"say":"Morning. I hold on
