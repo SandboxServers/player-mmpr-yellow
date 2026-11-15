@@ -18,3 +18,19 @@
 - 01:23 act: {"actions":[],"say":"Riker, I'm at the yellow bed -262,67,353, hunger 16. Worf is weaker than me, so give him the porkchops first. Trini takes one only after him.","reasoning":"Riker holds porkchops i
 - 01:28 act: {"say":"Trini here, dawn, health 3, hunger 16. I have one chicken and will hold it until hunger is 6. Iron golem 4 blocks east, so I'm keeping still.","actions":[],"reasoning":"Dawn, health 3. Eating 
 - 01:30 act: {"say":"Worf, I'm at the yellow beds, -262,67,353. Come within arm's reach and I'll give you the chicken now. Golem is 17 blocks west, the other is out of sight.","actions":[],"reasoning":"Worf asked 
+- 01:30 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"chicken","count":1}],"say":"Worf, the chicken is yours. You are in reach. Eat it now.","reasoning":"Worf is in reach at hunger 5 and asked for the ch
+- 01:31 act: {"actions":[],"say":"Worf, I am at -257,66,350 with the chicken, by the water. An iron golem is 4 blocks south of me, so I am keeping still. Come to me in sight and I will hand it over.","reasoning":"
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Worf, I am walking to the yellow beds now with the chicken. Golems are 20 blocks west. Call me when you see me.","reasoning":"Worf 
+- 01:35 act: {"actions":[],"say":"Worf, I am at the yellow beds, -262,67,353, on the planks by the crafting table. I cannot see you yet. Stand within arm's reach and say so; I will give you the chicken.","reasonin
+- 01:35 act: {"actions":[],"say":"Worf, I'm at -262,67,353, standing still. An iron golem is 4 blocks east of me. Walk to the west side of the yellow bed at -263,67,353 and I'll see you. I'm holding the chicken fo
+- 01:37 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Night is coming, Worf is out of sight, golems are 14 blocks away. A bed is the safe place to be."}
+- 01:38 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"chicken","count":1}],"say":"Worf, I see you, here is the chicken. Eat it.","reasoning":"Worf is in reach at 3 blocks and visible now. He is the weake
+- 01:38 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"chicken","count":1}],"say":"Worf, I am coming to you. Giving the chicken now.","reasoning":"The toss was blocked 
+- 01:39 act: {"actions":[],"say":"Worf, I'm at -257,68,352 at the water edge, not at the bed. An iron golem is 3 blocks from me, so I'm holding still. Walk toward me on the planks and say so when you can see me; I
+- 01:40 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"chicken","count":1}],"say":"Worf, you are in reach now. Here is the chicken.","reasoning":"Worf is 2.5 blocks away and visible. Try the give now."}
+- 01:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","direc
+- 01:41 act: {"actions":[{"do":"sleep"}],"say":"Picard, I already gave the chicken to Worf. I have none left. It is night now, so I am going to sleep in this bed.","reasoning":"Night has come and I am at the bed. 
+- 01:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"Sleep failed after the body wandered to -240,69,344. Walk back to the other yellow bed and try once more."}
+- 01:42 act: {"actions":[{"do":"use","at":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"reasoning":"The body stays near -240,69,344 and the bed right beside it at -241,69,344 is the nearest. Click it directly, then 
+- 01:44 act: {"actions":[{"do":"sleep"}],"reasoning":"Quiet now, no monsters in sight. One more sleep try from here."}
+- 01:48 act: {"actions":[],"say":"Dawn. I have no food I can eat yet, my hunger is 16. Health 3. I will look for an animal or wheat at dawn.","reasoning":"Dawn has come. I need food; hunger is too high to eat the 
