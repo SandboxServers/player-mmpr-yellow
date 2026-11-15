@@ -156,3 +156,8 @@
 - 19:42 act: {"reasoning":"At the white bed, dim night, group in reach. Try sleep once.","say":"Trini at the white bed, health 20, hunger 18, no food. Trying to sleep.","actions":[{"do":"sleep"}]}
 - 19:46 say: {"text":"Trini: no meat seen here, no food in hand. Hunger 18. Will hunt with the group at dawn."}
 - 19:50 say: {"text":"Trini, dawn 307, health 20, hunger 18, no food. Hunting with the group in sight. Any meat goes to Clark and Troi first."}
+- 20:02 act: {"reasoning":"Dusk, at the bed with group in reach. Sleep to pass the night safely.","say":"Trini at the white bed, dusk 307, health 20, hunger 18, no food. Sleeping here with the group.","actions":[{
+- 20:22 act: {"reasoning":"Night, golems close. Sleep at bed to get sheltered; sleep may refuse if they stay near.","actions":[{"do":"sleep"}]}
+- 20:23 act: {"reasoning":"Sleep blocked at my spot. Walk to the white bed at -271,67,318 and try again there.","intent":{"goal":"return_to_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":
+- 20:23 act: {"reasoning":"Right by the bed now. Use the bed to sleep.","actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 20:23 act: {"reasoning":"Golem closing. Step onto the bed tile and sleep; the bed is the shelter here.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
