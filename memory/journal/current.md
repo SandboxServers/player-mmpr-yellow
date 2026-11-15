@@ -161,3 +161,7 @@
 - 20:23 act: {"reasoning":"Sleep blocked at my spot. Walk to the white bed at -271,67,318 and try again there.","intent":{"goal":"return_to_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":
 - 20:23 act: {"reasoning":"Right by the bed now. Use the bed to sleep.","actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 20:23 act: {"reasoning":"Golem closing. Step onto the bed tile and sleep; the bed is the shelter here.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 20:30 act: {"say":"Trini here, dawn 309, health 20, hunger 18, no food in hand. Zack, I'm with you. Anyone with food, give it to Kimberly first, she is lowest.","intent":{"goal":"hold_with_group_for_food","progr
+- 20:38 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini going to the white bed for the night, hunger 18, health 20. No food in hand. Call me if you drop low."}
+- 20:42 act: {"actions":[{"do":"sleep"}]}
+- 20:43 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}},{"do":"sleep"}],"say":"Trini trying the yellow bed at -274,69,291, night 309. Health 20, hunger 18, no food in hand."}
