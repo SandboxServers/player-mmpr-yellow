@@ -132,3 +132,6 @@
 - 19:02 act: {"actions":[{"do":"sleep"}],"say":"Trini at the yellow bed for the night with Chapman, Picard and Lewis. No food on me; calling out at dawn."}
 - 19:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 19:03 act: {"intent":{"goal":"hold_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000,"max_bl
+- 19:04 act: {"say":"Trini, day 304, health 20, hunger 20, no food. I'm well fed for now, so the lowest should eat first. Calling out if I see meat.","intent":{"goal":"hold_near_group_for_meat","program":"rest","a
+- 19:08 act: {"say":"Trini going to the white bed at -271,67,336 for the night, health 20, no food. Call if you need me.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":334}}],"intent":{"goal":"reach_white_
+- 19:08 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"use","at":{"x":-271,"y":67,"z":336}}]}
