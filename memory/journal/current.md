@@ -45,3 +45,7 @@
 - 06:29 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"reasoning":"In deep water with golem nearby. Leave water toward beds at once."}
 - 06:29 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"reasoning":"Golem closing from south. Move west to beds, away from it."}
 - 06:34 act: {"say":"Trini at the yellow bed, Clark. Yes, I'm here. Still no food. Scouts are calling out animals; I'll hold here and go when one is named."}
+- 06:39 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Trini at the yellow bed for the night. No food yet; I'll take meat first thing at dawn.","reasoning":"Dusk, days sin
+- 06:39 act: {"actions":[],"intent":{"goal":"rest_at_bed_till_night","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max
+- 06:40 act: {"actions":[{"do":"sleep"}],"reasoning":"Dim light now, nearing night. Try the bed I stand beside once more."}
+- 06:42 act: {"actions":[{"do":"sleep"}],"say":"Trini at the yellow bed, night. No food, hunger 10. Sleeping now; meat goes to Jason, then Worf.","reasoning":"It is night and I am at the bed. Sleep."}
