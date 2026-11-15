@@ -1,30 +1,34 @@
 # Summary
 
 ## Where I am
-- Trini, day 289 (night), asleep in the white bed at -271,67,318 with the group. Hunger 17, health 15, no food on me.
-- Last sleep: the white bed at -271,67,318, night of day 289; it worked.
-- Holding no meat. Wheat seeds and a wooden hoe. Beef eaten on day 289.
-- Beds: white beds near -270,67,318 to -271,67,336; yellow beds near -263,67,353 and -241,69,344.
+- Trini, day 294 (dusk), at the white beds near -271,67,318 with the group. Health about 15, hunger 14 to 17, no food in hand.
+- Beds: white beds at -271,67,318 and -271,67,336 (sleep worked there on days 288 and 289); yellow beds at -263,67,353 and -241,69,344, where golems and water are close.
 - Deep water lies right beside the yellow bed (one block south of -259,67,350). Do not step toward it at night.
-- Picard's tilled ground: -271,66,330 and -273,66,330, with one wheat seed planted (day 269).
+- Picard's tilled ground at -271,66,330 and -273,66,330, with one wheat seed planted on day 269.
 - Golems roam east and south of the beds; skeletons shoot from the east and north; creepers and phantoms come at night.
 
 ## What I hold
 - A wooden sword and a wooden hoe; planks, sticks and logs.
-- Two wheat (held for Beverly's bread) and one rotten flesh (held for Picard, not yet handed over).
-- No other food. Riker, Chapman, Troi and Macdonald each owe me food that never reached me.
+- 2 wheat seeds from earlier days. No food.
+- Owed food that has not reached me: Kimberly's chicken (day 294), and food promised by Riker, Chapman and Macdonald.
 
 ## What I was doing
 - Waiting at the beds with the group for meat or ripe wheat to be found or handed over.
-- Food goes to the weakest first: LaForge, then Picard, then me.
+- Food goes to the weakest first. On day 294 that was Wesley, who got Jason's chicken.
 - Calling every animal I see, and telling the group my position before I move.
 - Going to a free bed early at dusk, before the beds fill.
 
+## Recent days (284 to 294)
+- Gave rotten flesh to Picard (284) and to LaForge and Macdonald (290 to 291). Gave chicken to Lewis (286) and to Wesley (294).
+- Got Billy's beef on day 289 and ate it at hunger 18; it dropped me only to 17.
+- Killed a phantom with my wooden sword (day 284).
+- The pig area at -213,69,351 was empty on day 292.
+
 ## Lessons that matter most
-- Food: promised meals stall. Take food only when it is in my hand, and eat at hunger 6 or below.
-- Giving: give by exact id only when the person is within arm's reach, and confirm it landed before I count it. Two gives to LaForge failed.
+- Food: promised meals stall unless the giver is in reach. Take food only when it is in my hand, and eat at hunger 6 or below.
+- Giving: give by exact id, once, within reach, and confirm it left my pack. Gives fail while the item lies on the ground at the target's feet; pick it up or step aside first.
 - Weapons: never walk into a skeleton or zombie line without a sword.
 - Water: deep water drowns me and the mobs in it. Never go after fish in deep water alone, and do not send food across water.
-- Night: sleep fails while golems, creepers or phantoms are near. Go to a free bed early, and step on a bed only when nothing is in range.
-- Travel: when a route stalls at water or a drop, pick another at once and tell the group. If a travel intent fails with no reason, use a direct goto.
+- Night: sleep fails while golems, creepers or phantoms are near. Go to a free bed early.
+- Travel: when a route stalls at water or a drop, pick another at once. A follow intent failed on day 292; use a direct goto and call out.
 - The group lives together. Keep close, and share first with whoever is weakest.

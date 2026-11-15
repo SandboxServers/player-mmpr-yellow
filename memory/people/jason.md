@@ -4,4 +4,5 @@
 - A beef meant for Jason went to Tommy (day 223), so I now check the exact id before I give.
 - Day 238 he handed over wheat, which I could not eat raw. Days 248 to 249 he offered a chicken and dropped it on the ground, where I could not pick it up. He did drop it again later and I got it (day 249, 21:49), and I passed it on to Zack.
 - Day 254: I gave him my porkchop by exact id while he was in reach, and he ate it. He searched for pigs with me on day 255.
+- Day 293 to 294: he offered his chicken to whoever was weakest. I took it at -269,66,354 and passed it to Billy, then to Wesley, who ate it.
 - Trust: 70. Why: when he was in reach, the food reached him and he shared what he found. His earlier drops failed, so I still count a gift as real only once it is in hand.

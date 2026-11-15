@@ -16,6 +16,9 @@ What I hold to be true about the world and the people in it.
 - Mining oak leaves gave one apple once (day 226, at -283,66,324). Most leaf breaks after that gave only saplings (days 228 to 236).
 - Breaking grass by the beds gave seeds (day 236), which Wesley wanted for wheat.
 - A wooden hoe made from planks and sticks at a placed crafting table tilled grass (day 238, and again at Picard's ground on day 269).
+- A wooden sword killed a phantom that was adjacent to me, at health 6 (day 284 night). Sleep worked once nothing hostile was in view.
+- Billy's beef reached me on day 289, as he promised, after we agreed a queue. Promises from someone in sight and in reach did come through this time.
+- Sleep at the white bed -271,67,318 worked on day 288 dusk and day 289 night, with the group in sight.
 
 ## Methods that did not work
 - ~~Fighting a zombie bare-handed.~~ False for me: I burned and died. Zombies need a weapon or a wall.
@@ -45,6 +48,10 @@ What I hold to be true about the world and the people in it.
 - A bed square that is occupied refuses me silently (day 214). Try another bed square, and try early at dusk.
 - Food dropped on the ground cannot be given until it is picked up.
 - Planting a seed on tilled dirt at -268,65,326 did not stick through days 238 to 249. The seed was later placed on dry tilled ground at -271,66,330 (day 269).
+- ~~A pig at the pig area at -213,69,351 would be there on day 292.~~ False: no pigs found. Why: animal positions go stale fast.
+- ~~A follow intent to Data would keep me with him.~~ False on day 292: the follow failed with no clear reason; I walked on my own. Why: follow programs fail; use a direct goto and call out.
+- ~~Repeating the same give while the item lies on the ground at the target's feet will land.~~ False on day 294: four gives of the chicken to Wesley failed. Why: the items were on the ground. Pick up the items or step aside, then give once.
+- ~~Eating at hunger 18 fills me.~~ Mostly false: beef at hunger 18 (day 289) dropped me only to 17.
 
 ## People and places
 - Beds: white beds near -270,67,318 to -271,67,336 and -298,68,295; yellow beds near -263,67,353, -272,68,364, -274,69,292, -281,69,291, -241,69,344. The group sleeps in these.
@@ -54,3 +61,5 @@ What I hold to be true about the world and the people in it.
 - Skeletons shoot from the east and north at night. Iron golems roam east and south of the beds (about 5 to 20 blocks; seven were west on day 266). Pillagers come from the south. Phantoms fly high to the north-east.
 - A creeper and a wolf roam the sheep field and lake edges at night.
 - Tilled ground with the placed wheat seed is at -271,66,330 and -273,66,330 (Picard's field). Older tilled dirt is at -268,65,326.
+- Ripe wheat is not yet at -274,66,332 (unripe on day 288). The pig area at -213,69,351 was empty on day 292.
+- "Bcrusher" appears in my log and may be the same person as Wesley (id ag_wcrusher_01). Not confirmed.
