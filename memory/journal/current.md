@@ -76,3 +76,6 @@
 - 07:30 act: {"actions":[{"do":"goto","target":{"x":-278,"y":67,"z":330}}],"say":"Trini joining the west search for cows or pigs. Hunger 9. Call any animal you see; meat to Chapman, then me.","reasoning":"Dawn. Jo
 - 07:35 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":322}}],"say":"Golems are closing from the south-west. Moving north to the group at -268,67,322. Still no food, hunger 9.","reasoning":"Golems wit
 - 07:36 act: {"reasoning":"Animals are the only food source nearby. Clark will call them. Keep waiting near the group and watch for animals.","say":"Trini here, staying with the group at -268,67,322. Hunger 9, no 
+- 07:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini here, going to a free white bed at the beds for the night. Hunger 9, no food.","reasoning":"Night, dim, no foo
+- 07:42 act: {"actions":[],"say":"Thank you Jason. I'm at hunger 8. I'll ask you for the rotten flesh when I reach 6.","reasoning":"Jason offers flesh for whoever is at 6 first. I am at 8. Keep it for later."}
+- 07:44 act: {"actions":[{"do":"sleep"}],"reasoning":"Retry the bed, as the night allows. Hunger still 8."}
