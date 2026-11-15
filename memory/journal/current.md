@@ -79,3 +79,4 @@
 - 13:24 act: {"actions":[{"do":"sleep"}],"say":"Trini, night 287. No food, hunger 15, health 6. Trying the bed again now."}
 - 13:31 act: {"actions":[{"do":"note","text":"Day 288 dawn at the white beds. Hunger 15, health 6, no food. Unripe wheat at -274,66,332 noted."}],"say":"Trini here, day 288, no food on me, health 6. Lewis and LaFo
 - 13:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 13:41 act: {"actions":[{"do":"sleep"}],"say":"Trini here at the white bed. No food, health 6, hunger 15. Going to sleep with the group."}
