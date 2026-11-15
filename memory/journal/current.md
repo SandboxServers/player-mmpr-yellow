@@ -31,3 +31,5 @@
 - 06:15 act: {"intent":{"goal":"search_north_east_for_animals","program":"travel","arguments":{"target":{"x":-226,"y":69,"z":322}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"m
 - 06:15 act: {"intent":{"goal":"search_further_for_animals","program":"travel","arguments":{"target":{"x":-210,"y":69,"z":310}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
 - 06:15 act: {"say":"Trini, north-east in the oak forest near -210,69,311. No animals seen here. Still hunger 10, no food. I'll keep looking and come back to the beds."}
+- 06:18 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":344}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":
+- 06:18 say: {"text":"Trini at the yellow beds near -241,69,344. Still no food, hunger 10. Any meat or wheat found, bring it to me or to Worf first."}
