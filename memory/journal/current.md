@@ -34,3 +34,10 @@
 - 01:42 act: {"actions":[{"do":"use","at":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"reasoning":"The body stays near -240,69,344 and the bed right beside it at -241,69,344 is the nearest. Click it directly, then 
 - 01:44 act: {"actions":[{"do":"sleep"}],"reasoning":"Quiet now, no monsters in sight. One more sleep try from here."}
 - 01:48 act: {"actions":[],"say":"Dawn. I have no food I can eat yet, my hunger is 16. Health 3. I will look for an animal or wheat at dawn.","reasoning":"Dawn has come. I need food; hunger is too high to eat the 
+- 01:48 act: {"say":"Trini here, at the white beds. Dawn. Health 3, hunger 16, so I cannot eat yet. I hold 3 rotten flesh for when hunger drops. Whoever has a porkchop or chicken, Worf and Data first, then me.","r
+- 01:49 act: {"say":"Riker, I am at the white bed, -270,67,336, in your sight if you are near. Health 3, hunger 16. Hand me a porkchop when you reach me; I will eat it once hunger drops to 6 or below. Worf first i
+- 01:52 say: {"text":"Bcrusher, I can come to the sheep at -224,67,204 in daylight if you go with a group. I cannot eat until hunger is 6, so I will carry meat only for others. Lewis, I will plant your seeds on ti
+- 01:55 say: {"text":"Worf, I cannot eat at hunger 16, so the porkchops go to you first. Riker, give Worf one now. I will take the second when my hunger falls to 6."}
+- 02:00 act: {"actions":[{"do":"sleep"}],"say":"Trini going to the white bed at -270,67,336 for the night. Health 3, hunger 16. Riker, the second porkchop is for me at dawn when I can eat.","reasoning":"Dusk and a
+- 02:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Sleep was refused: a creeper and skeleton are nearby. Wait for them to move off, then retry the bed."}
+- 02:00 act: {"actions":[{"do":"sleep"}],"reasoning":"I am at the white bed. Golems are 8 and 12 blocks away, no creeper or skeleton listed. Try sleep again."}
