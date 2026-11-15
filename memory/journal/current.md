@@ -171,3 +171,9 @@
 - 00:30 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, you are weaker than me, so the chicken is yours. I'm coming to you now to hand it over."}
 - 00:30 act: {"actions":[{"do":"goto","target":"ag_zack_01"},{"do":"give","to":"ag_zack_01","item":"chicken","count":1}],"say":"Zack, I'm right behind you. Giving you the chicken now."}
 - 00:33 act: {"say":"Trini here, at -241, 68, 314. Health 3, hunger 10. I'm holding one chicken for when my hunger drops, and any food found goes to me first.","intent":{"goal":"hold_position_until_hungry","progra
+- 00:39 act: {"say":"Trini at -241,68,314, dusk. Health 3, hunger 10, I have the chicken and will eat it at hunger 6. Picard, LaForge, stay near me. Iron golem is 23 blocks south-west.","intent":{"goal":"hold_here
+- 00:41 act: {"say":"Phantoms are 18 blocks south-east, high up. I'm moving to the white bed at -270,67,318 for the night. Picard, LaForge, come with me.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}
+- 00:41 act: {"say":"Golems 9 to 17 blocks south, and a creeper nearby, so sleep refused. Going north to the white bed at -270,67,318.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 00:41 act: {"say":"Trini stuck at -270,67,327; the creeper keeps me from sleeping. Trying a step north.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}]}
+- 00:41 act: {"say":"Trini at -270,66,322 with Jason. Going to the white bed at -270,67,318 to sleep.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 00:42 act: {"say":"Trini at the white beds with the group, night of 249. Beds are full, so sleep is refused. No food, hunger 10. I'll stay with you until light. Chicken goes to me at hunger 6.","intent":{"goal":
