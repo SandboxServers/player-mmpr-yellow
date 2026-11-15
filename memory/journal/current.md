@@ -133,3 +133,19 @@
 - 14:49 act: {"actions":[{"do":"note","text":"Dawn, day 291. Macdonald at 3 health is being hit and coming to the beds. I hold 2 rotten flesh for the weakest."}],"say":"Macdonald, I'm at the white bed -271,67,318.
 - 14:49 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"rotten_flesh","count":2}],"say":"Macdonald, here are both rotten flesh. Eat when you're low. Billy, I have none left; the group should share at 
 - 14:50 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"rotten_flesh","count":2}],"say":"LaForge, here are two rotten flesh for you, since Macdonald has moved off. Eat them when your hunger is low."}
+- 14:56 act: {"say":"Trini, hunger 15, no food. I'm walking west slowly to look for animals. Call out any meat.","intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"x":-305,"y":67
+- 14:56 act: {"say":"No animals west, and a bow is drawn to the northwest. I'm heading back to the beds. Lewis, if the wheat is ripe, give it to the lowest first.","intent":{"goal":"return_to_beds","program":"trav
+- 14:56 act: {"say":"Back at the beds, no food yet. I'll wait here by the group. Call out any meat.","intent":{"goal":"rest_at_beds_for_meat","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpe
+- 14:57 act: {"actions":[{"do":"wait","seconds":120}],"say":"Trini at the white bed, hunger 15, no food. Billy and Macdonald, I'm here in sight. Call out any animal."}
+- 14:59 act: {"actions":[{"do":"wait","seconds":180}]}
+- 15:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini going to the white bed for the night. No food, hunger 15. Call out any meat at dawn."}
+- 15:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 15:03 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 15:04 act: {"actions":[{"do":"sleep"}],"say":"Trini at the white bed. Phantom near Wesley, if you can hit it, do. I'm trying sleep again."}
+- 15:05 act: {"actions":[{"do":"wait","seconds":240}]}
+- 15:09 act: {"say":"Trini at dawn, no food, hunger 15. Going with the group to the pig area at -213,69,351. Any meat goes to Macdonald and the weakest first.","intent":{"goal":"hunt_pigs_with_group","program":"tr
+- 15:09 act: {"actions":[{"do":"wait","seconds":120}],"say":"Trini at the pig area, no pigs in view yet. Bcrusher, call out if you see one."}
+- 15:11 act: {"say":"Trini going back north with Bcrusher and Billy. No pig here.","intent":{"goal":"follow_group_home","program":"follow","arguments":{"target":"ag_bcrusher_01"},"wake_on":["directly_addressed","u
+- 15:11 act: {"say":"Trini heading back to the north beds with the group.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":322}},"wake_on":["directly_addressed","une
+- 15:11 act: {"actions":[{"do":"wait","seconds":240}],"say":"Trini back at the white beds. No food, hunger 15. Meat to the weakest first; I'm in sight here."}
+- 15:15 act: {"actions":[{"do":"note","text":"Day 293 morning at white beds. No food. LaForge (health 2) in reach: meat goes to LaForge, Riker, then Zack, Leonardo."}],"say":"Trini here, no food, hunger 15. LaForg
