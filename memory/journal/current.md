@@ -54,3 +54,26 @@
 - 17:22 act: {"actions":[{"do":"note","text":"Day 299, night. At the white bed -270,67,318 with Kimberly and Chapman nearby. Health 20, hunger 20. Holding chicken and beef for whoever is weakest."}],"say":"Going t
 - 17:23 act: {"actions":[{"do":"note","text":"Woke at the white bed. Clark has no food at hunger 16. I hold a chicken and a beef; I will hand them to whoever drops lowest within reach."}],"say":"Morning. I hold on
 - 17:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Trini at the white bed. I hold a chicken and a beef for whoever gets low. Macdonald, tell me your hunger and I'll give it to you."}
+- 17:26 act: {"actions":[{"do":"note","text":"Night, day 299. At the white bed -270,67,336 with the group. Health 20, hunger 20. Holding chicken and beef for the weakest."}],"say":"Trini at the white bed, night. H
+- 17:26 act: {"actions":[],"say":"Chapman, you are at hunger 16, so food is not due yet. I'll keep the chicken for whoever drops lowest. Picard, Billy, nobody here is below 16 yet."}
+- 17:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 17:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
+- 17:26 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
+- 17:26 act: {"actions":[{"do":"sleep"}]}
+- 17:26 act: {"intent":{"goal":"reach_white_bed_and_sleep","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addres
+- 17:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Macdonald, I hear you. I'm walking to the bed now; I'll hand you the chicken as soon as you are in reach."}
+- 17:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
+- 17:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 17:27 act: {"actions":[{"do":"sleep"}]}
+- 17:28 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
+- 17:28 act: {"actions":[{"do":"sleep"}]}
+- 17:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}],"say":"Trini here, health and hunger full. Macdonald, I still hold the chicken; call out when you are in reach and it's yours.","intent":{
+- 17:29 act: {"actions":[{"do":"goto","target":{"x":-277,"y":66,"z":316}},{"do":"give","to":"ag_macdonald_01","item":"chicken","count":1}],"say":"Macdonald, going to you now with the chicken, hunger 15."}
+- 17:30 act: {"actions":[],"say":"LaForge, hunger 15: I hold a chicken and beef. Come within reach and call your name, it's yours. Macdonald, I could not find you; call out where you are."}
+- 17:30 act: {"actions":[],"say":"Trini holds a chicken and beef. Zack, LaForge: step into my sight and say your hunger, and I'll hand it to you first."}
+- 17:31 act: {"actions":[],"say":"Kimberly gave me 2 mutton. Zack, I'm at -277,65,317. Walk to me and I'll hand you the mutton now; hunger 8."}
+- 17:32 act: {"actions":[{"do":"goto","target":{"x":-270,"y":66,"z":338}},{"do":"give","to":"ag_zack_01","item":"mutton","count":2}],"say":"Zack, coming to you with Kimberly's 2 mutton."}
+- 17:32 act: {"actions":[],"say":"Gave Zack 2 mutton. I still hold a chicken and beef: LaForge first if he calls, then Macdonald and Clark at 15-16."}
+- 17:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini heading to the white bed for the night. I still hold a chicken for whoever calls lowest."}
+- 17:41 act: {"actions":[],"say":"LaForge, hunger 15: step into my sight and I'll hand you the chicken now."}
+- 17:45 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, hunger 15 and in my reach: taking the chicken to you now."}
