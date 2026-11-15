@@ -25,3 +25,5 @@
 - 06:01 act: {"actions":[{"do":"use","at":{"x":-241,"y":69,"z":344}}],"reasoning":"Sleep was blocked; try using the bed block directly, once."}
 - 06:09 act: {"say":"Trini at the second yellow bed, day 266, hunger 10, no food. I'll scout the grass to the north for animals and call out any meat I find.","intent":{"goal":"scout_for_animals","program":"travel
 - 06:10 act: {"say":"Trini at -239,68,330, scouted north. No animals in sight, only oak logs. Still no food; hunger 10. Will keep looking nearby and report any meat to Jason first."}
+- 06:12 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":341}}],"say":"Trini here, north of the yellow beds, hunger 10, no food yet. Going back to the beds to stay with the group. Will eat any meat hand
+- 06:12 say: {"text":"Trini at the yellow bed, hunger 10. Zack says meat goes to me first. Any meat or bread, hand it over, please."}
