@@ -53,3 +53,4 @@
 - 17:22 act: {"actions":[{"do":"note","text":"Night 299: slept at white bed -270,67,318 with the group. Sleep worked. Health 20, hunger 20. Holding one chicken and one beef for whoever gets low first."}]}
 - 17:22 act: {"actions":[{"do":"note","text":"Day 299, night. At the white bed -270,67,318 with Kimberly and Chapman nearby. Health 20, hunger 20. Holding chicken and beef for whoever is weakest."}],"say":"Going t
 - 17:23 act: {"actions":[{"do":"note","text":"Woke at the white bed. Clark has no food at hunger 16. I hold a chicken and a beef; I will hand them to whoever drops lowest within reach."}],"say":"Morning. I hold on
+- 17:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Trini at the white bed. I hold a chicken and a beef for whoever gets low. Macdonald, tell me your hunger and I'll give it to you."}
