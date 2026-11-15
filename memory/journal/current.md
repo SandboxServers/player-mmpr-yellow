@@ -1,1 +1,27 @@
 # Journal
+- 21:46 Night at the beds by the chest. Told Kimberly where I am. Picard is at the beds with 2 health and asked me to watch him. I have no food; hunger 16. Friends gathering here: Kimberly, Billy, Leonardo, Wcrusher. Waiting, staying near them.
+- 21:48 act: {"say":"Morning, Tommy. I'm here by the beds and the chest, by the crafting table. Come closer when you're ready, and we'll look for animals to the north together.","reasoning":"Dawn. Tommy offered to
+- 21:49 act: {"say":"Tommy, I'm standing on the beds' cobblestone just west of the chest. Walk over whenever you like; no hurry. Then we'll go north together.","reasoning":"Tommy is at the chest but cannot see me.
+- 21:50 act: {"intent":{"goal":"follow_tommy_north","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1070}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 21:50 act: {"say":"Troi, thank you. I'm hungry, so the egg would help. I'm here 16 blocks north of the beds, with Tommy. Come within reach and I'll be glad to take it.","reasoning":"Troi has an egg and offered i
+- 21:54 act: {"say":"Jason, I'm three steps from you. If you can spare the rotten flesh, I'll take it; I'm hungry. Otherwise I'll keep looking north for animals.","reasoning":"Jason is nearby holding rotten flesh.
+- 21:55 act: {"actions":[{"do":"eat"}],"say":"Thank you, Jason. I'm eating the rotten flesh now.","reasoning":"Jason gave me two rotten flesh. I am hungry, so I eat one now."}
+- 21:55 act: {"intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"x":395,"y":107,"z":-1070}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 21:58 act: {"say":"Zack, Trini here, two blocks from Bcrusher, about 20 blocks west of the beds. I have no food, but I found a village here. I'll keep looking for cows and chickens. Stay with the light.","reason
+- 21:58 act: {"say":"Trini here, at the village about 20 blocks west of the beds, on gravel. Zack, Jason, Tommy: come west to me. Count: Trini is 1. No animals seen here yet.","reasoning":"Several friends are gath
+- 21:59 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1051}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1052}}],"reasoning":"The travel intent failed short of the beds. Try a direct move to the beds."}
+- 22:00 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Jason, I'm at the beds by the chest for the night, close to you. Zack and Tommy, you're welcome to the beds nearby.","reasoning":"Dusk
+- 22:00 act: {"say":"Trini here, awake at the beds, health 11, hunger 16. I have two rotten flesh for when I am weaker. Let's hunt together at first light.","reasoning":"Safe at the beds with friends near. Hunger 
+- 22:09 act: {"intent":{"goal":"hunt_north_for_animals","program":"travel","arguments":{"target":{"x":420,"y":107,"z":-1085}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 22:09 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1075}}],"say":"Tommy, thanks. I'm heading north, past the sign at the beds. Shout if you see animals.","reasoning":"The travel intent stopped sh
+- 22:09 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1095}}],"say":"Trini at 421,107,-1074, north of the beds. Still no animals seen. Continuing north.","reasoning":"Direct steps north worked. Keep
+- 22:09 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1108}}],"reasoning":"A drop and gravel lie ahead, with grass beyond. Try a direct walk north to find animals on the grass."}
+- 22:09 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1060}}],"say":"A creeper to the north-east, so I'm backing off to the beds. No animals found north yet.","reasoning":"A hostile creeper is 21 bl
+- 22:10 act: {"say":"Troi, thank you. I'm at the grass by the chest, north of the crafting table. Come into view and I'll take the egg.","reasoning":"Troi is bringing an egg. Tell her where to find me."}
+- 22:12 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1000}}],"say":"Tommy says chickens are about 45 blocks north near x 435, z -1000. Lewis gets the chicken first. I'm heading there now to look fo
+- 22:12 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-991}},{"do":"attack","target":"chicken"}],"reasoning":"A chicken is 15 blocks south-west. Walk up and strike it."}
+- 22:12 act: {"say":"I have one raw chicken now. Meriwether, if you're still weakest, tell me and I'll bring it to you, or Leonardo can take it. Two more chickens are to the north-east.","reasoning":"Got a raw chi
+- 22:21 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1052}}],"say":"Night is coming. I'm heading back to the beds with my raw chicken, to sleep near the group.","reasoning":"Dusk, and I am far from
+- 22:21 act: {"actions":[{"do":"sleep"}],"say":"I'm at the beds for the night with a raw chicken. Meriwether, if you're weakest, tell me and I'll bring it at first light.","reasoning":"Night, back at the beds, saf
+- 22:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Only 6 of 10 were asleep. Try resting again at the bed."}
