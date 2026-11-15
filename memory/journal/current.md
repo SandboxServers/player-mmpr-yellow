@@ -63,3 +63,7 @@
 - 07:11 act: {"actions":[{"do":"till","at":{"x":-271,"y":65,"z":330}},{"do":"place","block":"wheat_seeds","at":{"x":-271,"y":66,"z":330}}]}
 - 07:11 say: {"text":"Trini: planted one wheat seed at -271,66,330 on dry ground. I'm going to search for cows or pigs with the group now. Meat to Chapman first, then me."}
 - 07:13 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"wheat_seeds","count":2}],"say":"Macdonald, 2 wheat seeds coming to you now. Plant them next to the unripe wheat."}
+- 07:20 act: {"say":"Trini here, day 269 dusk, hunger 9, no food. Still holding one wheat seed. I'll stay near the group and call any cow or pig I see. Meat to Chapman first, then me.","intent":{"goal":"hold_near_
+- 07:20 act: {"say":"Trini: thanks Chapman. My one seed is for planting, not eating. I'm going to a free bed for the night before the beds fill.","intent":{"goal":"reach_free_bed_at_dusk","program":"travel","argum
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"reasoning":"Travel intent failed with no reason. Try a direct goto to the yellow bed area."}
+- 07:20 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}],"intent":{"goal":"sleep_in_bed_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"]
