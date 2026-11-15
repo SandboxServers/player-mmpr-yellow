@@ -161,3 +161,37 @@
 - 15:45 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"wheat","count":1}],"say":"Wesley, here is the wheat from Lewis. You're in reach and the weakest. Eat it."}
 - 15:45 act: {"say":"Billy, the wheat landed in your pack by mistake, not Wesley's. Please give it to Wesley now; he is at health 2 and in reach. Sorry, Billy."}
 - 15:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Wesley, the wheat is yours now; eat it when you can. Trini sleeping at the white bed with the group."}
+- 15:49 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":334}}],"say":"Trini here at the beds, hunger 14, no food. Wesley is weakest; I'll hand anything I get to him first.","intent":{"goal":"stay_near_
+- 15:49 act: {"actions":[],"say":"Dawn. Still no food on me. Chapman, Wesley and LaForge are in reach; I'm staying with the group and will try to find food for Wesley first."}
+- 15:49 act: {"actions":[],"say":"Kimberly, thank you. Wesley is at health 2 and I am at 15, so if the chicken reaches me, I'll pass it to him at once. Wesley, step within arm's reach."}
+- 15:50 act: {"actions":[],"say":"Kimberly, I don't see the chicken in my hands yet. Wesley is in reach at health 2, so he gets it the moment it reaches me."}
+- 15:54 act: {"actions":[],"say":"Picard, I have no food and no meat seen. Jason's chicken is going to Wesley, who is lowest. I'm at the white beds, hunger 14, and will call out any animal I see."}
+- 16:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Dusk. Trini going to the white bed at -271,67,336 for the night. No food, hunger 14, health steady."}
+- 16:03 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Trini at the yellow bed, trying to sleep. Zack and Troi are in reach; no hostile in view."}
+- 16:03 act: {"actions":[{"do":"sleep"}]}
+- 16:08 act: {"actions":[],"say":"Jason, Trini here at -269,66,354, hunger 13, health 15. If nobody is weaker, I'd take the chicken; otherwise keep it for whoever is lowest."}
+- 16:09 act: {"actions":[],"say":"Thank you, Jason. I have the chicken. I'll keep it and eat at hunger 6, unless someone lower is in reach."}
+- 16:09 act: {"actions":[],"say":"Billy, I'm at -269,66,354 with Jason, holding the chicken. Come within arm's reach and I'll give it to you. Your health is lower than mine."}
+- 16:10 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"give","to":"ag_billy_01","item":"chicken","count":1}],"say":"Billy, coming to you with the chicken. Your health is lower than mine."}
+- 16:10 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"},{"do":"give","to":"ag_wcrusher_01","item":"chicken","count":1}],"say":"Wesley, I'm bringing the chicken to you. Billy says you're lowest."}
+- 16:10 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"chicken","count":1}],"say":"Wesley is out of sight, so I'm giving the chicken to Billy, who is in reach and at 7.5. Billy, eat it and share if Wesle
+- 16:10 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"give","to":"ag_billy_01","item":"chicken","count":1}],"say":"Billy, stepping closer to hand you the chicken."}
+- 16:11 act: {"actions":[],"say":"Wesley, when you are in reach, say so and I'll hand you the chicken first."}
+- 16:15 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"},{"do":"give","to":"ag_wcrusher_01","item":"chicken","count":1}],"say":"Wesley, I'm coming to the white beds with the chicken for you."}
+- 16:15 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":338}}],"say":"Heading to the white beds to find Wesley with the chicken."}
+- 16:16 act: {"actions":[],"say":"Wesley, where are you? I'm at the white beds with the chicken. Say so and I'll come to you."}
+- 16:18 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":337}},{"do":"give","to":"ag_wcrusher_01","item":"chicken","count":1}],"say":"Wesley, I'm at -272,67,337 with the chicken. Step near."}
+- 16:18 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"chicken","count":1}],"say":"Wesley, here is the chicken. Eat it."}
+- 16:18 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"chicken","count":1}],"say":"Wesley, giving you the chicken now."}
+- 16:18 act: {"actions":[],"say":"Wesley, the give keeps failing because the items are on the ground at your feet. Please pick them up or move one step aside, then I'll try again."}
+- 16:19 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"chicken","count":1}],"say":"Wesley, giving the chicken now."}
+- 16:21 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"chicken","count":1}],"say":"Kimberly, correction: I have NOT given the chicken yet, I still hold it. Wesley, the give is still blocked by items o
+- 16:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"say":"Wesley, the give is still blocked, so I'm keeping the chicken for now. I'm going to try the white bed for the night,
+- 16:22 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":334}}],"say":"Sleep failed here: the way was blocked. I'm moving to a clearer spot near the white beds to try again."}
+- 16:23 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"chicken","count":1}],"say":"Wesley, I'm within reach now. Here's my chicken for you, you're the weakest."}
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini going to the white bed at -271,67,318 to sleep. Wesley, chicken is yours at dawn when you are in reach."}
+- 16:25 act: {"actions":[],"say":"Wesley, I'm at -276,67,320 and I don't see you in reach yet. Tell me when you're next to me and I'll hand over the chicken."}
+- 16:25 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":335}}],"say":"Wesley, I'm coming to you with the chicken. Stay put on the stairs."}
+- 16:25 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"chicken","count":1}],"say":"Wesley, here is the chicken. Eat it now."}
+- 16:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Wesley, glad you're eating. I'm trying the white bed at -271,67,336 now."}
+- 16:29 act: {"actions":[],"say":"Clark, you're in reach. I have no food, but I'm going to search the grass to the west for animals. Call out if you see any."}
