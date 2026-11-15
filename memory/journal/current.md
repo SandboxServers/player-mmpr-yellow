@@ -26,3 +26,37 @@
 - 22:21 act: {"actions":[{"do":"sleep"}],"say":"I'm at the beds for the night with a raw chicken. Meriwether, if you're weakest, tell me and I'll bring it at first light.","reasoning":"Night, back at the beds, saf
 - 22:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Only 6 of 10 were asleep. Try resting again at the bed."}
 - 22:23 act: {"say":"Trini here, at the white beds. Night all. Tommy, I'm glad you're fed; we'll find chickens together at first light.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}]}
+- 22:24 act: {"actions":[{"do":"eat"}],"say":"Morning. I'm eating, then I'll head toward the chickens to the south.","reasoning":"Hunger is low and I have a chicken. Eat first, then go find more food for the group
+- 22:24 act: {"intent":{"goal":"hunt_chickens_south","program":"travel","arguments":{"target":{"x":421,"y":107,"z":-989}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 22:24 act: {"say":"Leonardo, I have one raw chicken for Lewis, the weakest. Troi says the egg is in the chest at x433 z-1093. Shall we take the chicken to Lewis at the beds?","reasoning":"Troi is heading to the 
+- 22:25 act: {"actions":[{"do":"goto","target":"ag_tommy_01"},{"do":"give","to":"ag_tommy_01","item":"wooden_sword","count":1}],"say":"Tommy, I'm coming to you now with your wooden sword. I have a spare sword too,
+- 22:25 act: {"intent":{"goal":"bring_chicken_to_lewis_at_beds","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1052}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":
+- 22:25 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1052}}],"say":"Billy and Tommy, I'm walking to the beds with the chicken. Lewis, where are you? Tell me and I'll bring it to you.","reasoning":"
+- 22:26 act: {"say":"Kimberly, I'm at the white beds, 1 west of the chest. Come here with the chickens; Lewis first. Zack, wait here at the beds with me; I'll hold for you.","reasoning":"Kimberly has chickens and 
+- 22:31 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1040}}],"say":"Kimberly, I'm walking north toward the signs, about 10 blocks, so you can see me. Wesley, Macdonald: the beef news is welcome.","
+- 22:31 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, I see you. I'm coming to you. Let's get the chickens to the weakest.","reasoning":"Kimberly is in view, 24 blocks off. Walk to her
+- 22:31 act: {"say":"Kimberly, Clark, I'm here with my raw chicken. Who is weakest right now? Tell me and I'll hand it over. Lewis first if he is near.","reasoning":"Two friends in reach; find out who needs the ch
+- 22:32 act: {"intent":{"goal":"lead_group_to_beds_with_chickens","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1052}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits
+- 22:32 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1052}}],"say":"Thank you, Clark. I'm going to the beds now to find Lewis with these chickens. Kimberly, Clark, come along.","reasoning":"The tra
+- 22:32 act: {"say":"Kimberly, I'm at the beds with two chickens. Lewis, where are you? Tommy's sign is worrying; Tommy, if you are alive, come to the beds. Who is weakest now?","reasoning":"Lewis is not here yet.
+- 22:32 act: {"say":"Clark, Kimberly: I'm standing on the grass by the white beds, just north of the chest at x419. Walk west along the signs and you'll see me. I'll wait here.","reasoning":"Clark and Kimberly los
+- 22:33 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1079}}],"say":"Lewis, I'm coming to you now with two raw chickens for you.","reasoning":"Lewis is the weakest and has located himself. Bring the
+- 22:34 act: {"actions":[],"say":"Lewis, I'm here by the signs at the chest. I have two raw chickens. Where are you?","reasoning":"I reached the spot but no one is in sight. Call out and wait for Lewis to show."}
+- 22:34 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1052}}],"say":"Clark, thank you. I'm going to the white beds to find Meriwether with the chickens.","reasoning":"Clark says Meriwether is at the
+- 22:34 act: {"actions":[],"say":"I'm at the white beds with three raw chickens. Meriwether, Billy, anyone weak, come here and I'll give them one.","reasoning":"No one in sight at the beds. Call out and hold here 
+- 22:36 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}}],"say":"Leonardo, I'm coming to the beds at -1023 with chickens for Lewis and Billy.","reasoning":"Friends are gathered near z -1023. Bri
+- 22:36 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Night is here. I'm going to the white bed at the chest. Chickens are with me for whoever is weakest in the morning.","reasoning":
+- 22:36 act: {"actions":[{"do":"sleep"}],"reasoning":"It is night, I am at a bed, no errand is running, and friends are nearby. Rest now."}
+- 22:41 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1078}}],"say":"Morning. Lewis is at the chest at x432 z-1079; I'm bringing him a chicken now. Jason, Lewis is where I'm going.","reasoning":"Lew
+- 22:41 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1079}}],"say":"Lewis, where are you? I'm close, at the chest area.","reasoning":"The last walk stopped short. Try again straight to the chest ar
+- 22:41 act: {"actions":[],"say":"Clark, have you seen Lewis? I have a chicken for him and I'm standing by the chest at x432.","reasoning":"Lewis is not in sight at his stated spot. Clark is here and may know wher
+- 22:41 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"chicken","count":1}],"say":"Lewis, I'm right here at -1081. Trying to hand you the chicken now.","reasoning":"Lewis says he is at -1079, two blocks 
+- 22:43 act: {"actions":[],"say":"Lewis, Picard, whoever is weakest: I hold three raw chickens at the chest x432 z-1081. Come within sight and say so; I'll hand one over.","reasoning":"Lewis is not in my sight. Po
+- 22:44 act: {"actions":[],"say":"Troi, good to see you alive. The sign about you is old. Lewis is not in my sight either. I'll keep the chickens here.","reasoning":"Troi is here and alive; the slain sign is stale
+- 22:46 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Lewis, I'm walking to you now.","reasoning":"Lewis asks me to come into his sight. Walk to him by name."}
+- 22:46 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1079}}],"say":"Lewis, I'm moving to x432 z-1079 now, by you.","reasoning":"Named walk failed because he is out of sight. Walk to his stated coor
+- 22:46 act: {"actions":[{"do":"goto","target":{"x":433,"y":107,"z":-1050}}],"say":"Lewis, I can't reach you by the signs; the way is blocked. I'm going to the food chest at 433,107,-1051. Meet me there.","reasoni
+- 22:46 act: {"actions":[{"do":"deposit","at":{"x":433,"y":107,"z":-1051},"item":"chicken","count":1}],"say":"Lewis, I've put one raw chicken in this chest for you. Jason, Tommy, I'm keeping two for whoever is wea
+- 22:46 act: {"say":"The chicken is in the chest for Lewis. I'm keeping two for whoever gets hungry first. Jason, Tommy, stay close."}
+- 22:49 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Lewis, the chicken is in the chest at 433,107,-1051. Take it. I'm going to the bed for the night."}
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}]}
