@@ -20,3 +20,4 @@
 - 05:49 act: {"actions":[{"do":"wait","seconds":30}],"say":"Picard, Worf, Chapman: my 2 wheat already went to Jason, so I hold none. Any meat, give it to Jason, then Worf. I'm at the yellow beds.","reasoning":"Old
 - 05:50 act: {"actions":[{"do":"wait","seconds":60}],"say":"Trini at the yellow beds, morning 265. I have 5 oak planks and 5 logs to trade if the wandering trader has food. Meat goes to Jason first.","reasoning":"
 - 05:53 act: {"actions":[{"do":"wait","seconds":120}],"reasoning":"Data and Billy are hunting sheep to the north-west; the trader trade is not working. Golems are around me. Stay at the beds and wait for mutton ne
+- 05:55 act: {"intent":{"goal":"hold_at_beds_for_food","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":
