@@ -72,3 +72,16 @@
 - 02:29 act: {"actions":[],"say":"Trini at dawn, day 255. Hunger 15, no food; I gave my porkchop to Jason. I'll search for pigs with Billy and Worf to the north-east, staying in sight."}
 - 02:31 act: {"actions":[],"say":"I'm with you on the pig search. Meat goes to Jason, then Clark, then Data; I'm after them. I'll stay by the yellow beds until I hear from you."}
 - 02:32 act: {"actions":[],"say":"Thanks, Billy. Still no pig for me; I'll stay here and watch with you."}
+- 02:44 act: {"say":"Jason, I have no porkchop. I gave it to you already, and my pack holds no meat now. I am staying with the group.","intent":{"goal":"reach_bed_at_night","program":"rest","arguments":{},"wake_on
+- 02:45 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 02:45 act: {"actions":[{"do":"sleep"}]}
+- 02:45 act: {"actions":[{"do":"sleep"}]}
+- 02:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 02:47 act: {"actions":[{"do":"sleep"}]}
+- 02:49 act: {"actions":[{"do":"sleep"}]}
+- 02:50 act: {"say":"Trini, dawn of day 256. Health 8, hunger 15, no food. I'm at the white beds with the group, staying in sight. Any meat, please bring it to me first.","intent":{"goal":"hold_at_beds_for_meat","
+- 02:50 act: {"say":"Thank you, Riker. I have no meat yet either. I'm holding at the beds and will hand over anything I find."}
+- 02:57 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Trini here, going to the north white bed at dusk. Still no food. Meat to Data and Jason first if I find any.","intent":{"goal":"rea
+- 03:00 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 03:00 act: {"actions":[{"do":"sleep"}]}
+- 03:00 act: {"actions":[{"do":"sleep"}],"say":"Trini in the dark at the south white beds. A skeleton is near, so I'm trying the bed again once it is clear."}
