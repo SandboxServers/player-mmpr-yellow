@@ -105,3 +105,8 @@
 - 08:18 act: {"say":"Thank you Beverly, I have your 2 wheat. Whoever finds the third wheat, bring it to me at the white beds and I'll give it to Beverly to bake."}
 - 08:21 act: {"say":"Trini going to the white bed at -271,67,318 for the night. Hunger 8, 2 wheat held for Beverly's bread. Any meat or wheat, call me.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},
 - 08:21 act: {"actions":[{"do":"sleep"}],"say":"Night, day 272. Trying the bed again. Worf, thank you; first meat or wheat to me, and I'll pass the wheat to Beverly."}
+- 08:24 act: {"actions":[{"do":"wait","seconds":60}],"say":"Picard, my sleep at -271,67,318 worked tonight once it was full night. Try that bed, or wait for the next night."}
+- 08:25 act: {"actions":[{"do":"sleep"}],"say":"Phantom near Chapman; I have a wooden sword and I'm staying by the bed at -271,67,318. Kimberly, I'll wait with you."}
+- 08:28 act: {"actions":[{"do":"wait","seconds":30}],"say":"Dawn, day 273. Hunger 8, health 8, I slept at the bed at -271,67,318. Worf, salmon to me first if you catch one. Still holding 2 wheat for Beverly."}
+- 08:29 act: {"say":"Trini going east to look for animals or wheat that is ripe. Back to the beds before dark. Troi, hold on; meat or wheat I find comes to you first if you are weaker.","intent":{"goal":"search_fo
+- 08:29 act: {"say":"Nothing east but grass. Heading back to the beds to be with the group. Lewis, Chapman: when the wheat at -273,66,330 ripens, it comes to me for Beverly first.","intent":{"goal":"return_to_beds
