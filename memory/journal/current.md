@@ -49,3 +49,8 @@
 - 06:39 act: {"actions":[],"intent":{"goal":"rest_at_bed_till_night","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max
 - 06:40 act: {"actions":[{"do":"sleep"}],"reasoning":"Dim light now, nearing night. Try the bed I stand beside once more."}
 - 06:42 act: {"actions":[{"do":"sleep"}],"say":"Trini at the yellow bed, night. No food, hunger 10. Sleeping now; meat goes to Jason, then Worf.","reasoning":"It is night and I am at the bed. Sleep."}
+- 06:43 act: {"intent":{"goal":"hold_at_beds_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000
+- 06:48 act: {"intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{"target":{"x":-245,"y":68,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 06:48 act: {"say":"Trini at -245,68,301, north of the beds. Only a horse to the east; horses are no food. Hunger 9. Still searching; will name any meat I see."}
+- 06:52 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-262,"y":68,"z":350}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 06:53 act: {"say":"Trini back at the yellow beds. Seven iron golems to the west, so I'm staying close. Hunger 9, no food. Waiting for meat or ripe wheat; wheat at -269,66,331 is still unripe.","intent":{"goal":"
