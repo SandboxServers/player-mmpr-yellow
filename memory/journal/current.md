@@ -1,3 +1,12 @@
 # Journal
 - 00:48 act: {"say":"Trini here at the white beds, dawn of day 250. I hold a chicken and some rotten flesh, and I will eat when hunger drops to 6. Anyone with food, tell me.","intent":{"goal":"hold_at_beds_until_h
 - 00:49 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}}]}
+- 00:49 act: {"say":"Trini here, day 250, health 3, hunger 10. I have a chicken and will eat it once hunger drops to 6. I am staying by the white beds, away from the iron golem to the north-west.","actions":[{"do"
+- 00:51 act: {"say":"Laforge, I am here at the white beds, -270,67,337. Bring the porkchop to me. Iron golems are 4 blocks south, so come by the north side.","actions":[{"do":"note","text":"Waiting at white beds f
+- 00:51 say: {"text":"Laforge, I am at the white beds, -270,67,337. Please give me the porkchop when you are in sight."}
+- 00:56 say: {"text":"Laforge, I do not see you in my sight yet. Stand beside me at -270,67,337 and I will take the porkchop."}
+- 01:00 act: {"say":"Laforge, I still do not see you in my sight. I am at -270,67,337. Stand beside me and give me the porkchop.","intent":{"goal":"hold_for_laforge_porkchop","program":"rest","arguments":{},"wake_
+- 01:00 act: {"say":"Laforge, I am now at -270,67,327 by the crafting table, 9 blocks north of the beds. Please walk to me with the porkchop. I can see you when you are near."}
+- 01:04 act: {"say":"Jason, I can see you holding porkchop, and I am hungry at 10. Please hand it to me, I am right here at -270,67,327."}
+- 01:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Thank you Jason, I ate the porkchops. I am going to the bed at -270,67,336 to sleep."}
+- 01:05 act: {"actions":[{"do":"sleep"}]}
