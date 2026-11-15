@@ -129,3 +129,4 @@
 - 14:30 act: {"intent":{"goal":"join_pig_hunt","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed","goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_worl
 - 14:32 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":351}}],"say":"Trini heading east to the pig area at -213,69,351 now. Meat goes to Zack and Leonardo first.","reasoning":"Follow failed and group 
 - 14:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"No pigs here. Trini going back west with the group to the white beds for the night.","reasoning":"Dusk, no food foun
+- 14:46 act: {"actions":[{"do":"sleep"}],"say":"Trini at the white bed at -271,67,318, night 291. Hunger 15, holding 2 rotten flesh for whoever drops lowest. Going to sleep with the group.","reasoning":"Night, sta
