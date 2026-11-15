@@ -159,3 +159,13 @@
 - 04:32 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":1},{"do":"give","to":"ag_worf_01","item":"wheat","count":1}],"say":"Worf, you're weakest and in reach. Giving you the porkchop and 
 - 04:32 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wheat","count":1}],"say":"Tommy, the porkchop went to you by mistake instead of Worf. Please give it to Worf now; he's the weakest. Worf, I'm sending
 - 04:32 act: {"actions":[],"say":"Worf and Tommy: the gives keep landing on Tommy. Tommy, please pass the porkchop and the wheat to Worf. I have nothing left to give.","reasoning":"My hands are empty. The food has
+- 04:37 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Trini here, hunger 11, no food on me. Worf, I have wheat seeds and some planks if they help the plot. Anyone with meat or wheat, please hand it 
+- 04:38 act: {"actions":[{"do":"note","text":"Waiting at white beds for mutton from Beverly. Worf is weaker (hunger 17), so mutton goes to Worf first, then me."}],"say":"Beverly, thank you for the mutton. Worf is 
+- 04:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini here, night of day 261. Hunger 11, health 8. I hold one wheat from Picard. Worf gets it first when he is in my
+- 04:42 act: {"actions":[{"do":"sleep"}],"say":"Trini at the yellow bed, night of day 261. Hunger 11, holding one wheat. Worf gets it first when he is in my sight.","reasoning":"I am beside a yellow bed, in the da
+- 04:45 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wheat","count":1}],"say":"Picard, here is my wheat for the bread pool, as you asked. Worf and Billy's wheat should be pooled with it at dawn.","rea
+- 04:46 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Trini here. Hunger 11, no food yet. Going to the yellow bed to sleep; thank you for holding food for Worf and me.","
+- 04:50 act: {"actions":[],"say":"Trini at dawn, day 262. Hunger 11, health 8, no food. I'll look for animals on the west grass with Riker and Data, in sight. Any meat or bread goes to Worf first, then me."}
+- 04:50 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":350}}],"say":"Trini going west with Riker and Data, staying in sight. Call out any animal."}
+- 04:50 act: {"actions":[{"do":"goto","target":{"x":-256,"y":67,"z":356}}],"say":"Golems five blocks north-west of me. Backing off east, no animals seen here."}
+- 04:51 act: {"actions":[],"say":"Trini, hunger 11, still no food. I am staying near the yellow beds. Any mutton goes to Worf or LaForge first; I can wait."}
