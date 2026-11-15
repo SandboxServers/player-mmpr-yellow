@@ -95,3 +95,22 @@
 - 03:14 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":332}}],"say":"Trini heading north-east to join Clark at -228,68,332. Still no animals here. Meat goes to Data first, then me."}
 - 03:14 act: {"say":"Trini here at -228,68,332 with Clark. Still no animals in sight. Meat goes to Data first, then me.","intent":{"goal":"search_animals_near_clark","program":"travel","arguments":{"target":{"x":-
 - 03:18 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"intent":{"goal":"reach_bed_before_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":344}},"wake_on":["directly_address
+- 03:20 act: {"intent":{"goal":"reach_white_bed_with_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 03:20 act: {"actions":[{"do":"goto","target":{"x":-256,"y":67,"z":336}}],"say":"Heading west toward the white beds. Jason is nearby to the south."}
+- 03:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
+- 03:20 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}}],"say":"Trini at the white bed, going to sleep. No food, health 8."}
+- 03:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini trying the white bed again. Creeper is close, so I may be refused."}
+- 03:21 act: {"actions":[{"do":"sleep"}],"say":"Trini here, lowest on food, health 8, hunger 14. Zack, thanks. Still no meat; I'll take any that turns up."}
+- 03:22 act: {"actions":[{"do":"sleep"}]}
+- 03:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to the white bed to sleep. Still no food; meat goes to Data and Trini first."}
+- 03:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 03:23 act: {"actions":[{"do":"sleep"}]}
+- 03:24 act: {"actions":[{"do":"sleep"}]}
+- 03:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
+- 03:25 act: {"actions":[{"do":"sleep"}]}
+- 03:26 act: {"actions":[{"do":"sleep"}]}
+- 03:27 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"say":"Heard you, Data. Trying the yellow bed at -241,69,344 for sleep. Thank you.","intent":{"goal":"reach_yellow_bed","program":"travel"
+- 03:27 act: {"actions":[{"do":"sleep"}]}
+- 03:28 act: {"actions":[],"say":"Thank you, Jason and Lewis. Dawn of day 258, still no food here. I'll stay by the beds and wait for meat; please tell me if you find any."}
