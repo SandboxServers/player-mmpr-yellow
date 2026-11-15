@@ -110,3 +110,14 @@
 - 18:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 18:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Jason, Trini here with a chicken and a beef. If you are in my sight, step next to me and say so and it's yours. Clar
 - 18:27 act: {"actions":[{"do":"sleep"}]}
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"Trini, dawn day 303. Health 20, hunger 20. I hold one chicken and one beef for whoever is lowest in my sight. Call out if you are h
+- 18:29 act: {"actions":[],"say":"Trini, hunger 20, holding a chicken and a beef. Riker and Picard, I'll hand one to whoever drops to 10 or below first. Step into my sight and call your name.","intent":{"goal":"ho
+- 18:30 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"chicken","count":1}],"say":"Clark, health 4 and in my sight: here is my chicken. Eat it now. Beef stays with me for whoever drops lowest."}
+- 18:31 say: {"text":"Understood, Clark. Keep the raw chicken for when you reach hunger 6, or give it to whoever is lower. I still hold a beef for the lowest."}
+- 18:35 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":340}}],"say":"LaForge, Trini is coming to you from the north beds with my beef. Call out your name when you see me, and stay where you are."}
+- 18:36 act: {"actions":[{"do":"goto","target":"ag_laforge_01"}],"say":"LaForge, coming to you now with my beef. Say your hunger when I am in sight."}
+- 18:36 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"beef","count":1}],"say":"LaForge, your beef is in your hands now. Eat it when you can."}
+- 18:36 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"LaForge has my beef. I have no food left now. I'm heading back to the north beds, out of the golems' way."}
+- 18:43 act: {"actions":[{"do":"note","text":"Night 303 at the north white beds. Health 20, hunger 20, no food in pack. LaForge is lowest at 1.5 health; Picard holds the mutton for him. Clark holds raw chicken, Tr
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini going to the north white bed for the night. Zack is bringing his chicken to LaForge.","reasoning":"Night, heal
+- 18:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep was blocked at the north bed; I am already on the south bed square at -270,67,336. Try once here."}
