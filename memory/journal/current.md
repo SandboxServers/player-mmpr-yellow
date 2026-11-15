@@ -102,3 +102,4 @@
 - 13:56 act: {"say":"LaForge, I'm at 17 now, after the beef. Troi is lower than me, so give the chicken to Troi first. I'm waiting here by the bed."}
 - 14:00 act: {"say":"Trini, dusk. Going to the white bed at -271,67,318 to sleep with the group. Hunger 17, health 15.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 14:04 act: {"actions":[{"do":"sleep"}]}
+- 14:05 act: {"actions":[{"do":"sleep"}],"say":"Trini at the white bed at -271,67,318, night 289, hunger 17, no food. Trying to sleep now.","reasoning":"Night, standing on a bed with no mobs in view. Sleep is the 
