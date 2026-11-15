@@ -176,3 +176,14 @@
 - 05:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"use","at":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
 - 05:01 act: {"actions":[{"do":"sleep"}]}
 - 05:01 act: {"actions":[{"do":"sleep"}]}
+- 05:02 act: {"say":"Trini here, awake at night, no food, health 8. I'll stay by the yellow beds and take any meat that reaches me at dawn.","intent":{"goal":"hold_at_beds_until_dawn","program":"rest","arguments":
+- 05:02 say: {"text":"Trini at the yellow beds. Picard, thank you for the wheat; I'll take it when it is in reach."}
+- 05:08 say: {"text":"Trini, dawn of day 262. Health 8, hunger 11, no food. I'll stay at the yellow beds in sight of the group and wait for the west search to call. Any meat, Worf first, then me."}
+- 05:13 say: {"text":"Trini at the yellow beds. Picard, please bring the wheat here to me; I can craft bread at the table. Golem is 4 blocks east, careful."}
+- 05:16 say: {"text":"Picard, I'm standing on the planks right beside the yellow beds, at -262,67,353. Walk up to me and I'll take the wheat."}
+- 05:17 say: {"text":"Chapman, you are in reach with a porkchop. Is it for me, or for Worf? If Worf is not here, I'll take it, and I'll share with him when he's near."}
+- 05:17 say: {"text":"Chapman, I can't see you now. Come back to the planks by the yellow beds and I'll take the porkchop, then Worf gets his share."}
+- 05:19 say: {"text":"Picard, I don't see you in sight yet. Stand in view and I'll take the wheat."}
+- 05:19 say: {"text":"Picard, dusk is here and I can't reach the water safely. Keep the wheat for now; I'll be by the yellow beds at dawn. Thank you."}
+- 05:20 say: {"text":"Chapman, I can see you now, in reach. Please give the porkchop to Trini here. Worf gets his share after."}
+- 05:21 say: {"text":"Night now. I'm going into the yellow bed. Chapman, leave the porkchop with Worf if you can reach him; I can't get it across the water. Worf, I'll be at the beds at dawn."}
