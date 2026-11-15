@@ -124,3 +124,27 @@
 - 03:50 say: {"text":"Trini at the north bed, day 259. No food yet, hunger 13. Thank you all. Meat goes to Jason first, since he is weaker than me."}
 - 03:52 say: {"text":"Thank you Troi, I'll keep the seed for a plot. Geldar, I'm sorry about your death. Still no food here; I'll share any meat with Jason first."}
 - 03:59 say: {"text":"Trini: I have seen no pig or cow, Wesley, only the wheat. I'm at the north bed with Lewis and Jason for the night."}
+- 04:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":
+- 04:03 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini trying the white bed here. Golems are four blocks off."}
+- 04:03 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 04:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 04:04 act: {"actions":[{"do":"sleep"}],"say":"Trini here at the north bed. Going to sleep. Trini first at dawn for any meat."}
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"intent":{"goal":"sleep_in_north_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["direc
+- 04:06 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"intent":{"goal":"sleep_in_west_bed","program":"travel","arguments":{"target":{"x":-281,"y":67,"z":320}},"wake_on":["direct
+- 04:08 say: {"text":"Trini at dawn, day 260. Health 8, hunger 11, no food. Staying at the beds with the group. Any meat, I'll take it when in reach."}
+- 04:10 say: {"text":"Trini here at the north white bed, -272,67,336. Clark, bring the porkchop here; I am hungry and will eat it as soon as I can."}
+- 04:14 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Trini here, coming to you, Clark. Thank you for the porkchop."}
+- 04:14 act: {"actions":[{"do":"note","text":"Clark not in sight; holding at the white beds near -272,67,336 with Troi, Tommy and Worf. Waiting for the porkchop."}],"say":"Clark, I'm at the white beds, near -272,6
+- 04:15 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Clark, I'm right here by the white bed at -272,67,336. Come to me and give the porkchop. Thank you."}
+- 04:19 act: {"actions":[],"say":"Riker, I'm at the white bed at -272,67,336. Keep your wheat for now; I have one already. Golems are close, so stay clear of them."}
+- 04:21 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini, night at the white bed. Trying to sleep here with the group."}
+- 04:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}}]}
+- 04:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 04:22 act: {"actions":[],"say":"I'm at the yellow beds, near -263,67,353, with Billy and Data. Worf, keep the porkchop if you need it more; I'll wait for food at dawn."}
+- 04:24 act: {"actions":[{"do":"sleep"}]}
+- 04:25 act: {"say":"Trini here at -240,69,344. My sleep was blocked. Heading back to the yellow bed at -263,67,353.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"intent":{"goal":"return_to_yellow
+- 04:25 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 04:25 act: {"say":"Kimberly, I'm at -242,68,349, out past the yellow beds, with an iron golem 2 blocks north. Please come within reach and I'll take the porkchop."}
+- 04:25 act: {"say":"Trini at -240,69,344, next to the yellow bed. Sleep was blocked again. I'll wait here for dawn; the porkchop with Kimberly is still for me when she can reach me.","intent":{"goal":"hold_at_yel
+- 04:27 act: {"say":"Tommy, I'm at -240,69,344 by the yellow bed, Data is beside me. I'm hungry at 11 and the porkchop is mine if you can reach me; I can't see you yet, so please walk to me."}
+- 04:27 act: {"say":"Tommy, agreed. I'll walk to the white beds at -270,67,334 at dawn and wait for you there. Thank you."}
