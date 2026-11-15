@@ -95,3 +95,10 @@
 - 13:52 act: {"say":"Billy, agreed: Lewis, LaForge, then Troi, then me. I'm at the white bed at -272,67,322 with hunger 15 and health 6. Whatever is left, I'll take.","reasoning":"Billy's beef queue is set. I am a
 - 13:53 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, I'm coming to you to take the beef. Thank you. Troi gets the second one.","reasoning":"Billy is offering one beef, but he is out of reac
 - 13:53 act: {"say":"Billy, Troi first with her beef. If there is a second one for me, I'm right here in reach. If not, I'll wait. Thank you.","reasoning":"Billy is in reach. Troi is ahead of me in the queue, so l
+- 13:54 act: {"say":"Trini here, hunger 18, health 7. I hold no meat; the beef did not reach my pack. Troi and LaForge first for any food. Unripe wheat is at -274,66,332.","intent":{"goal":"search_animals_with_gro
+- 13:54 act: {"say":"Trini: my search intent did not start. I'm staying at the beds, health rising. Call out any meat and I'll come to you.","intent":{"goal":"rest_at_beds_for_meat","program":"rest","arguments":{}
+- 13:55 act: {"say":"LaForge, I'm at the white bed, -272,67,319, and in sight of Troi and Billy. Come within arm's reach and give the chicken to Troi first if she is lower, then me."}
+- 13:55 act: {"say":"Thank you, Troi. I have the beef and will eat it now.","actions":[{"do":"eat"}]}
+- 13:56 act: {"say":"LaForge, I'm at 17 now, after the beef. Troi is lower than me, so give the chicken to Troi first. I'm waiting here by the bed."}
+- 14:00 act: {"say":"Trini, dusk. Going to the white bed at -271,67,318 to sleep with the group. Hunger 17, health 15.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 14:04 act: {"actions":[{"do":"sleep"}]}
