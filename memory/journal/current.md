@@ -10,3 +10,7 @@
 - 01:04 act: {"say":"Jason, I can see you holding porkchop, and I am hungry at 10. Please hand it to me, I am right here at -270,67,327."}
 - 01:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Thank you Jason, I ate the porkchops. I am going to the bed at -270,67,336 to sleep."}
 - 01:05 act: {"actions":[{"do":"sleep"}]}
+- 01:10 say: {"text":"Trini here, day 251. Hunger 16, so I keep my chicken for whoever is weakest. Worf, if you come into sight at hunger 6, say so and I will hand it to you."}
+- 01:18 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":330}}],"say":"Trini here. Worf, you are weakest at hunger 6, so you take my chicken. I am coming to you at -271,67,330 now. Please stay in sight.
+- 01:18 say: {"text":"Trini at -271,67,330. Worf, Wesley has porkchops for you first. I still hold my chicken for whoever is next after you. Iron golems are close to the south-west, so I am keeping my distance."}
+- 01:20 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Trini going to the yellow bed for the night. Worf, I still hold my chicken for you if you come into my sight."}
