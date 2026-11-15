@@ -110,3 +110,18 @@
 - 08:28 act: {"actions":[{"do":"wait","seconds":30}],"say":"Dawn, day 273. Hunger 8, health 8, I slept at the bed at -271,67,318. Worf, salmon to me first if you catch one. Still holding 2 wheat for Beverly."}
 - 08:29 act: {"say":"Trini going east to look for animals or wheat that is ripe. Back to the beds before dark. Troi, hold on; meat or wheat I find comes to you first if you are weaker.","intent":{"goal":"search_fo
 - 08:29 act: {"say":"Nothing east but grass. Heading back to the beds to be with the group. Lewis, Chapman: when the wheat at -273,66,330 ripens, it comes to me for Beverly first.","intent":{"goal":"return_to_beds
+- 10:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Heading to the white bed to sleep. Hunger is 8, so I'll eat when I can.","reasoning":"Night, no sleep for 7 days, be
+- 10:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Sleep failed due to creeper; retry at bed after moving."}
+- 10:25 act: {"actions":[{"do":"sleep"}],"say":"Leonardo, Laforge, thanks. I'm trying to sleep now, and I'll take food when it's in hand.","reasoning":"Monsters gone from view; try sleep here."}
+- 10:26 act: {"actions":[],"say":"Thanks Riker. Macdonald, if you have mutton, I'll take it when you're in reach. A creeper is keeping me from sleep.","reasoning":"Food promised; ask for it in hand; keep position 
+- 10:27 act: {"actions":[{"do":"sleep"}],"say":"Thank you Macdonald, I'll eat it as soon as it's in my pack.","reasoning":"No monsters in view now; try sleep."}
+- 10:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Macdonald, I'm at the yellow bed by -274,66,324, out of sight. I'm walking back to the white beds now at -271,67,336.","reasoning":
+- 10:28 act: {"actions":[],"say":"Macdonald, I'm in reach now. Please give me the mutton. Thank you all.","reasoning":"Macdonald is within 1.4 blocks with the mutton; ask for it in hand."}
+- 10:30 act: {"actions":[],"say":"Thank you Kimberly. Lewis needs it more than I do right now. I'm staying at the beds, and I'll take any meat from the chicken hunt.","reasoning":"Lewis is weaker; share the call; 
+- 10:37 act: {"actions":[],"say":"Agreed. Lewis and Chapman first, since they're weaker than me. I'm at hunger 8 and will wait at the beds.","reasoning":"I am not the weakest now; defer food to Lewis and Chapman."
+- 10:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Dusk; get on the bed and sleep with group."}
+- 10:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Troi, the chicken was meant for me. Please hand it over when you're in reach.","reasoning":"Get onto the bed for nig
+- 10:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Previous goto was blocked by a running action; retry now."}
+- 10:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep was blocked; I'm one block from the bed. Step onto it and sleep."}
+- 10:42 act: {"actions":[{"do":"sleep"}],"say":"Troi, I'm right here by the bed at -272,67,336. Hand the chicken over when you can see me. I'll keep it until my hunger is 6.","reasoning":"Troi holds my chicken and
+- 10:42 act: {"actions":[{"do":"sleep"}],"say":"LaForge, you're weaker than I am. Troi, if the chicken comes to me, I'll pass it to LaForge. I'm at hunger 8 and can wait.","reasoning":"LaForge is at health 2. He n
