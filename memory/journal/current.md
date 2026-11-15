@@ -135,3 +135,18 @@
 - 19:04 act: {"say":"Trini, day 304, health 20, hunger 20, no food. I'm well fed for now, so the lowest should eat first. Calling out if I see meat.","intent":{"goal":"hold_near_group_for_meat","program":"rest","a
 - 19:08 act: {"say":"Trini going to the white bed at -271,67,336 for the night, health 20, no food. Call if you need me.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":334}}],"intent":{"goal":"reach_white_
 - 19:08 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"use","at":{"x":-271,"y":67,"z":336}}]}
+- 19:09 act: {"say":"Trini awake at the white bed, health 20, hunger 20, no food. Clark and Chapman are lowest; meat I find goes to them first.","intent":{"goal":"hold_at_beds_for_food","program":"rest","arguments
+- 19:09 act: {"intent":{"goal":"hold_at_beds_for_food","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":
+- 19:09 act: {"intent":{"goal":"hold_at_beds_for_food","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":
+- 19:22 act: {"actions":[{"do":"sleep"}],"say":"Trini at the white bed for the night. Health 20, hunger 20. Lowest first if anyone calls.","reasoning":"Dusk, full health, group at the beds. Try to sleep here."}
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini heading back to the white bed to sleep. No food in hand; Chapman, call if you drop to 6.","reasoning":"Night a
+- 19:23 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Perched and sleep failed as the way was blocked. Get free, then go to the north white bed and
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"A golem is closing from the south. Go to the north white bed and try to sleep."}
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Previous goto was blocked by a running action. The nearest free white bed is at -270,67,336, four blocks away.
+- 19:23 act: {"actions":[{"do":"sleep"}],"say":"Trini at the white bed, going to sleep. No food in hand."}
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep did not take; I drifted to -272,66,332. Retry the white bed at -271,67,336. Chapman is at 3 health and h
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 19:24 act: {"actions":[{"do":"sleep"}]}
+- 19:26 act: {"actions":[{"do":"sleep"}]}
+- 19:27 say: {"text":"Trini here, health 20, hunger 19, no food. Staying with the group by the white beds. Will eat at hunger 6 or below."}
