@@ -125,3 +125,11 @@
 - 10:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep was blocked; I'm one block from the bed. Step onto it and sleep."}
 - 10:42 act: {"actions":[{"do":"sleep"}],"say":"Troi, I'm right here by the bed at -272,67,336. Hand the chicken over when you can see me. I'll keep it until my hunger is 6.","reasoning":"Troi holds my chicken and
 - 10:42 act: {"actions":[{"do":"sleep"}],"say":"LaForge, you're weaker than I am. Troi, if the chicken comes to me, I'll pass it to LaForge. I'm at hunger 8 and can wait.","reasoning":"LaForge is at health 2. He n
+- 10:44 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Night, 8 days since sleep, bed one block west. Move onto it and sleep.","say":"Going to the yellow bed to slee
+- 10:46 say: {"text":"Trini at the yellow bed, -263,67,353, sleeping. Troi, hand the chicken to LaForge first, he is weakest. Send it to me only after."}
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":326}}],"intent":{"goal":"check_dropped_food","program":"travel","arguments":{"target":{"x":-262,"y":66,"z":326}},"wake_on":["goal_completed","une
+- 10:49 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"reasoning":"Golems and a phantom are near here; the group is moving to the beds. I'll go back to the yellow beds and hold my 2 wheat for 
+- 10:50 say: {"text":"Trini at the yellow beds, hunger 7, health 8. No food yet; LaForge first."}
+- 10:57 say: {"text":"Picard, I have 2 wheat and you are weaker than me at hunger 4. Come within reach and I'll hand them to you."}
+- 11:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Dusk and 9 days since sleep. Get on the bed and sleep. The golem to the east is close, so check the result."}
+- 11:04 act: {"actions":[{"do":"sleep"}],"reasoning":"Still night, days_since_sleep unchanged. Try sleeping again on the bed."}

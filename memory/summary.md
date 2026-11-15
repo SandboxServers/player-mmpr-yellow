@@ -3,7 +3,10 @@
 # Summary
 
 ## Where I am
-- Day 262, at night, at the yellow beds near -263,67,353 with the group. Health 8, hunger about 11.
+- Day 280, slept at the yellow bed near -263,67,353 (3 of 10 asleep, then slept). Health 8, hunger 7. Days since sleep 0.
+- Holding 1 wheat seed for Picard's tilled ground near -271,66,330. My 2 wheat went to Jason on day 264.
+- Food order: LaForge, Picard, then me. Eat at hunger 6 or below.
+- Earlier, day 262, at the yellow beds near -263,67,353 with the group. Health 8, hunger about 11.
 - Trini, at the beds with Jason, Clark, Worf, Data and others. The west and east grass gave no animals.
 - Beds: white beds near -270,67,318 to -271,67,336; yellow beds near -263,67,353 and -241,69,344.
 - Tilled dirt at -268,65,326. Troi's wheat seed is still not in the ground.
