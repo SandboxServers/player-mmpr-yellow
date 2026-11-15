@@ -84,3 +84,7 @@
 - 13:43 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Trini at the white bed, night 288. No food, hunger 15, health 6. Going to sleep with the group. Meat goes to Lewis and LaForge first.","
 - 13:43 act: {"actions":[],"intent":{"goal":"rest_at_bed_near_group","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world
 - 13:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep partly worked, group needs more asleep. Try sleep again at the bed."}
+- 13:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Trini, night 288. Hunger 15, health 6, no food on me. Going to the bed here to sleep with the group. Meat to Lewis and LaForge firs
+- 13:44 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"I'm trying the bed here at 318 to sleep. LaForge, Troi: meat goes to whoever is weakest."}
+- 13:44 act: {"actions":[{"do":"sleep"}]}
+- 13:44 act: {"actions":[{"do":"sleep"}]}
