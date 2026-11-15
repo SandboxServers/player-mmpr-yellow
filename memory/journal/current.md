@@ -67,3 +67,12 @@
 - 07:20 act: {"say":"Trini: thanks Chapman. My one seed is for planting, not eating. I'm going to a free bed for the night before the beds fill.","intent":{"goal":"reach_free_bed_at_dusk","program":"travel","argum
 - 07:20 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"reasoning":"Travel intent failed with no reason. Try a direct goto to the yellow bed area."}
 - 07:20 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}],"intent":{"goal":"sleep_in_bed_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"]
+- 07:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Heading to the yellow bed at -263,67,353 for the night. Hunger 9, no food yet; Chapman's bread comes first to the weakest.","reason
+- 07:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"reasoning":"Previous intent failed; retry direct goto to bed, one action at a time."}
+- 07:23 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"The leaves block my way west. I'm trying to get around them to the yellow bed.","reasoning":"Route blocked by leav
+- 07:23 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}}],"reasoning":"Deep water to my north; approach bed from the south side with a single goto."}
+- 07:23 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"At the yellow bed for the night. Hunger 9. Morning, I'll go with the group for food.","reasoning":"At the bed; try to use
+- 07:25 act: {"actions":[],"say":"Trini here at -240,69,344, hunger 9, no food. Thanks LaForge. A bow is being drawn to the south-east; I'm staying put and will hunt at dawn.","intent":{"goal":"hold_for_dawn_with_
+- 07:30 act: {"actions":[{"do":"goto","target":{"x":-278,"y":67,"z":330}}],"say":"Trini joining the west search for cows or pigs. Hunger 9. Call any animal you see; meat to Chapman, then me.","reasoning":"Dawn. Jo
+- 07:35 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":322}}],"say":"Golems are closing from the south-west. Moving north to the group at -268,67,322. Still no food, hunger 9.","reasoning":"Golems wit
+- 07:36 act: {"reasoning":"Animals are the only food source nearby. Clark will call them. Keep waiting near the group and watch for animals.","say":"Trini here, staying with the group at -268,67,322. Hunger 9, no 
