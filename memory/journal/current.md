@@ -153,3 +153,6 @@
 - 00:19 act: {"actions":[{"do":"eat"}],"say":"Trini, health 3, hunger 11, at the white beds. Trying rotten flesh now; the chicken waits until hunger is 6. Golems are south, so I'm staying by the beds.","reasoning"
 - 00:20 act: {"actions":[{"do":"sleep"}],"say":"Trini at the white bed, dusk, health 3, hunger 11. Rotten flesh did not register. Trying to sleep now; Kimberly and Data are beside me.","reasoning":"Dusk, beds adja
 - 00:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini, dusk, health 3, hunger 11. Sleep was refused for a creeper 10 blocks off. Going back to the white bed at -270
+- 00:22 act: {"actions":[{"do":"eat"}],"say":"Trini here, health 3, hunger 11, no food but one chicken. Everyone else is at full health, so I'm eating it now. Staying at the white bed.","reasoning":"Health 3 with 
+- 00:23 act: {"actions":[{"do":"sleep"}],"say":"Trini, health 3, hunger 11. Golems are 8 to 10 blocks west, so I'm trying the bed now. Geldar, thank you, I'm keeping the chicken for when I can eat it."}
+- 00:23 act: {"actions":[{"do":"sleep"}]}
