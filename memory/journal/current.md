@@ -170,3 +170,4 @@
 - 00:29 act: {"actions":[{"do":"goto","target":{"x":-259,"y":66,"z":318}}],"say":"Moving north-east, away from the golem to the south. Health 3, no food yet.","intent":{"goal":"reach_safe_spot_north_east","program
 - 00:30 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, you are weaker than me, so the chicken is yours. I'm coming to you now to hand it over."}
 - 00:30 act: {"actions":[{"do":"goto","target":"ag_zack_01"},{"do":"give","to":"ag_zack_01","item":"chicken","count":1}],"say":"Zack, I'm right behind you. Giving you the chicken now."}
+- 00:33 act: {"say":"Trini here, at -241, 68, 314. Health 3, hunger 10. I'm holding one chicken for when my hunger drops, and any food found goes to me first.","intent":{"goal":"hold_position_until_hungry","progra
