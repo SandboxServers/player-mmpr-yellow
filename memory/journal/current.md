@@ -148,3 +148,14 @@
 - 04:25 act: {"say":"Trini at -240,69,344, next to the yellow bed. Sleep was blocked again. I'll wait here for dawn; the porkchop with Kimberly is still for me when she can reach me.","intent":{"goal":"hold_at_yel
 - 04:27 act: {"say":"Tommy, I'm at -240,69,344 by the yellow bed, Data is beside me. I'm hungry at 11 and the porkchop is mine if you can reach me; I can't see you yet, so please walk to me."}
 - 04:27 act: {"say":"Tommy, agreed. I'll walk to the white beds at -270,67,334 at dawn and wait for you there. Thank you."}
+- 04:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Trini, dawn of day 261. Hunger 11, health 8, one wheat in pack. Walking to the white beds to find the group and any food.","reasoni
+- 04:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Worf, I hear you. I have 1 wheat and no meat. Going to the white beds now; I'll hand the wheat to whoever is weakest once hunger le
+- 04:29 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wheat","count":1}],"say":"Worf, you're weakest and in reach, so I'm giving you my wheat now. Tommy, please bring the porkchop to me or to Worf, which
+- 04:29 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"wheat","count":1}],"say":"Worf, I'm stepping next to you to hand over the wheat.","reasoning":"The toss was block
+- 04:29 act: {"actions":[],"say":"Tommy, I'm in reach at the white beds. Please give me the porkchop now. Worf has left sight, so I'm holding my wheat for whoever is weakest when they come back.","reasoning":"Worf
+- 04:29 act: {"actions":[],"say":"Tommy, thank you. When the porkchop reaches your hand, give it to me; I'm two blocks away and will hold still.","reasoning":"Tommy is trying to hand over the porkchop. I'll hold s
+- 04:30 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Tommy, I'm coming to you now to take the porkchop. There's an iron golem 3 blocks north-west of me, so I'll be quick.","reasoning":"The hand-ov
+- 04:31 act: {"actions":[],"say":"Got the porkchop, thank you Tommy. Hunger is 11, so I can't eat it yet. I'll keep it and eat once hunger is 6 or below. Worf, tell me if you need it more.","reasoning":"Porkchop i
+- 04:32 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":1},{"do":"give","to":"ag_worf_01","item":"wheat","count":1}],"say":"Worf, you're weakest and in reach. Giving you the porkchop and 
+- 04:32 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wheat","count":1}],"say":"Tommy, the porkchop went to you by mistake instead of Worf. Please give it to Worf now; he's the weakest. Worf, I'm sending
+- 04:32 act: {"actions":[],"say":"Worf and Tommy: the gives keep landing on Tommy. Tommy, please pass the porkchop and the wheat to Worf. I have nothing left to give.","reasoning":"My hands are empty. The food has
