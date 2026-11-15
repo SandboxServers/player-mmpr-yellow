@@ -56,3 +56,19 @@
 - 02:18 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":1}],"say":"Worf, I have two porkchops and I can't eat until hunger 6. Giving you one now. Eat it."}
 - 02:18 act: {"say":"The porkchop went to Tommy by mistake, not Worf. I'm keeping my last one for when hunger drops to 6. Worf, I'm sorry, Tommy, if you can pass it on to Worf, please do."}
 - 02:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Dusk. Heading to the white bed at -270,67,336 to sleep. Night, everyone. Worf eats the next meat first, then Clark."}
+- 02:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Trini at the yellow bed by the crafting table, dusk, day 254. Health 8, hunger 16. Holding one porkchop for Worf or Clark if they n
+- 02:22 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"porkchop","count":1}],"say":"Jason, you are in reach. Here is my porkchop. Eat it now. I still have rotten flesh if you need it."}
+- 02:22 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Jason, I cannot see you now, so the give failed. I am holding my porkchop by the yellow beds. Come within arm's reach and I will ha
+- 02:22 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"porkchop","count":1}],"say":"Jason, you are in reach now. Taking the porkchop out to you."}
+- 02:23 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"rotten_flesh","count":3}],"say":"Clark, you are in reach. Here are my three rotten flesh. Eat them when you can. I still hold the porkchop for Jason
+- 02:23 act: {"actions":[],"say":"Jason, I am at -259,65,349 on the dirt by the water's edge, Clark is beside me. Walk to me and stay in sight, and I will hand you the porkchop as soon as you are in reach."}
+- 02:24 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"porkchop","count":1}],"say":"Jason, here is the porkchop. Eat it, you need it more than I do."}
+- 02:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 02:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 02:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
+- 02:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 02:25 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 02:25 act: {"actions":[{"do":"use","at":{"x":-241,"y":69,"z":344}},{"do":"sleep"}]}
+- 02:29 act: {"actions":[],"say":"Trini at dawn, day 255. Hunger 15, no food; I gave my porkchop to Jason. I'll search for pigs with Billy and Worf to the north-east, staying in sight."}
+- 02:31 act: {"actions":[],"say":"I'm with you on the pig search. Meat goes to Jason, then Clark, then Data; I'm after them. I'll stay by the yellow beds until I hear from you."}
+- 02:32 act: {"actions":[],"say":"Thanks, Billy. Still no pig for me; I'll stay here and watch with you."}
