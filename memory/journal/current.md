@@ -54,3 +54,4 @@
 - 06:48 act: {"say":"Trini at -245,68,301, north of the beds. Only a horse to the east; horses are no food. Hunger 9. Still searching; will name any meat I see."}
 - 06:52 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-262,"y":68,"z":350}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
 - 06:53 act: {"say":"Trini back at the yellow beds. Seven iron golems to the west, so I'm staying close. Hunger 9, no food. Waiting for meat or ripe wheat; wheat at -269,66,331 is still unripe.","intent":{"goal":"
+- 07:00 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"note","text":"Dusk at yellow bed -263,67,353. Hunger 9, no food. Golem 20 west. Going to bed."}],"say":"Trini here, at the yellow be
