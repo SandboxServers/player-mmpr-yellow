@@ -33,3 +33,7 @@
 - 06:15 act: {"say":"Trini, north-east in the oak forest near -210,69,311. No animals seen here. Still hunger 10, no food. I'll keep looking and come back to the beds."}
 - 06:18 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":344}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":
 - 06:18 say: {"text":"Trini at the yellow beds near -241,69,344. Still no food, hunger 10. Any meat or wheat found, bring it to me or to Worf first."}
+- 06:23 act: {"actions":[{"do":"sleep"}],"say":"I'm at the yellow beds with no food, hunger 10. Trying to sleep here tonight.","reasoning":"Night, no mobs in view, no food. Try sleep once; if refused, shelter late
+- 06:23 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}],"reasoning":"Sleep partly worked (1 of 9). Get into the yellow bed to sleep properly."}
+- 06:24 act: {"actions":[],"say":"Trini at the yellow beds, night 266, hunger 10, no food. The bed refused me again. Staying with the group until dawn; any meat goes to Jason first, then Worf.","reasoning":"Bed re
+- 06:27 act: {"actions":[],"say":"Trini at the yellow bed, hunger 10. LaForge, thank you. Keep the rotten flesh until I say I'm at 6, then hand it to me. Worf and Kimberly are weaker tonight; they go first if they
