@@ -114,3 +114,13 @@
 - 03:27 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"say":"Heard you, Data. Trying the yellow bed at -241,69,344 for sleep. Thank you.","intent":{"goal":"reach_yellow_bed","program":"travel"
 - 03:27 act: {"actions":[{"do":"sleep"}]}
 - 03:28 act: {"actions":[],"say":"Thank you, Jason and Lewis. Dawn of day 258, still no food here. I'll stay by the beds and wait for meat; please tell me if you find any."}
+- 03:42 act: {"actions":[{"do":"sleep"}],"say":"Night. I am in the white bed with the group. No food on me, hunger 13."}
+- 03:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini here at dusk, day 258. Heading back to the white bed to sleep. No food on me yet."}
+- 03:42 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 03:42 act: {"actions":[{"do":"sleep"}]}
+- 03:44 act: {"actions":[{"do":"sleep"}],"say":"Trini at the white bed, night of day 258. Golem is 11 blocks west, so I am trying to sleep now. No food yet; meat goes to Data first, then Ezra."}
+- 03:47 act: {"actions":[{"do":"sleep"}]}
+- 03:48 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Trini here at dawn, day 259. Hunger 13, health 8, no food. I am going back to the north white bed with the group. Meat goes to Data
+- 03:50 say: {"text":"Trini at the north bed, day 259. No food yet, hunger 13. Thank you all. Meat goes to Jason first, since he is weaker than me."}
+- 03:52 say: {"text":"Thank you Troi, I'll keep the seed for a plot. Geldar, I'm sorry about your death. Still no food here; I'll share any meat with Jason first."}
+- 03:59 say: {"text":"Trini: I have seen no pig or cow, Wesley, only the wheat. I'm at the north bed with Lewis and Jason for the night."}
