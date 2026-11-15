@@ -51,3 +51,8 @@
 - 02:12 say: {"text":"Riker, I'm right here in reach. Please give me the porkchop and the seeds now."}
 - 02:13 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Riker, I'm next to you. Please hand me the porkchop."}
 - 02:13 say: {"text":"Riker, I don't see the porkchop in your hands. If you still have it, please give it to me. If not, tell me who has it. Anyone with meat, I'm at -274,66,333 and hunger 16."}
+- 02:16 act: {"say":"Thank you, Riker and everyone. I'm holding the porkchop and will eat it at hunger 6. Kimberly, I have 4 wheat seeds and a wooden hoe; I'll till and plant near the beds once you say where.","in
+- 02:16 act: {"intent":{"goal":"wait_for_hunger_then_eat","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":600,"max_block_opera
+- 02:18 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":1}],"say":"Worf, I have two porkchops and I can't eat until hunger 6. Giving you one now. Eat it."}
+- 02:18 act: {"say":"The porkchop went to Tommy by mistake, not Worf. I'm keeping my last one for when hunger drops to 6. Worf, I'm sorry, Tommy, if you can pass it on to Worf, please do."}
+- 02:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Dusk. Heading to the white bed at -270,67,336 to sleep. Night, everyone. Worf eats the next meat first, then Clark."}
