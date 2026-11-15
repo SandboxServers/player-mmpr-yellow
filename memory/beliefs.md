@@ -8,6 +8,8 @@ What I hold to be true about the world and the people in it.
 - Giving food by exact id works when the person is in sight and close (porkchop to Kimberly by id, day 224; apple to Kimberly, days 226 and 231; chicken to Zack by id, day 249).
 - Sheep at -184,86,230 gave mutton (day 223). A pig was killed on dry grass near -171,74,201 (day 224).
 - Sharing food to the weakest first kept the group alive longer.
+- Giving a porkchop by exact id to Jason, when he was in reach, worked (days 254 and 262). Giving by id to Worf did not always land: one porkchop went to Tommy instead (days 254, 260).
+- Going to a person and standing within arm's reach before the give is the only way the give reached them (day 254, Clark's rotten flesh).
 - Walking with the group in sight, on the known dry route east (-262,66,232, -210,70,228, -189,80,223), kept us together.
 - Calling out the position before moving, so others know where to find me.
 - Mining oak leaves gave one apple once (day 226, at -283,66,324). Most leaf breaks after that gave only saplings (days 228 to 236).
@@ -31,6 +33,8 @@ What I hold to be true about the world and the people in it.
 - ~~Eating raw wheat or rotten flesh to ease hunger.~~ False: "eat" refused raw wheat (day 238), and rotten flesh did not register (day 248). Why: the food was not edible in that form, or eating was refused.
 - ~~Eating at hunger above 6.~~ False as far as I can tell: "eat" was refused at hunger 10 and 11 (days 245 to 249). Why: unknown; I should wait until hunger is 6 or lower before I count on eating.
 - ~~Food promised by someone on the ground will reach me.~~ False: a chicken dropped on the ground by Jason never entered my pack (day 248). Why: items on the ground cannot be given or taken until picked up by the one who needs them.
+- ~~Riker's porkchop, promised on days 253 to 254, would reach me.~~ False: it never came into my hand, and I went without. Why: promised food by someone who cannot reach me does not arrive.
+- ~~Mutton or wheat sent to me from far away would reach me by dusk.~~ False for days 256 to 262: I could not walk to Picard at the water, and dusk stopped the trip. Why: the route was across water.
 - A bed square that is occupied refuses me silently (day 214). Try another bed square, and try early at dusk.
 - Food dropped on the ground cannot be given until it is picked up.
 - Planting a seed on tilled dirt at -268,65,326 did not stick through days 238 to 249. Why: unclear; the seed stayed in my pack, and a second attempt at first light did not confirm it in the ground.
