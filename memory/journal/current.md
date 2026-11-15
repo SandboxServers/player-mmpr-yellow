@@ -140,3 +140,5 @@
 - 11:07 act: {"actions":[],"say":"Trini at -259,67,350, night 280, hunger 7. Deep water is one block south, so I'm not moving closer. Golems are 11 blocks west. I'll wait here until dawn.","intent":{"goal":"wait_f
 - 11:09 act: {"actions":[],"say":"Trini, dawn day 281, hunger 7, no food. Zack, I'll join your animal search near the beds. Meat to LaForge, then Picard, then me."}
 - 11:09 act: {"actions":[],"say":"Jason, Trini at -242,69,344, hunger 7. I'll call you at 6 for the rotten flesh, after LaForge and Picard. Thank you."}
+- 11:13 act: {"intent":{"goal":"reach_picard_field","program":"travel","arguments":{"target":{"x":-271,"y":66,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
+- 11:13 act: {"say":"Picard, I'm at your tilled ground at -271,66,330 with the wheat seed I owe you. Where are you?","actions":[]}
