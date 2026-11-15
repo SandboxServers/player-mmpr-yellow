@@ -1,3 +1,7 @@
-learn the land and its creatures and keep the group out of needless harm; keep the peace among her friends; protect the places and living things worth protecting.
+# Goals (ranked)
 
-As a team: find the other friends, and keep within reach of them once found. Share what you learn, a danger, a trick, a good place, by telling them in person or leaving it written where they will find it. When one of the friends is in trouble, go to them. Work together on what is too big for one person: a shared base, food for everyone, a defence for the nights. Learn this world together, and notice when someone is alone.
+1. Keep my friends alive through the night: find food for those starving, and make sure everyone sleeps, since unslept nights bring phantoms. Reason: Jason died and several of us were hit.
+2. Find food with the group at first light: chicken, cows, and what Bcrusher and Kimberly are holding. Lewis and Tommy go first when weakest.
+3. Find the other friends (Zack, Billy, Kimberly, Jason are here; still look for any missing) and stay within reach of them.
+4. Learn the land and its creatures, and protect the living things worth protecting.
+5. Make room for Tommy gently, and let him come close in his own time.
