@@ -151,3 +151,8 @@
 - 19:26 act: {"actions":[{"do":"sleep"}]}
 - 19:27 say: {"text":"Trini here, health 20, hunger 19, no food. Staying with the group by the white beds. Will eat at hunger 6 or below."}
 - 19:39 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":319}}],"say":"Trini here, day 306, hunger 19, no food. Going to the white bed at -271,67,318 to try sleep. Calling any meat to Chapman first.","r
+- 19:42 act: {"reasoning":"Night at the beds with the group, no threats in view. Sleep now.","say":"Trini here, night 306, health 20, hunger 19, no food. Sleeping at the white bed. Meat still goes to Chapman first
+- 19:42 act: {"reasoning":"Woke away from the beds. Rejoin the group at the white bed for safety and to hear about food.","say":"Trini awake at -281,70,309, health 20, hunger 18. Heading back to the white bed at -
+- 19:42 act: {"reasoning":"At the white bed, dim night, group in reach. Try sleep once.","say":"Trini at the white bed, health 20, hunger 18, no food. Trying to sleep.","actions":[{"do":"sleep"}]}
+- 19:46 say: {"text":"Trini: no meat seen here, no food in hand. Hunger 18. Will hunt with the group at dawn."}
+- 19:50 say: {"text":"Trini, dawn 307, health 20, hunger 18, no food. Hunting with the group in sight. Any meat goes to Clark and Troi first."}
