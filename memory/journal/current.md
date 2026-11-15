@@ -4,3 +4,48 @@
 - 16:33 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}],"say":"A bow is drawn somewhere to the west. I'm pulling back to the beds, with Bcrusher and Lewis."}
 - 16:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Trini at the white beds for the night, no food, hunger 12. Calling out any animal at dawn."}
 - 16:45 act: {"actions":[{"do":"note","text":"Night 297. At the white bed -271,67,318 with the group. Health 15, hunger 12, no food. No errand running. Waking to call out any animal and hand food to Clark or Wesle
+- 16:46 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini here at the south white bed, night 297, no food, hunger 12, health 15. Calling for any animal; Clark and Wesley fir
+- 16:46 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on bed is refused by design; sleep directly, checking the iron golems to the south."}
+- 16:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep failed as way blocked; I am beside the bed not on it. Walk onto it and sleep."}
+- 16:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Beds near the south pair are occupied; the north pair at z=318 may be free."}
+- 16:48 act: {"actions":[{"do":"note","text":"Night 297, late. Sleep failed 4 times (way blocked; beds full). Holding at the white beds with the group, no food, hunger 11, health 15. Waiting for dawn; will call ou
+- 16:52 act: {"actions":[{"do":"goto","target":{"x":-240,"y":67,"z":344}},{"do":"note","text":"Dawn 298. Sleep failed all night (beds full). Joining the east pig hunt with Macdonald, Chapman, Zack, Billy, Lewis. M
+- 16:52 act: {"actions":[{"do":"note","text":"Day 298 morning at -242,68,345. East goto stopped short (way blocked, drops to the west). Iron golem two blocks south. Holding, waiting for the pig hunt to call out. N
+- 16:57 act: {"actions":[{"do":"goto","target":{"x":-225,"y":68,"z":347}}],"say":"Trini heading east toward the pig area, following the hunt. Calling out anything I see."}
+- 16:57 act: {"actions":[{"do":"note","text":"Day 298 midday at -225,68,346 with Riker nearby. No animals in sight; drop to the east. Waiting for the pig hunt to call. No food, hunger 11, health 15."}]}
+- 17:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini walking back to the white beds with the group for the night. No pigs out east, no food, hunger 11."}
+- 17:02 act: {"actions":[{"do":"note","text":"Night 298 at -277,65,322 near the white beds. Sleep blocked again; iron golems 9 to 23 blocks south. Waiting, then trying the north white bed once more."}]}
+- 17:02 act: {"actions":[{"do":"sleep"}]}
+- 17:02 act: {"actions":[{"do":"note","text":"Night 298 at -276,66,315. Sleep blocked a third time; golem 5 north. Waiting, then retry sleep at the white bed -270,67,318."}]}
+- 17:06 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}],"say":"Phantom on me from the north, I'm fighting it with my wooden sword. Health 13."}
+- 17:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Phantom retreated. Get to the bed and try sleep before more phantoms come."}
+- 17:07 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom adjacent and attacking; fight with sword."}
+- 17:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Health is falling and phantoms are around. Get to the bed and try to sleep.","say":"Heading to the bed to slee
+- 17:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Health 1.1, falling. Only shelter and bed can save me now; no food here."}
+- 17:08 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom 3 blocks away; health 1.1. Engage it while I can."}
+- 17:08 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom closing at 2.2 blocks NE. Strike it."}
+- 17:08 act: {"actions":[{"do":"note","text":"Night 298: died to phantoms near -278,68,312 at low health (1.1). Dropped 2 dirt, 2 stick, 1 grass_block, 5 oak_log, 1 bone, 3 oak_sapling, 5 oak_planks, crafting_tabl
+- 17:08 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Full health and the group is near. Sleep in the bed to end the night."}
+- 17:08 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Previous goto was busy; retry the bed and sleep."}
+- 17:08 act: {"actions":[{"do":"sleep"}],"reasoning":"On the bed; try sleep again, since the phantom may leave range.","say":"Thanks, Zack. I'll stay by the beds."}
+- 17:09 act: {"actions":[{"do":"goto","target":{"x":-278,"y":68,"z":312}}],"reasoning":"Dawn; the phantoms should be gone. Recover my dropped gear.","say":"Going to pick up my things at the drop spot. Back soon."}
+- 17:09 act: {"actions":[{"do":"goto","target":{"x":-278,"y":68,"z":310}},{"do":"goto","target":{"x":-275,"y":69,"z":309}},{"do":"goto","target":{"x":-280,"y":70,"z":312}}],"reasoning":"Collect the scattered dropp
+- 17:09 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"goto","target":{"x":-283,"y":69,"z":312}}],"reasoning":"Phantom 3.6 away, health 20. Strike it, then collect the stack to the west."}
+- 17:09 act: {"actions":[{"do":"goto","target":{"x":-281,"y":68,"z":317}},{"do":"goto","target":{"x":-281,"y":66,"z":316}},{"do":"goto","target":{"x":-276,"y":65,"z":315}}],"reasoning":"Collect the last stacks to 
+- 17:09 act: {"actions":[{"do":"note","text":"Dawn 299: recovered my dropped gear by walking the stacks (sword, planks, crafting table, hoe, saplings, seeds). Killed a phantom with the sword. Health 20. No food. J
+- 17:09 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":199}}],"intent":{"goal":"join_food_hunt","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":199}},"wake_on":["goal_completed","directl
+- 17:10 act: {"actions":[{"do":"goto","target":{"x":-252,"y":65,"z":196}},{"do":"attack","target":"chicken"}],"intent":{"goal":"catch_chicken","program":"gather","arguments":{"block":"chicken","count":2},"wake_on"
+- 17:10 act: {"actions":[{"do":"goto","target":{"x":-250,"y":65,"z":181}},{"do":"note","text":"Dawn 299: hunting chickens north with the group. Attack landed, intent failed, no meat yet. Checking the drop spot at 
+- 17:10 act: {"actions":[],"say":"I have no meat. Next chicken I see goes to Picard first.","reasoning":"Others have the chickens in hand. I should be ready for the next one and keep Picard first."}
+- 17:11 act: {"actions":[{"do":"goto","target":{"x":-271,"y":66,"z":330}},{"do":"note","text":"Got a chicken from Bcrusher. Taking it south to Picard near the tilled ground at -271,66,330. Health 20, hunger 20 so 
+- 17:12 act: {"actions":[{"do":"note","text":"At the beds near -270,66,330. Holding one chicken for Picard. Picard is out at his drop spot. Waiting here."}],"say":"I have one chicken for Picard. Picard, where are 
+- 17:12 act: {"actions":[{"do":"note","text":"Picard is fed. My chicken goes to Wesley next. Asking where he is."}],"say":"Picard is fed, good. Wesley, where are you? I have a chicken for you. Jason, I'll hand you
+- 17:13 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"give","to":"ag_wcrusher_01","item":"chicken","count":1}],"reasoning":"Wesley has health 2 and is in reach. Chicken goes to him.","sa
+- 17:13 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"chicken","count":1}],"reasoning":"Wesley is in reach. The first give failed because the chicken lay on the ground. Try again once."}
+- 17:13 act: {"actions":[{"do":"note","text":"Give to Wesley failed twice: items on the ground near him. Holding the chicken. Picard fed. Leonardo and Jason have no food."}],"say":"Wesley, my give failed twice, so
+- 17:17 act: {"actions":[{"do":"note","text":"Got beef from LaForge by mistake. Picard and Wesley are fed. Holding beef and chicken for Leonardo and Jason, who have no food."}],"say":"I have beef and a chicken. Pi
+- 17:17 act: {"actions":[{"do":"goto","target":{"x":-265,"y":66,"z":349}},{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"reasoning":"Jason has no food and asked. Beef goes to him, the chicken stays for
+- 17:17 act: {"actions":[{"do":"note","text":"Jason got a chicken from Clark and is full. Beef still with me. Offering it to Lewis who asked for food."}],"say":"Lewis, I have beef. Come within reach and it's yours
+- 17:21 act: {"actions":[{"do":"note","text":"Dusk day 299. Everyone is full; Lewis and Troi are offering food. Beef and chicken still in my pack for whoever gets low. Heading to a white bed to sleep."}],"say":"Ev
+- 17:21 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"At the bed at dusk with everyone fed. Try to sleep."}
+- 17:21 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"The first bed click was refused as a bed block. Try the other half of the bed."}
