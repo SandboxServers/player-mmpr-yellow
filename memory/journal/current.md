@@ -85,3 +85,7 @@
 - 03:00 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 03:00 act: {"actions":[{"do":"sleep"}]}
 - 03:00 act: {"actions":[{"do":"sleep"}],"say":"Trini in the dark at the south white beds. A skeleton is near, so I'm trying the bed again once it is clear."}
+- 03:01 act: {"say":"Trini here, at the yellow beds, night of day 256. Health 8, hunger 15, no food in my pack. Any meat, bring it to Jason or Data first, then me.","intent":{"goal":"hold_at_beds_until_dawn","prog
+- 03:01 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 03:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 03:05 act: {"actions":[{"do":"sleep"}],"say":"Trini at the yellow bed, night of day 256. Health 8, hunger 15, still no food. Meat goes to Data, then me."}
