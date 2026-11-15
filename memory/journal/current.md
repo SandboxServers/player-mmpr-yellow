@@ -101,3 +101,7 @@
 - 08:08 act: {"say":"Trini out of the pit, dawn day 272. Hunger 8, no food. Heading back to the white beds with the group. Meat to the weakest first; call me at hunger 6.","intent":{"goal":"return_to_white_beds","
 - 08:09 act: {"say":"Thanks Billy. I'm at hunger 8, health 8, still no food. I'll keep waiting here at the white beds; call me if any meat or wheat turns up."}
 - 08:14 act: {"say":"Trini: Bcrusher, I have only wheat seeds, not wheat, so I can't help the loaf. Whoever has one spare wheat, take it to Bcrusher. I'm still at hunger 8 at the white beds."}
+- 08:15 act: {"say":"Trini at the white beds, -272,67,319, hunger 8. Beverly, bring the bread here when it's baked and I'll eat it. Golem 8 south-east of me, so I'm staying still."}
+- 08:18 act: {"say":"Thank you Beverly, I have your 2 wheat. Whoever finds the third wheat, bring it to me at the white beds and I'll give it to Beverly to bake."}
+- 08:21 act: {"say":"Trini going to the white bed at -271,67,318 for the night. Hunger 8, 2 wheat held for Beverly's bread. Any meat or wheat, call me.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},
+- 08:21 act: {"actions":[{"do":"sleep"}],"say":"Night, day 272. Trying the bed again. Worf, thank you; first meat or wheat to me, and I'll pass the wheat to Beverly."}
