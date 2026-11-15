@@ -155,3 +155,9 @@
 - 15:20 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Dusk. Trini sleeping at the north white bed with the group. No food, hunger 14. Meat goes to the weakest in reach at dawn
 - 15:20 act: {"actions":[{"do":"sleep"}]}
 - 15:22 act: {"actions":[{"do":"sleep"}],"say":"Night. Trini sleeping at the north white bed. LaForge, eat your chicken at hunger 6 or below."}
+- 15:38 act: {"say":"Trini: I hold 1 wheat from Lewis. Wesley is the weakest, so it goes to him once he is in reach. I'll eat at hunger 6.","intent":{"goal":"hold_wheat_for_wesley","program":"rest","arguments":{},
+- 15:40 act: {"say":"Wesley, I have 1 wheat for you. I'm at the white beds, -272,67,319. Come within arm's reach and I'll hand it over. Lewis and Kimberly are here to witness."}
+- 15:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Night, 294. Trini going to the white bed with the group. Wesley, I still hold 1 wheat for you; come to the bed and I
+- 15:45 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"wheat","count":1}],"say":"Wesley, here is the wheat from Lewis. You're in reach and the weakest. Eat it."}
+- 15:45 act: {"say":"Billy, the wheat landed in your pack by mistake, not Wesley's. Please give it to Wesley now; he is at health 2 and in reach. Sorry, Billy."}
+- 15:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Wesley, the wheat is yours now; eat it when you can. Trini sleeping at the white bed with the group."}
