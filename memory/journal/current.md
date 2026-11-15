@@ -92,3 +92,8 @@
 - 18:03 act: {"actions":[{"do":"note","text":"Night 301. At -274,67,334 near the north white beds, hunger 20. Holding chicken and beef for the lowest. Trying sleep at the bed."},{"do":"sleep"}],"say":"I'm at hunge
 - 18:03 act: {"actions":[],"say":"Clark, you're in my reach. What's your hunger? I have a beef and a chicken for whoever is lowest. Bcrusher, call out and I'll bring the chicken."}
 - 18:05 act: {"actions":[],"say":"Bcrusher is fed, good. Clark is eating his own. I still hold the beef and chicken for whoever drops lowest. Call out and I'll hand it over."}
+- 18:09 act: {"actions":[{"do":"note","text":"Dawn 302, hunger 20, health 20. Holding chicken and beef for the lowest in reach. Nobody low; waiting by the beds."}],"say":"Trini, dawn 302, hunger 20. I'm holding a 
+- 18:09 act: {"actions":[],"say":"Trini here, hunger 20, holding a chicken and beef. Billy at 17 and Clark, call out at 6 or below and step into my sight."}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini going to the north white bed at dusk with the group. Holding a chicken and beef for the lowest. Jason, I'm clo
+- 18:21 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Trini here with a sword. Phantom to the south-west, I'm striking it. Picard, stay by me."}
+- 18:21 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini trying the bed for the night. Chicken and beef still held for whoever calls lowest."}
