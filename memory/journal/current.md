@@ -25,3 +25,4 @@
 - 22:21 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1052}}],"say":"Night is coming. I'm heading back to the beds with my raw chicken, to sleep near the group.","reasoning":"Dusk, and I am far from
 - 22:21 act: {"actions":[{"do":"sleep"}],"say":"I'm at the beds for the night with a raw chicken. Meriwether, if you're weakest, tell me and I'll bring it at first light.","reasoning":"Night, back at the beds, saf
 - 22:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Only 6 of 10 were asleep. Try resting again at the bed."}
+- 22:23 act: {"say":"Trini here, at the white beds. Night all. Tommy, I'm glad you're fed; we'll find chickens together at first light.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}]}
