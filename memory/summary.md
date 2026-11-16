@@ -1,6 +1,6 @@
 # Recent days
 
-Day 321: Kimberly came to the beds at health 8. My melon and mutton hand-overs failed as "not in sight," so I kept the food. Jason came with five melon and fed her. Slept at the beds at dusk with one melon and one mutton held.
+Day 321: Night at the beds with Kimberly and Jason, health 13, hunger 17. Held melon, mutton, two chicken and rotten flesh for whoever is weakest. Slept at the beds. Chicken searches in the north-east field found nothing this morning.
 
 Day 320: Searched south with the worker, no animals found; Zack seen about 23 blocks off. Held food at the beds.
 
