@@ -6,3 +6,29 @@
 - 19:44 act: greeted Tommy at the hold point, told him no need to rush.
 - Health 15.3, hunger 17. Holding 9 melon. Billy out of sight at the cow field. Waiting for his call to walk. Kimberly not yet seen this morning.
 - 19:49 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Trini going to the white bed at 429,107,-1036 in the group's sight. Billy, count me at first light; Kimberly
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"use","at":{"x":429,"y":107,"z":-1036}}],"say":"Night. Trini in the bed at 429,107,-1036 with the group near. Count everyone at fir
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1024}}],"say":"Good morning. Trini here, health 15, hunger 17, coming to Billy's view to be counted. No cow walk until you call it."}
+- 19:51 act: {"actions":[],"say":"Trini here at 404,107,-1025 in the group's sight. Seeing Jason, Lewis and Kimberly. Billy, count me; I'll walk only on your call with four in sight."}
+- 19:51 act: {"actions":[{"do":"eat"}],"say":"Thank you, Jason. Eating your chicken now. Billy, I am in your sight at 404,107,-1025."}
+- 19:51 act: {"actions":[{"do":"eat"}],"say":"Holding in Billy's sight at 404,107,-1025, with Jason. Waiting for the count."}
+- 19:52 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1024}}],"say":"Kimberly, good to see you by me. Billy, I am stepping closer to your sight now."}
+- 19:52 act: {"actions":[],"say":"Four in sight: Trini, Kimberly, Leonardo, Jason, at 402,107,-1025. Billy, count is four. I wait for your cow-walk call."}
+- 19:52 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1022}}],"say":"Stepping into the open at 405,107,-1022 so you can see me, Billy."}
+- 19:53 act: {"actions":[],"say":"Billy, I am at 405,107,-1021, right beside the crafting table, in the open. Kimberly and Leonardo are near. Look again when you can."}
+- 19:57 act: {"actions":[],"say":"Walking with the group to the cow field, armed with my sword, in daylight. Following Jason and staying in sight.","intent":{"goal":"cow_walk_with_group","program":"follow","argume
+- 19:57 act: {"actions":[],"say":"Follow failed, so I'm holding here with Tommy, Beverly and Leonardo, out of the cow field. Billy, come back to my sight and I'll walk with you."}
+- 19:57 act: {"actions":[],"say":"Billy, Trini is at 405,107,-1021, in the open by the crafting table, with Tommy and Leonardo. I stay put; come to this spot and I will be in your view."}
+- 19:58 act: {"actions":[{"do":"goto","target":{"x":393,"y":107,"z":-1018}}],"say":"Billy, Trini is walking toward you, armed, in daylight, to 393,107,-1018. Stop there and count me."}
+- 19:58 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1024}}],"say":"Billy, I could not find you on the road and it is getting dark. I am going back to the bed row at 404,107,-1024 with Jason and Le
+- 19:59 act: {"actions":[],"say":"Billy, agreed: no walk tonight. I hold at the bed row, 404,107,-1023, with Jason, Lewis, Kimberly and Tommy. If you come back toward the bed row, we will see you."}
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"use","at":{"x":401,"y":107,"z":-1023}}],"say":"Dusk. Trini going to the white bed at 401,107,-1023 with the group near. Billy, cou
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1022}},{"do":"use","at":{"x":401,"y":107,"z":-1022}}],"say":"Jason has the bed at 401,107,-1023, so I am trying 401,107,-1022, still in the grou
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"The beds at 401,107,-1022 and -1023 would not take me. Trying the white bed at 401,
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"use","at":{"x":401,"y":107,"z":-1037}}],"say":"Beds at 401,107,-1022, -1023 and -1036 are taken. Trying 401,107,-1037, still in th
+- 20:04 act: {"actions":[{"do":"goto","target":{"x":392,"y":107,"z":-1018}}],"say":"Good morning, Billy. Trini walking to you at 392,107,-1018, armed, in daylight, with Beverly near. Count me."}
+- 20:04 act: {"actions":[],"say":"Trini here at 393,107,-1018, in the open, armed, health 20, hunger 16, holding melon. Billy, count me. Jason and Kimberly, come into view."}
+- 20:05 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1019}}],"say":"Counted by Billy with four, so I will stay close, armed, in daylight, and walk in your sight to the cow field. Billy, I am in vie
+- 20:10 act: {"actions":[],"say":"Worf, Trini cannot confirm cell 394,107,-1025 from here; my view is blocked. I dig nothing. I walk with Billy's group to the cow field, in sight."}
+- 20:15 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1024}}],"say":"Dusk. Trini going to the bed row at 402,107,-1024 with Beverly, Jason and Kimberly, in the group's sight. Count me at first light
+- 20:15 act: {"actions":[{"do":"sleep"}],"say":"Trini in the bed row at 402,107,-1025, with Kimberly and Jason in sight. Night."}
+- 20:15 act: {"actions":[{"do":"sleep"}]}
