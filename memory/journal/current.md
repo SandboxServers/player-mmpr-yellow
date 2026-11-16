@@ -73,3 +73,9 @@
 - 06:58 act: {"say":"Trini here at the beds, health 7, hunger 17, so I'm fed enough for now. I'll stay in sight of Jason and Billy and walk to the cows when they're ready.","actions":[]}
 - 07:06 act: {"say":"Night. Trini going into the bed at 415,-1037 with Kimberly, Billy and Bcrusher near. Hunger 17, health 7. I'll eat when I reach 6.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}]}
 - 07:06 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 07:07 act: {"say":"Morning. I'm at the beds, health steady, hunger 17. I still have no weapon, so I'll stay in sight of the group today. Jason, I'll owe you the melon when hunger drops.","intent":{"goal":"hold_a
+- 07:07 act: {"say":"Thank you, Jason. My hunger is 17, so I'll hold my melon until it drops to 6, and I'll say so when it does. I'm staying at the beds."}
+- 07:11 act: {"say":"Morning, all. Thank you. Hunger still 17, so I'm holding my 3 melon until it reaches 6. Picard, I have no wood, only dirt and rotten flesh."}
+- 07:15 act: {"say":"Billy, thank you. I'm at the beds, health 7, hunger 17. I'll say when I reach 6."}
+- 07:17 act: {"say":"Thank you, Wcrusher. Dusk is here, so I'm going into the bed at 415,-1036 with the group near. I'll eat the beef when my hunger is 6 or below.","actions":[{"do":"goto","target":{"x":415,"y":10
+- 07:18 act: {"say":"Good night, all. I'm at the bed 415,-1036 with Wcrusher and the group near. Eat the beef when I hit 6, and I'll sleep when it is full night."}
