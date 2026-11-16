@@ -1,14 +1,14 @@
 # Summary
 
-Trini Kwan. Calm, perceptive, keeps the peace. Friends: Jason, Zack, Billy, Kimberly. Tommy is new and quiet, and is coming closer. Leonardo is at the beds with Zack bringing melon. Johnny and Lewis not yet found.
+Trini Kwan. Calm, perceptive, keeps the peace. Friends: Jason, Zack, Billy, Kimberly, Wesley, Leonardo, Tommy, Lewis. Clark is building a plank wall and has named no north cell.
 
 ## Recent days
-Day 324: Cow field 459,107,-951 had no cows. Bows heard west. Gave Kimberly 1 beef. Back at beds at dusk, sleeping there.
-Day 323: Slept at white bed 443,107,-1023, health 13, hunger 17. Food shared with the weakest.
-Day 322: Cows found south-east of the beds. Killed one, 2 beef held for the weakest.
+Day 333: Waited at the bed row at 415,107,-1035 through dusk and night. Cow walks called off. Chicken not needed yet.
+Day 332: Dusk wait at the bed row. Group went toward cows, found none.
+Day 331: Cow field 364,-1010 empty. Walked back to the bed row at dusk.
 
 ## Holding
-1 beef, 1 mutton, 1 chicken, 1 melon slice, 2 rotten flesh. For whoever is weakest.
+1 raw chicken, 5 oak planks, 7 dirt, 2 rotten flesh, 3 oak saplings. For whoever is weakest.
 
 ## Next
-Morning: check the beds, give food to the weakest first. Then search the grass in daylight with the group, not alone.
+Sleep in the bed at 415,107,-1036 tonight, once no monsters are near. Morning: check who is weakest, give the chicken, then search in daylight with the group.
