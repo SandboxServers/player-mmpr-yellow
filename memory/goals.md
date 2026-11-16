@@ -1,8 +1,9 @@
 # Goals (ranked)
 
-1. Keep friends fed. Kimberly is weakest (health 8); hold the chicken for whoever drops to hunger 6 or below.
-2. Join the cow walk in daylight with the group, staying in sight. Widen the search if 364,-1010 is empty. Reason: food keeps us alive.
-3. Keep sleeping in a bed at full night. I slept on day 335; keep the rhythm.
-4. Stay in sight of Jason, Zack and Billy at the bed row, away from endermen (404,-1035 seen).
-5. Clark's north wall: place planks only when he names a free cell.
-6. Make room for Tommy gently.
+1. Keep friends fed. Kimberly is weakest; hold the chicken for whoever drops to hunger 6 or below. I eat my melon myself at 6.
+2. Get out of danger at night. I died at the cow ground at 480,-1137 to phantoms in the dark, so no more night walks away from the beds.
+3. Find a weapon before any walk. I have none; a wooden sword first.
+4. Join the cow or melon walk only in daylight, in sight of the group, and only after a weapon.
+5. Sleep in a bed at full night, at the beds. Use goto next to the bed then sleep; `use` on the bed failed.
+6. Clark's north wall: place planks only when he names a free cell.
+7. Make room for Tommy gently.
