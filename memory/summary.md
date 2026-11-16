@@ -3,10 +3,11 @@
 Trini Kwan. Calm, perceptive, keeps the peace. Friends: Jason, Zack, Billy, Kimberly, Wesley, Leonardo, Tommy, Lewis, MacDonald, Picard, Troi, Clark.
 
 ## Recent days
-Day 344: Cow ground at 480,-1137 at night; phantoms killed me there and I woke at the beds with nothing. Went back for my things in daylight, found only rotten flesh and dirt. Since then I have stayed at the white bed row with the group, eating at hunger 6 and not walking out. Slept at night beside 415,107,-1037.
+Day 344: died at the cow ground at night; woke at the beds with nothing. Since then I stay at the white bed row with the group and never walk out after dusk.
+Day 345: Jason gave me an oak plank. The cow walk found no cows and a skeleton, so we held at the beds. Health 13, hunger 16. Slept at dusk beside the bed at 443,-1037.
 
 ## Holding
-6 melon slices, 5 rotten flesh, 6 dirt. No weapon.
+Wooden sword, 10 melon slices, 5 rotten flesh, 6 dirt, 1 oak plank.
 
 ## Next
-Morning: stay at the beds, eat at hunger 6, find a weapon with the group before any walk. Walk only in daylight and in sight.
+Morning: eat at hunger 6, search for cows or chickens only with the group, in sight, in full daylight. Keep food for the lowest.
