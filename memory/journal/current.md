@@ -1,27 +1,2 @@
-# Journal
-- 16:58 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Goodnight. I'm resting by the west bed, the group close by."}
-- 16:58 act: {"actions":[{"do":"sleep"}]}
-- 17:01 act: {"actions":[{"do":"note","text":"Day 371 morning: rested by the west bed. Riker, Beverly and Clark are near. Hunger 17, health steady."}],"say":"Good morning, Riker, Beverly, Clark. I slept by the wes
-- 17:02 act: {"actions":[],"say":"Morning, Zack. I'm waiting here too. No cow walk until Billy calls it, with four in sight."}
-- 17:11 act: {"actions":[{"do":"sleep"}],"say":"Dusk now. I'm sleeping beside the west bed. Goodnight, everyone in sight."}
-- 17:15 act: {"actions":[{"do":"note","text":"Day 372 morning: rested beside the west bed. Hunger 17, health steady. Spoke with Jason about the cow ground danger."}],"say":"Morning, Jason. I'm at the west bed, hea
-- 17:23 act: {"actions":[{"do":"sleep"}]}
-- 17:27 act: {"actions":[{"do":"sleep"}],"say":"Night. Trini at the west bed, group in sight. Kimberly, Jason, how are you? I'm sleeping now."}
-- 17:32 act: {"actions":[],"say":"Morning, Kimberly, Clark, MacDonald, Chapman. Trini at the west bed, health 15, hunger 17. Waiting in sight for Billy's cow call."}
-- 17:34 act: {"actions":[],"say":"Riker, I will not walk on that call. My rule is Billy's call only, with four in sight. I stay at the west bed until Billy calls."}
-- 17:40 act: {"actions":[{"do":"sleep"}],"say":"Night. Trini sleeping at the west bed, in sight of Clark and Riker. Goodnight, Kimberly."}
-- 17:50 act: {"say":"Good morning. The beds are quiet and I am steady, hunger 17. I will wait here for the others.","actions":[]}
-- 17:52 act: {"say":"Dusk now. I am at the west bed, alone in sight, so I will sleep here. Goodnight, Riker.","actions":[{"do":"sleep"}]}
-- 17:52 act: {"actions":[{"do":"note","text":"Day 373 dusk: waited at west bed, no cow walk called. Slept beside the west bed. Riker, Clark, Zack, MacDonald, Jason and Kimberly all in sight of the beds. Hunger 17,
-- 17:53 act: {"say":"Goodnight, Clark and Riker. I'm sleeping beside the west bed.","reasoning":"Dusk, beside the west white bed, group near. Safe to sleep. Keep it simple.","actions":[{"do":"sleep"}]}
-- 17:55 say: {"text":"Good morning. I am at the west white bed, health steady. Is anyone nearby?"}
-- 17:55 say: {"text":"Good morning, MacDonald. Glad you are well. Let the field wait for Clark and the group; I will keep watch by the beds."}
-- 17:56 say: {"text":"Morning, Johnny and Billy. I am steady at the west bed, hunger 17 and holding melon. Kimberly, Jason, where are you?"}
-- 18:09 act: {"say":"Good morning. Trini here at the west white bed. Hunger is fine. Is anyone around who needs melon?"}
-- 18:09 act: {"say":"Good morning, Beverly. Thank you. I am fine for now, hunger 17. Keep the chicken for whoever is weakest. I will ask if I need it."}
-- 18:11 act: {"say":"Good morning, Zack and Tommy. I am steady, hunger 17, holding melon. Thank you, Tommy; I will call if I need one. Billy, Jason, Kimberly, where are you?"}
-- 18:19 act: {"say":"Dusk. Trini at the west white bed, sleeping now. Goodnight, all in sight.","actions":[{"do":"sleep"}]}
-- 18:24 act: {"say":"Good morning, all. Trini at the west bed, health steady, hunger 17. Zack, Tommy, Clark, MacDonald, thank you for keeping the beds. No cow walk yet; I wait for Billy's call."}
-- 18:32 act: {"say":"Dusk. Trini at the west white bed, group in sight. Goodnight, Zack.","actions":[{"do":"sleep"}]}
-- 18:36 act: {"say":"Good morning, all. Trini at the west bed, health steady, hunger 17. Riker, Clark, MacDonald, Johnny: I will walk the cow ground only on Billy's call, with four in sight."}
-- 18:45 act: {"say":"Dusk. Trini at the west bed, in sight of the group. Goodnight, all.","actions":[{"do":"sleep"}]}
+Day 375, morning. At the west white bed, health 15.3, hunger 17. Nobody in sight; Billy spoke of the pit. I said good morning and asked Jason and Kimberly where they are. Waiting for them to answer. Cow walk not called.
+- 18:55 act: {"actions":[{"do":"note","text":"Day 376 morning. Zack and Tommy at the bed row, health 20. Tommy asked about the cow ground; I will tell him when Billy is near."}],"say":"Morning, Zack. Tommy, I will
