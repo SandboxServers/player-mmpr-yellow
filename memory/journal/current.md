@@ -9,3 +9,7 @@
 - 00:45 act: {"say":"Going to bed at the beds for the night. My 2 chicken and mutton stay for whoever drops lowest; say so and I will hand them over at dawn.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":
 - 00:45 act: {"say":"Dusk. Trini is at the bed beside the group. Tommy, Billy, Kimberly: I hold 2 chicken and 1 mutton for whoever drops lowest. Shout and I will come.","actions":[{"do":"sleep"}]}
 - 00:48 act: {"say":"Night. Kimberly, Tommy, I am sleeping here at the beds. Hold your chicken for the weakest; I hold 2 chicken and 1 mutton.","actions":[{"do":"sleep"}]}
+- 00:50 act: {"say":"Trini here at the beds, 444,107,-1037. I hold 2 chicken, 1 mutton, 1 melon slice. Kimberly, you have no food, so step into my sight and I will give you a chicken. Leonardo, hunger 10 is weakes
+- 00:53 act: {"say":"Billy, Trini here at the beds with 2 chicken and 1 mutton. You are at hunger 17 with no food, so step into my sight and I will give you a chicken before you go searching with Tommy."}
+- Day 322: Gave Billy one chicken (give worked). He holds it for Leonardo or Johnny, who are weaker. Kimberly fed. I hold 1 chicken, 1 mutton, 1 melon slice at the beds.
+- 00:53 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"chicken","count":1}],"say":"Here is a chicken for you, Billy. Eat it, then go with Tommy. I still hold one chicken and one mutton for whoever is nex
