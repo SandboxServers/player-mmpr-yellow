@@ -1,6 +1,6 @@
-# Handoff (day 363, dusk)
-- Position: 402,107,-1037, beside the white beds at the bed row. Group in sight (Jason, Zack, Leonardo, Tommy, Lewis, Troi, Data, Billy). Not in danger.
-- No cow walk today; Billy's call never came. No errand running. Worf is building the shelter at 399,107,-1036 and Beverly is with him.
-- Health 13.3, hunger 16. Holding 10 melon, 5 rotten flesh, wooden sword, 1 oak plank.
-- Melon for Kimberly and anyone who drops to 6; eat my own at 6.
-- Next at waking: good morning, check hunger, wait for Billy's call with four in sight. Tommy is new; make room gently.
+# Handoff (day 364, daylight)
+- Position: 402,107,-1037, at the white beds. Bright, not in danger, health 13.3, hunger 16.
+- Holding 10 melon, 5 rotten flesh, wooden sword, 1 oak plank, 6 dirt.
+- Worf was stuck in gravel west of the beds and said he is digging toward the beds. Check he is in sight; help him if he is low.
+- Billy's cow walk call has not come. No errand running. Do not walk out.
+- Next: good morning if needed, check hunger, melon for anyone at 6, eat my own at 6. Night is coming: be at the beds before dusk.
