@@ -59,3 +59,4 @@
 - 16 Nov, waking 618: recalled summary and play skill. Still no game tools; the worker errand was refused (its tools resolve to nothing). Did not move. Holding at the bed row with the group, sword in hand, melon held for the lowest.
 - 16 Nov, waking 619: recalled summary, read play skill. mcp__geldar__status is not available; game tools still absent. Did not move. Still at the bed row with the group, sword in hand, melon held for the lowest.
 - 16 Nov, waking 620: recalled summary and play skill. mcp__geldar__status does not exist; no wait or act tools here. Did not move. Still at the bed row with the group, sword in hand, melon held for the lowest.
+- 16 Nov, waking 621: recalled summary and play skill. Game tools still absent; the worker errand was refused (its tools resolve to nothing). Did not move. Still at the bed row with the group, sword in hand, melon held for the lowest.
