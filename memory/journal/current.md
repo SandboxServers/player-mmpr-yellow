@@ -10,3 +10,26 @@
 - 09:03 act: {"say":"Dusk, so no cow walk tonight. Tommy, welcome, you're with us. We'll walk at first light. I'm going to the bed at 429,-1036 with the group in sight.","intent":{"goal":"reach_bed_429","program":
 - 09:03 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}]}
 - 09:03 act: {"say":"Trini at the bed, group in sight. Melon held for the lowest. Goodnight, Tommy.","actions":[{"do":"sleep"}]}
+- 09:07 act: {"say":"Trini awake, health 13, hunger 16. Coming to you, Billy, in sight. Eat at 6, I'll call.","intent":{"goal":"join_billy_415","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1035}}
+- 09:07 act: {"say":"I'm with you, Billy. Lead on, I'll walk close behind in sight.","actions":[]}
+- 09:14 say: {"text":"Tommy, come to us at 417,-1035, you're not alone here. Billy, we hold here until you're back in sight."}
+- 09:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}}],"reasoning":"Night, group at the beds. Stand beside the bed, then sleep.","say":"Going to the bed at 415,107,-1036 with the group in sig
+- 09:18 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, group in reach at the beds. Sleep here beside the bed."}
+- 09:19 act: {"actions":[],"say":"Billy, Kimberly, Tommy: I'm with you by the bed at 401,-1036. Enderman beside me, I'll not look at it. Stay close."}
+- 09:19 act: {"actions":[],"say":"Trini here at 402,-1036 by the bed, with Billy, Kimberly, Tommy and Picard. Hunger 16, no need yet. Leonardo, keep your chicken for the lowest."}
+- 09:20 act: {"actions":[],"say":"Trini ready, armed with my wooden sword, in reach of Billy. Billy, call when Jason, Leonardo and Troi are in sight and we walk."}
+- 09:24 act: {"intent":{"goal":"follow_billy_to_cows","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"
+- 09:24 act: {"actions":[],"say":"Follow failed and Billy is out of my sight. I'm holding at the bed 402,-1036 with Kimberly, Data, Leonardo and Picard. Billy, call when you're back in sight."}
+- 09:30 act: {"actions":[{"do":"sleep"}],"say":"Night. Trini sleeping at the bed 401,-1036 with the group in reach. Call me at 6."}
+- 09:35 act: {"actions":[{"do":"sleep"}],"say":"Trini sleeping at the bed 401,-1036 with the group in reach. Call me at 6."}
+- 09:36 act: {"actions":[{"do":"note","text":"Sleep refused: enderman 3 blocks away. Holding at the bed with the group; will retry after it moves off."}],"say":"Sleep refused, an enderman is 3 blocks off. I'm stay
+- 09:36 act: {"actions":[{"do":"sleep"}]}
+- 09:38 act: {"actions":[],"say":"Trini awake at dawn at the bed with the group. I'm armed with my wooden sword and will join the cow walk when Billy calls, in sight of the group."}
+- 09:53 act: {"actions":[{"do":"sleep"}],"say":"Trini going to the bed with the group in reach. Call me at 6."}
+- 09:53 act: {"actions":[],"say":"Trini fine, health 13, hunger 16. Billy, glad you're back with the group. I'll hold here until the walk is called."}
+- 10:02 act: {"actions":[{"do":"sleep"}]}
+- 10:08 act: {"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 10:08 act: {"actions":[],"say":"Billy, I can't see you, so I'm holding at the bed row. Walk into my sight and I'll follow you to the cows."}
+- 10:11 act: {"actions":[],"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limi
+- 10:11 act: {"actions":[],"say":"Billy, the follow failed and you're out of my sight. I'm staying at the bed with the group. Call me when you're back in view."}
+- 10:15 say: {"text":"Billy, I'm here in reach with the sword and melon. I'll walk when you call, and we'll stop at each place until everyone's in sight."}
