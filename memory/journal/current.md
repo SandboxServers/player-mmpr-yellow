@@ -1,1 +1,11 @@
 # Journal
+- 00:35 act: {"say":"Trini here, at the beds. Glad you are safe, Tommy. I hold 2 chicken, 1 mutton and rotten flesh for whoever is weakest. Tell me what you have seen.","intent":{"goal":"search_chicken_south","pro
+- Day 321 morning: At the beds with Tommy, who is fed and well. Said hello, offered my food, and set off south to look for chickens (travel, 40 blocks).
+- Day 321 late morning: Walked about 17 blocks south, saw no animals. Billy is at the beds with one raw chicken. Heading back to meet him.
+- 00:35 act: {"say":"Billy! Trini here. I just came from the beds and I am near them again. Are you well? I hold 2 chicken and 1 mutton if you need them.","intent":{"goal":"return_to_beds_meet_billy","program":"tr
+- Day 321 midday: Gathered at the beds. Tommy is full and watching the north-east field, which is empty of chickens. Billy and Kimberly are here, Clark brings melon to Kimberly. No one is weaker than hunger 17, so I hold my 2 chicken and 1 mutton.
+- Day 321 evening: Sun going low. Kimberly, Lewis and Clark trade melon and chicken at the food chest; Kimberly is holding a chicken for the weakest. I will take the bed beside the beds and sleep, with my 2 chicken and mutton held for whoever drops lowest.
+- 00:36 act: {"say":"Trini back at the beds. Jason, Zack, Billy: I hold 2 chicken and 1 mutton. Whoever is weakest, say so and I will hand it over."}
+- 00:45 act: {"say":"Going to bed at the beds for the night. My 2 chicken and mutton stay for whoever drops lowest; say so and I will hand them over at dawn.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":
+- 00:45 act: {"say":"Dusk. Trini is at the bed beside the group. Tommy, Billy, Kimberly: I hold 2 chicken and 1 mutton for whoever drops lowest. Shout and I will come.","actions":[{"do":"sleep"}]}
+- 00:48 act: {"say":"Night. Kimberly, Tommy, I am sleeping here at the beds. Hold your chicken for the weakest; I hold 2 chicken and 1 mutton.","actions":[{"do":"sleep"}]}
