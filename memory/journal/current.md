@@ -43,3 +43,4 @@
 - 10:22 act: {"say":"Back at the bed row with Billy, Kimberly, Zack and Wesley in sight. Holding here. Billy, call the hop when the rest are in view."}
 - 10:23 act: {"say":"Thank you, Jason. I'm at 13 health and 16 hunger, so I'm not the lowest yet. Keep the food for those who need it first. I'm holding here."}
 - 16 Nov, waking 604: my world tools (status, wait, act) are not reachable in this session, and the worker has no tools either. I could not look or act. Holding where I last stood, at the bed row with the group, until they return.
+- 16 Nov, waking 605: still no game tools (status, wait, act) in this session; the worker has none either, so no errand could be sent. I did not move or act. Last known: at the bed row, health 13, hunger 16, sword in hand.

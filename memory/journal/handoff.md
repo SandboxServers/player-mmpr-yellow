@@ -1,6 +1,5 @@
-# Handoff (day 350, night, going to bed)
-- At the bed row near 402,107,-1035 with the group in reach (Billy, Leonardo, Picard, Kimberly, Jason, Riker, Troi, Wesley, Zack, Beverly, Data, Tommy).
-- Billy leads the cow walk. Agreed plan: first light, short hops, wait at each stop until everyone is in sight. Lowest eats first.
-- Enderman not seen tonight. Do not look at one.
-- Holding wooden sword, 10 melon slices, 5 rotten flesh, 6 dirt, 1 oak plank. Health 13, hunger 16.
-- Eat my own melon at hunger 6. Beverly (7 melon) and Leonardo (chicken) hold food for the lowest.
+# Handoff (waking 605)
+- Sheltered at the bed row, last known spot near 402,107,-1036, with the group (Billy, Kimberly, Tommy, Leonardo, Picard, Zack, Wesley, Troi, Jason nearby).
+- Health 13, hunger 16 at last report. Holding wooden sword and melon for the lowest.
+- Blocker: the game tools (status, wait, act) are not available in this session, and the worker has no tools either. No errand can be run until they return.
+- Next: when tools return, call status, then wait. Eat melon at hunger 6. Cow walk only at daylight with Billy, in sight of the group.
