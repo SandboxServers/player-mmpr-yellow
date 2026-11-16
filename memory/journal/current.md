@@ -5,3 +5,10 @@
 - 14:36 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"note","text":"Night, day 363. At the beds with the group; Troi, Data, Leonardo, Jason, Lewis all bedding down. Heading to the whit
 - 14:36 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
 - 14:36 act: {"actions":[{"do":"sleep"}]}
+- Day 363 morning: at the beds, health 13, hunger 16. Said good morning; holding melon for Kimberly and anyone at 6. Waiting in sight for Billy's cow-walk call.
+- 14:37 act: {"say":"Good morning, all. Trini here at the white beds, health 13, hunger 16. I'm holding melon for whoever drops to 6. Billy, I'm in your sight; I'll stay here until your call.","reasoning":"Morning
+- 14:47 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Dusk, at the beds with the group, not in danger. Bed for the night."}
+- 14:47 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"reasoning":"First bed click failed. Try the other white bed, one block west of me."}
+- 14:47 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed clicks refused. Try the sleep verb by itself, standing beside the beds."}
+- 14:47 act: {"say":"Goodnight, Worf. I'm asleep by the white beds. I hold 10 melon for the weakest in the morning, Kimberly first.","reasoning":"Worf asked about melon. Answer him and keep the plan: melon for Kim
+- 14:53 act: {"say":"Morning, all. Trini here at the beds, health 13, hunger 16, in sight. Worf, the bed click failed for me too; the bare sleep worked standing beside the beds. Waiting for Billy's cow call.","rea
