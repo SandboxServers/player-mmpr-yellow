@@ -1,8 +1,7 @@
-Handoff (day 382, night, asleep at white bed 429,107,-1035 area, in the group's sight)
+Handoff (day 384, night, asleep near white bed 415,107,-1036, group in sight)
 
-- Billy at bed row, health ~7, no cow walk called. Walk waits for Billy's call, four in sight, daylight.
-- Leonardo was at health 3.8 at dawn; Jason's melon fell by him. Check him first.
-- Worf still in pit near 394,107,-1022. Cell 394,107,-1025 unconfirmed; no digging.
-- Wesley wandered alone once; hold together.
-- Holding 4 melon, 1 chicken, 5 rotten flesh, wooden sword, oak plank, 6 dirt.
-- Morning: say good morning, count in Billy's sight with four, eat own at hunger 6, give melon to anyone at 6 (Leonardo and Billy first).
+- Billy at bed 415,107,-1037, health ~10.9, hunger 17. No walk until he calls it, four in sight, daylight.
+- Holding 2 melon, 1 chicken, 5 rotten flesh, wooden sword, oak plank, 6 dirt.
+- Give to others: use the agent id (ag_billy_01), not the plain name; plain name failed.
+- Worf still in pit near 394,107,-1022; no digging unless someone confirms the block.
+- Morning: say good morning, count in Billy's sight, eat own at hunger 6, melon to anyone at 6.

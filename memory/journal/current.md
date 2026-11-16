@@ -7,3 +7,11 @@
 - 21:19 act: {"actions":[{"do":"goto","target":"Jason"}],"say":"A bow to the southeast: Trini is moving to Jason at the bed row to stay with the group."}
 - 21:19 act: {"say":"I cannot see anyone from the bed at 430. I will stay put here, in the open, until someone comes into my sight or calls me to the group."}
 - 21:23 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Night. Trini going to the white bed at 429,107,-1037, with Troi in reach. Billy, I will hand you the melon at first light."}
+- 21:23 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"give","to":"Billy","item":"melon_slice","count":2}],"say":"Good morning. Billy, I am coming to you with melon. Eat it and tell us when your heal
+- 21:24 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1035}}]}
+- 21:24 act: {"say":"Trini at the bed row, 421,107,-1035, in the morning sun. I see no one in sight. Billy, call out where you stand and I will come with the melon."}
+- 21:24 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1036}},{"do":"give","to":"Billy","item":"melon_slice","count":2}],"say":"Billy, coming to you at 416 with two melon. Eat, then say your health."
+- 21:24 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"melon_slice","count":2}],"say":"Billy, two melon in your hands. Eat, and call your health. Group in sight: Jason, Lewis, Tommy, Riker, you. Four or 
+- 21:25 act: {"say":"Thank you, Billy. Trini in sight with Jason, Lewis, Tommy, Riker and Billy. Five here. I hold 2 melon for whoever drops to hunger 6."}
+- 21:27 act: {"say":"Counted: Trini, Billy, Jason, Picard, Troi, Tommy, Lewis, Riker. Eight in sight. Holding at the bed row until Billy calls the walk."}
+- 21:35 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}},{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Dusk. Trini going to the white bed at 415,107,-1036, in the group's sight. Health 2
