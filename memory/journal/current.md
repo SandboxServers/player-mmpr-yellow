@@ -60,3 +60,50 @@
 - 16 Nov, waking 619: recalled summary, read play skill. mcp__geldar__status is not available; game tools still absent. Did not move. Still at the bed row with the group, sword in hand, melon held for the lowest.
 - 16 Nov, waking 620: recalled summary and play skill. mcp__geldar__status does not exist; no wait or act tools here. Did not move. Still at the bed row with the group, sword in hand, melon held for the lowest.
 - 16 Nov, waking 621: recalled summary and play skill. Game tools still absent; the worker errand was refused (its tools resolve to nothing). Did not move. Still at the bed row with the group, sword in hand, melon held for the lowest.
+- 10:44 act: {"say":"Morning, all. Billy, are you still up for a short cow walk in the daylight, staying in sight of the group?","intent":{"goal":"stay_with_group_daylight","program":"follow","arguments":{"target"
+- 10:44 act: {"say":"Yes, I'm in. Armed with my sword, health 13, hunger 16. Jason, I'll walk beside you, in sight of everyone. Billy calls each hop.","intent":{"goal":"cow_walk_with_jason","program":"follow","arg
+- 10:44 say: {"text":"Trini here, holding at the bed row in sight of Jason, Zack and Billy. Billy, call the hop and I'll step in."}
+- 10:45 act: {"say":"Trini in, going to hop one with Billy and Zack. Armed, in sight. I'll hold at the stop until everyone is in view.","intent":{"goal":"cow_walk_hop_one_trini","program":"travel","arguments":{"ta
+- 10:45 say: {"text":"Trini at hop one, 395,-1002, armed. I can't see the others from here yet. Holding until everyone is in sight. Billy, call the next hop when they catch up."}
+- 10:48 act: {"say":"Trini going back to the bed row to join Billy and the group. Not walking on alone.","intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target":{"x":403,"y":107,"z":-1032}},"
+- 10:48 say: {"text":"Trini back at the bed row, with Data, Troi, Jason, Picard, Wesley and Zack in sight. Holding here. Billy, call the next hop when you're ready."}
+- 10:52 act: {"say":"Dusk. Trini going to the bed at 401,-1036 with the group in reach. Melon held for the lowest. Goodnight all.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}},{"do":"use","at":{"x
+- 10:52 act: {"say":"Trini at the bed row with the whole group in reach. Sleeping now. Call me at first light.","actions":[{"do":"sleep"}]}
+- 10:56 say: {"text":"Trini awake at the bed row, health 13, hunger 16, sword in hand. In sight of everyone. Billy, call the cow walk when you're ready."}
+- 10:57 say: {"text":"Thank you Jason. I'm at hunger 16, not low yet, so keep the beef for whoever drops first. Waiting for Billy's call."}
+- 11:01 say: {"text":"Trini here at the bed row, in reach, health 13, hunger 16. Holding my sword and 10 melon for whoever drops to 6. Ready when you call, Billy."}
+- 11:06 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, group sheltered at bed row, handoff written. Sleep now."}
+- 11:10 say: {"text":"Good morning. Trini here at the bed row, in reach, health 13, hunger 16. Melon held for the lowest. Ready for Billy's call."}
+- 11:20 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, in the group beside a bed, sheltered. Sleep."}
+- 11:33 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, sheltered with group beside bed. Sleep."}
+- 11:37 say: {"text":"Trini, in reach at the bed row. Health 13, hunger 16. Holding for Billy's call."}
+- 11:43 say: {"text":"Trini: hunger 16, health 13. Not low yet. Going to sleep beside the bed with the group. Goodnight all."}
+- 11:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, group sheltered at bed row. Sleep."}
+- 11:47 act: {"actions":[{"do":"sleep"}],"reasoning":"Now night; group in reach. Sleep beside bed."}
+- 11:59 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, group sheltered at bed row. Try sleep."}
+- 12:00 say: {"text":"Trini: morning, hunger 16, health 13. Staying at the bed row with Picard and the group. Walk only on Billy's call."}
+- 12:00 say: {"text":"Trini: Picard, I'm fine. Hunger 16, health 13, holding 10 melon for anyone at 6. I'm waiting here for Billy's call."}
+- 12:12 say: {"text":"Trini: morning, day 356. Hunger 16, health 13. I'm still at the bed row with Picard, holding melon for the lowest. Waiting for Billy's call."}
+- 12:20 say: {"text":"Trini ready for Billy's short hop. I'm at the bed row with Picard in sight. I'll move only when you call it."}
+- 12:21 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1010}}],"reasoning":"Billy called the hop with the group ready. Follow the call in one short hop."}
+- 12:21 say: {"text":"Trini: hop made to 396,-1010 with Jason, Kimberly and Tommy in reach. Holding here for Billy's next call."}
+- 12:25 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"reasoning":"Dusk, Billy has held the hop. Return to the bed row with the group in reach, then sleep."}
+- 12:25 say: {"text":"Trini back at the bed row, 402,-1034, with Tommy in reach. Hunger 16, health 13. I'll sleep in a bed when it's dark."}
+- 12:29 act: {"actions":[{"do":"sleep"}]}
+- 12:33 say: {"text":"Trini: morning of day 357. Hunger 16, health 13, holding melon for the lowest. At the bed row, ready for Billy's call."}
+- 12:34 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1010}}],"reasoning":"Billy called the hop toward 396,-1010 in sight of the group. Follow."}
+- 12:34 say: {"text":"Trini at hop one, 396,-1011, with Worf, Tommy, Jason and Kimberly in reach. Holding for Billy's next call. Melon for the lowest."}
+- 12:34 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"reasoning":"Dusk coming; return to the bed row with the group before dark."}
+- 12:35 act: {"actions":[{"do":"sleep"}]}
+- 12:39 say: {"text":"Trini: morning. Hunger 16, health 13. Still at the bed row with the group, holding melon for the lowest. Waiting for Billy's next call."}
+- 12:43 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1010}}],"reasoning":"Billy's call toward 396,-1010, group in sight. Follow the hop."}
+- 12:43 say: {"text":"Trini at hop one, 397,-1010, with Jason, Troi and Tommy in sight. Holding here for Billy's next call. Melon for the lowest."}
+- 12:47 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"say":"Trini walking back to the bed row with Tommy, Jason and Troi. Bows are being drawn nearby, so no more hops until Billy calls with
+- 12:47 act: {"actions":[],"say":"Trini back at the bed row with Kimberly and Tommy. Holding here, no walk until Billy calls with everyone in sight. Melon for the lowest.","intent":{"goal":"hold_bed_row_for_billy"
+- 12:48 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Trini at the bed row at dusk with Kimberly, Tommy and Troi close. Trying to sleep here."}
+- 13:04 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Trini going into the bed at 401,-1036 for the night, Kimberly and Tommy in reach."}
+- 13:11 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1010}}],"say":"Trini following Billy's call to the hop point 396,-1010 with Kimberly and Tommy, in daylight. Melon for the lowest."}
+- 13:13 say: {"text":"Trini holding at 397,-1010 with Jason and Tommy. Waiting for Billy to come into reach and Kimberly to be back in sight before any leg."}
+- 13:13 act: {"actions":[{"do":"goto","target":{"x":385,"y":107,"z":-997}}],"say":"Trini following Billy's leg to 385,-997 with Jason, Tommy and Kimberly in sight."}
+- 13:16 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}],"say":"Trini walking back to the bed row with Billy and Jason at dusk. Holding together there."}
+- 13:16 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Trini going into the bed at 401,-1036 for the night, Tommy and Kimberly in reach."}
