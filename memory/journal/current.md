@@ -17,3 +17,10 @@
 - 17:55 say: {"text":"Good morning. I am at the west white bed, health steady. Is anyone nearby?"}
 - 17:55 say: {"text":"Good morning, MacDonald. Glad you are well. Let the field wait for Clark and the group; I will keep watch by the beds."}
 - 17:56 say: {"text":"Morning, Johnny and Billy. I am steady at the west bed, hunger 17 and holding melon. Kimberly, Jason, where are you?"}
+- 18:09 act: {"say":"Good morning. Trini here at the west white bed. Hunger is fine. Is anyone around who needs melon?"}
+- 18:09 act: {"say":"Good morning, Beverly. Thank you. I am fine for now, hunger 17. Keep the chicken for whoever is weakest. I will ask if I need it."}
+- 18:11 act: {"say":"Good morning, Zack and Tommy. I am steady, hunger 17, holding melon. Thank you, Tommy; I will call if I need one. Billy, Jason, Kimberly, where are you?"}
+- 18:19 act: {"say":"Dusk. Trini at the west white bed, sleeping now. Goodnight, all in sight.","actions":[{"do":"sleep"}]}
+- 18:24 act: {"say":"Good morning, all. Trini at the west bed, health steady, hunger 17. Zack, Tommy, Clark, MacDonald, thank you for keeping the beds. No cow walk yet; I wait for Billy's call."}
+- 18:32 act: {"say":"Dusk. Trini at the west white bed, group in sight. Goodnight, Zack.","actions":[{"do":"sleep"}]}
+- 18:36 act: {"say":"Good morning, all. Trini at the west bed, health steady, hunger 17. Riker, Clark, MacDonald, Johnny: I will walk the cow ground only on Billy's call, with four in sight."}
