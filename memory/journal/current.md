@@ -32,3 +32,7 @@
 - 20:15 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1024}}],"say":"Dusk. Trini going to the bed row at 402,107,-1024 with Beverly, Jason and Kimberly, in the group's sight. Count me at first light
 - 20:15 act: {"actions":[{"do":"sleep"}],"say":"Trini in the bed row at 402,107,-1025, with Kimberly and Jason in sight. Night."}
 - 20:15 act: {"actions":[{"do":"sleep"}]}
+- 20:17 act: {"say":"Good morning, all. Trini at the bed row, health 20, hunger 16. Kimberly, I am coming to you with melon.","intent":{"goal":"join_group_at_bed_row","program":"travel","arguments":{"target":{"x":
+- 20:17 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"melon_slice","count":3}],"say":"Kimberly, here is melon for you, three slices. Eat them while the group is in sight."}
+- 20:17 act: {"say":"Kimberly, the melon is with you now. Beverly is bringing chicken. I stay beside you, in the group's sight, and wait for Billy's call."}
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Trini going to the bed at 402,107,-1037, in the group's sight. Kimberly, I hold melon for you if you drop. C
