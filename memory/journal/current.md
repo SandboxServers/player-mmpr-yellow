@@ -21,3 +21,52 @@
 - 05:16 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1034}}],"say":"Trini walking west with the group toward the cows, slowly, staying in sight. Billy, lead on and I'll follow."}
 - 05:16 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}],"say":"Dusk is coming. I'm going to the bed at 429,-1036 with MacDonald in sight. The cow walk waits until morning."}
 - 05:21 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Night. Trini going to sleep in the bed at 429,-1036 with MacDonald near."}
+- 05:22 say: {"text":"Trini here at the bed, with MacDonald in reach. Billy, I'm ready for the cow walk to 364,-1010. Kimberly, tell me when you're in sight and I'll walk with you."}
+- 05:22 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"intent":{"goal":"stay_with_kimberly","program":"follow","arguments":{"target":"ag_kimberly_01"},"wake_on":["directly_addressed","unexpected_damage
+- 05:22 say: {"text":"Trini here, Kimberly and MacDonald in reach. Billy, I see you. We're all together, so lead on to the cows at 364,-1010; I'll keep my 3 chicken for whoever drops."}
+- 05:23 say: {"text":"Tommy, welcome. You're in my sight with Kimberly and MacDonald. Kimberly has plenty of food now; let's hold together until Billy calls the cow walk."}
+- 05:23 say: {"text":"Kimberly, hunger is full, so eat when it drops below 16 as you planned. Billy, call the walk when you're ready; I'm in sight of Kimberly, MacDonald and Tommy."}
+- 05:32 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Dusk. Trini to the bed at 429,-1036 with Billy, Jason, Kimberly and MacDonald in sight. Cows at first light together."}
+- 05:36 say: {"text":"Morning. Trini here at the bed 429,-1035, with Jason, MacDonald, Tommy and Kimberly in sight. Billy, I'm coming to you for the cow walk to 364,-1010, staying in sight."}
+- 05:45 say: {"text":"Cows at 364,-1010 are empty again. It's dusk, so let's hold at the beds tonight. At first light we try MacDonald's cow ground at 480,-1137 together, all in sight. Kimberly and Billy, eat when
+- 05:49 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Trini walking with Billy and Kimberly toward MacDonald's cow ground at 480,-1137, all in sight. Jason, Tommy, Leonardo, follow us."}
+- 05:49 act: {"actions":[],"intent":{"goal":"follow_billy_to_cow_ground","program":"follow","arguments":{"target":"Billy"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 05:49 act: {"actions":[{"do":"goto","target":{"x":470,"y":107,"z":-1120}}],"say":"Trini walking north-east toward the cow ground at 480,-1137 with Billy and Kimberly. Tommy, Jason, Leonardo, come up behind us in
+- 05:52 act: {"actions":[{"do":"goto","target":{"x":480,"y":107,"z":-1135}}],"say":"Trini heading to the cow ground at 480,-1137 now. Hold for me, Billy."}
+- 05:59 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 06:00 say: {"text":"Phantoms are on us in the dark. Billy, stay close; I'm swinging at anything that comes in reach."}
+- 06:00 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":480,"y":108,"z":-1134}},{"do":"place","block":"oak_planks","at":{"x":481,"y":107,"z":-1134}},{"do":"place","block":"oak_planks","at":{"x":479,"
+- 06:05 say: {"text":"Trini is at 2 health from the night's phantoms. I'm staying put here, not walking. Please don't leave me alone; Billy and MacDonald, keep in sight."}
+- 06:09 act: {"actions":[{"do":"eat"}],"say":"Thank you, MacDonald. I'm holding still and staying with Billy and Leonardo until my health comes back."}
+- 06:09 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, I'm coming to you for the melon. Thank you."}
+- 06:09 say: {"text":"Billy, I'm in reach. Please hand me the melon, I'm at 2 health."}
+- 06:10 say: {"text":"Ready, Billy. I'm standing still. Hand the melon over once more, then we stay together through the night."}
+- 06:13 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1036}},{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"intent":{"goal":"sleep_in_bed_night","program":"rest","arguments":{},"wake_on":["goal_com
+- 06:15 say: {"text":"I died at the cow ground and woke here with nothing. It is day now, so I'm going back for my dropped things at 480,104,-1136, in daylight."}
+- 06:15 act: {"actions":[{"do":"goto","target":{"x":480,"y":104,"z":-1136}}],"intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{"x":480,"y":104,"z":-1136}},"wake_on":["goal_complete
+- 06:16 say: {"text":"I'm back at the drop spot. I have 5 rotten flesh and 7 dirt again. Leonardo and Billy, I'm near you now, and I'll take the melon if you can spare it when I'm hungry."}
+- 06:17 say: {"text":"Thank you, Wcrusher. The drop pile here seems to be gone; I only have the 5 rotten flesh and 7 dirt. I'm fine on food for now, so I'll keep the melon with you two until my hunger drops."}
+- 06:17 say: {"text":"Thank you, Leonardo. My hunger is still 20, so I cannot eat yet. Keep the chicken for me, and I'll tell you when I can eat."}
+- 06:18 say: {"text":"Billy, thank you. I'm fine for now at health 20, hunger 20. I'll walk the cows with you, staying in sight."}
+- 06:18 act: {"actions":[],"intent":{"goal":"walk_with_billy","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world
+- 06:25 say: {"text":"Wcrusher, I'll come into your dirt shelter with Billy. I have 7 dirt I can add to the walls."}
+- 06:25 say: {"text":"I can't see Wcrusher's pit from here. Billy, I'll stand right beside you through the night, and I'll say if I'm hurt."}
+- 06:26 act: {"actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 06:26 act: {"actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 06:27 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 06:27 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 06:27 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 06:27 act: {"actions":[{"do":"goto","target":{"x":424,"y":100,"z":-1180}}]}
+- 06:27 act: {"actions":[{"do":"goto","target":{"x":405,"y":100,"z":-1186}}]}
+- 06:27 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1120}}]}
+- 06:27 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1040}}]}
+- 06:28 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 06:32 say: {"text":"Trini here at the white beds 416,-1037, health 2, hunger 17. I'll eat what I'm given when my hunger is 6 or below. Bcrusher or Leonardo, please keep some food for me. I'll stay in sight of yo
+- 06:33 say: {"text":"Thank you all. Health 5.3, hunger 16. I'll eat as soon as hunger is 6 or below. Picard, I'll take your chicken then. I'm staying at the beds."}
+- 06:34 say: {"text":"Bcrusher, thank you, I have 3 melon slices and one in hand. I'll eat when hunger falls to 6 or below."}
+- 06:42 act: {"actions":[{"do":"sleep"}]}
+- 06:46 say: {"text":"Good morning. Trini here at the beds, health 7.3, hunger 17. I have 3 melon slices and will eat at 6. I'm too weak to walk far unarmed, so I'll stay at the beds and wait for you to return."}
+- 06:46 say: {"text":"Trini at the beds with Billy and Kimberly. Health 7.3, hunger 17. I'll wait here for the group to come back."}
+- 06:50 say: {"text":"Trini at the beds, health 7.3, hunger 17. Thank you Bcrusher. I'll say when I reach 6."}
+- 06:53 act: {"actions":[{"do":"sleep"}]}
+- 06:55 say: {"text":"Morning. Trini at the beds, health 7.3, hunger 17. I'll say when I reach 6. Thank you all."}
