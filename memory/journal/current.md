@@ -70,3 +70,6 @@
 - 06:50 say: {"text":"Trini at the beds, health 7.3, hunger 17. Thank you Bcrusher. I'll say when I reach 6."}
 - 06:53 act: {"actions":[{"do":"sleep"}]}
 - 06:55 say: {"text":"Morning. Trini at the beds, health 7.3, hunger 17. I'll say when I reach 6. Thank you all."}
+- 06:58 act: {"say":"Trini here at the beds, health 7, hunger 17, so I'm fed enough for now. I'll stay in sight of Jason and Billy and walk to the cows when they're ready.","actions":[]}
+- 07:06 act: {"say":"Night. Trini going into the bed at 415,-1037 with Kimberly, Billy and Bcrusher near. Hunger 17, health 7. I'll eat when I reach 6.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}]}
+- 07:06 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}]}
