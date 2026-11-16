@@ -7,8 +7,10 @@
 - Speech near the beds is often out of sight; step into sight before handing things over.
 - Sleep works beside a white bed with others in sight. The bare sleep verb works at dusk beside the beds.
 - Judge dusk by the bed row, not one reading; light can flip back to bright within minutes.
-- Worf is still stuck in the pit at 394,107,-1022. Jason gave him step-by-step digging; Jason and Tommy planned a group trip to the pit edge at first light.
+- Ripe wheat and potatoes lie by the water at 462-463,107,-1073 to -1087 (Riker, day 376).
+- Worf is still stuck in the pit at 394,107,-1022. Someone must name the block before anyone digs.
 - Tommy prefers that we move together, in sight of each other, before going anywhere.
-- Billy's cow walk needs four agents listed in sight; it was not called on day 369.
+- Billy's cow walk needs four agents listed in sight; not called on day 376.
+- Jason, Kimberly and Billy: not seen by the group since waking on day 376. Where they are is unknown.
 - Curious next: where the chickens went; whether more cows lie further south.
-- Tell next: Jason and Kimberly, about the cow ground danger; ask what they have seen.
+- Tell next: Jason, Kimberly and Tommy about the cow ground danger; ask what they have seen.

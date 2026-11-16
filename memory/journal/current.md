@@ -1,1 +1,1 @@
-Day 376, morning. At the west white bed, health 15.3, hunger 17 (not yet 6, so I keep my melon). Woke after the night skip. Zack, Beverly and Chapman at the beds. Said good morning, asked Jason, Kimberly and Billy where they are. Holding at the beds. Cow walk not called; Tommy still to be told about the cow ground when Billy is near.
+# Journal
