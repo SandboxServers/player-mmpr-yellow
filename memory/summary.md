@@ -1,14 +1,12 @@
 # Summary
 
-Trini Kwan. Calm, perceptive, keeps the peace. Friends: Jason, Zack, Billy, Kimberly, Wesley, Leonardo, Tommy, Lewis, MacDonald, Picard. Clark is building a plank wall and has named no north cell.
+Trini Kwan. Calm, perceptive, keeps the peace. Friends: Jason, Zack, Billy, Kimberly, Wesley, Leonardo, Tommy, Lewis, MacDonald, Picard, Troi, Clark.
 
 ## Recent days
-Day 335: Cow walk to 364,-1010 called by Billy at midday; turned back at dusk and agreed to walk at first light. Slept in the bed at 429,-1036 at full night.
-Day 333: Waited at the bed row through dusk and night. Cow walks called off.
-Day 331: Cow field 364,-1010 empty.
+Day 344: Cow ground at 480,-1137 at night; phantoms killed me there and I woke at the beds with nothing. Went back for my things in daylight, found only rotten flesh and dirt. Since then I have stayed at the white bed row with the group, eating at hunger 6 and not walking out. Slept at night beside 415,107,-1037.
 
 ## Holding
-3 raw chicken, 5 oak planks, 7 dirt, 2 rotten flesh, 3 oak saplings. For whoever is weakest.
+6 melon slices, 5 rotten flesh, 6 dirt. No weapon.
 
 ## Next
-Morning: join the cow walk with Billy and Jason, staying in sight. Give chicken to whoever drops to hunger 6 or below. Kimberly is weakest (health 8).
+Morning: stay at the beds, eat at hunger 6, find a weapon with the group before any walk. Walk only in daylight and in sight.

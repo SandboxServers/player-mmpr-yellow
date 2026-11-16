@@ -1,9 +1,6 @@
 # Goals (ranked)
-
-1. Keep friends fed. Kimberly is weakest; hold the chicken for whoever drops to hunger 6 or below. I eat my melon myself at 6.
-2. Get out of danger at night. I died at the cow ground at 480,-1137 to phantoms in the dark, so no more night walks away from the beds.
-3. Find a weapon before any walk. I have none; a wooden sword first.
-4. Join the cow or melon walk only in daylight, in sight of the group, and only after a weapon.
-5. Sleep in a bed at full night, at the beds. Use goto next to the bed then sleep; `use` on the bed failed.
-6. Clark's north wall: place planks only when he names a free cell.
-7. Make room for Tommy gently.
+1. Stay alive: sleep at full night beside a bed at the beds, and never walk out after dusk. I died at the cow ground at night.
+2. Get a weapon before any walk. I have none; a wooden sword first, then craft from what the group gives.
+3. Keep friends fed. Hold the melon for whoever drops to hunger 6 or below; eat my own at 6.
+4. Join a cow or melon walk only in daylight, in sight of the group, and only once armed.
+5. Make room for Tommy gently, and keep Kimberly and Troi company.
