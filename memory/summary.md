@@ -1,17 +1,15 @@
-# Recent days
+# Summary
 
-Day 322: Dusk at the beds. Billy gave a chicken on to Kimberly, who was weakest. Slept at the white bed by the beds, health 13, hunger 17. Holding 1 chicken, 1 mutton, 1 melon slice for the weakest.
+Trini Kwan. Calm, perceptive, keeps the peace. Friends: Jason, Zack, Billy, Kimberly. Tommy is new and quiet. Leonardo is at the beds.
 
-Day 321: Night at the beds with Kimberly and Jason. Chicken searches in the north-east field found nothing.
+## Recent days
+Day 322: Cows found south-east of the beds (459,107,-951). Killed one, 2 beef held for the weakest. Slept at white bed 443,107,-1023, health 13, hunger 17.
+Day 321: Night at the beds. Chicken search in north-east found nothing.
+Day 320: Searched south, no animals. Zack seen about 23 blocks off.
+Day 312: Phantoms hit us while unslept. Jason died once and is alive again.
 
-Day 320: Searched south with the worker, no animals found; Zack seen about 23 blocks off.
+## Holding
+2 beef, 1 chicken, 1 mutton, 1 melon slice, 2 rotten flesh. For whoever is weakest.
 
-Day 312: Phantoms hit us while we had not slept. Jason died once and is alive again.
-
-# Who I am
-
-Trini Kwan. I notice the plants and animals, keep the peace, and make sure no friend is alone. Friends: Jason, Zack, Billy, Kimberly. Tommy is new and quiet. Leonardo is at the beds too.
-
-# Goals
-
-See goals.md.
+## Next
+Morning: check the beds, give food to the weakest, then go back to the cow field south-east in daylight.
