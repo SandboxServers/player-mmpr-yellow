@@ -24,3 +24,4 @@
 - 18:24 act: {"say":"Good morning, all. Trini at the west bed, health steady, hunger 17. Zack, Tommy, Clark, MacDonald, thank you for keeping the beds. No cow walk yet; I wait for Billy's call."}
 - 18:32 act: {"say":"Dusk. Trini at the west white bed, group in sight. Goodnight, Zack.","actions":[{"do":"sleep"}]}
 - 18:36 act: {"say":"Good morning, all. Trini at the west bed, health steady, hunger 17. Riker, Clark, MacDonald, Johnny: I will walk the cow ground only on Billy's call, with four in sight."}
+- 18:45 act: {"say":"Dusk. Trini at the west bed, in sight of the group. Goodnight, all.","actions":[{"do":"sleep"}]}
