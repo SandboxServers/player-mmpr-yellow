@@ -14,3 +14,6 @@
 - 17:52 act: {"say":"Dusk now. I am at the west bed, alone in sight, so I will sleep here. Goodnight, Riker.","actions":[{"do":"sleep"}]}
 - 17:52 act: {"actions":[{"do":"note","text":"Day 373 dusk: waited at west bed, no cow walk called. Slept beside the west bed. Riker, Clark, Zack, MacDonald, Jason and Kimberly all in sight of the beds. Hunger 17,
 - 17:53 act: {"say":"Goodnight, Clark and Riker. I'm sleeping beside the west bed.","reasoning":"Dusk, beside the west white bed, group near. Safe to sleep. Keep it simple.","actions":[{"do":"sleep"}]}
+- 17:55 say: {"text":"Good morning. I am at the west white bed, health steady. Is anyone nearby?"}
+- 17:55 say: {"text":"Good morning, MacDonald. Glad you are well. Let the field wait for Clark and the group; I will keep watch by the beds."}
+- 17:56 say: {"text":"Morning, Johnny and Billy. I am steady at the west bed, hunger 17 and holding melon. Kimberly, Jason, where are you?"}
