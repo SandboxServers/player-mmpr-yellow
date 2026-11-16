@@ -1,1 +1,23 @@
 # Journal
+- 04:41 act: {"intent":{"goal":"follow_wesley_to_cows","program":"follow","arguments":{"target":"Wesley"},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max
+- 04:41 say: {"text":"Trini here at the bed row, hunger 16. I hold one chicken for whoever drops low. Wesley, I'll walk to the cows with you when I can see you."}
+- 04:42 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1038}}],"say":"Trini walking to Billy at 430,-1037, to join the cow hunt. Holding my chicken for the weakest."}
+- 04:42 say: {"text":"Trini here, with Jason beside me at 427,-1038. Billy, Kimberly, I'm in sight. Call the walk when you are set; I'll hold the chicken for whoever drops."}
+- 04:43 act: {"intent":{"goal":"follow_billy_to_cows","program":"follow","arguments":{"target":"Billy"},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_b
+- 04:48 say: {"text":"Trini: Lewis, I have not been past the birch either. I'll stay with the beds for now, and I'll walk north-east with you if you call it, staying in sight."}
+- 04:51 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1038}}],"say":"Dusk. Going to the bed at 429,-1037 with Jason and Kimberly near."}
+- 04:51 say: {"text":"Kimberly, you take the 429,-1037 bed. I'll use the other half of the bed at 429,-1036, or the one at 415,-1036 if that's better."}
+- 04:56 say: {"text":"Morning. Trini here at 429,-1039, hunger 16, holding 3 chicken for whoever drops low. Leonardo, Tommy, Wesley: I'll join the cow walk when you set off, staying in sight."}
+- 04:56 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1038}}],"say":"Trini walking to Billy and Kimberly at the bed row, to join the cow walk in sight of them."}
+- 04:56 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1035}}],"say":"Trini here, ready. Kimberly, I'm coming to you at the bed; I'll walk with Billy's group and keep my chicken for whoever drops."}
+- 04:57 say: {"text":"Trini here, with Kimberly and Billy in reach. It's going dim, so I think we hold here for the night and walk for cows at first light. Kimberly, eat Billy's melon when your hunger is low enoug
+- 05:05 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}],"say":"Dusk. Trini going to the bed at 429,-1036 with Kimberly and Billy in sight. I'll sleep at full night."}
+- 05:09 say: {"text":"Morning. Trini here at the bed, healthy, hunger 16, 3 chicken held for the weakest. Kimberly, Macdonald: I'm in sight. Jason, Zack, call the cow walk when you're set and I'll walk with you."}
+- 05:12 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1036}}],"say":"Trini ready for the cow walk to 364,-1010. Walking to Billy now, holding my 3 chicken for the weakest."}
+- 05:13 say: {"text":"Trini here at 439,-1036, in sight of Tommy. Kimberly, I'm waiting at this spot; come to me and we'll go to Billy together. Tommy, I'll walk with you."}
+- 05:14 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1038}}],"say":"Trini with Kimberly and Tommy, walking to Billy at the bed row 444,-1037. Billy, call the walk when you see us."}
+- 05:15 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1037}}],"say":"Trini here, walking with Kimberly and Tommy as Billy called. Kimberly, eat the melon first. I hold my 3 chicken for whoever drops
+- 05:15 say: {"text":"Trini here at 441,-1037, in sight of Kimberly and Tommy. MacDonald, I see you joining. Kimberly, Tommy: we hold here until Billy is in sight, then walk together."}
+- 05:16 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1034}}],"say":"Trini walking west with the group toward the cows, slowly, staying in sight. Billy, lead on and I'll follow."}
+- 05:16 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}],"say":"Dusk is coming. I'm going to the bed at 429,-1036 with MacDonald in sight. The cow walk waits until morning."}
+- 05:21 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Night. Trini going to sleep in the bed at 429,-1036 with MacDonald near."}

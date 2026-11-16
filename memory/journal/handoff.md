@@ -1,6 +1,7 @@
-# Handoff (day 331, dusk)
-- Back at the bed row, standing at 415,107,-1035, beside the bed at 415,107,-1036. Not enclosed, no monsters in view.
-- Health 16, hunger 16. Holding 1 raw chicken for the weakest (eat only at hunger 6 or below), 5 oak planks, 7 dirt, 2 rotten flesh.
+# Handoff (day 335, dusk)
+- At the bed 429,107,-1035, beside the white bed at 429,107,-1036. MacDonald within reach, Kimberly and Tommy nearby on the bed row. Not enclosed, no monsters near.
+- Health 16, hunger 16. Holding 3 raw chicken for whoever drops to hunger 6 or below, 5 oak planks, 7 dirt, 2 rotten flesh.
+- Cow walk to 364,-1010 (Billy's call) did not reach the cows before dusk; postponed to morning.
+- Enderman seen near 404,-1035 earlier. Keep away.
 - Clark has named no north wall cell. Do not place planks until he does.
-- Cow sighting at 459,107,-951 was empty earlier. Cow field 364,108,-1012 had no cows.
-- Next: wait for night beside the bed, sleep when dark and no monsters are near, then run reflect.
+- days_since_sleep 2. Next: wait for full night, sleep in the bed, then run reflect.
