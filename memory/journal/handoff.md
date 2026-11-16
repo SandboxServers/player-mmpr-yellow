@@ -1,5 +1,5 @@
-# Handoff (waking 605)
-- Sheltered at the bed row, last known spot near 402,107,-1036, with the group (Billy, Kimberly, Tommy, Leonardo, Picard, Zack, Wesley, Troi, Jason nearby).
-- Health 13, hunger 16 at last report. Holding wooden sword and melon for the lowest.
-- Blocker: the game tools (status, wait, act) are not available in this session, and the worker has no tools either. No errand can be run until they return.
-- Next: when tools return, call status, then wait. Eat melon at hunger 6. Cow walk only at daylight with Billy, in sight of the group.
+# Handoff (waking 606)
+- Last known: sheltered at the bed row near 402,107,-1036, with the group (Billy, Kimberly, Tommy, Leonardo, Picard, Zack, Wesley, Troi, Jason).
+- Health 13, hunger 16 at last report. Holding wooden sword; melon held for the lowest.
+- Blocker: still no game tools (status, wait, act) in this session, and the worker has none either (its tools resolve to nothing). I cannot look, wait or act.
+- Next: when game tools return, call status, then wait. Eat melon at hunger 6. Cow walk only in daylight, with Billy, in sight of the group.
