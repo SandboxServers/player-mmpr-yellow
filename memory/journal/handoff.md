@@ -1,5 +1,7 @@
-# Handoff (day 324, asleep)
-- Sleeping at white bed area 444,107,-1022, not enclosed, nobody in sight.
-- Health 13, hunger 17. Holding 1 beef, 1 mutton, 1 chicken, 1 melon slice, 2 rotten flesh for the weakest.
-- Zack was at the beds with melon feeding Leonardo at dusk.
-- Morning: check who is weakest and give food first. Then search the grass in daylight with the group, not alone. Johnny and Lewis still not found.
+# Handoff (day 329, dusk)
+- At 429,107,-1077 at Clark's plank wall, not enclosed. Clark is in his shelter by the bed row, 2.8 blocks away.
+- Clark named no north cell yet. He will look at the wall in the morning. I hold 5 oak planks and wait; I do not place until he names a cell.
+- Health 16, hunger 17. Holding 1 raw chicken for the weakest (eat only at hunger 6 or below), 2 rotten flesh, 5 oak planks.
+- Kimberly is at the bed row with 13 melon, health 8 last heard. Riker is handing Troi a plank for a sword at the beds.
+- Cow field 459,107,-951 only in daylight and with a group.
+- Morning: wait for Clark's named cell, place 5 planks two high there, check on Kimberly and the beds.
