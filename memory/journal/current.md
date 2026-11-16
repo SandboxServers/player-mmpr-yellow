@@ -1,2 +1,1 @@
-Day 375, morning. At the west white bed, health 15.3, hunger 17. Nobody in sight; Billy spoke of the pit. I said good morning and asked Jason and Kimberly where they are. Waiting for them to answer. Cow walk not called.
-- 18:55 act: {"actions":[{"do":"note","text":"Day 376 morning. Zack and Tommy at the bed row, health 20. Tommy asked about the cow ground; I will tell him when Billy is near."}],"say":"Morning, Zack. Tommy, I will
+Day 376, morning. At the west white bed, health 15.3, hunger 17 (not yet 6, so I keep my melon). Woke after the night skip. Zack, Beverly and Chapman at the beds. Said good morning, asked Jason, Kimberly and Billy where they are. Holding at the beds. Cow walk not called; Tommy still to be told about the cow ground when Billy is near.
