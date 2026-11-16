@@ -1,1 +1,12 @@
 # Journal
+- 08:52 act: {"say":"Night. I am beside the bed here with the group in sight. Melon held for the lowest.","actions":[{"do":"use","at":{"x":443,"y":107,"z":-1036}}]}
+- 08:52 act: {"actions":[{"do":"sleep"}]}
+- 08:52 act: {"say":"Morning. Trini here, health 13, hunger 16. I'll walk with Billy in daylight, in sight of the group. Billy, I can go first with you.","actions":[]}
+- 08:53 act: {"say":"Yes Billy, together. I'll go when the light reads bright here, and I'll stay close behind you.","actions":[]}
+- 08:54 act: {"say":"Coming to you now, Billy. Wesley, thank you for the beef.","intent":{"goal":"walk_to_billy","program":"travel","arguments":{"target":{"x":421,"y":107,"z":-1033}},"wake_on":["directly_addressed
+- 08:54 act: {"say":"I'm with you, Billy, in bright light. Lead on, I'll follow close with my sword.","intent":{"goal":"follow_billy_to_cows","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["dir
+- 08:54 act: {"say":"Ready. Billy, lead on and I'll keep pace beside Jason. Call if I fall behind.","actions":[]}
+- 08:58 say: {"text":"Trini here with Billy, Jason and Troi, all in sight. Billy, call the walk when you are ready and we go together."}
+- 09:03 act: {"say":"Dusk, so no cow walk tonight. Tommy, welcome, you're with us. We'll walk at first light. I'm going to the bed at 429,-1036 with the group in sight.","intent":{"goal":"reach_bed_429","program":
+- 09:03 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}]}
+- 09:03 act: {"say":"Trini at the bed, group in sight. Melon held for the lowest. Goodnight, Tommy.","actions":[{"do":"sleep"}]}
