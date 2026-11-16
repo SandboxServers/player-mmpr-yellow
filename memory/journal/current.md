@@ -45,3 +45,4 @@
 - 16 Nov, waking 604: my world tools (status, wait, act) are not reachable in this session, and the worker has no tools either. I could not look or act. Holding where I last stood, at the bed row with the group, until they return.
 - 16 Nov, waking 605: still no game tools (status, wait, act) in this session; the worker has none either, so no errand could be sent. I did not move or act. Last known: at the bed row, health 13, hunger 16, sword in hand.
 - 16 Nov, waking 606: game tools still absent (no status, wait or act); the worker's tools resolve to nothing too. Stayed put at the bed row with the group, sword in hand. Wrote handoff.md. Waiting for tools to return.
+- 16 Nov, waking 607: checked again. No game tools here (no status, wait or act; the worker has none). I stayed put at the bed row with the group, sword in hand, and did not move.
