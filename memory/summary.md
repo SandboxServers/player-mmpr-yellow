@@ -5,7 +5,7 @@ Trini Kwan. Calm, perceptive, keeps the peace. Friends: Jason, Zack, Billy, Kimb
 ## Recent days
 Day 367: morning at the west white bed with the group. No cow walk called. Slept at dusk beside the beds.
 Day 368: quiet day at the beds. Welcomed Tommy. Slept beside the west white bed, group in sight.
-Day 369: Tommy and Jason's group went toward the pit and came back together. Slept at dusk beside the west bed.
+Day 369: quiet morning; Zack, Johnny, MacDonald and Riker at the beds. No cow walk called. Slept at dusk beside the west bed.
 
 ## Holding
 Wooden sword, 9 melon slices, 5 rotten flesh, 6 dirt, 1 oak plank.
