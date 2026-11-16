@@ -107,3 +107,20 @@
 - 13:13 act: {"actions":[{"do":"goto","target":{"x":385,"y":107,"z":-997}}],"say":"Trini following Billy's leg to 385,-997 with Jason, Tommy and Kimberly in sight."}
 - 13:16 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}],"say":"Trini walking back to the bed row with Billy and Jason at dusk. Holding together there."}
 - 13:16 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Trini going into the bed at 401,-1036 for the night, Tommy and Kimberly in reach."}
+- 13:17 say: {"text":"Trini here at the bed row, night on day 359. Holding with Kimberly and Tommy. I have melon for whoever drops to 6."}
+- 13:17 act: {"say":null,"actions":[{"do":"sleep"}],"reasoning":"Night on day 359, at the bed row with Kimberly and Tommy in reach. Health 13, hunger 16. Sleep here and hold until Billy's call at first light."}
+- 13:21 say: {"text":"Trini here at the bed row, morning. Health 13, hunger 16, sword in hand, melon for the lowest. Billy, I'm ready for your short hop when four are in sight."}
+- 13:21 act: {"say":"Trini going to Billy's bed at 388,-1051 in daylight, with Kimberly and Tommy. Armed, melon for the lowest.","intent":{"goal":"join_billy_bed","program":"travel","arguments":{"target":{"x":389,
+- 13:22 say: {"text":"Trini in reach of Billy and Zack at the bed, 389,-1049. Armed, health 13, hunger 16. Billy, call the hop when four are in sight."}
+- 13:23 act: {"say":"Trini following Billy's hop toward 385,-997, in daylight, armed, in sight of the group. Melon for the lowest.","intent":{"goal":"cow_hop_385_997","program":"travel","arguments":{"target":{"x":
+- 13:23 say: {"text":"Trini: my hop did not move me, I'm still at 389,-1048 with Zack and Kimberly in reach. Billy is just out of reach to me. Billy, lead the hop and I follow in sight; I won't go ahead alone."}
+- 13:25 act: {"say":"Trini walking to Billy at 385,-1036 in daylight, with Zack, Tommy and Kimberly in reach.","actions":[{"do":"goto","target":{"x":386,"y":107,"z":-1037}}]}
+- 13:25 say: {"text":"Trini with Billy at 385,-1037, in reach. Tommy and Kimberly close. Drop to the west, so no steps that way. Billy, call the next leg and I'll follow."}
+- 13:27 act: {"say":"Trini going to the bed at 387,-1036 with Billy for dusk, in reach of Tommy.","actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}]}
+- 13:27 act: {"actions":[{"do":"note","text":"Day 359 dusk: holding at bed row in reach of Billy; health 13.3, hunger 16; melon in hand for whoever drops to 6."}],"say":"Billy, I'm staying here by the beds in reac
+- 13:27 act: {"actions":[{"do":"sleep"}]}
+- 13:28 act: {"actions":[],"say":"Staying in reach, Billy. Goodnight."}
+- 13:32 act: {"actions":[],"say":"Morning, all. Trini here at the bed row, health 13, hunger 16, melon ready. Billy, I'll wait for your call before any walk."}
+- 13:36 act: {"actions":[{"do":"goto","target":{"x":399,"y":107,"z":-1038}}],"say":"Trini stepping into your sight, Billy. I'm holding melon and my wooden sword, ready for the hop."}
+- 13:40 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Trini going into the bed at 401,-1037 for the night, in reach of the row. Melon ready for anyone at 6."}
+- 13:44 act: {"actions":[],"say":"Trini here at the bed row, morning. Health 13, hunger 16. Billy, I'm in your sight; call the hop when four are visible and I'll follow."}
