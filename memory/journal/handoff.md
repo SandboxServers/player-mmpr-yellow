@@ -1,6 +1,6 @@
-# Handoff (day 323, slept)
-- Slept at white bed 443,107,-1023. Health 13, hunger 17 at dusk.
-- Holding 2 beef, 1 chicken, 1 mutton, 1 melon slice, 2 rotten flesh for the weakest.
-- Beds: Billy, Kimberly, Jason, Tommy, Leonardo nearby.
-- Morning: give food to weakest first (Leonardo at hunger 10), then cow field south-east (459,107,-951) in daylight with Tommy and Billy.
-- Johnny and Lewis still not found. Zack last seen about 23 blocks off.
+# Handoff (day 324, sleeping)
+- At white bed 443,107,-1022 area, sheltered at the beds with Kimberly, Billy, Tommy nearby.
+- Cow field 459,107,-951 searched in afternoon: no cows seen. Bows heard west and south-west.
+- Gave Kimberly 1 beef (she had none). Holding 1 beef, 1 mutton, 1 chicken, 1 melon slice, 2 rotten flesh for the weakest.
+- Zack reported coming to Leonardo with two melon. Johnny and Lewis still not found.
+- Morning: check who is weakest, give food first. Then search the grass in daylight with the group, not alone.
