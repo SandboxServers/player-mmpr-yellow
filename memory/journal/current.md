@@ -1,1 +1,12 @@
 # Journal
+- 16:58 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Goodnight. I'm resting by the west bed, the group close by."}
+- 16:58 act: {"actions":[{"do":"sleep"}]}
+- 17:01 act: {"actions":[{"do":"note","text":"Day 371 morning: rested by the west bed. Riker, Beverly and Clark are near. Hunger 17, health steady."}],"say":"Good morning, Riker, Beverly, Clark. I slept by the wes
+- 17:02 act: {"actions":[],"say":"Morning, Zack. I'm waiting here too. No cow walk until Billy calls it, with four in sight."}
+- 17:11 act: {"actions":[{"do":"sleep"}],"say":"Dusk now. I'm sleeping beside the west bed. Goodnight, everyone in sight."}
+- 17:15 act: {"actions":[{"do":"note","text":"Day 372 morning: rested beside the west bed. Hunger 17, health steady. Spoke with Jason about the cow ground danger."}],"say":"Morning, Jason. I'm at the west bed, hea
+- 17:23 act: {"actions":[{"do":"sleep"}]}
+- 17:27 act: {"actions":[{"do":"sleep"}],"say":"Night. Trini at the west bed, group in sight. Kimberly, Jason, how are you? I'm sleeping now."}
+- 17:32 act: {"actions":[],"say":"Morning, Kimberly, Clark, MacDonald, Chapman. Trini at the west bed, health 15, hunger 17. Waiting in sight for Billy's cow call."}
+- 17:34 act: {"actions":[],"say":"Riker, I will not walk on that call. My rule is Billy's call only, with four in sight. I stay at the west bed until Billy calls."}
+- 17:40 act: {"actions":[{"do":"sleep"}],"say":"Night. Trini sleeping at the west bed, in sight of Clark and Riker. Goodnight, Kimberly."}
