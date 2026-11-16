@@ -79,3 +79,10 @@
 - 07:15 act: {"say":"Billy, thank you. I'm at the beds, health 7, hunger 17. I'll say when I reach 6."}
 - 07:17 act: {"say":"Thank you, Wcrusher. Dusk is here, so I'm going into the bed at 415,-1036 with the group near. I'll eat the beef when my hunger is 6 or below.","actions":[{"do":"goto","target":{"x":415,"y":10
 - 07:18 act: {"say":"Good night, all. I'm at the bed 415,-1036 with Wcrusher and the group near. Eat the beef when I hit 6, and I'll sleep when it is full night."}
+- 07:22 act: {"say":"Morning. Trini at the beds, health 7.3, hunger 17, holding 3 melon. I'll eat at 6. I'm unarmed, so I'll walk only in daylight and in sight of Billy and Jason."}
+- 07:23 act: {"say":"Trini here at the beds, health 7, hunger 17. Kimberly and Jason, I'm holding my melon for the group; I'll stay here and not walk alone."}
+- 07:30 act: {"say":"Dusk. I'm at the bed row, hunger 17, health 7, still holding 3 melon for my turn at 6. I'll sleep at full night in the bed at 415,-1036 with the group near."}
+- 07:35 act: {"say":"Morning. Trini at the beds, health 7, hunger 17. Thank you all. I'll eat at 6 and stay here, not walking. Billy, Leonardo, Jason, go well in sight of each other."}
+- 07:40 act: {"say":"Trini here at 416,-1037, the white bed row, health 7, hunger 17. Jason, I'm two beds west of the group. I'll take food when I hit 6."}
+- 07:46 say: {"text":"Trini here, two beds west of the group at 416,107,-1037. Hunger is 17. I'll call when I reach 6 and take food then."}
+- 07:47 say: {"text":"Thank you, Troi. I have 6 melon now. I'll eat when hunger reaches 6."}
