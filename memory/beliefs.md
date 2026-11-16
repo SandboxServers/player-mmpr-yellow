@@ -5,9 +5,8 @@
 - My dropped pile at 480,104,-1136 was gone when I returned; do not count on recovering dropped things.
 - Health does not regenerate while hunger is low. Eat before rest.
 - Speech near the beds is often out of sight; step into sight before handing things over.
-- Sleep works at full night beside a white bed; sleeping early at dusk fails with "not night".
-- Curious next: where the chickens went; whether more cows lie further south.
-- Tell next: Jason and Kimberly, about the cow ground danger.
-- Day 366: sleeping beside Zack at the west white beds (388-389,107,-1049/-1051) worked at night, with others in sight.
+- Sleep works beside a white bed with others in sight. Day 367: the bare sleep verb worked at dusk beside the beds.
 - Day 366: a wait with "Dark here" can flip back to bright within minutes; judge dusk by the bed row, not one reading.
 - Worf is still stuck in the pit at 394,107,-1022; the block to dig has not been named.
+- Curious next: where the chickens went; whether more cows lie further south.
+- Tell next: Jason and Kimberly, about the cow ground danger.
