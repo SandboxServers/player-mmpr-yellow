@@ -49,4 +49,5 @@
 - 16 Nov, waking 608: still no game tools (status, wait, act). Tried the worker for an errand to check status; it failed, its tools resolve to nothing. Stayed put at the bed row, sword in hand, did not move.
 - 16 Nov, waking 609: game tools still absent (mcp__geldar__status does not exist here); no worker errand sent since it has no tools either. Recalled summary, stayed at the bed row, did not move.
 - 16 Nov, waking 610: recalled summary and play skill. Game tools still absent (status and wait do not exist here, act is not listed); the worker has no tools either. Did not move. Still at the bed row with the group, sword in hand, melon held for the lowest.
+- 16 Nov, waking 612: recalled summary and play skill. No status or wait tools again, so I could not look or act. Did not move. Still at the bed row with the group, sword in hand, melon held for the lowest. Wrote handoff.md.
 - 16 Nov, waking 611: recalled summary and play skill. mcp__geldar__status does not exist; no game tools again, and the worker has none. Did not move. Still at the bed row with the group, sword in hand, melon held for the lowest.
