@@ -33,3 +33,12 @@
 - 10:11 act: {"actions":[],"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limi
 - 10:11 act: {"actions":[],"say":"Billy, the follow failed and you're out of my sight. I'm staying at the bed with the group. Call me when you're back in view."}
 - 10:15 say: {"text":"Billy, I'm here in reach with the sword and melon. I'll walk when you call, and we'll stop at each place until everyone's in sight."}
+- 10:20 act: {"say":"Trini here at the bed row, health 13, hunger 16. I'm in reach and will walk only when Billy calls, in everyone's sight. Melon is ready for the lowest.","intent":{"goal":"hold_with_group","prog
+- 10:20 act: {"say":"Trini walking with Billy to 396,-1028, short hop, armed, in sight. I'll wait at each stop until everyone is in view.","intent":{"goal":"cow_walk_hop_one","program":"travel","arguments":{"targe
+- 10:20 act: {"say":"At the first stop, 396,-1029, with Billy and Troi in reach. Holding here until the others are in sight. Billy, call the next hop when they are."}
+- 10:21 act: {"say":"Going back to the bed row with Troi, at 402,-1033, to regather with Billy and the group.","intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-10
+- 10:21 act: {"say":"Back at the bed row with Billy, Tommy, Kimberly, Leonardo and Picard in reach. Zack and Beverly close by. Billy, I'm ready for the next hop when you call it."}
+- 10:22 act: {"say":"Walking with Billy to 396,-1028, short hop. Staying in sight and waiting at the stop.","intent":{"goal":"cow_walk_hop_two","program":"travel","arguments":{"target":{"x":396,"y":107,"z":-1028}}
+- 10:22 act: {"say":"Agreed, Billy. Going back to the bed row with Troi. We wait together for everyone before the cows.","intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target":{"x":403,"y":1
+- 10:22 act: {"say":"Back at the bed row with Billy, Kimberly, Zack and Wesley in sight. Holding here. Billy, call the hop when the rest are in view."}
+- 10:23 act: {"say":"Thank you, Jason. I'm at 13 health and 16 hunger, so I'm not the lowest yet. Keep the food for those who need it first. I'm holding here."}
