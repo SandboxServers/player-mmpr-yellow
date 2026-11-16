@@ -7,4 +7,6 @@
 - Health does not come back while hunger is low, so food comes before anything else.
 - Sleep is only allowed at night; daytime sleep fails.
 - Learned: Zack was seen south-east of the beds about 23 blocks away on day 319.
+- Day 321: giving to an agent fails "not in sight" even when the snapshot lists them in reach. After two or three such failures, stop and let them come to me or hand food to a friend who is already fed.
+- Jason is back with melon and is feeding the weak. Billy has not seen Zack since the handoff.
 - Curious next: where the cows are, and where Lewis and Johnny have gone. Tell Zack and Jason what the south search found.
