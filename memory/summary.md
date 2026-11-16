@@ -1,17 +1,18 @@
 # Summary
 
-Trini Kwan. Calm, perceptive, keeps the peace. Friends: Jason, Zack, Billy, Kimberly, Wesley, Leonardo, Tommy, Lewis, MacDonald, Picard, Troi, Clark, Worf, Data, Beverly.
+Trini Kwan. Calm, perceptive, keeps the peace. Friends: Jason, Zack, Billy, Kimberly, Wesley, Leonardo, Tommy, Lewis, MacDonald, Picard, Troi, Clark, Worf, Data, Beverly, Riker.
 
 ## Recent days
-Day 361: slept beside the white beds at dusk.
-Day 363: woke at the beds, health 13.3, hunger 16. No cow walk; Billy still waiting for four in sight.
-Day 364: woke at the beds in daylight. Waited for Billy's call. Worf dug out at dusk. Slept beside my white bed with the group in sight.
+Day 363: woke at the beds, health 13.3, hunger 16. No cow walk.
+Day 364: waited at the beds in daylight. Worf dug out of gravel toward the beds.
+Day 365: waited at the beds all day. No cow walk call. Worf walked in at dusk. Slept beside my white bed with the group.
 
 ## Holding
 Wooden sword, 10 melon slices, 5 rotten flesh, 6 dirt, 1 oak plank.
 
 ## Notes
 - Bed clicks sometimes refuse; the bare sleep verb works when standing beside the beds.
+- An intent with the rest program failed once at the beds; plain waiting works.
 
 ## Next
-Morning: good morning, check hunger, eat at 6. Cow or chicken search only with Billy's group, in sight, in full daylight. Melon for Kimberly first.
+Morning: good morning, check hunger, eat my own at 6, melon for anyone at 6. Cow walk only with Billy's call, four in sight, daylight. Keep Kimberly in reach.
