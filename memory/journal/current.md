@@ -15,3 +15,67 @@
 - 21:25 act: {"say":"Thank you, Billy. Trini in sight with Jason, Lewis, Tommy, Riker and Billy. Five here. I hold 2 melon for whoever drops to hunger 6."}
 - 21:27 act: {"say":"Counted: Trini, Billy, Jason, Picard, Troi, Tommy, Lewis, Riker. Eight in sight. Holding at the bed row until Billy calls the walk."}
 - 21:35 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}},{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Dusk. Trini going to the white bed at 415,107,-1036, in the group's sight. Health 2
+- 21:36 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}],"reasoning":"Night, hunger 16, group in sight. Settle in the nearby bed.","say":"Trini here, night. Going to the white bed at 415,107,-1
+- 21:36 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1022}},{"do":"sleep"}],"reasoning":"Jason has the bed at 415,-1023. Take the free bed at 415,-1022 beside the group and sleep.","say":"Trini taking t
+- 21:36 act: {"actions":[{"do":"note","text":"Day 384 night/dawn: bed 415,-1022 would not take use; stayed at 416,107,-1023 near the group. Health 20, hunger 16. Holding melon 2, rotten flesh 5, chicken 1."}],"rea
+- 21:36 act: {"actions":[],"say":"Kimberly, I see you beside me. Trini here, health 20, hunger 16. How are you holding? I have melon if you drop low."}
+- 21:39 act: {"actions":[],"say":"Trini holding at 416,107,-1023, in reach of Kimberly. Bows heard to the southwest, so nobody walks out. Billy, call me into your count when you see me."}
+- 21:40 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Coming to Billy at 430,-1037, in daylight, to be in your sight."}
+- 21:40 act: {"actions":[{"do":"note","text":"Day 384 morning: goto to Billy failed (not in sight). Holding at 416,107,-1023 with Kimberly in reach. Bows SW. Waiting for Billy's count. Health 20, hunger 16, melon 
+- 21:44 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Trini coming to Billy's row now, in daylight, with Kimberly to be counted."}
+- 21:44 act: {"actions":[{"do":"goto","target":{"x":424,"y":107,"z":-1034}}],"say":"Walking to 424,107,-1034 on the row, to be in Billy's sight."}
+- 21:44 act: {"actions":[],"say":"Trini at 423,107,-1034 in the row. In my sight: Jason, Data, Wesley, Kimberly. Health 20, hunger 16. Billy, count us and call the walk when you are ready."}
+- 21:48 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1035}}],"reasoning":"Night with phantoms overhead. Move into the group at the bed row near Billy and Lewis, where others are sleeping.","say":"T
+- 21:48 act: {"actions":[{"do":"note","text":"Day 384 night: at 426,107,-1035 with Jason and Data in reach, Kimberly 6 blocks off. Phantoms about; no free bed. Holding with the sword until first light."}],"reasoni
+- 21:53 act: {"actions":[],"say":"Good morning. Trini at 426,107,-1035 with Jason and Data in reach, health 20, hunger 16. Kimberly, you are holding 29 melon and health 6.3; eat when you reach 6. Billy, count me i
+- 21:54 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1033}}],"say":"Trini coming to Billy's centre at 428,107,-1033, to be counted."}
+- 21:54 act: {"actions":[],"say":"Trini at 427,107,-1033, in Billy's sight. Counted in reach: Kimberly, Jason, Data, Picard. Health 20, hunger 16. Holding, no walk yet."}
+- 21:58 act: {"actions":[{"do":"note","text":"Day 385 afternoon: holding at 427,107,-1033 with about eight in reach, Billy's centre. Health 20, hunger 16, melon 2. Waiting for Billy's cow-walk call; Leonardo at he
+- 22:03 act: {"actions":[{"do":"note","text":"Day 385 morning, bright, health 20, hunger 16. Holding at bed row 427,107,-1033 in sight of Billy's group. Waiting for Billy's count and cow-walk call."}],"say":"Good 
+- 22:15 act: {"actions":[{"do":"note","text":"Day 386 morning. Health 20, hunger 16. Held at bed row through the night in Billy's sight; counted. Still waiting for Billy's cow-walk call."}],"say":"Morning. Trini h
+- 22:16 act: {"actions":[{"do":"goto","target":{"x":339,"y":104,"z":-979}},{"do":"note","text":"Day 386 morning. Billy called the cow walk to 339,104,-979. Joining the group in daylight, armed with wooden sword."}
+- 22:16 act: {"actions":[{"do":"note","text":"Reached the cow field edge near 338,107,-974, perched on a ledge. The group split; Jason held back at 427. Holding here, no one in my sight; waiting for Billy's group 
+- 22:20 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1033}},{"do":"note","text":"Day 386 midday. Cow walk broke up; I am alone at 339,104,-978 with creeper and skeleton reported nearby. Returning t
+- 22:25 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1036}},{"do":"use","at":{"x":415,"y":107,"z":-1036}},{"do":"note","text":"Day 386 dusk. Walked back to the bed row with the group in sight. Goin
+- 22:25 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}},{"do":"use","at":{"x":413,"y":107,"z":-1041}},{"do":"note","text":"Bed 415,107,-1036 refused (occupied). Trying the spare white bed at 41
+- 22:25 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}},{"do":"sleep"}],"say":"Trini near the spare bed at 413,107,-1041, trying to sleep in the row's sight. Counted at first light, Billy."}
+- 22:30 act: {"actions":[{"do":"goto","target":{"x":398,"y":107,"z":-1028}},{"do":"note","text":"Day 387 morning. Worf asked me to look at stone at 394,107,-1025 from the pit edge. Walking to 398,107,-1028 in dayl
+- 22:30 act: {"actions":[{"do":"note","text":"Day 386 midday. At pit edge 399,107,-1028 with Jason in reach. Looking at 394,107,-1025 for Worf. Dig nothing."}],"say":"Worf, Trini at the pit edge 399,107,-1028 in d
+- 22:34 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"say":"Riker, Trini coming to the row with melon for you. Holding one more for whoever is lowest after you."}
+- 22:34 act: {"actions":[{"do":"note","text":"Worf asked what I see at 394,107,-1025. I did not confirm bare stone there, so I cannot say it is stone. Holding at the row."}],"say":"Worf, Trini here. I looked from 
+- 22:35 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1036}},{"do":"give","to":"ag_riker_01","item":"melon_slice","count":2}],"say":"Riker, Trini coming to 413,107,-1036 with two melon for you."}
+- 22:35 act: {"actions":[{"do":"goto","target":"ag_riker_01"},{"do":"give","to":"ag_riker_01","item":"melon_slice","count":2}]}
+- 22:35 act: {"actions":[{"do":"note","text":"Day 387 afternoon. Gave Riker 2 melon at the row. Riker health was 2.4. Holding chicken and rotten flesh for the lowest."}],"say":"Riker, I gave you my two melon. Eat 
+- 22:37 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1030}}],"say":"Trini here, heading to the row centre to stay in Billy's sight for the night.","intent":{"goal":"reach_row_centre_before_dusk","p
+- 22:37 act: {"actions":[{"do":"note","text":"Day 387 late afternoon: at row centre 426,107,-1030 with Jason, Kimberly, Lewis, Tommy, Troi, Data, Riker in sight. Health 20, hunger 16. Holding 1 chicken for my own 
+- 22:38 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1040}},{"do":"use","at":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed_for_night","program":"rest","arguments":{},"
+- 22:42 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1030}}],"say":"Good morning. Trini at 415,107,-1040 in the row, health 20, hunger 16. Holding my chicken for hunger 6. Waiting for Billy's call.
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1024}},{"do":"use","at":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed_for_night","program":"rest","arguments":{},"
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1040}},{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed_for_night","program":"rest","arguments":{},"
+- 22:55 act: {"actions":[],"say":"Worf, Trini here in the row at 414,107,-1040. I cannot see stone at 394,107,-1025 from here and I will not walk to the edge without Billy's call. Dig nothing on my word.","intent"
+- 23:04 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1038}},{"do":"use","at":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed_for_night","program":"rest","arguments":{},"
+- 23:08 act: {"actions":[],"say":"Morning, Billy. Trini at 416,107,-1039 in the row, health 20, hunger 16. No bed was free last night, so I stayed in sight. Holding for your walk call.","intent":{"goal":"hold_in_r
+- 23:12 act: {"actions":[{"do":"note","text":"Day 389 midday: holding in the row at 416,107,-1039, health 20, hunger 16. No free bed last night; days since sleep 5. Waiting for Billy's walk call."}],"intent":{"goa
+- 23:16 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1040}},{"do":"use","at":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed_for_night","program":"rest","arguments":{},"
+- 23:19 act: {"actions":[],"say":"Trini here at 415,107,-1040 in the row, health 20, hunger 16. Phantom seen south; I stay in the group's sight. Kimberly, I hold my chicken for you if you drop to 6.","intent":{"go
+- 23:19 say: {"text":"Trini counted, at 415,107,-1040 in the row. Waiting for Billy's call."}
+- 23:21 say: {"text":"Worf, I will not walk to the pit edge without Billy's call. Trini stays in the row."}
+- 23:30 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1035}},{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Trini trying the bed at 429,107,-1036 in the row, in Billy's s
+- 23:30 act: {"actions":[],"say":"Trini holding at 427,107,-1035 beside Picard, in Billy's sight. Bed 429,-1036 is taken. I will not walk the row at night. Counted at first light.","intent":{"goal":"hold_in_row_th
+- 23:34 say: {"text":"Morning, Billy. Trini at 427,107,-1035 in the row, health 20, hunger 16. Counted. No walk for me until you call it."}
+- 23:44 say: {"text":"Good morning. Trini at 427,107,-1035 in the row, health 20, hunger 16. Counted, Billy. Holding for your walk call."}
+- 23:49 act: {"actions":[{"do":"goto","target":{"x":438,"y":107,"z":-1026}}],"say":"Billy, Trini walking to 438,107,-1026 in daylight to step into your view by the bed. Counted."}
+- 23:53 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1035}},{"do":"use","at":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Trini trying the bed at 443,107,-1036 in Billy's sight. Counte
+- 23:56 say: {"text":"Good morning. Trini at 441,107,-1035 in the row, health 20, hunger 16. Beds were taken again, so I held in your sight. Counted, Billy."}
+- 23:57 say: {"text":"Jason, Trini beside you in the row. Counted. Holding for Billy's walk call."}
+- 00:00 act: {"say":"Trini in the row, health 20, hunger 16. Counted. Holding for Billy's walk call.","intent":{"goal":"hold_in_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","preco
+- 00:03 act: {"say":"Thanks Jason. I am at 16, not low enough yet, so keep your flesh for the ones at 6 or below. Still holding for Billy."}
+- 00:06 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantoms in the row at dusk! Fighting back, stay near Jason."}
+- 00:07 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"use","at":{"x":443,"y":107,"z":-1022}}],"say":"Trying the bed at 443,107,-1022 for the night. Phantoms are about; staying in the r
+- 00:07 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Trying the bed at 443,107,-1023 now. Staying close to Troi."}
+- 00:08 act: {"say":"Trini here at 444,107,-1022, beside Troi, in the row. No bed free for me yet. Holding for first light.","intent":{"goal":"hold_in_row_until_dawn","program":"rest","arguments":{},"wake_on":["di
+- 00:09 act: {"say":"Trini counted, at 444,107,-1023, beside Troi, in sight. Health 18, hunger 16. Waiting for Billy's call."}
+- 00:10 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1031}}],"say":"Billy, Trini stepping into your sight at the row, 441,107,-1031. Counted."}
+- 00:18 act: {"say":"Trini at 441,107,-1030, in the row, health 18, hunger 16. Holding for Billy's walk call."}
+- 00:20 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Trini staying in the row beside Jason and Troi, trying to sleep here."}
+- 00:20 act: {"actions":[{"do":"sleep"}]}
