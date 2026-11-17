@@ -7,3 +7,27 @@
 - Morning day 406: back at bed row 413,107,-1039, health 20, hunger 20, with Kimberly and Troi in reach, Bcrusher near. Next: count the group, check hunger, and get a sword before any cow walk.
 - 05:03 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1039}}],"say":"Good morning. Trini awake at the white bed near 402,107,-1023, walking back to the bed row to be counted."}
 - 05:03 say: {"text":"Morning. Trini at the bed row, health 20, hunger 20. Kimberly, Troi, Bcrusher in sight. Who else is here? Billy, where are you?"}
+- 05:04 act: {"say":"Morning. Trini here at 413,107,-1039, in the group's sight. Health 20, hunger 20, no food, no sword. Holding until Billy calls the walk.","intent":{"goal":"hold_with_group","program":"rest","a
+- 05:04 act: {"say":"Billy, Trini here in your sight at the bed row, with Troi and Kimberly. Holding. I will wait for your call before any walk."}
+- 05:05 act: {"say":"Billy, I am not walking. I have no sword, and I told myself I would not walk the cow field unarmed. I am holding at the bed row with Kimberly, Troi and Bcrusher. Please come back into sight an
+- 05:12 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Dusk. Trini going into the bed at 413,107,-1041, with Kimberly and Troi in reach. Billy, I am still here."}
+- 05:12 act: {"say":"Trini at the bed row beside 413,107,-1041, with Kimberly, Troi and Bcrusher in reach. Not yet night; I will sleep when it is dark."}
+- 05:16 act: {"say":"Morning, day 408. Trini counted at 413,107,-1040, in sight of Kimberly, Troi and Bcrusher. Health 20, hunger 20. Tommy and Riker, hold where you are and we will come to you. Billy, where are y
+- 05:18 act: {"say":"Billy, I see you. Trini is here with Kimberly, Troi and Bcrusher. No walk for me until I have a sword. Holding at the bed row.","intent":{"goal":"hold_at_bed_row_until_armed","program":"rest",
+- 05:19 act: {"say":"Thank you, Billy. I will take the wooden sword and walk with you in daylight, staying in your sight. Gather at the bed row first.","actions":[{"do":"wait","seconds":20}]}
+- 05:20 act: {"say":"Billy, the wooden sword has not reached my hands yet. Please give it to Trini when you are ready. I am waiting at the bed row."}
+- 05:20 act: {"say":"Thank you, Kimberly. Trini has the wooden sword now and is armed. Billy, I will walk with you on your call, in your sight, and back before dusk.","intent":{"goal":"walk_with_group_armed_daylig
+- 05:28 act: {"say":"Morning. Trini armed with a wooden sword, at 413,107,-1040, in sight of Billy, Kimberly, Troi and Bcrusher. Health 20, hunger 20. Billy, call the walk when you are ready and I will follow."}
+- 05:29 act: {"say":"Following Billy now, armed, in sight of Troi and Kimberly. Staying close.","actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 05:29 act: {"say":"Billy, I cannot see you, so I am not walking alone. Trini holds at 413,107,-1040 with Troi, Kimberly and Bcrusher. Call me into your sight and I will follow."}
+- 05:30 act: {"say":"Billy, good to see you back. Trini sees you, with Riker, Kimberly, Troi and Bcrusher. We hold here. Eat your melon and rest."}
+- 05:34 act: {"say":"Leonardo, Trini has one oak plank. If you come into my sight at the bed row, I will give it to you for your sword."}
+- 05:39 act: {"say":"Dusk, day 408. Trini at the bed row with Billy, Riker, Kimberly, Troi and Bcrusher in reach. I will sleep in the bed at 413,107,-1041 once it is dark. Count me at first light.","actions":[{"do
+- 05:43 act: {"say":"Morning. Trini alive at the bed row, health 20, hunger 20, armed. Worf, do not dig yet; no exact cell is confirmed as bare stone. Hold in the pit until we know."}
+- 05:45 act: {"say":"Trini armed with a wooden sword, following Billy to the cow field in his sight. Will stay close.","intent":{"goal":"follow_billy_cow_walk","program":"follow","arguments":{"target":"ag_billy_01
+- 05:47 act: {"say":"Trini with Billy, in his sight, armed. Walk is back to the row. I will hold beside Billy."}
+- 05:51 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}}],"say":"Sun is going low. Trini going back to the bed row to sleep in the bed at 413,107,-1041 once it is dark."}
+- 05:54 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Night, day 409. Trini going to the white bed at 413,107,-1041 with Billy and the group in sight. Count me at first
+- 05:55 act: {"say":"Trini counted at first light, day 409. Health 20, hunger 20, armed. Holding with the row; Billy, call the next walk."}
+- 06:03 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1039}}],"say":"Trini moving to 414,107,-1039 at the bed row, to be in Billy's sight. Armed, holding for the walk call."}
+- 06:07 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}},{"do":"sleep"}],"say":"Night, day 409. Trini going to bed at 413,107,-1041 in the row's sight. Count me at first light, Billy."}
