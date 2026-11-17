@@ -123,3 +123,10 @@
 - 02:58 act: {"say":"Billy, Trini at 444,107,-1034, by the bed row in the dark. Nobody in my sight yet. Holding still; I will not walk.","actions":[{"do":"note","text":"Night day 400 at 444,107,-1034, by the bed r
 - 03:02 act: {"say":"Good morning. Trini at 444,107,-1034 in the bed row, health 20, hunger 20, with 7 rotten flesh and a chicken for the lowest. Counted, Billy. Holding for your walk call.","actions":[{"do":"note
 - 03:03 act: {"say":"Billy, Trini heard you. I am at 444,107,-1034, in your sight, health 20. Holding at the row; I will come to the walk when you call four in sight. Kimberly, I hold my chicken for you if you dro
+- 03:12 act: {"say":"Dusk. Trini at 444,107,-1034 by the bed row, Jason in sight. I stay here through the night. Counting me at first light, Billy.","intent":{"goal":"hold_bed_row_till_dawn","program":"rest","argu
+- 03:12 act: {"intent":{"goal":"hold_bed_row_till_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":12000,"max_block_opera
+- 03:12 act: {"actions":[{"do":"wait","seconds":240}]}
+- 03:16 act: {"say":"Morning, Billy. Trini at 444,107,-1034 in the row, health 20, hunger 20. Counted. Leonardo, I will not walk to the water or the oaks until Billy calls it.","actions":[{"do":"note","text":"Day 
+- 03:33 act: {"say":"Trini awake, day 402, at 444,107,-1034 in Billy's sight. Health 20, hunger 20. I hold 7 rotten flesh and 1 chicken for anyone at hunger 6 or below. Holding for the walk call.","actions":[{"do"
+- 03:45 act: {"say":"Trini coming to Billy's bed row now, daylight, day 403. Health 20, hunger 20, 7 rotten flesh and 1 chicken for the lowest.","actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1039}}]}
+- 03:45 act: {"say":"Trini here at 419,107,-1039, in Billy's sight with Jason, Picard, Lewis, Tommy. Health 20, hunger 20. Holding for your walk call.","actions":[{"do":"note","text":"Day 403 midday, walked to Bil
