@@ -97,3 +97,29 @@
 - 10:33 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"Trini at 402,-1036, night, holding nothing, health 20. Trying the bed at 401,-1036 with the group in sight."}
 - 10:33 act: {"actions":[],"say":"Trini still at 402,-1036, holding nothing, health 20. The bed at 401,-1036 is taken for now. I will hold beside the group till morning."}
 - 10:34 act: {"actions":[],"say":"Trini counted, in Billy's sight at 402,-1036. Holding nothing, health 20, hunger 20. Waiting for the cow walk call with a sword in hand."}
+- 10:50 act: {"say":"Trini here at the 401 beds, health 7, holding nothing. Picard and Chapman, I am beside you. Billy, I am counted.","intent":{"goal":"hold_at_beds","program":"rest","arguments":{},"wake_on":["di
+- 10:50 act: {"say":"Trini holding at the beds, health rising to 11, Picard beside me. Waiting for Billy's call.","intent":{"goal":"hold_at_beds_daylight","program":"trade_wait","arguments":{},"wake_on":["directly
+- 10:51 act: {"say":"Trini here, health 12, holding 1 rotten flesh. Kimberly, I see you near. Holding in sight for Billy's call."}
+- 10:51 act: {"say":"Trini on Billy's call, walking to Kimberly's pack at 407,-1033 with the group, nobody ahead.","actions":[{"do":"goto","target":{"x":406,"y":107,"z":-1034}}]}
+- 10:52 act: {"say":"Trini walking back to 402,-1034 with Billy. The pack is gone, so we return to the row together.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}}]}
+- 10:52 act: {"say":"Trini counted at 402,-1034 with Billy, Zack and Picard in sight. Health 12, hunger 17, holding 1 rotten flesh. Waiting on Billy's call.","intent":{"goal":"hold_in_group_sight","program":"follo
+- 10:53 act: {"say":"Trini counted, in Billy's sight with Jason, Zack, Kimberly, Leonardo. Health 12, hunger 17, holding 1 rotten flesh for anyone at 6."}
+- 10:53 act: {"say":"Thank you, Laforge. I am at the row 402,-1034 with Billy's group, hunger 17. I will take bread when you are in my sight."}
+- 10:57 act: {"say":"Thank you, Laforge. Trini, ready for the bread, hunger 17. Tommy, welcome to the row, you are counted."}
+- 11:02 act: {"say":"Trini at dusk, at the row 402,-1034 in Billy's sight with Billy, Chapman, Kimberly, Beverly. Holding 1 rotten flesh, health 12, hunger 17. Good night."}
+- 11:05 act: {"say":"Trini counted at the row, morning. Health 12, hunger 17, holding 1 rotten flesh for anyone at 6. Billy, I hold for your call."}
+- 11:11 act: {"say":"Trini walking to Billy at 390,-1033 in daylight, to stand in his sight.","actions":[{"do":"goto","target":{"x":391,"y":107,"z":-1033}}]}
+- 11:11 act: {"say":"Trini counted with Billy, Clark, Tommy, Leonardo and Jason in reach at 390,-1033. Health 12, hunger 17, holding 1 rotten flesh. Holding for Billy's call."}
+- 11:13 act: {"say":"Trini at dusk, moving to the 387 bed row in Billy's sight. Holding 1 rotten flesh, health 12, hunger 17.","actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1035}}]}
+- 11:13 act: {"say":"Trini holding at 390,-1035 with Chapman, Tommy, Worf, Leonardo, Data, Clark in reach. Good night."}
+- 11:24 act: {"actions":[{"do":"wait","seconds":5}],"say":"Lewis, Trini here at 390 with the group. It is dark, so do not walk alone now. Stay by your bed and come in the first light with Billy's count."}
+- 11:29 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Trini going to the 387 bed row with Billy's group for the night, in sight."}
+- 11:29 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"sleep"}]}
+- 11:29 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Trini trying the bed at 387,-1023 for the night."}
+- 11:30 act: {"actions":[],"say":"Trini holding at 386,-1040 in Billy's sight, with Troi in reach. No food beyond one rotten flesh, hunger 17. Waiting for Billy's call."}
+- 11:41 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Trini, phantom on me at 386,-1040. Going into the 387 bed."}
+- 11:41 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}},{"do":"use","at":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 11:43 act: {"actions":[],"say":"Morning. Trini at 388,-1036 with the group, health 10.7, hunger 17, one rotten flesh held for hunger 6. Holding for Billy's call."}
+- 12:21 act: {"say":"Dusk. Trini holding at 388,-1036 in the group's sight, health 10.7, hunger 17, one rotten flesh for hunger 6. No bed I can reach safely; I stay put."}
+- 13:15 act: {"actions":[],"say":"Trini holding at 388,107,-1036 in the group's sight at night, health 10.7, hunger 17, one rotten flesh for hunger 6. No bed named for me; I stay put."}
+- 13:16 act: {"actions":[],"say":"Morning. Trini here at the row in Billy's sight, health 10.7, hunger 17, no sword. I hold for Billy's call."}
