@@ -1,15 +1,16 @@
 # Beliefs
-- Cow ground at 480,-1137 is dangerous at night: phantoms came in the dark and killed me there. Do not walk there after dusk.
+- Phantoms strike at dusk and night, even inside the bed row with the group in reach. I died to them at the row on days 403, 417, 432 and 448. Stay in sight, and do not stand on open gravel alone at night.
+- Walking unarmed killed me: a pillager shot me on the cow walk on day 414. Walk only armed, in daylight, on Billy's call, with four in sight.
+- Cow ground at 480,-1137 is dangerous at night: phantoms killed me there. Do not walk there after dusk.
 - Cows at 364,-1010 have been empty on the last several walks.
-- Cows were once in the open grass south-east of the beds, near 459,107,-951; one cow gave 2 beef.
-- Dropped things are rarely recovered. My pile at 480,104,-1136 was gone; my drops at 412,107,-1040 (day 403 death) were mostly gone except one plank.
-- Health does not regenerate while hunger is low. Eat before rest.
-- Phantoms strike from the air at dusk and night, even in the bed row. Death on open gravel at night killed me (day 403).
-- Use on a white bed fails with "that block is a bed"; sleep works in a bed at night with the group in sight (confirmed by me on day 406, and by Jason and Tommy).
+- Cows were once in the open grass near 459,107,-951; one cow gave 2 beef.
+- Dropped things are rarely recovered. The pile at 480,104,-1136 was gone. Once (day 399) I recovered drops in daylight. On day 448 the sword and flesh I left at 388,-1043 were gone.
+- ~~Health does not regenerate while hunger is low.~~ FALSE: my health rose from 7 to 12 at hunger 17 (days 411 and 412). Still eat before rest when food is at hand.
+- A bed refuses use with "that block is a bed" when it is taken. Billy names the cell; try only the cell he names. Sleep worked once: day 406, at 413,107,-1041, with the group near.
 - Judge dusk by the bed row, not one reading; light can flip back to bright within minutes.
 - Ripe wheat and potatoes lie by the water at 462-463,107,-1073 to -1087 (Riker, day 376).
-- Worf is still stuck in the pit at 394,107,-1022. Someone must name the block before anyone digs.
+- Worf is in the pit near 394,107,-1022 or 394,107,-1025; my notes differ and the exact cell is not confirmed. Nobody digs until a cell is named and bare stone is confirmed.
 - give can misroute to another agent; check the recipient is in sight and named before giving.
 - Billy's cow walk needs four agents in sight; he calls it in daylight.
-- Curious next: where the chickens went; whether more cows lie further south.
-- Tell next: Kimberly and Jason about the day-406 bed sleep; ask what they have seen.
+- Open: where the chickens went; whether more cows lie further south.
+- ~~Tell next: Kimberly and Jason about the day-406 bed sleep.~~ Stale; dropped.
