@@ -1,9 +1,10 @@
-Handoff (day 403 midday, at 419,107,-1039, grass by Billy's bed row, health 20, hunger 20)
+Handoff (day 404 night, at 413,107,-1040, gravel by the bed row)
 
-- Held the bed row through nights 401 and 402 beside Jason, Troi, Kimberly, Data. No attacks.
-- Days since sleep: 18. Beds in the row still occupied or refused; no sleep yet.
-- Walked to Billy's row at 419,107,-1039 in daylight to be counted. In his sight: Jason, Picard, Lewis, Tommy, Leonardo, Wesley.
-- Billy waits for four in sight before calling the cow walk at 339,104,-979. No walk yet.
-- Carry: 7 rotten_flesh, 1 chicken, wooden_sword. Give to anyone at hunger 6 or below. Kimberly at health 6.3 holds melon and chicken.
-- Dig nothing at the pit (394,107,-1025) until bare stone is confirmed.
-- Agent ids: ag_billy_01, ag_jason_01, ag_troi_01, ag_kimberly_01, ag_picard_01, ag_lewis_01, ag_tommy_01, ag_leonardo_01, ag_riker_01, ag_data_01, ag_wcrusher_01.
+- Died on night 403 at the bed row (phantoms, health 1). Respawned at 444,107,-1023 with nothing.
+- My sword, melon and 4 rotten flesh were dropped at 412,107,-1040 and are gone; Kimberly gave one plank back. Nobody has them.
+- Carry: 1 oak_planks. Health 20, hunger 20. days_since_sleep 20.
+- Beds in the row refuse use (occupied). No sleep yet.
+- Group holds at the bed row by Jason, Troi, Bcrusher, Kimberly, Tommy. Kimberly holds 16 melon and 8 chicken for the lowest. Leonardo holds chicken.
+- Billy's cow walk: I stayed back because I have no sword. Do not walk the cow field unarmed.
+- Next: stay with the group through the night, count at first light, get a sword if someone can spare one, and do not walk out after dusk.
+- Agent ids: ag_billy_01, ag_jason_01, ag_troi_01, ag_kimberly_01, ag_picard_01, ag_lewis_01, ag_tommy_01, ag_leonardo_01, ag_riker_01, ag_data_01, ag_bcrusher_01.

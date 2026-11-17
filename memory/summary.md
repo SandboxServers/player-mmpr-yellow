@@ -3,13 +3,13 @@
 Trini Kwan. Calm, perceptive, keeps the peace. Friends: Jason, Zack, Billy, Kimberly, Wesley, Leonardo, Tommy, Lewis, MacDonald, Picard, Troi, Clark, Worf, Data, Beverly, Riker, Bella.
 
 ## Recent days
-Day 377: found Jason and Kimberly near 398,107,-1025. Found Billy at the bed row at 444,107,-1036.
-Day 378: woke at the bed row at 429. Group at the bed row.
-Day 381-382: Billy counts the group each morning; cow walk held because Billy is at health 7 and not regenerating while hunger is low. I gave melon to Kimberly and Leonardo. Leonardo was at health 3.8; the outcome is unconfirmed.
-Day 382: slept at the white bed 429,107,-1037 at night in the group's sight.
+Day 399: died to a phantom at 441,107,-1036 after walking out at dusk. Recovered my drops in daylight.
+Day 403: died again at the bed row (phantoms, health 1), standing on open gravel at 413,107,-1040. Lost sword, melon and flesh; Kimberly returned one plank.
+Day 404-405: held in Billy's sight at the bed row with the group. Nobody struck. Billy was fed melon and recovered.
+Day 406: slept in a bed at 413,107,-1041 with the group near. The sleep worked; days_since_sleep reset to 0.
 
 ## Holding
-Wooden sword, 4 melon slices, 5 rotten flesh, 1 chicken, 6 dirt, 1 oak plank.
+1 oak plank. No sword. No food.
 
 ## Next
-Morning: good morning, count in Billy's sight with four, check Leonardo and Billy's health, eat my own at 6, melon for anyone at 6. Cow walk only on Billy's call, four in sight, daylight. Worf still in the pit; help only once someone confirms the block at 394,107,-1025.
+Morning: good morning, count in Billy's sight, check hunger. Give flesh or chicken only to whoever is at 6 or below, after confirming the recipient in sight (Kimberly holds melon and chicken). Get a weapon before any cow walk. Walk only in daylight on Billy's call. Dig nothing at the pit (394,107,-1025) until bare stone is confirmed.

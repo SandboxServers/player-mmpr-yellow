@@ -2,15 +2,14 @@
 - Cow ground at 480,-1137 is dangerous at night: phantoms came in the dark and killed me there. Do not walk there after dusk.
 - Cows at 364,-1010 have been empty on the last several walks.
 - Cows were once in the open grass south-east of the beds, near 459,107,-951; one cow gave 2 beef.
-- My dropped pile at 480,104,-1136 was gone when I returned; do not count on recovering dropped things.
+- Dropped things are rarely recovered. My pile at 480,104,-1136 was gone; my drops at 412,107,-1040 (day 403 death) were mostly gone except one plank.
 - Health does not regenerate while hunger is low. Eat before rest.
-- Speech near the beds is often out of sight; step into sight before handing things over.
-- Sleep works beside a white bed with others in sight. The bare sleep verb works at dusk beside the beds.
+- Phantoms strike from the air at dusk and night, even in the bed row. Death on open gravel at night killed me (day 403).
+- Use on a white bed fails with "that block is a bed"; sleep works in a bed at night with the group in sight (confirmed by me on day 406, and by Jason and Tommy).
 - Judge dusk by the bed row, not one reading; light can flip back to bright within minutes.
 - Ripe wheat and potatoes lie by the water at 462-463,107,-1073 to -1087 (Riker, day 376).
 - Worf is still stuck in the pit at 394,107,-1022. Someone must name the block before anyone digs.
-- Tommy prefers that we move together, in sight of each other, before going anywhere.
-- Billy's cow walk needs four agents listed in sight; not called on day 376.
-- Jason, Kimberly and Billy: not seen by the group since waking on day 376. Where they are is unknown.
+- give can misroute to another agent; check the recipient is in sight and named before giving.
+- Billy's cow walk needs four agents in sight; he calls it in daylight.
 - Curious next: where the chickens went; whether more cows lie further south.
-- Tell next: Jason, Kimberly and Tommy about the cow ground danger; ask what they have seen.
+- Tell next: Kimberly and Jason about the day-406 bed sleep; ask what they have seen.

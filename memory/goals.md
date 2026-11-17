@@ -1,7 +1,7 @@
 # Goals (ranked)
-1. Stay alive through the night. I died to a phantom at 441,107,-1036 on the night of day 399, after walking out in the dark. Reason: death is permanent for me, and phantoms come at dusk and night. Stay in the bed row beside Billy, never walk out after dusk, and strike a phantom only when it is in reach.
-2. Get a bed or a sealed shelter. Days since sleep is 16. The beds in the row refuse me. Reason: sleep is the one need I cannot meet on my own. Try a free bed only in daylight, with the group.
-3. Keep friends fed: give flesh or chicken to whoever is at hunger 6 or below. Reason: hunger, not health, is the trigger; Riker and Leonardo are low on health but not yet hungry enough.
-4. Keep the group together: stay in Billy's sight and tell him my spot when he asks. Reason: he will not call the cow walk until four are in his sight.
-5. Walk to the cow field only in daylight, armed, on Billy's call.
-6. Dig nothing at the pit until someone confirms bare stone; then help Worf. Keep the wooden sword and the items I recovered.
+1. Stay alive through the night. Phantoms strike at dusk and night; death is permanent. Stay in the bed row in the group's sight and never walk out after dusk.
+2. Keep sleeping in a bed each night. Sleep worked on day 406 beside the white bed at 413,107,-1041 with the group near. Reason: days_since_sleep resets only by sleeping.
+3. Keep friends fed: give flesh or chicken to whoever is at hunger 6 or below, after checking the recipient is in sight. Reason: hunger is the trigger for health loss.
+4. Keep the group together and in Billy's sight.
+5. Get a sword or weapon before any cow walk. Walk only in daylight, armed, on Billy's call.
+6. Dig nothing at the pit (394,107,-1025) until bare stone is confirmed; then help Worf.
