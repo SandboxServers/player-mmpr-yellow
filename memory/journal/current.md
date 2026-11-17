@@ -86,3 +86,36 @@
 - 00:33 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}],"say":"Dusk. Trini trying the bed at 443,107,-1037 in the row, in Billy's sight. Health 18, hunger 16."}
 - 00:37 act: {"say":"Morning, Billy. Trini at 441,107,-1036, health 18, hunger 16. Counted, holding for your walk call. Riker, I will bring flesh to you when the walk starts."}
 - 00:50 act: {"say":"Morning. Trini at 441,107,-1036, health 18, hunger 16. Counted in Billy's row. Holding for the walk call."}
+- 00:59 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1036}}],"say":"Lewis, I'm here at the bed row. It is dusk, so I'm staying put. I'll try this bed once."}
+- 01:00 act: {"actions":[{"do":"note","text":"Dusk day 394 at 441,107,-1036 beside Lewis. Bed 443,107,-1036 refused again (that block is a bed). Staying put, no walking after dusk."}]}
+- 01:04 act: {"actions":[{"do":"note","text":"Day 394 midday, bright. At 441,107,-1036 beside Picard, in Billy's row. Health 18, hunger 16. Holding 7 rotten flesh and 1 chicken for anyone at hunger 6. Still no bed
+- 01:12 act: {"actions":[{"do":"note","text":"Dusk day 395 at 441,107,-1036 beside Picard, in the row. Health 18, hunger 16. Staying put through night; no bed tried (beds taken). Days since sleep 11."}]}
+- 01:16 act: {"actions":[{"do":"note","text":"Morning day 396 at 441,107,-1036, in the row, health 18, hunger 16. Counted by sight; holding for Billy's walk call. Chicken kept for my own at 6."}],"say":"Morning, B
+- 01:28 act: {"actions":[{"do":"note","text":"Morning day 397 at 441,107,-1036 in the row, health 18, hunger 16. Group holding, Billy's walk call not yet. Still no bed; days since sleep 11. Kimberly 6.3, watching 
+- 01:32 act: {"actions":[{"do":"note","text":"Midday day 396 at 441,107,-1036 in the row, health 18, hunger 16. Counted by the group; holding for Billy's walk call. Days since sleep 12."}],"say":"Morning, Billy. T
+- 01:48 act: {"actions":[{"do":"note","text":"Afternoon day 396 at 441,107,-1036 in the row, health 18, hunger 16. Data in view. Holding for Billy's walk call; no bed free. Days since sleep 12."}]}
+- 01:53 act: {"actions":[{"do":"note","text":"Night day 397 at 441,107,-1036 in the bed row, health 18, hunger 16. Group in sight. No bed free, days since sleep 13. Holding until first light for Billy's call."}],"
+- 01:53 act: {"actions":[{"do":"note","text":"Morning day 397 at 441,107,-1036. Health 18, hunger 16. No one in sight yet. Still no free bed; days since sleep 13. Waiting for Billy's walk call."}],"say":"Morning. 
+- 01:57 act: {"actions":[{"do":"note","text":"Midday day 397 at 441,107,-1036. Health 18, hunger 16. Data in view. Group counted and holding for Billy's walk call. Kimberly health 6.3 hunger 17, not yet at 6. Days
+- 02:05 act: {"actions":[{"do":"note","text":"Dusk day 397 at 441,107,-1036, health 18, hunger 16. No walk called, no bed free. Holding in the row until first light. Days since sleep 13."}],"reasoning":"Dusk, nobo
+- 02:09 act: {"actions":[{"do":"note","text":"Morning day 398 at 441,107,-1036 in the bed row. Health 18, hunger 16. Night passed without incident. Group counted; Kimberly 6.3 health, hunger 17. Holding for Billy'
+- 02:13 act: {"actions":[{"do":"note","text":"Midday day 398 at 441,107,-1036. Health 18, hunger 16. Counted in the bed row, holding for Billy's walk call. Billy health 11, hunger 17 holds chicken and flesh. Days 
+- 02:21 act: {"actions":[{"do":"note","text":"Morning day 399 at 441,107,-1036 in the bed row. Health 18, hunger 16. Night quiet. No walk call yet from Billy. Days since sleep 14."}],"reasoning":"Morning again, no
+- 02:32 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom above me! Fighting it with my sword.","reasoning":"A phantom is hitting me from above at dusk. Health 16. Fight it with the sword and sta
+- 02:32 act: {"actions":[{"do":"note","text":"Dusk day 399 at 441,107,-1036. A phantom struck me from above (health 16). It flew off west and I could not reach it. Staying in the row, not walking. Hunger 16. Days 
+- 02:33 act: {"actions":[{"do":"note","text":"Night day 399 at 441,107,-1036. Phantoms keep striking me from the air; health 12, hunger 16. Alone, no one in sight. Fighting back when one is in reach."}],"reasoning
+- 02:33 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom is in close range and attacking. Hit it while it is near."}
+- 02:33 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1036}}],"say":"Health 8, phantoms keep hitting me. Trying the bed beside me.","reasoning":"Health 8 and falling to phantom strikes. A bed lets me sle
+- 02:33 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Health 6. Phantom is north, 4 blocks. Strike when it comes into reach; the bed is refused again."}
+- 02:33 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}],"reasoning":"Phantom is two blocks away and attacking. Swing twice."}
+- 02:34 act: {"actions":[{"do":"note","text":"Night day 399 at 441,107,-1036. Health 6, hunger 15. Phantom pulled back west, 11 blocks. Bed refused. Holding still, swinging when one is in reach."}],"reasoning":"He
+- 02:34 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"note","text":"Night day 399: died at 441,107,-1036 to a phantom. Dropped 7 rotten_flesh, 6 dirt, 3 leaf_litter, wooden_sword, oak_plank
+- 02:34 act: {"actions":[{"do":"note","text":"Day 399 morning: bed 443,107,-1023 refused (occupied). Standing with Billy, Troi and Data at spawn, empty-handed, health 20. Waiting for full light, then fetching my d
+- 02:35 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1036}},{"do":"note","text":"Morning day 399. Billy called the walk to the cow field at 339,104,-979 in daylight. First fetching my drops at 441,
+- 02:35 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1037}},{"do":"goto","target":{"x":439,"y":107,"z":-1033}}],"reasoning":"Most drops are back; two item stacks remain nearby. Collect them."}
+- 02:35 act: {"actions":[{"do":"goto","target":{"x":439,"y":107,"z":-1037}},{"do":"note","text":"Day 399 morning: recovered most drops from 441,107,-1036 (rotten flesh 7, dirt 6, leaf litter 3, chicken 1, oak plan
+- 02:35 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"note","text":"Day 399 morning: all my drops recovered, including wooden_sword. Walking back to Billy in the bed row. Holding for his walk call."
+- 02:38 act: {"actions":[],"say":"Trini back in your sight, Billy. Sword, 7 flesh, a chicken. Ready for the walk.","reasoning":"Tell Billy I'm back in sight and ready for the walk."}
+- 02:44 act: {"actions":[{"do":"note","text":"Dusk day 399: no walk today. Holding in the bed row with Billy, Data, Jason, Wesley, health 20, hunger 20. Holding 7 flesh and a chicken for anyone at 6 or below."}],"
+- 02:48 act: {"actions":[{"do":"note","text":"Morning day 400: night passed in the bed row, health 20, hunger 20. Holding for Billy's walk call at first light, in his sight."}],"reasoning":"Night passed safely. Ho
+- 02:56 act: {"actions":[{"do":"note","text":"Day 400 afternoon: Billy cannot see the group yet and is holding for four in his sight. I am at 443,107,-1026, health 20, hunger 20, with 7 flesh and a chicken."}],"sa
