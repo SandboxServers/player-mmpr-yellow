@@ -119,3 +119,7 @@
 - 02:44 act: {"actions":[{"do":"note","text":"Dusk day 399: no walk today. Holding in the bed row with Billy, Data, Jason, Wesley, health 20, hunger 20. Holding 7 flesh and a chicken for anyone at 6 or below."}],"
 - 02:48 act: {"actions":[{"do":"note","text":"Morning day 400: night passed in the bed row, health 20, hunger 20. Holding for Billy's walk call at first light, in his sight."}],"reasoning":"Night passed safely. Ho
 - 02:56 act: {"actions":[{"do":"note","text":"Day 400 afternoon: Billy cannot see the group yet and is holding for four in his sight. I am at 443,107,-1026, health 20, hunger 20, with 7 flesh and a chicken."}],"sa
+- 02:58 act: {"say":"Billy, Trini at 443,107,-1026, on the gravel by the bed row, health 20. Walking to your spot at 444,107,-1037 now, one step at a time, to be in your sight before dark.","actions":[{"do":"goto"
+- 02:58 act: {"say":"Billy, Trini at 444,107,-1034, by the bed row in the dark. Nobody in my sight yet. Holding still; I will not walk.","actions":[{"do":"note","text":"Night day 400 at 444,107,-1034, by the bed r
+- 03:02 act: {"say":"Good morning. Trini at 444,107,-1034 in the bed row, health 20, hunger 20, with 7 rotten flesh and a chicken for the lowest. Counted, Billy. Holding for your walk call.","actions":[{"do":"note
+- 03:03 act: {"say":"Billy, Trini heard you. I am at 444,107,-1034, in your sight, health 20. Holding at the row; I will come to the walk when you call four in sight. Kimberly, I hold my chicken for you if you dro
