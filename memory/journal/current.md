@@ -31,3 +31,69 @@
 - 05:55 act: {"say":"Trini counted at first light, day 409. Health 20, hunger 20, armed. Holding with the row; Billy, call the next walk."}
 - 06:03 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1039}}],"say":"Trini moving to 414,107,-1039 at the bed row, to be in Billy's sight. Armed, holding for the walk call."}
 - 06:07 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}},{"do":"sleep"}],"say":"Night, day 409. Trini going to bed at 413,107,-1041 in the row's sight. Count me at first light, Billy."}
+- 06:07 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1039}}],"say":"Trini here at the bed row, night on day 409. Moving to the group near 412,107,-1039 to be in Billy's sight. I hold a wooden sword
+- 06:08 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"say":"Trini at the bed row, night on day 409, with Jason, Troi and Bcrusher in reach. Goi
+- 06:08 act: {"actions":[{"do":"note","text":"Bed 413,107,-1041 refused use (that block is a bed; likely occupied). Holding with the group at 413,107,-1039 for the night."}],"say":"Bed at 413,107,-1041 will not ta
+- 06:09 act: {"actions":[],"say":"Morning, day 409. Trini counted by Billy at the bed row, health 20, hunger 20. I hold my wooden sword. I will walk with you only when you call it, in daylight, in your sight."}
+- 06:10 act: {"actions":[],"say":"Riker, come to the bed row, into Billy's sight, and do not stand alone at 430. Billy has the sword in his pack; he should hold it in hand before any walk. Trini is here."}
+- 06:17 act: {"actions":[],"say":"Afternoon, day 410. Trini at the bed row, health 20, hunger 20. Before dusk, let us each find a free bed in the row and count again at first light. Billy, I will sleep near you."}
+- 06:20 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Dusk, day 410. Trini trying the bed at 413,107,-1042, in Billy's sight. Count me at
+- 06:20 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1039}}],"say":"Both beds at 413 refuse use, so they are taken. I will not walk far after dusk. Trini holds at the row beside Billy, Jason and Ki
+- 06:29 act: {"actions":[],"say":"Billy, try the use verb with the item named: use, item wooden_sword, aimed at a block of the row, which equips it before the click. Trini holds at the row in your sight."}
+- 06:29 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wooden_sword","count":1}],"say":"Billy, I am giving you my wooden sword so you have one for the cow walk. I hold at the row in your sight.","reasoni
+- 06:30 act: {"actions":[],"say":"Billy, I have no sword now, so I stay at the bed row and do not walk out to the cow field. Holding here, count me at dusk.","reasoning":"Unarmed, so I keep to the row. Billy is ar
+- 06:32 say: {"text":"Trini holding at the row in Billy's sight for the night. I have 1 plank, health 20, hunger 20."}
+- 06:34 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1022}},{"do":"use","at":{"x":401,"y":107,"z":-1022}}],"say":"Morning, Billy. I am going to the bed at 401,107,-1022 in daylight, in sight of the
+- 06:34 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1039}}],"reasoning":"Bed 401,-1022 refused in daylight. Return to group at the row and hold until dusk."}
+- 06:37 act: {"actions":[],"say":"Billy, I am unarmed, so I stay at the row and do not walk. Good luck, and count me when you are back.","reasoning":"Billy's walk started with four in sight including me. I have no
+- 06:42 act: {"actions":[],"say":"Billy, still unarmed, so I stay at the row. Count me here when you return.","reasoning":"Walk called again; I have no sword in hand. Hold at the row per the rule."}
+- 06:57 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"reasoning":"Dusk, the group is in sight. Try the nearest bed at 413,107,-1041 once; if re
+- 07:00 act: {"actions":[],"say":"Billy, still unarmed, so I hold at the row at 411,107,-1041. Count me when you are back.","reasoning":"Billy walks to the cow field with a sword. I have none; hold at the row."}
+- 07:13 act: {"actions":[{"do":"note","text":"Trini counted at the row, morning day 413, holding at 411,107,-1041 with Billy, Kimberly, Troi, Jason."}],"say":"Trini here, counted at 411,107,-1041. Health 20, hunge
+- 07:20 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Pillager shooting from the north. I'm moving south to Billy, health 16, unarmed."}
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1036}}],"say":"Billy, I cannot see you from 414,-1041. Moving south toward 412,-1036, away from the pillager."}
+- 07:20 act: {"actions":[],"say":"Trini back in Billy's sight at 412,107,-1037. Health 19, unarmed, staying with the group."}
+- 07:20 act: {"actions":[],"say":"Trini died to the pillager's arrows at 412,-1037 and respawned at 402,107,-1037 with nothing. Moving to the group now."}
+- 07:21 act: {"actions":[],"say":"Trini at spawn 402,107,-1037, unarmed, health 20. The pillager sits between me and the group, so I hold here and will not cross its line."}
+- 07:24 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1037}}],"say":"Dusk. I am alone at spawn, unarmed, health 20. Trying the bed beside me at 401,107,-1037; I will not walk out."}
+- 07:24 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}}]}
+- 07:25 act: {"actions":[],"say":"Zack, Trini here at 402,107,-1037, alone, unarmed. I will come with you at first light if no pillager is in sight. Tommy, stay still."}
+- 07:29 act: {"actions":[],"say":"Trini alive at spawn 402,107,-1037, morning day 414, health 20, hunger 20, unarmed, holding nothing. Billy, you are near me at 404,-1047; I can come to you if you say the way is c
+- 07:30 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1046}}],"say":"Going to Billy by the crafting table, 404,-1046, now."}
+- 07:30 act: {"actions":[],"say":"Trini at 404,107,-1045, counted with Billy's group. Health 20, unarmed, holding nothing. Tommy, Zack, come here."}
+- 07:32 act: {"actions":[{"do":"goto","target":{"x":395,"y":107,"z":-1045}}],"say":"Pillager 5 east shooting me. Trini moving west out of its line, health 16."}
+- 07:33 say: {"text":"Trini at spawn 402,-1037, health 20, hunger 20, holding nothing. Staying here with Bcrusher, out of the east line. Zack and Lewis, I am with you if you come back this way."}
+- 07:33 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1049}}],"say":"Trini moving west to 390,-1049 to join Kimberly and the group. I have no food, only my hands.","reasoning":"Group is west of the 
+- 07:37 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1037}}],"say":"Trini going to spawn 402,-1037 to sit with Billy and Beverly for the night. Nothing in hand.","reasoning":"Billy is coming to spa
+- 07:37 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"At spawn with Bcrusher at dusk. Trying the bed beside me once; if it refuses I hold still here.","reasoning":"Dusk is here and days_si
+- 07:37 say: {"text":"Trini at spawn 402,-1036, health 20, nothing in hand. Macdonald, come west to us. Holding still here for the night."}
+- 08:07 say: {"text":"Good night, Kimberly, Billy, Beverly. Trini holding still at 402,-1036, health 20, nothing in hand."}
+- 08:16 say: {"text":"Trini at 402,-1036 with Kimberly, health 20, holding nothing. Billy, I hold here; I will come to you when you call me into your count."}
+- 08:16 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1035}}],"say":"Trini walking to Billy at 415,-1035 for the count, with Kimberly. Holding nothing.","reasoning":"Billy called for the count with 
+- 08:18 say: {"text":"Trini at 413,-1035 with Kimberly, health 20, nothing held. Sun is low. Billy, I hold here with you for the night."}
+- 08:23 say: {"text":"Counted: Trini in reach with Billy and Kimberly at 413,-1035. Holding here. I have no food."}
+- 08:31 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1040}}],"say":"Dusk is coming. Trini trying one bed at 413,-1040, then holding still in the group's sight."}
+- 08:34 say: {"text":"Trini here at 413,-1035, morning day 417, health 20, hunger 20, nothing held. Holding at the row until Billy calls a walk."}
+- 08:47 say: {"text":"Trini at 413,-1035, night, in Kimberly's sight. Holding still, health 20, nothing held."}
+- 08:59 say: {"text":"Phantoms are on me at 413,-1035, health 18, unarmed. Picard, staying beside you. Anyone with a sword, come to 413,-1035."}
+- 08:59 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}}],"say":"Trini walking 5 blocks north to Kimberly and Billy at the bed, phantoms are hitting me."}
+- 09:00 say: {"text":"Trini at 414,-1040 beside Billy and Kimberly. Health 7, phantoms closing. Staying here in your reach."}
+- 09:00 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
+- 09:00 say: {"text":"Trini died to phantoms at the row and woke at spawn 402,-1037 with nothing. Heading nowhere alone; I'll hold at the 401 beds in sight."}
+- 09:02 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1037}}],"say":"Trini walking east in daylight to Billy's group at the row, 416,-1037."}
+- 09:02 say: {"text":"Trini at 413,-1037, morning, health 20, nothing held. Billy, I am here; I'm unarmed and holding for your call."}
+- 09:06 act: {"actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 09:11 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"Trini here, unarmed, no food. Coming to Billy's count at 416,-1037 now. Hold for me.","reasoning":"Dusk, unarmed, no shelter. Gro
+- 09:11 say: {"text":"Trini in reach at 416,-1036, unarmed, hunger 20. Staying with the group through the night. Call me if you move."}
+- 09:14 say: {"text":"Trini here, health 20, hunger 20, no food, no sword. I will join the walk to the cow field when Billy calls it, and I will stay in sight."}
+- 09:44 say: {"text":"Trini at the row, counted with Billy. I hold nothing, hunger 20. Jason, I have no food, sorry. Holding for Billy's call."}
+- 10:02 say: {"text":"Trini at 416,-1036, holding nothing, health 20. Counted with Tommy, Kimberly, Picard and Data. Holding for Billy's call."}
+- 10:02 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}]}
+- 10:02 say: {"text":"Trini at the 401 beds, 402,-1036, holding nothing, health 20. Counted with Billy, Kimberly, Worf, Beverly, Tommy. Holding."}
+- 10:03 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1037}}],"say":"Trini trying the bed at 401,-1037 for the night, in the group's sight. Holding nothing."}
+- 10:05 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1037}}],"say":"Trini at 402,-1036, trying the bed at 401,-1037 for the night, in the group's sight."}
+- 10:07 say: {"text":"Trini counted at 402,-1036, health 20, hunger 20, holding nothing. No sword. Holding for Billy's cow walk call."}
+- 10:18 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1037}}],"say":"Trini trying the bed at 401,-1037 at dusk, in the group's sight. Holding nothing."}
+- 10:33 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"Trini at 402,-1036, night, holding nothing, health 20. Trying the bed at 401,-1036 with the group in sight."}
+- 10:33 act: {"actions":[],"say":"Trini still at 402,-1036, holding nothing, health 20. The bed at 401,-1036 is taken for now. I will hold beside the group till morning."}
+- 10:34 act: {"actions":[],"say":"Trini counted, in Billy's sight at 402,-1036. Holding nothing, health 20, hunger 20. Waiting for the cow walk call with a sword in hand."}
