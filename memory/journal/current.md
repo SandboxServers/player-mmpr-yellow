@@ -79,3 +79,10 @@
 - 00:18 act: {"say":"Trini at 441,107,-1030, in the row, health 18, hunger 16. Holding for Billy's walk call."}
 - 00:20 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Trini staying in the row beside Jason and Troi, trying to sleep here."}
 - 00:20 act: {"actions":[{"do":"sleep"}]}
+- 00:25 act: {"say":"Morning. Trini at 444,107,-1023 in the row, health 18, hunger 16. Billy, I am in your sight; counted. Holding for your walk call."}
+- 00:28 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, I am coming to you now, within reach. Health 18, hunger 16. I hold 7 rotten flesh for whoever reaches 6 hunger."}
+- 00:28 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1036}}],"say":"Moving toward Billy's row at 442,107,-1036, where Jason and Lewis stand. Hunger 16, health 18."}
+- 00:29 act: {"say":"Lewis, I am beside you at 441,107,-1036 in daylight. Billy, Trini is in your sight now; still holding for the walk call."}
+- 00:33 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}],"say":"Dusk. Trini trying the bed at 443,107,-1037 in the row, in Billy's sight. Health 18, hunger 16."}
+- 00:37 act: {"say":"Morning, Billy. Trini at 441,107,-1036, health 18, hunger 16. Counted, holding for your walk call. Riker, I will bring flesh to you when the walk starts."}
+- 00:50 act: {"say":"Morning. Trini at 441,107,-1036, health 18, hunger 16. Counted in Billy's row. Holding for the walk call."}
