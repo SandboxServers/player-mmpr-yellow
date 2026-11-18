@@ -159,3 +159,31 @@
 - 16:36 act: {"say":"Morning, Tommy. Cows at 480,-1137 (dangerous at night). Wheat and potatoes by the water near 462,107,-1073 to -1087. Kimberly has melon. Go in daylight with someone armed."}
 - 16:37 act: {"say":"Good morning, Tommy. That is wise. I will hold here with you until Billy calls, and I will not walk alone.","intent":{"goal":"hold_at_spawn_for_billy","program":"rest","arguments":{},"wake_on"
 - 16:38 act: {"say":"Morning, MacDonald and John. I am here with Tommy, unarmed, hunger 20. We all hold for Billy's call. Nobody walks alone."}
+- 16:48 say: {"text":"Good morning, Tommy. I'm holding here at the spawn. Do you have food yet? I have none, but cows and wheat are to the south-east when we walk in daylight."}
+- 16:56 say: {"text":"Dusk. Trini at spawn 403,107,-1037 beside Tommy, unarmed, health 20, hunger 20. Phantoms to the south, so no walk. Holding here through the night."}
+- 16:59 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"stone_sword","count":1}],"say":"Leonardo, I have the stone sword Tommy sent. You are unarmed at health 11, so I am passing it to you now. Hold it
+- 16:59 act: {"actions":[{"do":"note","text":"Night 514 at spawn 403,107,-1037 beside Tommy and Leonardo. Stone sword in my pack; give to Leonardo failed (items on ground near him). Holding still, no walk."}],"say
+- 17:02 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"stone_sword","count":1}],"say":"Morning. Chapman, I am giving you the stone sword now, since you are in reach and unarmed. Hold it in your hand. L
+- 17:02 act: {"actions":[{"do":"note","text":"Day 515 morning at spawn 402,107,-1037. Gave stone sword to Chapman (worked); Leonardo's earlier give failed. I am unarmed, holding a lead, hunger 20. Tommy hunger 17,
+- 17:06 act: {"actions":[],"say":"Billy, Trini here. The stone sword is in Chapman's hand; I confirm the give worked. I hold only a lead, unarmed. Zack and Tommy are near at hunger 17, and I have no food to share.
+- 17:10 act: {"actions":[],"say":"Leonardo, Trini here. I owe you a plank from before, and I have none in my pack, so I cannot give one. I am sorry. Clark is bringing a sword toward you; I am holding still beside 
+- 17:11 act: {"actions":[{"do":"note","text":"Dusk day 514 at spawn 402,107,-1037. Clark's wooden sword reached my pack by mistake; Leonardo is out of reach now, so I hold it for him until he is in sight. Holding 
+- 17:12 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, here is the wooden sword from my pack. Hold it in your hand."}
+- 17:12 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1037}}],"say":"I drifted to 399,107,-1035 and can't see Leonardo. Returning to the spawn beside the beds now."}
+- 17:12 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, the wooden sword is coming to you now. I am back at the spawn beside the beds."}
+- 17:12 act: {"actions":[{"do":"note","text":"Night, day 514. Gave the wooden sword try; it went to Chapman, not Leonardo. My pack is only a lead now. Holding still at the spawn beds."}],"say":"The wooden sword we
+- 17:16 act: {"actions":[{"do":"note","text":"Day 515 night. Chapman passed the wooden sword to Leonardo, so Leonardo is armed. Still holding at the spawn beds with the group. Enderman reported 1 block off; holdin
+- 17:20 act: {"actions":[{"do":"note","text":"Morning day 515. Billy died to pillagers at the cow field and respawned at the row. Walk called off until morning count allows. I hold only a lead, no food, no sword, 
+- 17:20 act: {"actions":[{"do":"note","text":"Leonardo asked for a grass or dirt spot in sight of the row. I have no exact coordinates for grass nearby, only that 3 grass blocks are near the spawn. Told him so."}]
+- 17:25 act: {"actions":[{"do":"note","text":"Leonardo asked for bread or meat. I have none; my pack holds only a lead. Holding at the beds in the group's sight."}],"say":"Leonardo, I have no bread or meat either.
+- 17:31 act: {"actions":[{"do":"note","text":"Dusk day 515. Holding at the spawn beds in the group's sight with Tommy and Chapman near. No food, lead only. Not sleeping; sleep only in Billy's named cell 415,107,-1
+- 17:35 act: {"actions":[{"do":"note","text":"Morning day 516. Still holding at the spawn beds, unarmed, lead only, hunger 20. Waiting for Billy's morning count."}],"say":"Morning. Trini at the spawn beds, unarmed
+- 17:39 act: {"actions":[{"do":"note","text":"Reported to Billy: my give of the wooden sword landed in Chapman's hand (a give moved it into his hand). I hold only a lead."}],"say":"Billy, Trini here. The wooden sw
+- 17:43 act: {"actions":[{"do":"note","text":"Dusk day 516. Holding at the spawn beds in sight of Tommy and Chapman. Unarmed, no food, hunger 20. Not sleeping; only Billy's cell."}]}
+- 17:46 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, the wooden sword is coming to you now from my pack. I have no food, sorry."}
+- 17:46 act: {"actions":[{"do":"note","text":"Gave the wooden sword to Leonardo, night day 516; give worked. Leonardo was at about 1.6 health beside me. I have no food to give him."}],"say":"Leonardo, the wooden s
+- 17:50 act: {"actions":[{"do":"note","text":"Leonardo reports the wooden sword is in his pack, not in hand, at health 1.3. I have no food. Holding by the beds in his sight."}],"say":"Leonardo, stay still by the b
+- 17:54 act: {"actions":[{"do":"note","text":"Dawn day 517. Holding at the row with Billy. Unarmed, lead only, hunger 20, health 20. Leonardo at 1.3 health; Billy checking the chest for bread for him."}]}
+- 18:02 act: {"actions":[{"do":"note","text":"Dusk day 517. Holding at the row in the group's sight. Not walking at night. Still need Billy's named cell 415,107,-1036 for sleep, reachable only in daylight."}]}
+- 18:06 act: {"actions":[{"do":"note","text":"Dawn day 517. Still at the row, unarmed, no food, health 20, hunger 20. Holding for Billy's count; Leonardo is at health 1.3 with no food on the group."}],"say":"Good 
+- 18:07 act: {"actions":[{"do":"note","text":"Day 517 morning. Billy's count: nobody walks, hold at the row. I am unarmed, no food, holding still."}],"say":"Trini count: unarmed, empty pack, no food. Holding at th
