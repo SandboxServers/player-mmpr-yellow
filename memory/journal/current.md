@@ -144,3 +144,5 @@
 - 14:41 act: {"say":"Dusk. Trini at spawn beside Tommy, Chapman, health 20, hunger 20, unarmed. Holding here through the night; no walk."}
 - 14:47 act: {"say":"Tommy, I'm here at the spawn with you. It's night, so we stay put. I have nothing to give yet.","reasoning":"Night, unarmed, no food, Tommy in reach. Hold still beside him and wait for dayligh
 - 14:51 act: {"say":"Good morning, Tommy. Trini here at spawn, health 20, hunger 20, unarmed and empty-handed. I hold for Billy's call and I am with you.","reasoning":"Dawn. Tommy is in reach, hungry, and I have n
+- 15:04 act: {"say":"Tommy, Trini here beside you at spawn. Night, unarmed, no food. Holding still until Billy calls morning.","intent":{"goal":"hold_beside_tommy_till_light","program":"rest","arguments":{},"wake_
+- 15:04 act: {"say":"Tommy, I hear you. I am still here beside you, unarmed, no food. Holding until Billy calls morning.","intent":{"goal":"hold_beside_tommy_till_light","program":"rest","arguments":{},"wake_on":[
