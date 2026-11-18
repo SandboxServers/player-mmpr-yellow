@@ -107,3 +107,7 @@
 - 10:57 act: {"actions":[],"say":"Thank you, Chapman. I hear you. I stay at spawn, unarmed, and will not walk until Billy calls it."}
 - 11:07 act: {"say":"Dusk. Trini at spawn 402,107,-1037, alone, unarmed, no food. I will not walk in the dark. Holding here until light.","intent":{"goal":"hold_at_spawn_until_dawn","program":"rest","arguments":{}
 - 11:15 act: {"say":"Good morning, day 497. Trini at spawn 402,107,-1037, health 20, hunger 20, unarmed, alone. Holding for Billy's count."}
+- 11:25 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1037}},{"do":"open","at":{"x":405,"y":107,"z":-1037}}],"say":"Good morning. I am alone at spawn with an empty pack. I will look in the chest her
+- 11:25 act: {"actions":[],"say":"Trini at spawn 403,107,-1037, alone, pack empty, hunger 20. Chest here looks empty. Chapman, MacDonald, do you have a spare sword or food for me? I will hold here until Billy call
+- 11:27 act: {"actions":[],"say":"Thank you, John. I will hold at spawn through the night, alone and unarmed, and not walk in the dark. Tommy, I hear you too."}
+- 11:36 act: {"actions":[],"say":"Good morning. Trini at spawn 403,107,-1037, health 20, hunger 20, unarmed and alone. John, I hear you were hit by phantoms; I have no sword to give. Billy, I still hold for your c
