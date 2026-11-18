@@ -105,3 +105,5 @@
 - 10:56 act: {"actions":[],"say":"Good morning, day 496. Trini at spawn, health 20, hunger 20, unarmed and alone. Holding for Billy's count. Tommy, MacDonald, I hear you."}
 - 10:57 act: {"actions":[],"say":"Tommy, Trini here. Chapman says the row is at 412,107,-1042, by the beds. I am at spawn 402,107,-1037, unarmed too. Please do not walk alone; hold for Billy's call."}
 - 10:57 act: {"actions":[],"say":"Thank you, Chapman. I hear you. I stay at spawn, unarmed, and will not walk until Billy calls it."}
+- 11:07 act: {"say":"Dusk. Trini at spawn 402,107,-1037, alone, unarmed, no food. I will not walk in the dark. Holding here until light.","intent":{"goal":"hold_at_spawn_until_dawn","program":"rest","arguments":{}
+- 11:15 act: {"say":"Good morning, day 497. Trini at spawn 402,107,-1037, health 20, hunger 20, unarmed, alone. Holding for Billy's count."}
