@@ -137,3 +137,8 @@
 - 14:22 act: {"say":"Tommy, it's Trini. It's dusk, so I'll stay right here beside you. Do you have any food?","reasoning":"Dusk, unarmed, no food, no shelter. Stay in Tommy's reach; no night walk.","intent":{"goal
 - 14:23 act: {"say":"Thank you, Tommy. I'll stay right beside you. No food is fine for now; I'm at hunger 20.","reasoning":"Tommy is near and resting; I hold beside him through the night.","intent":{"goal":"hold_b
 - 14:23 act: {"intent":{"goal":"hold_beside_tommy_till_light","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks"
+- 14:29 act: {"say":"Tommy, Trini here beside you at spawn. Night, unarmed, no food. I'm holding still until Billy calls morning.","intent":{"goal":"hold_beside_tommy_till_light","program":"rest","arguments":{},"w
+- 14:29 act: {"intent":{"goal":"hold_beside_tommy_till_light","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
+- 14:33 act: {"say":"Good morning. Trini at spawn 403,107,-1037 beside Tommy, health 20, hunger 20, unarmed and empty-handed. Holding for Billy's call; no walk until he names it."}
+- 14:37 act: {"say":"Tommy, I have no food either, and the chest here was empty when I checked. I'll keep watch with you and ask Billy for the flesh for you first."}
+- 14:41 act: {"say":"Dusk. Trini at spawn beside Tommy, Chapman, health 20, hunger 20, unarmed. Holding here through the night; no walk."}
