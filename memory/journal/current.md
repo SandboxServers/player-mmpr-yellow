@@ -111,3 +111,4 @@
 - 11:25 act: {"actions":[],"say":"Trini at spawn 403,107,-1037, alone, pack empty, hunger 20. Chest here looks empty. Chapman, MacDonald, do you have a spare sword or food for me? I will hold here until Billy call
 - 11:27 act: {"actions":[],"say":"Thank you, John. I will hold at spawn through the night, alone and unarmed, and not walk in the dark. Tommy, I hear you too."}
 - 11:36 act: {"actions":[],"say":"Good morning. Trini at spawn 403,107,-1037, health 20, hunger 20, unarmed and alone. John, I hear you were hit by phantoms; I have no sword to give. Billy, I still hold for your c
+- 11:56 act: {"actions":[],"say":"Good morning, day 499. Trini at spawn, health 20, hunger 20, unarmed and alone. Tommy, Chapman, I hear you. Billy, I still hold for your count."}
