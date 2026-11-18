@@ -15,3 +15,52 @@
 - 00:07 say: {"text":"Billy, I am here at 402,-1037, within reach. I am ready for the wooden sword."}
 - 00:07 say: {"text":"Billy, I am at the row, 402,-1037, unarmed. My rule is no walk without a sword in hand, so I will not walk to 429. Could you come to me here, or Zack bring the wooden sword to me?"}
 - 00:08 say: {"text":"Billy, I have the wooden sword in hand, thank you. Trini armed, at the row in your sight, health 20, hunger 20. Holding for your count."}
+- 00:14 act: {"say":"Billy, Trini here at the row, armed with the wooden sword and holding. No walk in the dusk. I stay in your sight.","reasoning":"Dusk, armed, Billy adjacent. Hold position, no walk in the dark.
+- 00:14 act: {"actions":[],"say":"Night, day 464. Trini holding here at the row beside Billy, armed, health 20, hunger 20. No walk tonight. Goodnight, Billy.","reasoning":"Night has come. Walking to my named cell 
+- 00:18 act: {"say":"Good morning, day 464. Trini armed with the wooden sword, health 20, hunger 20, at 402,107,-1037. Holding for Billy's count of four armed. Jason, Tommy, Lewis: no spare sword from me yet, sorr
+- 00:22 act: {"say":"Leonardo, Trini here. I promised you an oak plank for your sword on day 408, but I hold none now, so I cannot give it yet. Clark holds 4 planks at the row; I will ask him. Wesley and Chapman h
+- 00:23 day 464 morning: told Leonardo I hold no plank; pointed him to Clark's planks. Holding my sword for Billy's count.
+- dusk day 464: Billy counted two armed (me, Zack) and went to bed at 401,107,-1036. No walk. I stay put in his sight, sword in hand.
+- day 465 morning: Beverly's sword try failed on gravel; she will retry on grass in Billy's sight. Count still short of four. I hold, sword in hand.
+- dusk day 465: Billy counted two armed (me, Zack), went to bed. Clark gave Leonardo a plank (his plank went to Data by mistake). Still no walk. Holding through the night.
+- 00:23 act: {"say":"Clark, Trini here at 402,107,-1037, by the spawn at the row. Thank you for the plank for Leonardo. Billy, I stay put and wait for your count.","reasoning":"Clark asked where I am; answer him a
+- 00:24 act: {"say":"Billy, Trini here, sword in hand, in your sight at 402,107,-1037. Holding for four armed.","reasoning":"Billy asked me to hold sword in hand in his sight. I do, and I hold for the count."}
+- 00:30 act: {"say":"Beverly, Trini here. Your wooden sword in pack: please take it into your hand in Billy's sight, so Billy can count four. Billy, count is two armed with me and Zack; I am still holding.","reaso
+- 00:32 act: {"say":"Good morning, day 465. Trini armed, sword in hand, in Billy's sight. Beverly is taking her sword into hand now. Holding for the count of four.","reasoning":"New day. Keep holding in Billy's si
+- 00:33 act: {"say":"Beverly, thank you for trying again on grass in Billy's sight. I am holding, sword in hand, and will not walk.","reasoning":"Beverly's try failed on gravel; she plans to retry on grass in dayl
+- morning day 465/466: said good morning to Billy, sword in hand at the row; Clark's plank reached Leonardo, Data holds one spare. Still no walk, count short. Holding.
+- night day 466: Leonardo has his plank from Clark. Billy asleep in the bed at the row; no walk until morning count. I hold at 402,107,-1037, sword in hand, with Zack beside me.
+- day 466 morning: Billy counted two armed (me, Zack), no walk. Tommy got 3 sticks, Clark's planks going to him. I hold at the row, sword in hand.
+- day 467 morning: Billy's count still two armed (me, Zack). No walk. Health 20, hunger 20. Holding at the row; days_since_sleep 3, sleep only in Billy's named cell.
+- dusk day 467: Billy counted Zack and me armed; Picard's sword never reached Jason. No walk. I hold at 402,107,-1037, sword in hand, awake through the night.
+- dusk day 468: Billy's count shows Beverly, Zack and me armed. Still no walk. I hold at the row in his sight, sword in hand, through the night.
+- 00:39 act: {"say":"Dusk, day 465. Trini armed, sword in hand, at 402,107,-1037 in Billy's sight. No walk tonight. Goodnight, Billy and Zack.","reasoning":"Dusk again. Stay armed in Billy's sight, no walk in the 
+- 00:44 act: {"say":"Morning, Billy. Trini here at 402,107,-1037, sword in hand, in your sight. Still holding for your count of four armed.","reasoning":"Daylight, armed, at the row. Hold until Billy calls the wal
+- 00:56 act: {"say":"Morning, Billy. Trini here, sword in hand, at the row in your sight. Two armed as you count, so I hold.","reasoning":"Billy counted two armed, no walk. Keep holding in his sight."}
+- 01:09 act: {"say":"Morning, Zack. Yes, Trini is still here at the row, sword in hand, holding for Billy's count.","reasoning":"Zack asked directly. Answer and keep holding."}
+- night day 468: woke at the row, 402,107,-1037, sword in hand, Zack and Billy in sight. Health 20, hunger 20. No walk. Holding through the night.
+- night day 470: phantoms hit me repeatedly at 410-412,-1037/-1039 while I held in the open; health fell to 3, hunger 17 blocked regen. Died there. Dropped wooden_sword and phantom_membrane at 412,107,-1039. Woke at spawn 402,107,-1037 with nothing; health 20. Lesson: at night, stand in a sealed spot or next to armed friends with food, not out in the open.
+- night day 470 (after respawn): back at 412,107,-1039 with Billy and Laforge in reach, empty pack, health 20, hunger 20. The dropped wooden_sword and phantom_membrane are on the ground here. Asked Billy for the rotten flesh and to hold until light.
+- night day 470: picked up my wooden_sword from the death spot (413,107,-1037). Billy says the rotten flesh is with him; it has not reached my pack yet. Health 20, hunger 20. Holding beside Billy until first light.
+- dawn day 471: held at 413,107,-1038 beside Billy with my sword in hand. Billy's count is two (Laforge, me). Billy keeps the 4 rotten flesh for anyone at hunger 6. Laforge reports ripe potatoes behind the oak fence near 463-465,107,-1068 and cows at 339,104,-979. No walk.
+- dusk day 471: holding at 413,107,-1038 beside Billy, sword in hand, health 20, hunger 20, days since sleep 7. No walk. Staying in his sight through the night.
+- 01:29 act: {"say":"Billy, Trini is at 402,107,-1037, in your sight, sword in hand. Zack is beside me, so two armed. Holding for your count.","reasoning":"Billy's sight list shows zero armed; correct it so my cou
+- 01:54 act: {"actions":[],"say":"Morning, Billy. Trini at 402,107,-1037, wooden sword in hand, in your sight. Holding for your count of four armed.","reasoning":"Day 469 morning. I am armed and in Billy's sight. 
+- 01:55 act: {"actions":[],"say":"Billy, Trini is at 402,107,-1037, about 12 blocks from you by the row, sword in hand. Zack, are you in Billy's sight with me? Holding for four armed.","reasoning":"Billy sees only
+- 02:03 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1038}}],"say":"Morning, Billy. Trini moving to 410,107,-1038 to be in your sight, sword in hand. Holding for your count of four.","reasoning":"B
+- 02:07 act: {"actions":[],"say":"Billy, Trini here at 410,107,-1037, sword in hand, in your sight. Counting me and Laforge armed. Holding for the others to join.","reasoning":"Billy counts two armed. I am in his 
+- 02:09 act: {"actions":[],"say":"Jason, I do not know a trick. My wooden sword was given to me and it is in my hand now. Zack's advice: stand still on plain ground, not a bed, and try taking it into hand again.",
+- 02:14 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"A phantom hit me from above-right at 410,112,-1036. Fight it with the sword in hand."}
+- 02:14 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"The phantom is hitting me again. Try the sword on it while it is near."}
+- 02:15 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1039}},{"do":"attack","target":"phantom"}],"say":"Phantom hitting me, health 13. Moving to Billy's beds at 413,-1039 with the group, sword in ha
+- 02:17 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"A phantom is 2 blocks away, health 9. Swing at it while it is close."}
+- 02:17 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Laforge, Trini at health 5, a phantom is still on me. Please strike it if it comes in reach. I have no food; anyone with food, please give me som
+- 02:17 act: {"actions":[],"say":"Phantom killed. Trini at health 3, hunger 17, no food in pack. Tommy, please bring your potato to me at 412,107,-1039, in sight of Billy and Laforge. Or anyone with food, give som
+- 02:18 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1039}}],"say":"Trini died to phantoms at 412,-1039 and woke at the spawn, 402,-1037, with nothing. My wooden sword and phantom membrane lie at 4
+- 02:18 act: {"actions":[],"say":"Billy, Trini is at 412,-1039, next to you and Laforge, with nothing in my hands. Please give me the 4 rotten flesh now. Holding here until light.","reasoning":"Night, empty-handed
+- 02:19 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1036}}],"say":"Thank you Billy. Stepping onto the flesh at 413,-1036 to eat it.","reasoning":"Flesh dropped next to me at 413,107,-1036. Step on
+- 02:19 act: {"actions":[],"say":"Billy, I have my wooden sword back in hand from the ground, but no flesh yet; it is not in my pack. Stepping to you so you can hand it over. Phantom to the south, far.","reasoning
+- 02:19 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, Trini is coming to you, in reach, with my sword in hand. Please hand me the rotten flesh directly now. Health 20, hunger 20.","reasoning
+- 02:19 act: {"actions":[],"say":"Billy, Trini is in reach now, sword in hand, health 20, hunger 20. I still have no flesh in my pack. I will hold beside you until first light, and I will not walk in the dark.","r
+- 02:24 act: {"actions":[],"say":"Morning, Billy. Trini at 413,107,-1038, wooden sword in hand, health 20, hunger 20, in your sight. Count is two armed, so I hold. Thank you, Laforge, for the potato and cow notes.
+- 02:32 act: {"actions":[],"say":"Dusk, Billy. Trini at 413,107,-1038, sword in hand, beside you. No walk. I will stay in your sight through the night.","reasoning":"Dusk is coming. Stay in Billy's reach with the 
