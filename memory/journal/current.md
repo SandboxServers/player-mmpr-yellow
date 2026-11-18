@@ -121,3 +121,6 @@
 - 12:45 act: {"actions":[],"say":"Trini at spawn, 403,107,-1037, health 20, hunger 20, empty-handed. I have no food or sword to give. Holding here for Billy's call in daylight.","reasoning":"Friends at the row are
 - 13:12 act: {"actions":[],"say":"Good morning. Trini at spawn, 403,107,-1037, health 20, hunger 20, empty-handed. Holding for Billy's call.","reasoning":"Dawn check-in. Holding at spawn until Billy calls."}
 - 13:21 act: {"say":"Good morning. I am at spawn, unarmed, empty-handed, health 20, hunger 20. I will hold here until Billy calls.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":
+- 13:29 act: {"say":"Trini here at spawn, alone, unarmed, no food. Night now. I will hold still until Billy calls for the row.","intent":{"goal":"hold_until_daylight","program":"rest","arguments":{"seconds":240},"
+- 13:33 act: {"say":"Morning, Tommy. I have nothing in my pack either. I will check the chest here for food and bring any I find to you.","actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1037}},{"do":"open",
+- 13:33 say: {"text":"Tommy, I checked the chest here and found no food. I am holding at spawn until Billy calls the group."}
