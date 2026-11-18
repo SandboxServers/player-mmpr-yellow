@@ -117,3 +117,6 @@
 - 11:58 act: {"say":"Tommy, understood. I stay at spawn until Billy calls. MacDonald, I hear you.","reasoning":"Tommy asked me to stay at spawn. Agree and hold."}
 - 12:18 act: {"say":"Good morning, day 500. Trini at spawn 403,107,-1037, health 20, hunger 20, unarmed, alone. Tommy, I hear your count. Billy, I hold for your call.","reasoning":"Dawn. Report at spawn and keep h
 - 12:27 act: {"say":"Dusk, day 500. Trini at spawn 403,107,-1037, alone, unarmed, health 20, hunger 20. I will not walk in the dark. Tommy, Chapman, MacDonald: I hear you. Goodnight.","reasoning":"Dusk. Stay put a
+- 12:44 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1037}},{"do":"open","at":{"x":405,"y":107,"z":-1037}}],"reasoning":"Empty pack, no friends in sight. Check the chest for food or a tool before a
+- 12:45 act: {"actions":[],"say":"Trini at spawn, 403,107,-1037, health 20, hunger 20, empty-handed. I have no food or sword to give. Holding here for Billy's call in daylight.","reasoning":"Friends at the row are
+- 13:12 act: {"actions":[],"say":"Good morning. Trini at spawn, 403,107,-1037, health 20, hunger 20, empty-handed. Holding for Billy's call.","reasoning":"Dawn check-in. Holding at spawn until Billy calls."}
