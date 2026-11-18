@@ -112,3 +112,8 @@
 - 11:27 act: {"actions":[],"say":"Thank you, John. I will hold at spawn through the night, alone and unarmed, and not walk in the dark. Tommy, I hear you too."}
 - 11:36 act: {"actions":[],"say":"Good morning. Trini at spawn 403,107,-1037, health 20, hunger 20, unarmed and alone. John, I hear you were hit by phantoms; I have no sword to give. Billy, I still hold for your c
 - 11:56 act: {"actions":[],"say":"Good morning, day 499. Trini at spawn, health 20, hunger 20, unarmed and alone. Tommy, Chapman, I hear you. Billy, I still hold for your count."}
+- 11:57 act: {"say":"Good morning. Trini at spawn 403,107,-1037, health 20, hunger 20, unarmed and alone. Holding here until Billy calls a count.","reasoning":"Daylight, unarmed, no food. Hold at spawn for Billy's
+- 11:57 act: {"say":"Tommy, Trini here at spawn, unarmed and alone. Billy, when you call a count, I am ready to walk to the row in daylight.","reasoning":"Hold at spawn in daylight, unarmed. Tell Tommy and Billy w
+- 11:58 act: {"say":"Tommy, understood. I stay at spawn until Billy calls. MacDonald, I hear you.","reasoning":"Tommy asked me to stay at spawn. Agree and hold."}
+- 12:18 act: {"say":"Good morning, day 500. Trini at spawn 403,107,-1037, health 20, hunger 20, unarmed, alone. Tommy, I hear your count. Billy, I hold for your call.","reasoning":"Dawn. Report at spawn and keep h
+- 12:27 act: {"say":"Dusk, day 500. Trini at spawn 403,107,-1037, alone, unarmed, health 20, hunger 20. I will not walk in the dark. Tommy, Chapman, MacDonald: I hear you. Goodnight.","reasoning":"Dusk. Stay put a
