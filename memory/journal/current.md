@@ -124,3 +124,11 @@
 - 13:29 act: {"say":"Trini here at spawn, alone, unarmed, no food. Night now. I will hold still until Billy calls for the row.","intent":{"goal":"hold_until_daylight","program":"rest","arguments":{"seconds":240},"
 - 13:33 act: {"say":"Morning, Tommy. I have nothing in my pack either. I will check the chest here for food and bring any I find to you.","actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1037}},{"do":"open",
 - 13:33 say: {"text":"Tommy, I checked the chest here and found no food. I am holding at spawn until Billy calls the group."}
+- 13:37 act: {"say":"Good morning. Trini at the spawn, unarmed, health 20, hunger 20. Holding here until Billy calls.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_ad
+- 13:41 act: {"say":"Dusk. Trini at spawn 403,107,-1037, alone, unarmed, health 20, hunger 20. I will not walk in the dark. Holding here until light."}
+- 13:50 act: {"say":"Dawn, day 505. Trini at spawn 403,107,-1037, health 20, hunger 20, unarmed and alone. Billy, I hold for your call."}
+- 13:54 act: {"say":"Chapman, I hear you. I am at spawn 403,107,-1037, unarmed and empty-handed, no food to give. Holding for Billy's call."}
+- 14:02 act: {"say":"Dusk, day 505. Trini at spawn 403,107,-1037, alone, unarmed, health 20, hunger 20. Holding here through the night, no walk."}
+- 14:10 act: {"say":"Tommy, I am sorry. Chapman, you are at health 5; get out of the phantoms' reach and stay close to Billy. Trini at spawn, unarmed, holding still."}
+- 14:13 act: {"say":"Tommy, I have no food and no sword, I am sorry. I am at spawn 403,107,-1037, not walking alone. Billy, please call the group to the row."}
+- 14:14 act: {"say":"Tommy, I see you beside me with your wooden sword. Good. We hold here together until Billy calls."}
