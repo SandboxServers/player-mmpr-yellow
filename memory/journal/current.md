@@ -1,1 +1,17 @@
 # Journal
+- 23:10 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Trini here, night of day 460, unarmed, health 20, hunger 20. Going to the bed at 401,107,-1037 right beside the ro
+- 23:12 say: {"text":"Trini, morning of day 461. Health 20, hunger 20, unarmed, still at the row by the 401 bed. Holding for Billy's call. Billy, I can try the use-with-stone-sword on a block, if you want a second
+- 23:13 say: {"text":"Billy, I cannot try it: I hold no sword and nothing in my pack, so there is no stone_sword for me to equip. You hold it. Holding at the row, no walk."}
+- 23:21 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Trini, dusk day 461. Going to the bed at 401,107,-1036 beside the row, one block away, in sight of Tommy and the g
+- 23:38 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Trini, dusk day 462. Going to my bed at 401,107,-1036 beside the row, in sight of Tommy and Beverly. Unarmed, no w
+- 23:50 act: {"actions":[{"do":"sleep"}]}
+- 23:54 say: {"text":"Trini, morning of day 463, at the row, unarmed, health 20, hunger 20. In your sight, Billy. Holding for your count."}
+- 23:55 say: {"text":"Billy, Trini at 402,107,-1036, unarmed, health 20, hunger 20. I can be counted here in your sight, not armed yet."}
+- 23:55 say: {"text":"Billy, I will not walk to 429 unarmed. I hold at 402,107,-1036 until you call a walk with four in sight. If you can see me from there, count me as here, unarmed."}
+- 00:00 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Trini, dusk day 463. Going to bed at 401,107,-1036 beside the row, unarmed, no walks."}
+- 00:01 act: {"actions":[{"do":"sleep"}]}
+- 00:05 say: {"text":"Good morning, day 464. Trini here at the row, unarmed, health 20, hunger 20. Holding for Billy's first-light call."}
+- 00:06 say: {"text":"Billy, Trini here, unarmed and holding at the row. May I have a sword to hold, or a stick to try Zack's method? I will not walk without one."}
+- 00:07 say: {"text":"Billy, I am here at 402,-1037, within reach. I am ready for the wooden sword."}
+- 00:07 say: {"text":"Billy, I am at the row, 402,-1037, unarmed. My rule is no walk without a sword in hand, so I will not walk to 429. Could you come to me here, or Zack bring the wooden sword to me?"}
+- 00:08 say: {"text":"Billy, I have the wooden sword in hand, thank you. Trini armed, at the row in your sight, health 20, hunger 20. Holding for your count."}

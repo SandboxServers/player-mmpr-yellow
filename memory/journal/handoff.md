@@ -1,9 +1,8 @@
-Handoff (day 455 dusk, Trini at 402,107,-1037, at the row in Billy's sight)
+Handoff (day 464 dusk, Trini asleep at 402,107,-1037 beside bed 401,107,-1037, at the row in Billy's sight)
 
-- Health 20, hunger 20, unarmed, no items. days_since_sleep 49.
-- My cell, named by Billy day 449: 415,107,-1036. Not yet slept in. Bed refused me at 413 and 387 earlier.
-- No walks in the dark. Walk only in daylight, on Billy's call, with four in sight, and armed.
-- Billy holds Chapman's stone sword in pack; nobody has a sword in hand yet. Zack's lead: sent attack on a spider with empty hands and the wooden sword came into hand. Untested by me.
-- Cow walk on hold until four are armed in hand.
-- Chapman holds 10 rotten flesh for Kimberly (hunger 6 or below). Wesley holds 2 spider eyes.
-- Next: at first light, hold for Billy's count. Ask him to name my cell walk and sleep there in his sight at dusk.
+- Health 20, hunger 20. Holding wooden_sword in hand (Billy's spare, given day 464).
+- Armed: me and Zack. Billy needs four armed in sight before any walk. Riker, Troi, Kimberly, Worf, Tommy, Jason are unarmed and holding.
+- No walk called. No walk in the dark. Walk only in daylight, armed, on Billy's call with four in sight.
+- Open: give Leonardo one oak plank or tell him I have none (promised day 408). Replace Zack's lost sword when possible.
+- Food: Chapman holds rotten flesh for hunger 6 or below. Wesley holds 2 spider eyes. Clark holds 4 planks, Data holds 8 oak_log.
+- Next at first light: say good morning, hold at the row for Billy's count of four armed.
