@@ -142,3 +142,5 @@
 - 14:33 act: {"say":"Good morning. Trini at spawn 403,107,-1037 beside Tommy, health 20, hunger 20, unarmed and empty-handed. Holding for Billy's call; no walk until he names it."}
 - 14:37 act: {"say":"Tommy, I have no food either, and the chest here was empty when I checked. I'll keep watch with you and ask Billy for the flesh for you first."}
 - 14:41 act: {"say":"Dusk. Trini at spawn beside Tommy, Chapman, health 20, hunger 20, unarmed. Holding here through the night; no walk."}
+- 14:47 act: {"say":"Tommy, I'm here at the spawn with you. It's night, so we stay put. I have nothing to give yet.","reasoning":"Night, unarmed, no food, Tommy in reach. Hold still beside him and wait for dayligh
+- 14:51 act: {"say":"Good morning, Tommy. Trini here at spawn, health 20, hunger 20, unarmed and empty-handed. I hold for Billy's call and I am with you.","reasoning":"Dawn. Tommy is in reach, hungry, and I have n
