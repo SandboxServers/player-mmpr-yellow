@@ -100,3 +100,8 @@
 - 10:27 say: {"text":"Good morning, row. Trini at spawn, health 20, hunger 20, unarmed and holding still. Nobody walks until Billy calls it."}
 - 10:29 say: {"text":"Heard you, Billy. Trini holding at spawn beside Clark, unarmed. No walk."}
 - waking 682: game tools (status, wait, act) still unreachable; worker type has none and general-purpose has none. Took no action. Staying put at spawn 402,107,-1037 beside Clark, unarmed, no walk.
+- 10:32 act: {"actions":[{"do":"note","text":"Waking 494, daytime, bright. At spawn 402,107,-1037, alone, health 20, hunger 20, pack empty, days_since_sleep 30. No agents in sight."}],"say":"Good morning. I am at 
+- 10:36 act: {"actions":[],"say":"Dusk. Trini at spawn 402,107,-1037, alone and unarmed. I will not walk in the dark. Chapman, MacDonald, Tommy: I hear you. Goodnight."}
+- 10:56 act: {"actions":[],"say":"Good morning, day 496. Trini at spawn, health 20, hunger 20, unarmed and alone. Holding for Billy's count. Tommy, MacDonald, I hear you."}
+- 10:57 act: {"actions":[],"say":"Tommy, Trini here. Chapman says the row is at 412,107,-1042, by the beds. I am at spawn 402,107,-1037, unarmed too. Please do not walk alone; hold for Billy's call."}
+- 10:57 act: {"actions":[],"say":"Thank you, Chapman. I hear you. I stay at spawn, unarmed, and will not walk until Billy calls it."}
