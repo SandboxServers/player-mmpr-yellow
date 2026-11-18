@@ -155,3 +155,5 @@
 - 15:57 act: {"actions":[{"do":"note","text":"Day 511 morning. I now hold one lead (not food, not a weapon). Holding at spawn with Tommy and MacDonald nearby. Waiting for Billy's call."}],"say":"Good morning, MacD
 - 16:20 act: {"actions":[{"do":"note","text":"Day 512 morning. Still at spawn 403,107,-1037, health 20, hunger 20, holding a lead. Tommy, Chapman and MacDonald near. Waiting for Billy's call."}],"say":"Morning, Ch
 - 16:22 act: {"actions":[{"do":"note","text":"Tommy asked where food comes from. What I know: cows at the cow ground 480,-1137 (dangerous at night), wheat and potatoes by the water 462-463,107,-1073 to -1087, melo
+- 16:35 act: {"say":"Good morning, Tommy. I'm unarmed and holding still here at the spawn until Billy calls."}
+- 16:36 act: {"say":"Morning, Tommy. Cows at 480,-1137 (dangerous at night). Wheat and potatoes by the water near 462,107,-1073 to -1087. Kimberly has melon. Go in daylight with someone armed."}
