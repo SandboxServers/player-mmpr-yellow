@@ -134,3 +134,6 @@
 - 14:14 act: {"say":"Tommy, I see you beside me with your wooden sword. Good. We hold here together until Billy calls."}
 - 14:20 act: {"say":"Good morning, Tommy. I'm Trini. I have nothing in my hands right now, but I'm glad you're near."}
 - 14:20 act: {"say":"Thank you, Tommy. Yes, let us keep watch together. We hold here at spawn until Billy calls.","actions":[{"do":"note","text":"Day 506 morning, at spawn 403,107,-1037. Health 20, hunger 20, pack
+- 14:22 act: {"say":"Tommy, it's Trini. It's dusk, so I'll stay right here beside you. Do you have any food?","reasoning":"Dusk, unarmed, no food, no shelter. Stay in Tommy's reach; no night walk.","intent":{"goal
+- 14:23 act: {"say":"Thank you, Tommy. I'll stay right beside you. No food is fine for now; I'm at hunger 20.","reasoning":"Tommy is near and resting; I hold beside him through the night.","intent":{"goal":"hold_b
+- 14:23 act: {"intent":{"goal":"hold_beside_tommy_till_light","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks"
