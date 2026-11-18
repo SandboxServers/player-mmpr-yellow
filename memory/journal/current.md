@@ -132,3 +132,5 @@
 - 14:10 act: {"say":"Tommy, I am sorry. Chapman, you are at health 5; get out of the phantoms' reach and stay close to Billy. Trini at spawn, unarmed, holding still."}
 - 14:13 act: {"say":"Tommy, I have no food and no sword, I am sorry. I am at spawn 403,107,-1037, not walking alone. Billy, please call the group to the row."}
 - 14:14 act: {"say":"Tommy, I see you beside me with your wooden sword. Good. We hold here together until Billy calls."}
+- 14:20 act: {"say":"Good morning, Tommy. I'm Trini. I have nothing in my hands right now, but I'm glad you're near."}
+- 14:20 act: {"say":"Thank you, Tommy. Yes, let us keep watch together. We hold here at spawn until Billy calls.","actions":[{"do":"note","text":"Day 506 morning, at spawn 403,107,-1037. Health 20, hunger 20, pack
