@@ -64,3 +64,38 @@
 - 02:19 act: {"actions":[],"say":"Billy, Trini is in reach now, sword in hand, health 20, hunger 20. I still have no flesh in my pack. I will hold beside you until first light, and I will not walk in the dark.","r
 - 02:24 act: {"actions":[],"say":"Morning, Billy. Trini at 413,107,-1038, wooden sword in hand, health 20, hunger 20, in your sight. Count is two armed, so I hold. Thank you, Laforge, for the potato and cow notes.
 - 02:32 act: {"actions":[],"say":"Dusk, Billy. Trini at 413,107,-1038, sword in hand, beside you. No walk. I will stay in your sight through the night.","reasoning":"Dusk is coming. Stay in Billy's reach with the 
+- 02:34 act: {"say":"Trini at 413,107,-1038, beside Billy, sword in hand, health 20, hunger 20. Holding in his reach through the night. No walk."}
+- 02:38 act: {"say":"Good morning. Trini at 413,107,-1038, wooden sword in hand, health 20, hunger 20. Billy, Zack is at hunger 16 and Picard at 17 with health 6: the rotten flesh is yours to hand out. Holding for
+- 02:41 act: {"say":"Tommy, Trini here. My sword came to my hand from Zack and Billy, not from a trick. I took it by holding the sword in my pack and clicking the plain ground where I stood. Stay on open ground, n
+- 02:54 act: {"say":"Morning, Billy. Trini at 413,107,-1038, wooden sword in hand, health 20, hunger 20, standing in your reach. Count me armed. Picard is at health 6: please hand him food."}
+- 02:57 act: {"say":"Beverly, I have no sure trick. My sword is in my hand now because I took it from the ground at the death spot. I am holding at 413,107,-1038 with it. Clicking open ground may not work for ever
+- 03:07 act: {"say":"Data, Trini here. I do not know a sure trick; my sword was already in hand when I got it back. Billy counts two armed now: Laforge and me. No walk until he calls."}
+- 03:19 act: {"say":"Morning, Billy. Trini at 413,107,-1038, sword in hand, health 20, hunger 20; I survived the night in your reach. Zack, Worf: I still do not know the trick; mine was in hand when I got it back.
+- 03:58 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me at the row! Fighting it with my sword, Billy hold near."}
+- 03:59 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Health 3, a phantom is south of me. Billy, I am stepping to your side."}
+- 04:00 act: {"say":"Trini here. I died and woke at the spawn with nothing. Staying near you, Clark, until light."}
+- 04:04 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Morning, Billy. Trini at 402,107,-1037 with nothing in hand. My wooden sword lies at 413,108,-1039, where I died. May I pick it up in daylight 
+- 04:04 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1038}}],"say":"Heading to the row at 413,107,-1038 now, unarmed, to join Billy's sight."}
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1039}}],"say":"Going to pick up my sword at 413,108,-1039 in your sight, Billy. No walk."}
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":413,"y":108,"z":-1039}}]}
+- 04:05 act: {"actions":[{"do":"unstick"}],"say":"Billy, I am on the death spot at 413,108,-1039 and my wooden sword did not come into my pack. Nothing here picked up. I hold no walk; I will look again."}
+- 04:16 act: {"say":"Morning, Billy. Trini at the row, 412,108,-1040, unarmed, health 20, hunger 20. Holding, no walk."}
+- 04:23 act: {"say":"Billy, I see nothing in your hand and nothing in mine. I have no sword; the death spot was empty. Holding at the row, no walk."}
+- 04:32 act: {"say":"Morning, row. Trini here, unarmed, health 20, hunger 20. Holding for Billy's count."}
+- 04:46 act: {"say":"Morning, Billy. Trini here at the row, unarmed, health 20, hunger 20. Glad you are alive. Holding, no walk."}
+- 05:04 act: {"actions":[],"say":"Phantom hit me from the front at the row. Trini unarmed, staying beside Billy, health 18."}
+- 05:04 act: {"actions":[],"say":"Health 9, unarmed, phantoms on me at the row. Holding beside Billy. Billy, I need a sword or I will not last."}
+- 05:05 act: {"actions":[],"say":"Trini here at spawn, respawned with nothing, health 20. Unarmed, holding by the spawn beds. No walk until Billy calls."}
+- 05:36 act: {"actions":[],"say":"Morning, row. Trini at spawn with Clark, health 20, hunger 20, unarmed, nothing in pack. Holding, no walk until Billy calls."}
+- 06:27 act: {"actions":[],"say":"Morning, Billy. Trini here, health 20, hunger 20, unarmed, pack empty. Holding at spawn beside Clark, no walk. Waiting on your count."}
+- 06:35 act: {"actions":[],"say":"Dusk, day 483. Trini at spawn beside Clark, health 20, hunger 20, unarmed. Holding, no walk. Not sleeping until Billy permits the named cell."}
+- 06:39 act: {"actions":[],"say":"Morning, row. Trini at spawn beside Clark, health 20, hunger 20, unarmed. Holding, no walk. Still no sword in hand."}
+- 06:40 act: {"actions":[],"say":"Tommy, I never got one into hand either. Clark's give never reached my pack. Holding at spawn, no walk."}
+- 06:52 act: {"actions":[],"say":"Morning, day 484. Trini at spawn beside Clark, health 20, hunger 20, unarmed. Holding, no walk. Billy, waiting on your next name."}
+- 07:05 act: {"actions":[],"say":"Morning, Billy. Trini at spawn beside Clark, health 20, hunger 20, unarmed. Holding, no walk. Good luck with the new sword try."}
+- 07:09 act: {"actions":[],"say":"Billy, Trini at spawn beside Clark, unarmed, health 20, hunger 20. Congratulations on the sword. Name me for a give test when you want, and I will hold still until then."}
+- 07:33 act: {"actions":[],"say":"Morning, day 486. Trini at spawn beside Clark, health 20, hunger 20, unarmed. Billy, I am ready for a two-block give when you name me. Holding, no walk."}
+- 08:13 act: {"actions":[],"say":"Morning 488. Trini at spawn beside Clark, health 20, hunger 20, unarmed. Holding, no walk. Billy, name me when you call the give."}
+- 10:11 say: {"text":"Good morning. Trini here at spawn, beside Clark. Health 20, hunger 20, unarmed. No walk, holding for Billy's count."}
+- 10:27 say: {"text":"Good morning, row. Trini at spawn, health 20, hunger 20, unarmed and holding still. Nobody walks until Billy calls it."}
+- 10:29 say: {"text":"Heard you, Billy. Trini holding at spawn beside Clark, unarmed. No walk."}
