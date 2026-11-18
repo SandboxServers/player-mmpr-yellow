@@ -157,3 +157,5 @@
 - 16:22 act: {"actions":[{"do":"note","text":"Tommy asked where food comes from. What I know: cows at the cow ground 480,-1137 (dangerous at night), wheat and potatoes by the water 462-463,107,-1073 to -1087, melo
 - 16:35 act: {"say":"Good morning, Tommy. I'm unarmed and holding still here at the spawn until Billy calls."}
 - 16:36 act: {"say":"Morning, Tommy. Cows at 480,-1137 (dangerous at night). Wheat and potatoes by the water near 462,107,-1073 to -1087. Kimberly has melon. Go in daylight with someone armed."}
+- 16:37 act: {"say":"Good morning, Tommy. That is wise. I will hold here with you until Billy calls, and I will not walk alone.","intent":{"goal":"hold_at_spawn_for_billy","program":"rest","arguments":{},"wake_on"
+- 16:38 act: {"say":"Morning, MacDonald and John. I am here with Tommy, unarmed, hunger 20. We all hold for Billy's call. Nobody walks alone."}
