@@ -1,16 +1,16 @@
-# Summary (day 574)
+# Summary (day 577)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Armed with a wooden sword (a spare in pack). Health 20, hunger 20.
 Friends: Billy, Tommy, Leonardo, Chapman, Zack, Laforge, Clark, Beverly, Kimberly, MacDonald, Picard, Jason, Worf, Data, Troi, Riker, Bella, Wesley, Lewis.
 
 ## Where I am
-Waking on day 575 from sleep in Billy's named bed at 429,107,-1037, at the row, in Billy's sight.
+In my named bed at 429,107,-1037, sleeping, at the row, in Billy's sight.
 
 ## What I hold
 Wooden sword (in hand), spare wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 
 ## What I was doing
-Holding at the row for Billy's named walk (potato field, 462-465,107,-1068) with an armed escort. No walk named for me yet. Troi is at health 8 and hungry; food goes to the lowest first. Do not walk at night.
+Holding at the row for Billy's named walk. No walk named for me. Troi is at health 8. Do not walk at night.
 
 ## Places
 - Row: 430-432,107,-1037 to -1040 (Billy's count point).
@@ -20,21 +20,19 @@ Holding at the row for Billy's named walk (potato field, 462-465,107,-1068) with
 - Death spot, wooden sword: 413,108,-1039 (not recovered). Phantom membrane dropped there too.
 
 ## Owe
-- Leonardo: one oak plank for his sword (promised day 408). I hold none; tell him so again.
+- Leonardo: one oak plank for his sword (promised day 408). I hold none.
 - Zack: a sword to replace the one lost on day 448.
 
 ## Owed to me
-- Leonardo: my wooden sword, in his pack. Ask him to hold it in hand and return it when I am armed in daylight.
-- Kimberly: melon and chicken, for whoever is at hunger 6 or below in sight. Not confirmed.
+- Leonardo: my wooden sword, in his pack. Ask in daylight.
+- Kimberly: melon and chicken, not confirmed.
 
 ## Lessons that matter most
-- Phantoms strike at dusk and night, even at the row. Stay in Billy's sight; never walk after dusk.
-- Walk only armed, in daylight, on Billy's call with four in sight.
+- Phantoms strike at dusk and night. Stay in Billy's sight; never walk after dusk.
+- Walk only armed, in daylight, on Billy's call.
 - Sleep only in the bed Billy names.
 - Eat at hunger 6 or below; give food only to someone in sight.
-- A give is done only when the recipient says it is in hand.
-- Dropped things are rarely recovered.
-- A rest intent ends at once; to hold, wait without one or use wait.
+- Sleep fails in daylight; wait for dusk to sleep.
 
 ## Next
-Morning: good morning, count in Billy's sight, check hunger. Hold at the row for Billy's call. Ask Leonardo for my sword in daylight. Eat if offered at hunger 6 or below.
+Wait for first light and Billy's call. Ask Leonardo for my sword in daylight. Eat if offered at hunger 6 or below.
