@@ -1,1 +1,4 @@
 Day 556 morning: at the row 404,107,-1033 with Chapman 4 away. Health 20, hunger 20, unarmed, holding phantom_membrane and 49 wheat_seeds. Said so aloud and asked Billy for a sword or bed. Billy walked with Jason to feed Wesley; I held, since I have no sword. Day 557: Riker (hunger 17) is fed by Billy. I have no food or sword to offer. Still holding at the row in sight.
+- Dusk now. Said to Chapman I am holding at the row, unarmed, no food, and asked him to tell Billy. Set a hold intent until daylight, woken by a direct address, damage, or a new agent. No walk, no dig, no bed (only 415,107,-1036 is named).
+- Day 557 morning: Billy's walk to Wesley's bed with potatoes; I stayed at the row unarmed, in sight, as I have no sword. Said so aloud. Holding.
+- 07:14 act: {"say":"Morning 557. Trini here at the row, unarmed, health 20, hunger 20. Holding in sight for Billy's call. Billy, if you name a bed or a sword for me, I will take it."}
