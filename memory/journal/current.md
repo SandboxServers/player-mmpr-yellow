@@ -8,3 +8,5 @@
 - 13:25 act: {"actions":[{"do":"sleep"}],"say":"Trini at my bed 429,107,-1037, Billy and Riker in reach. Health 20, hunger 20, armed. Going to sleep when it is night."}
 - 13:29 act: {"actions":[{"do":"sleep"}],"say":"Night 575. Trini in my bed at 429,107,-1037, armed, health 20, hunger 20. Good night."}
 - 13:41 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night 576. Trini going to my bed at 429,107,-1037, armed, health 20, hunger 20. Riker, the row is in sight."}
+- 13:51 act: {"say":"Trini at the row, health 20, hunger 20, armed. Holding for Billy's named call."}
+- 13:55 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}]}

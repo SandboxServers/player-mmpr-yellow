@@ -1,7 +1,7 @@
-Handoff (day 576, night, sleeping)
+Handoff (day 577, night, going to bed)
 
-- At 429,107,-1037, my named bed, in Billy's sight at the row. Health 20, hunger 20, armed with a wooden sword (spare in pack).
-- Sleep started; 5 of 10 asleep when last checked.
-- No walk named for me. Owe: oak plank to Leonardo (none). Zack is still out at the potato field; Billy asked him to come back armed.
-- Tommy was at health 3 at the bed; Billy brought him a potato. Troi is at health 8, hunger 17.
-- Next: hold at the row in Billy's sight. Eat if offered at hunger 6 or below. Walk only on Billy's named call, in daylight.
+- Holding at the row, in Billy's sight, at my named bed 429,107,-1037. Health 20, hunger 20, armed (wooden sword, spare in pack).
+- No errand half-done. No walk named for me.
+- Owe Leonardo one oak plank (none held). Owed: my wooden sword back from Leonardo (ask in daylight).
+- Jason has no bed yet; Billy will name one at first light.
+- Next: at first light, wait for Billy's named call. Eat if food is offered at hunger 6 or below. Walk only in daylight, armed, on his named call.
