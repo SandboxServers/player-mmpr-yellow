@@ -4,3 +4,17 @@ Day 556 morning: at the row 404,107,-1033 with Chapman 4 away. Health 20, hunger
 - 07:14 act: {"say":"Morning 557. Trini here at the row, unarmed, health 20, hunger 20. Holding in sight for Billy's call. Billy, if you name a bed or a sword for me, I will take it."}
 - 07:23 act: {"say":"Trini at the row, morning 557. Unarmed, health 20, hunger 20. Holding in sight. Billy, when a sword is free, I would take it. I have no oak plank for Leonardo yet.","intent":{"goal":"hold_at_r
 - 07:27 say: {"text":"Dusk 557. Trini at the row, unarmed, health 20, hunger 20. Holding in sight of Chapman and Zack. Billy, I will wait for first light and your call."}
+- 07:33 act: {"say":"Trini at the row, morning 557. Unarmed, health 20, hunger 20, no food. Holding here in Billy's sight. Billy, I need a sword when one is free, and a call before any walk.","reasoning":"Daylight
+- 07:41 act: {"say":"Night 558. Trini at the row, unarmed, health 20, hunger 20. No bed named for me yet, so I hold here in sight of Chapman and Riker. Billy, I will take a bed or a sword at first light.","reasoni
+- 08:18 act: {"say":"Thank you, John. Trini holding at the row too, unarmed, health 20, hunger 20. Kimberly, Zack, I see you both nearby. Holding for first light and Billy's call.","reasoning":"Dusk, group nearby.
+- 08:22 act: {"say":"Morning 560. Trini at the row, health 20, hunger 20, still unarmed. MacDonald, I hold close to your sword. Billy, I wait for your call.","reasoning":"Phantoms hit others at the row. Stay near 
+- 08:39 act: {"say":"Tommy, Trini here at the row. Welcome. I am unarmed and holding in sight; no need to hurry. I am glad you came in.","reasoning":"Tommy is new to the row; gently welcome him, let him come close
+- 08:51 act: {"say":"Trini at the row 404,107,-1033, unarmed, health 20, hunger 20. Billy, if a sword is free, I will take it. Otherwise I hold here until you name a bed.","actions":[]}
+- 10:54 say: {"text":"Trini at the row 404,107,-1033, morning 568, unarmed, health 20, hunger 20. Holding in sight. No walk, no bed without Billy's name."}
+- 11:18 say: {"text":"Billy, Trini at the row 404,107,-1033, morning 569, unarmed, health 20, hunger 20. I ask for a sword when one is free. I hold in your sight."}
+- 11:34 say: {"text":"Billy, Trini heard the sword is ready at the row table. I am at 404,107,-1033, unarmed, in daylight. Say the word and I walk to you at the table, in sight."}
+- 11:34 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1048}}],"say":"Walking to Billy at 430,107,-1048 as named, for the sword."}
+- 11:35 say: {"text":"Trini here at 431,107,-1048, in your reach, Billy. Unarmed, health 20, hunger 20. Waiting for the sword."}
+- 11:37 say: {"text":"Billy, the sword is not in my pack yet. I still hold nothing. Trini at 431,107,-1048, in your reach, waiting."}
+- 11:38 say: {"text":"Trini has the wooden sword, thank you Billy and Zack. Dusk now; I stay in your sight. Billy, which bed is mine tonight? I will sleep only in the one you name."}
+- 11:38 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Walking to the bed at 429,107,-1037 that Billy named, in sight."}
