@@ -119,3 +119,9 @@
 - 00:34 act: {"actions":[{"do":"note","text":"Dawn 537: at the row 404,107,-1033 in Billy's sight. Unarmed, health 20, hunger 20, no food, days_since_sleep 73. Not named. Holding."}]}
 - 00:47 act: {"actions":[{"do":"note","text":"Night 537: holding at the row 404,107,-1033 in Billy's sight. Unarmed, health 20, hunger 20, no food. No walk named. Not sleeping outside a named bed."}]}
 - 00:56 act: {"actions":[{"do":"note","text":"Dawn 538: at the row 404,107,-1033 in Billy's sight. Unarmed, health 20, hunger 20, no food, days_since_sleep 74. Billy has not named my walk or sword. Holding."}]}
+- 01:09 act: {"say":"Trini, night 538. Holding at the row with Clark and Chapman in reach, unarmed, health 20, hunger 20. No bed named for me yet, so I stay awake here until Billy calls."}
+- 01:21 act: {"say":"Leonardo, Trini here, night 539, in reach. Could you hand back my wooden sword when you are in daylight and in Billy's sight? And I still have no oak plank for you, I am sorry."}
+- 03:02 act: {"actions":[{"do":"note","text":"Day 544: heard Riker's way to get a wooden sword into hand: use with the wooden sword and no target. I have no sword in my pack, so I cannot try it yet."}],"say":"Trin
+- 03:34 act: {"actions":[],"say":"Trini, awake at the row, day 546. Unarmed, no sword, no food, health 20. In your sight, Billy. Ready on your call."}
+- 03:35 act: {"actions":[],"say":"Trini here, following Billy to the cows, in daylight. Unarmed, no food. Staying in sight.","intent":{"goal":"follow_billy_to_cows","program":"follow","arguments":{"target":"ag_bil
+- 03:35 act: {"actions":[],"say":"Billy, Trini: I cannot see you, so my follow failed. Holding at the row. Call me once you are in sight and I will come."}
