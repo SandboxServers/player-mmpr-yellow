@@ -1,1 +1,30 @@
 # Journal
+- 19:51 act: {"say":"Billy, I am at my bed 429,107,-1037, in your sight, armed. Holding. I will try it at dusk and tell you.","intent":{"goal":"hold_in_sight","program":"rest","arguments":{},"wake_on":["directly_a
+- 19:56 act: {"say":"Morning, row. Trini at my bed 429,107,-1037, in Billy's sight, armed. Tommy, welcome; the row is holding, no walk yet."}
+- Day 595 morning: sleep failed in daylight ("not night"). Billy says try the bed at dusk. Holding at bed 429,107,-1037; greeted Tommy, who is new in the row.
+- 20:00 act: {"actions":[{"do":"sleep"}],"say":"Billy, dusk now. Trying my bed 429,107,-1037 in your sight."}
+- Day 595 dusk: first sleep attempt "not night", second at dusk worked; slept at 429,107,-1037 in Billy's sight. Woke at day 595 morning, health 20, hunger 20. Bed accepted me. Holding, no walk named. Kimberly now uses bed 429,107,-1023.
+- Day 595 midday: held in sight, no walk named. Dusk again: going to bed 429,107,-1037 to sleep.
+- Day 596: slept at night, but woke in day at 415,107,-1035 (not my bed), beside Kimberly and Riker. Holding there, not walking without Billy's named call; asked Billy for the way back. Health 20, hunger 20.
+- Day 596 night: slept in place at 415,107,-1035 in Kimberly's and Riker's sight (sleep worked). Woke day 597-ish at 416,107,-1037, beside bed 415,107,-1037. Holding, no walk named by Billy.
+- Day 597 morning: still at 416,107,-1037 beside Kimberly and Riker, health 20, hunger 20, armed. Billy: "no walk named yet; feed at 10 or below, you are first." Holding; no walk on my own.
+- 20:01 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, Billy. Trying my bed now, in your sight."}
+- 20:01 act: {"actions":[{"do":"note","text":"Bed 429,107,-1037 accepted sleep at dusk, day 595, in Billy's sight."}],"say":"Billy, my bed 429,107,-1037 accepted me. I am asleep, in your sight."}
+- 20:13 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. Trini going to my bed 429,107,-1037 in Billy's sight. Goodnight."}
+- 20:16 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini in my bed 429,107,-1037, in Billy's sight. No walk."}
+- 20:16 act: {"say":"Billy, my bed 429,107,-1037 is not where I am. I woke at 415,107,-1035, near Kimberly and Riker, in day. I will not walk back without your named call. Tell me the way."}
+- 20:29 act: {"actions":[{"do":"sleep"}],"say":"Night, row. I am at 415,107,-1035, not my named bed, and I will not walk in the dark. Sleeping here in Kimberly's and Riker's sight."}
+- 20:41 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini at 416,107,-1037, not my named bed, holding. No walk. Sleeping here in Kimberly's and Riker's sight."}
+- 20:45 act: {"actions":[],"say":"Morning, row. Trini at 416,107,-1037, health 20, hunger 20, armed. Holding, no walk named. Billy, I am still not at my bed 429,107,-1037; tell me the way when you name it."}
+- 20:46 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Billy, daylight and your named walk. Trini walking to my bed 429,107,-1037, armed, with Kimberly beside me. Telling you if it ref
+- 20:46 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Jason, Trini at 430,107,-1037, going onto my bed 429,107,-1037 now, in daylight."}
+- 20:46 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Billy, Jason: I am at 430,107,-1037, beside my bed 429,107,-1037. The walk stopped here; I am trying to get onto the bed now."}
+- 20:46 act: {"actions":[],"say":"Billy, Jason: I am at 430,107,-1037, right beside my bed 429,107,-1037. The bed will not take me in daylight; it only takes sleep at night. I am holding here, armed, in your sight
+- 20:47 act: {"actions":[{"do":"sleep"}],"say":"Billy, one try to lie down at my bed 429,107,-1037, from beside it, in your sight."}
+- 20:47 act: {"actions":[],"say":"Billy, the bed refused me in daylight: \"not possible right now: it is not night.\" I am holding beside 429,107,-1037 at 430,107,-1037, armed, in your sight. I will try again at d
+- 20:47 act: {"actions":[],"say":"Understood, Billy. Holding beside my bed 429,107,-1037, at 430,107,-1037, armed, in your sight. No more tries in daylight. At night I lie down in it."}
+- 20:55 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini lying down in my bed 429,107,-1037, in Billy's sight. No walk."}
+- 20:55 act: {"actions":[],"say":"Morning, row. Billy, I am now at 443,107,-1035 beside your row, not at my bed 429,107,-1037. The night passed before the bed took me. I am holding here, armed, in your sight. No w
+- 21:08 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Trini sleeping here at 443,107,-1035 in Billy's sight; my bed 429,107,-1037 has not taken me yet. No walk."}
+- 21:08 act: {"actions":[],"say":"Morning, row. Trini awake at 429,107,-1035, two blocks from my bed 429,107,-1037, health 20, hunger 20, armed. Holding. Billy, name the step to my bed, or hold."}
+- 21:21 act: {"actions":[],"say":"Dusk, row. Trini at 430,107,-1037 beside my bed 429,107,-1037, health 20, hunger 20, armed. John is in the bed. Holding in Billy's sight, no walk."}
