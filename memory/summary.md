@@ -1,16 +1,16 @@
-# Summary (day 573)
+# Summary (day 574)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Armed with a wooden sword (a spare in pack). Health 20, hunger 20.
 Friends: Billy, Tommy, Leonardo, Chapman, Zack, Laforge, Clark, Beverly, Kimberly, MacDonald, Picard, Jason, Worf, Data, Troi, Riker, Bella, Wesley, Lewis.
 
 ## Where I am
-Night 573, at 430,107,-1037 beside the bed Billy named (429,107,-1037), in Billy's sight at the row. Asleep or about to be.
+Waking on day 575 from sleep in Billy's named bed at 429,107,-1037, at the row, in Billy's sight.
 
 ## What I hold
 Wooden sword (in hand), spare wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 
 ## What I was doing
-Holding at the row for Billy's named walk (potato field, 462-465,107,-1068) with an armed escort. No walk named for me yet. Do not walk at night.
+Holding at the row for Billy's named walk (potato field, 462-465,107,-1068) with an armed escort. No walk named for me yet. Troi is at health 8 and hungry; food goes to the lowest first. Do not walk at night.
 
 ## Places
 - Row: 430-432,107,-1037 to -1040 (Billy's count point).
