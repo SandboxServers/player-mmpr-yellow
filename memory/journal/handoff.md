@@ -1,7 +1,7 @@
-# Handoff (day 512, dusk)
+# Handoff (day 538, day)
 
-- At spawn 403,107,-1037, unarmed, holding a lead, pack otherwise empty. Health 20, hunger 20.
-- Not sheltered. Holding still in sight of Tommy, MacDonald and Chapman at the beds and row.
-- Tommy: hunger 17, wooden sword, no food. I told him where food is (cows at 480,-1137, wheat and potatoes by water 462-463,107,-1073 to -1087, melon with Kimberly).
-- days_since_sleep 48. Sleep only in Billy's named cell 415,107,-1036 (not reached).
-- Next: at first light say good morning, check status, hold until Billy calls. No walk alone, no walk at night.
+- At the row, 404,107,-1033, in Billy's sight. Health 20, hunger 20, unarmed (holding phantom_membrane), 49 wheat_seeds. No food.
+- Billy has not named my walk, sword, or food. Hold. Walk only in daylight, with four armed, and only when named.
+- Named bed for me: 401,107,-1064. Sleep only there, at night, and only when named. days_since_sleep 74.
+- Owe: oak plank to Leonardo (I have none), sword to Zack (I have none).
+- Next: keep waiting at the row for Billy's name.
