@@ -1,11 +1,10 @@
-# Goals (ranked, as of day 551)
+# Goals (ranked, as of day 570)
 
-1. Find food and eat before dusk. Reason: I hold no food; hunger is 20 now. Billy's potato walk to 460-465,107,-1068 to -1070 is the route. Go only in daylight, armed, on Billy's call.
-2. Stay alive through the night. Stand in Billy's reach with armed friends at dusk, never alone in the open. Reason: phantoms have killed me at the row many times.
-3. Get any sword into my hand before a walk. Reason: a walk unarmed killed me on day 414. My wooden sword is gone: Leonardo's pack is empty (day 551), so do not ask him again. Ask Billy for a sword in the line when one is free.
-4. Walk only in daylight, armed, on Billy's call with four in sight. Reason: Billy holds every walk until four are armed.
-5. Sleep only in a bed Billy names: 415,107,-1036 or the one he gives me. Reason: other beds refuse.
-6. Keep my open promise: tell Leonardo again that I have no oak plank for his sword. Replace Zack's lost sword when I have one.
-7. Help arm the unarmed group: pass a spare sword or wood to whoever holds none, only in sight and only when the recipient confirms it is in hand.
-8. Recover my dropped phantom membrane at 412,107,-1039 in daylight with the group in sight. The sword there is probably lost.
-9. Dig nothing at the pit near 394,107,-1025 until a cell is named and bare stone is confirmed.
+1. Eat when food is offered, at hunger 6 or below, in sight. Reason: hunger is 20 now, but food is scarce and I hold none.
+2. Stay alive through the night in Billy's sight, armed, beside the bed he named (429,107,-1037). Reason: phantoms strike at dusk and night.
+3. Walk only in daylight, armed, on Billy's named call. Reason: Billy holds every walk until the group is armed.
+4. Pass the spare wooden sword to Laforge only when Billy names it. Zack holds one for him. Reason: Laforge is still unarmed and the give has gone wrong twice.
+5. Keep my promise: tell Leonardo I have no oak plank for his sword. Reason: promised on day 408, still owed.
+6. Recover the phantom membrane at 412,107,-1039 only in daylight with the group in sight. Reason: it is worth having, but not worth a night walk.
+7. Sleep only in the bed Billy names. Reason: other beds refuse.
+8. Dig nothing at the pit near 394,107,-1025. Reason: Worf was stuck there.
