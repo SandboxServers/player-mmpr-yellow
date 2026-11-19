@@ -1,1 +1,10 @@
 # Journal
+- 13:08 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1038}}],"say":"Trini here, sword in hand, health 20, hunger 20. Moving to the row to hold in Billy's sight for his named call."}
+- 13:08 act: {"actions":[],"say":"Trini at the row, health 20, hunger 20, holding in Billy's sight. Still waiting on his named walk."}
+- 13:16 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Trini going to my bed at 429,107,-1037 for the night, row in sight. Armed, health 20, hunger 20."}
+- 13:16 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1038}}],"say":"Good morning. Trini, health 20, hunger 20, armed. Going back to the row to hold in Billy's sight."}
+- 13:17 act: {"actions":[],"say":"Good morning, Beverly, Picard, Kimberly. Trini, health 20, hunger 20, armed, holding at the row in Billy's sight. No walk named yet."}
+- 13:25 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Trini moving to my bed at 429,107,-1037 before dusk, row in sight."}
+- 13:25 act: {"actions":[{"do":"sleep"}],"say":"Trini at my bed 429,107,-1037, Billy and Riker in reach. Health 20, hunger 20, armed. Going to sleep when it is night."}
+- 13:29 act: {"actions":[{"do":"sleep"}],"say":"Night 575. Trini in my bed at 429,107,-1037, armed, health 20, hunger 20. Good night."}
+- 13:41 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night 576. Trini going to my bed at 429,107,-1037, armed, health 20, hunger 20. Riker, the row is in sight."}
