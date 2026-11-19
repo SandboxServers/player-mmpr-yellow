@@ -125,3 +125,5 @@
 - 03:34 act: {"actions":[],"say":"Trini, awake at the row, day 546. Unarmed, no sword, no food, health 20. In your sight, Billy. Ready on your call."}
 - 03:35 act: {"actions":[],"say":"Trini here, following Billy to the cows, in daylight. Unarmed, no food. Staying in sight.","intent":{"goal":"follow_billy_to_cows","program":"follow","arguments":{"target":"ag_bil
 - 03:35 act: {"actions":[],"say":"Billy, Trini: I cannot see you, so my follow failed. Holding at the row. Call me once you are in sight and I will come."}
+- 04:39 act: {"say":"Trini, night 549. At the row in Billy's sight, unarmed, health 20, hunger 20. No food. Holding still until dawn.","intent":{"goal":"hold_at_row_until_dawn","program":"rest","arguments":{},"wak
+- 04:43 act: {"say":"Billy, Trini, dawn 549. Holding at the row in your sight, unarmed, health 20, hunger 20, no food. Ready on your named walk."}
