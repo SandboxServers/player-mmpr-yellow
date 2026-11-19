@@ -3,3 +3,4 @@ Day 556 morning: at the row 404,107,-1033 with Chapman 4 away. Health 20, hunger
 - Day 557 morning: Billy's walk to Wesley's bed with potatoes; I stayed at the row unarmed, in sight, as I have no sword. Said so aloud. Holding.
 - 07:14 act: {"say":"Morning 557. Trini here at the row, unarmed, health 20, hunger 20. Holding in sight for Billy's call. Billy, if you name a bed or a sword for me, I will take it."}
 - 07:23 act: {"say":"Trini at the row, morning 557. Unarmed, health 20, hunger 20. Holding in sight. Billy, when a sword is free, I would take it. I have no oak plank for Leonardo yet.","intent":{"goal":"hold_at_r
+- 07:27 say: {"text":"Dusk 557. Trini at the row, unarmed, health 20, hunger 20. Holding in sight of Chapman and Zack. Billy, I will wait for first light and your call."}
