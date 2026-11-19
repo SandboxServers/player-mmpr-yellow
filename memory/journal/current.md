@@ -28,3 +28,8 @@
 - 21:08 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Trini sleeping here at 443,107,-1035 in Billy's sight; my bed 429,107,-1037 has not taken me yet. No walk."}
 - 21:08 act: {"actions":[],"say":"Morning, row. Trini awake at 429,107,-1035, two blocks from my bed 429,107,-1037, health 20, hunger 20, armed. Holding. Billy, name the step to my bed, or hold."}
 - 21:21 act: {"actions":[],"say":"Dusk, row. Trini at 430,107,-1037 beside my bed 429,107,-1037, health 20, hunger 20, armed. John is in the bed. Holding in Billy's sight, no walk."}
+- 21:34 act: {"say":"Night, row. Trini going into my bed 429,107,-1037 in Billy's sight, armed. No walk.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"intent":{"goal":"sleep_in_na
+- 21:34 act: {"say":"Morning soon, row. Trini awake at 429,107,-1023, health 20, hunger 20, armed. Zack, I see you. Holding, no walk.","intent":{"goal":"hold_in_sight_until_called","program":"rest","arguments":{},
+- 21:38 act: {"say":"Morning, row. Trini at 429,107,-1021, health 20, hunger 20, armed. Holding in Billy's sight. Bows are drawn to the south, so no walk."}
+- 21:46 act: {"say":"Dusk, row. Trini holding at 429,107,-1021 in Billy's sight, armed. No walk after dark."}
+- 22:26 say: {"text":"Night, Zack. Trini holding in Billy's sight, no walk. Going to sleep here."}
