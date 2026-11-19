@@ -1,8 +1,7 @@
-# Handoff (day 551, morning)
+# Handoff (day 552, morning)
 
 - At the row, 404,107,-1033, in Billy's sight. Health 20, hunger 20, unarmed (holding phantom_membrane), 49 wheat_seeds. No food.
-- Leonardo says his pack is empty: my wooden sword is gone, not in his hand. Do not ask again for it.
-- Billy's armed potato walk (Jason, Worf, MacDonald, Picard) went to 460,107,-1070 for Lewis first. Everyone else holds at the row.
-- No walk or bed named for me. Sleep only in Billy's named cell 415,107,-1036 or a bed he names.
+- Slept at my named cell 415,107,-1036 on night 551 but woke; that cell is now Picard's per Billy (day 533). No bed named for me yet.
+- Billy has no wooden sword to return (he said so, day 551). Leonardo still holds my old sword per earlier words; ask only in daylight in Billy's sight.
 - Owe: oak plank to Leonardo (none), sword to Zack (none).
-- Next: hold at the row in Billy's sight, wait for his named call, and take a sword or food when he names me.
+- Next: hold at the row in Billy's sight, wait for his named call for a sword, food or bed. Do not walk alone or at night.

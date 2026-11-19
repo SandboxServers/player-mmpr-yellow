@@ -129,3 +129,12 @@
 - 04:43 act: {"say":"Billy, Trini, dawn 549. Holding at the row in your sight, unarmed, health 20, hunger 20, no food. Ready on your named walk."}
 - 04:57 act: {"say":"Trini, day 550, at the row. Unarmed, health 20, hunger 20, no food. Holding in Billy's sight for his named call.","actions":[]}
 - 05:01 act: {"say":"Leonardo, Trini here at the row, day 550. My wooden sword is with you since day 516. Could you hold it in hand and pass it to me in Billy's sight? I also have no oak plank yet for your sword, 
+- 05:21 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Trini here, at dusk. Going to my named bed at 415,107,-1036 to sleep. Chapman, Lewis, stay near.","reasoning":"Nig
+- 05:23 act: {"actions":[{"do":"note","text":"Night 551: at 416,107,-1036 by my named bed. Sleep began but I am awake. Troi in reach, Chapman and Lewis nearby. Unarmed, health 20, hunger 20, no food. Holding."}],"
+- 05:27 act: {"actions":[],"say":"Billy, Trini, morning 551. At 416,107,-1037 by the beds, unarmed, health 20, hunger 20. I will come to your sight at the row and wait for your named call for a sword or a walk.","
+- 05:27 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1033}},{"do":"note","text":"Morning 551: walking back to the row 405,107,-1033 in Billy's sight. Unarmed, health 20, hunger 20, no food. Holding
+- 05:27 act: {"actions":[],"say":"Billy, Trini at the row 404,107,-1033. I cannot see you from here. Step into my sight and I will come to your hand for the wooden sword.","reasoning":"Billy offers my sword but is
+- 05:28 act: {"actions":[{"do":"note","text":"Day 551: Billy says he does not hold my wooden sword now; no sword for me yet. Holding at the row 404,107,-1033, unarmed, health 20, hunger 20, no food, for his named 
+- 05:32 act: {"actions":[{"do":"note","text":"Day 551 midday: holding at the row 404,107,-1033, unarmed, health 20, hunger 20. Billy feeds Riker and Lewis; no name for me yet. Waiting."}],"reasoning":"Still holdin
+- 05:36 act: {"actions":[{"do":"note","text":"Night 552: holding at the row 404,107,-1033, awake, unarmed, health 20, hunger 20. No bed or walk named for me. Waiting."}],"reasoning":"Night. No named bed, so I stay
+- 05:40 act: {"actions":[{"do":"note","text":"Day 552 morning: still holding at the row 404,107,-1033, unarmed, health 20, hunger 20. Billy has no walk or sword name for me. Waiting."}],"reasoning":"Holding in the
