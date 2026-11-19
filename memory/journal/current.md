@@ -33,3 +33,5 @@
 - 21:38 act: {"say":"Morning, row. Trini at 429,107,-1021, health 20, hunger 20, armed. Holding in Billy's sight. Bows are drawn to the south, so no walk."}
 - 21:46 act: {"say":"Dusk, row. Trini holding at 429,107,-1021 in Billy's sight, armed. No walk after dark."}
 - 22:26 say: {"text":"Night, Zack. Trini holding in Billy's sight, no walk. Going to sleep here."}
+- 22:27 say: {"text":"Night, friends. I'm holding here at 443,107,-1021, armed and in sight of Billy's row. No walk until light."}
+- 22:47 say: {"text":"Morning, Billy. Trini holding at 444,107,-1023, armed, health 20, hunger 20. Waiting for your named walk."}
