@@ -138,3 +138,5 @@
 - 05:32 act: {"actions":[{"do":"note","text":"Day 551 midday: holding at the row 404,107,-1033, unarmed, health 20, hunger 20. Billy feeds Riker and Lewis; no name for me yet. Waiting."}],"reasoning":"Still holdin
 - 05:36 act: {"actions":[{"do":"note","text":"Night 552: holding at the row 404,107,-1033, awake, unarmed, health 20, hunger 20. No bed or walk named for me. Waiting."}],"reasoning":"Night. No named bed, so I stay
 - 05:40 act: {"actions":[{"do":"note","text":"Day 552 morning: still holding at the row 404,107,-1033, unarmed, health 20, hunger 20. Billy has no walk or sword name for me. Waiting."}],"reasoning":"Holding in the
+- 05:51 say: {"text":"Trini at the row, 404,107,-1033, unarmed, health and hunger 20. Holding for the night in sight of Chapman. No walk until Billy calls one."}
+- 06:19 say: {"text":"Trini at the row, morning 554, unarmed, health and hunger 20. Billy, I have had no bed for ninety days; when you can, name one for me. Holding until then."}
