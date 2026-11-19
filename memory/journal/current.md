@@ -22,3 +22,13 @@ Day 556 morning: at the row 404,107,-1033 with Chapman 4 away. Health 20, hunger
 - 11:40 act: {"actions":[{"do":"sleep"}],"reasoning":"The bed use failed, but sleep worked for 2 of 10. Try sleep again beside Billy's named bed."}
 - 11:43 act: {"actions":[],"say":"Good morning, all. Trini here at 430,107,-1037, health 20, hunger 20. I hold two wooden swords. Billy, tell me who should have the spare, and I will hand it over in your sight.","
 - 11:55 act: {"actions":[{"do":"sleep"}],"say":"Night 571. Trini at 430,107,-1037 in the row's sight, armed with my wooden sword, health 20, hunger 20. Sleeping here.","reasoning":"Night, sheltered in the row's si
+- 12:00 act: {"say":"Morning 571. Trini here at 430,107,-1037, armed, health 20, hunger 20. Holding at the row in Billy's sight. No food to give, Lewis. Billy, I await your named call.","intent":{"goal":"hold_at_r
+- Day 571 morning: armed (wooden sword), health 20, hunger 20, at 430,107,-1037 in Billy's sight. Billy says the potato field walk (462-465,107,-1068) will be named with an armed escort; I hold for that. The rest intent ends at once, so I now wait without one. Gave no food (none held).
+- 12:00 act: {"intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 12:08 act: {"say":"Billy, I am beside you, armed, health 20. Troi is hit by a phantom at 430,-1025, unarmed. I hold my spare wooden sword for your call and will not walk out at night.","actions":[{"do":"sleep"}]
+- 12:09 act: {"say":"Billy, Trini here at 444,107,-1037, armed, health 20. It is night and I will not walk out in the dark, even for Troi. I hold where I stand; I will strike anything that reaches me. Troi, keep c
+- 12:11 act: {"say":"Billy, Trini armed with my wooden sword, health 20, hunger 20. Joining the escort for the potato field in daylight, in your sight.","intent":{"goal":"escort_billy_to_potato_field","program":"f
+- 12:11 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1040}}],"say":"Billy, follow failed, so I am walking to the row at 431,107,-1040 now, armed, in daylight. Please keep me in your sight."}
+- 12:11 act: {"say":"Trini at the row, 432,107,-1040, morning, armed, health 20, hunger 20. Holding for Billy's named walk to the potato field. I do not see Billy yet."}
+- 12:15 act: {"say":"Billy, Trini at the row, midday 572, armed, health 20, hunger 20. Glad you are back with the potatoes. I hold here in your sight; no need for food from me now."}
+- 12:23 act: {"say":"Night 572. Trini at 432,107,-1040, armed, health 20, hunger 20, in Billy's sight. Sleeping here.","actions":[{"do":"sleep"}]}
