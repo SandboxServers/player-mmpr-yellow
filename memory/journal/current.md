@@ -18,3 +18,7 @@ Day 556 morning: at the row 404,107,-1033 with Chapman 4 away. Health 20, hunger
 - 11:37 say: {"text":"Billy, the sword is not in my pack yet. I still hold nothing. Trini at 431,107,-1048, in your reach, waiting."}
 - 11:38 say: {"text":"Trini has the wooden sword, thank you Billy and Zack. Dusk now; I stay in your sight. Billy, which bed is mine tonight? I will sleep only in the one you name."}
 - 11:38 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Walking to the bed at 429,107,-1037 that Billy named, in sight."}
+- 11:40 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037},"item":"wooden_sword"},{"do":"sleep"}],"say":"Billy, Trini at night, armed with my wooden sword, health 20, hunger 20. Sleeping in the bed you 
+- 11:40 act: {"actions":[{"do":"sleep"}],"reasoning":"The bed use failed, but sleep worked for 2 of 10. Try sleep again beside Billy's named bed."}
+- 11:43 act: {"actions":[],"say":"Good morning, all. Trini here at 430,107,-1037, health 20, hunger 20. I hold two wooden swords. Billy, tell me who should have the spare, and I will hand it over in your sight.","
+- 11:55 act: {"actions":[{"do":"sleep"}],"say":"Night 571. Trini at 430,107,-1037 in the row's sight, armed with my wooden sword, health 20, hunger 20. Sleeping here.","reasoning":"Night, sheltered in the row's si
