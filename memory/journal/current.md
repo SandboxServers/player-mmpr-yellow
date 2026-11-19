@@ -127,3 +127,5 @@
 - 03:35 act: {"actions":[],"say":"Billy, Trini: I cannot see you, so my follow failed. Holding at the row. Call me once you are in sight and I will come."}
 - 04:39 act: {"say":"Trini, night 549. At the row in Billy's sight, unarmed, health 20, hunger 20. No food. Holding still until dawn.","intent":{"goal":"hold_at_row_until_dawn","program":"rest","arguments":{},"wak
 - 04:43 act: {"say":"Billy, Trini, dawn 549. Holding at the row in your sight, unarmed, health 20, hunger 20, no food. Ready on your named walk."}
+- 04:57 act: {"say":"Trini, day 550, at the row. Unarmed, health 20, hunger 20, no food. Holding in Billy's sight for his named call.","actions":[]}
+- 05:01 act: {"say":"Leonardo, Trini here at the row, day 550. My wooden sword is with you since day 516. Could you hold it in hand and pass it to me in Billy's sight? I also have no oak plank yet for your sword, 
