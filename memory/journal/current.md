@@ -22,3 +22,6 @@
 - 15:39 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Trini at my bed, health 17. Holding in sight."}
 - 15:39 Night day 654. Phantom struck me at the row (health 20 to 17); swung 2 times, it fled. Walked to bed 443,107,-1065. Sleep refused while phantom near; retried and sleeping now. Hunger 17. Lesson: phantoms reach the row at dusk.
 - 15:39 act: {"say":"Morning, row. Trini awake at a bed, health 17, hunger 17. Holding in Billy's sight; no walk named.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_addresse
+- 15:40 act: {"actions":[{"do":"note","text":"Day 654, daylight, dim. Health 17, hunger 17. Holding in the row at 430,107,-1065, Billy's sight. No walk named."}],"say":"Trini here, health 17, hunger 17. Holding in
+- 15:42 act: {"actions":[{"do":"note","text":"Day 654 day, health 17, hunger 17. Holding in the row at 430,107,-1065. Hold intent ran out quietly; re-holding. No walk named."}],"intent":{"goal":"hold_in_row","prog
+- 15:48 act: {"actions":[{"do":"note","text":"Day 654 dawn count. Health 17, hunger 17. Still holding at 430,107,-1065. Tommy holds 2 potatoes; MacDonald health 11. No walk named."}],"say":"Trini holding in the ro
