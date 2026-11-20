@@ -1,10 +1,10 @@
-# Summary (day 657, night, sleeping)
+# Summary (day 657, night, asleep)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17.
 Friends in the row: Billy (count point), Zack, Jason, Chapman, Tommy (new, quiet, close to me), Wesley, Clark, Kimberly, MacDonald (health 11), Beverly, Laforge, Lewis, Riker, Picard, Troi, Leonardo, Worf, Data.
 
 ## Where I am
-Beside a white bed at 430,107,-1065 in Billy's row. Slept at dusk in sight of the row.
+Beside a white bed at 430,107,-1065 in Billy's row. Asleep for the night in sight of the row.
 
 ## What I hold
 Wooden sword (in hand), phantom membrane, 49 wheat seeds. No food, no plank.
