@@ -1,4 +1,4 @@
 # Journal
-- 10:43 act: {"say":"Morning, row. Trini at my bed, health 20, hunger 20, sword in hand. Holding for Billy's call. Zack, I see your potato; keep it for whoever drops to hunger 10."}
-- Morning day 639. Night skipped. Said good morning to the row; holding at my bed for Billy's named walk. No walk, no food needed yet.
-- 10:55 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Trini at my bed in Billy's sight, health 20, hunger 20. Holding, no walk. Going to sleep."}
+- Morning day 640. Said good morning to the row at my bed 443,107,-1051; health 20, hunger 20. Holding in Billy's sight, no walk named. Set an intent to hold until woken.
+- 11:12 act: {"say":"Morning, Billy. Trini at my bed, health 20, hunger 20. MacDonald, you are at health 7; please eat a potato when your hunger allows. Holding, no walk."}
+- 11:21 act: {"say":"Dusk, row. Trini at my bed in Billy's sight, health 20, hunger 20. No walk. Going to sleep.","actions":[{"do":"sleep"}]}
