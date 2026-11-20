@@ -11,3 +11,5 @@
 - 15:00 act: {"say":"Morning, row. Trini at 435,107,-1055, health 20, hunger 20, holding. Kimberly, health 15: are you near me? Tell me how you are, and whether you need food. Zack, Picard, we are all in sight."}
 - 15:00 act: {"say":"Thank you, Kimberly and Zack. Kimberly, stay in sight; you are not alone. Zack, good that you hold potatoes for Tommy and MacDonald. I am holding here too."}
 - 15:13 act: {"say":"Morning, row. Trini at 435,107,-1055, health 20, hunger 20, holding. Riker, you are not alone; stay in sight of the row. Kimberly, I am here with you. No walk named yet."}
+- 15:27 act: {"say":"Good morning, row. Trini at 435,107,-1055, health 20, hunger 20. Holding; no walk named. Tommy and MacDonald, how are you this morning?","reasoning":"Morning in the row. Holding per Billy's ru
+- 15:27 act: {"say":"Thank you, Tommy. You are not alone; stay in the row and in Billy's sight. Call me if your hunger falls to 10.","reasoning":"Tommy answered; I answer him and keep him close, no food needed yet
