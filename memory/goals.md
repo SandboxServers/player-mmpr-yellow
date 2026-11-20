@@ -1,6 +1,6 @@
-# Goals (ranked, as of day 649)
+# Goals (ranked, as of day 650)
 
-1. Stay alive through the night in Billy's sight, armed, beside my bed at 443,107,-1051. Reason: phantoms strike at dusk and night.
+1. Stay alive through the night in Billy's sight, armed, beside a bed in the row. Reason: phantoms strike at dusk and night.
 2. Eat when food is offered, at hunger 6 or below (or 10 when Billy calls). Reason: food is scarce and I hold none.
 3. Walk only in daylight, armed, on Billy's named call. Reason: Billy holds every walk until a west route is verified.
 4. Keep the row together; check on MacDonald (health 9) and Troi (13.9), and make room for Tommy. Reason: they are the most hurt, and Tommy is new.

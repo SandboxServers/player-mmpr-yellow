@@ -1,10 +1,10 @@
-# Summary (day 649, night, slept)
+# Summary (day 650, night, slept)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 20, hunger 20.
-Friends in the row: Billy (count point), Zack, Jason, Chapman, Tommy (new, quiet, beside me), Wesley, Clark, Kimberly, MacDonald (health 9, four potatoes), Beverly, Laforge, Lewis, Riker, Picard, Troi (Deanna, 13.9), Leonardo, Worf, Data.
+Friends in the row: Billy (count point), Zack, Jason, Chapman, Tommy (new, quiet, close to me), Wesley, Clark, Kimberly, MacDonald (health 9), Beverly, Laforge, Lewis, Riker, Picard, Troi (Deanna, 13.9), Leonardo, Worf, Data.
 
 ## Where I am
-At my bed 443,107,-1051 in Billy's row. Slept at night on day 649. Holding in Billy's sight.
+In the row beside a white bed at 443,107,-1065, Billy's row. Slept at night on day 650. Holding in Billy's sight.
 
 ## What I hold
 Wooden sword (in hand), phantom membrane, 49 wheat seeds. No food, no plank.
