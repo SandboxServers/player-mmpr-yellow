@@ -1,10 +1,10 @@
 # Summary (day 674, night, asleep)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17.
-Friends in the row: Billy (count point), Zack, Jason, Tommy (new, quiet), MacDonald (health 11), Beverly, Laforge, Lewis, Riker, Picard, Worf, Data, Clark, Chapman, Leonardo, Kimberly.
+Friends in the row: Billy (count point), Zack, Jason, Tommy (new, quiet), MacDonald (health 11), Beverly, Laforge, Lewis, Riker, Picard, Worf, Data, Clark, Chapman (John), Leonardo, Kimberly.
 
 ## Where I am
-Beside my white bed at 430,107,-1051 in Billy's row. Asleep for the night in sight of the row.
+Beside my white bed at 443,107,-1050 in Billy's row. Asleep for the night in sight of the row.
 
 ## What I hold
 Wooden sword (in hand), phantom membrane, 49 wheat seeds. No food, no plank.
@@ -17,7 +17,7 @@ Wooden sword (in hand), phantom membrane, 49 wheat seeds. No food, no plank.
 
 ## Owe
 - Leonardo: one oak plank for his sword.
-- Food plan: Zack holds potatoes for MacDonald at hunger 10. Eat at hunger 6 or below.
+- Food: Zack holds potatoes for MacDonald at hunger 10. Tommy holds 3 potatoes. Eat at hunger 6 or below.
 
 ## Lessons that matter most
 - Phantoms strike at dusk and night. Stay in Billy's sight.
