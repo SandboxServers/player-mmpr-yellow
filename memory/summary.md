@@ -1,4 +1,4 @@
-# Summary (day 672, night, asleep)
+# Summary (day 674, night, asleep)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17.
 Friends in the row: Billy (count point), Zack, Jason, Tommy (new, quiet), MacDonald (health 11), Beverly, Laforge, Lewis, Riker, Picard, Worf, Data, Clark, Chapman, Leonardo, Kimberly.
