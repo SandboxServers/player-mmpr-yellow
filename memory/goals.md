@@ -1,4 +1,4 @@
-# Goals (ranked, as of day 674)
+# Goals (ranked, as of day 675)
 
 1. Stay alive through the night in Billy's sight, armed, beside my bed in the row. Reason: phantoms strike at dusk and night.
 2. Eat when food is offered, at hunger 6 or below (or 10 when Billy calls). Reason: I hold no food.
