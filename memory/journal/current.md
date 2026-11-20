@@ -35,3 +35,10 @@
 - 22:26 say: {"text":"Night, Zack. Trini holding in Billy's sight, no walk. Going to sleep here."}
 - 22:27 say: {"text":"Night, friends. I'm holding here at 443,107,-1021, armed and in sight of Billy's row. No walk until light."}
 - 22:47 say: {"text":"Morning, Billy. Trini holding at 444,107,-1023, armed, health 20, hunger 20. Waiting for your named walk."}
+- 00:36 say: {"text":"Morning, Lewis. Trini here, armed, health 20. I'll hold where I stand until Billy names the walk."}
+- 00:38 say: {"text":"Billy, dusk is here and I am at 444,-1023, out in the open, not at the row. I hold my spot, armed-ready. Please tell me if you want me to come to the row."}
+- Day 609: at 444,107,-1023, health 20, hunger 20, armed. Billy said hold where I stand at night, no walk. Morning: holding, no walk named; still no bed sleep since day 602.
+- 00:52 say: {"text":"Understood, Billy. Staying put, armed, health 20. No walk in the dark. Waiting for your call at first light."}
+- 00:54 say: {"text":"Billy, Trini here. I hear you. Stayed put all night, armed, health 20, hunger 20. Holding at 444,-1023 until you name a walk."}
+- Day 610 first light: held all night at 444,107,-1023, armed, health 20, hunger 20. Billy: stay put, daylight walk to the row later with Picard as escort, no verified route yet.
+- 01:25 say: {"text":"Billy, Trini here at 444,107,-1023, armed, health 20, hunger 20. I have no verified route either; I only know I got here on my own. I hold until you name one."}
