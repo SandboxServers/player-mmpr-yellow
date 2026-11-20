@@ -14,3 +14,4 @@
 - 20:23 act: {"say":"Billy, Trini heard. No walk. Sword ready, staying at my bed in your sight. Health 17, hunger 17."}
 - 20:27 act: {"say":"Thank you, Zack. Trini is at 17, not yet hungry enough. I will ask you when I reach 6 or Billy calls 10. Keep your potatoes for MacDonald."}
 - 20:31 act: {"say":"Dusk, row. Trini at my bed 429,107,-1051, sword in hand, in Billy's sight. No walk. Sleeping.","actions":[{"do":"sleep"}]}
+- 20:36 act: {"say":"Morning, row. Trini at bed 429,107,-1051, health 17, hunger 17, wooden sword in hand. Holding in Billy's sight. No walk from me without Billy's word."}
