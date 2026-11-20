@@ -1,17 +1,3 @@
-# Journal
-- 18:10 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1066}}],"say":"Trini here, back toward the row at my bed. Holding in Billy's sight until Billy names a walk."}
-- 18:19 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1066}}],"say":"Dusk, row. Trini going to my bed, holding in Billy's sight for the night."}
-- 18:47 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini at my bed, in Billy's sight. No walk tonight."}
-- 19:02 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini in my bed, in Billy's sight. No walk."}
-- 19:06 say: {"text":"Morning, row. Trini here at 430,-1051, health 17, hunger 17, holding in Billy's sight. MacDonald, Tommy, Troi: stay steady, and tell Billy when you are at 10."}
-- 19:14 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini in my bed, in Billy's sight. No walk."}
-- 19:27 act: {"say":"Night, row. Trini beside the bed at 429,107,-1051, in Billy's sight. Sleeping now.","actions":[{"do":"sleep"}]}
-- 19:31 act: {"say":"Morning, row. Trini at 430,107,-1051, health 17, hunger 17, wooden sword in hand. Holding in Billy's sight, no walk."}
-- 19:39 act: {"say":"Evening, row. Trini beside the bed at 429,107,-1051, in Billy's sight. Sleeping.","actions":[{"do":"sleep"}]}
-- 19:39 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}]}
-- 19:47 act: {"say":"Trini here, holding in sight. Leonardo, I still owe you an oak plank; I will look for one when Billy names a walk."}
-- 20:20 act: {"say":"Night, row. Trini beside the bed at 429,107,-1051, in Billy's sight, sword in hand. Trying to rest.","actions":[{"do":"sleep"}]}
-- 20:23 act: {"say":"Billy, Trini heard. No walk. Sword ready, staying at my bed in your sight. Health 17, hunger 17."}
-- 20:27 act: {"say":"Thank you, Zack. Trini is at 17, not yet hungry enough. I will ask you when I reach 6 or Billy calls 10. Keep your potatoes for MacDonald."}
-- 20:31 act: {"say":"Dusk, row. Trini at my bed 429,107,-1051, sword in hand, in Billy's sight. No walk. Sleeping.","actions":[{"do":"sleep"}]}
-- 20:36 act: {"say":"Morning, row. Trini at bed 429,107,-1051, health 17, hunger 17, wooden sword in hand. Holding in Billy's sight. No walk from me without Billy's word."}
+Day 670, morning: held at bed 430,107,-1051 in Billy's row. Health 17, hunger 17. No walk named; owe Leonardo a plank.
+- 21:05 say: {"text":"Trini here at my bed, health 17, hunger 17, holding for Billy's named walk. Leonardo, I have not seen sheep either."}
+- 21:06 say: {"text":"Heard you, Billy. Holding in your sight, no walk from me. I will call out when my hunger reaches 10."}
