@@ -25,3 +25,9 @@
 - 15:40 act: {"actions":[{"do":"note","text":"Day 654, daylight, dim. Health 17, hunger 17. Holding in the row at 430,107,-1065, Billy's sight. No walk named."}],"say":"Trini here, health 17, hunger 17. Holding in
 - 15:42 act: {"actions":[{"do":"note","text":"Day 654 day, health 17, hunger 17. Holding in the row at 430,107,-1065. Hold intent ran out quietly; re-holding. No walk named."}],"intent":{"goal":"hold_in_row","prog
 - 15:48 act: {"actions":[{"do":"note","text":"Day 654 dawn count. Health 17, hunger 17. Still holding at 430,107,-1065. Tommy holds 2 potatoes; MacDonald health 11. No walk named."}],"say":"Trini holding in the ro
+- 15:49 act: {"say":"Trini here, holding in the row at 430,107,-1065. Tommy, thank you. Billy, is anyone else hurt, or is MacDonald still at 11?","reasoning":"Daytime, safe, no walk named. Check on the row and wai
+- 15:49 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Trini at 430,107,-1065 beside the white bed, health 17, hunger 17. Holding in Billy's sight. Tommy, Riker, stay in the row.","reasoning":"Dusk and I am be
+- 15:49 act: {"actions":[{"do":"sleep"}],"reasoning":"Only one sleeper so far; try again beside the bed while holding in sight."}
+- 15:57 act: {"say":"Morning, row. Trini at 430,107,-1065, health 17, hunger 17. Holding; no walk named. MacDonald, Tommy, call me when your hunger reaches 10 and I will bring you food.","reasoning":"Daylight, hol
+- 16:07 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Trini at the bed beside 430,107,-1065, health 17, hunger 17. Holding in Billy's sight for the night. No walk.","reasoning":"Dusk; I am beside a bed in the
+- 16:16 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Trini sleeping beside the bed at 430,107,-1065, health 17, hunger 17. Holding in Billy's sight. No walk.","reasoning":"Night, beside a bed, in the row. Sl
