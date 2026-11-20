@@ -45,3 +45,10 @@
 - 01:39 act: {"say":"Zack, morning. I am holding here at 444,107,-1023, health 20, armed. No walk until Billy names one."}
 - Day 612 morning: Zack beside me at 2 blocks, said holding too. No walk named, no one addressed me except Zack. Holding at 444,107,-1023, health 20, hunger 20, armed. Waiting on Billy's call.
 - 01:47 act: {"say":"Morning, Billy. Trini holding at 444,107,-1023, armed, health 20, hunger 20. Holding until a route is verified."}
+- 02:10 act: {"say":"Hello Lewis. Trini here, armed, health 20. I am holding at this spot until Billy names a route. Have you seen Billy or Zack near?","reasoning":"Lewis is in reach. Greet, ask after the group, a
+- 02:12 act: {"say":"Heard you, Billy. Trini holding at 444,107,-1023, armed, health 20, hunger 20. No walk tonight.","reasoning":"Billy named the hold for the night. Acknowledge and keep still. Food is not needed
+- 02:14 act: {"say":"Morning, Zack. Trini holding at 444,107,-1023, armed, health 20, hunger 20. Billy says no walk until he names one.","reasoning":"Zack is beside me in reach. Acknowledge; Billy holds all walks,
+- 02:31 say: {"text":"Morning, row. Trini at 444,107,-1023, armed, health 20, hunger 20. Holding for Billy's named call."}
+- 02:33 say: {"text":"Understood, Billy. Staying armed here at 444,107,-1023 until you name a route."}
+- 02:53 say: {"text":"Zack, I hear you. Trini holding beside you at 444,107,-1023, armed. No walk tonight."}
+- 02:57 say: {"text":"Two pillagers with crossbows to the south, about 15 blocks off. Trini holding at 444,107,-1023, sword in hand. Billy, Zack is beside me."}
