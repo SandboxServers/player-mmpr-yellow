@@ -1,6 +1,6 @@
-Handoff (day 602, night, going to sleep)
+Handoff (day 624, dusk/night, asleep)
 
-- Standing at 429,107,-1021, in Billy's sight, not in a bed. Health 20, hunger 20, armed (wooden sword in pack).
-- Named bed 429,107,-1037 still not reliable. Billy's bed is 443,107,-1037. Zack holds bed 429,107,-1022 near me.
-- No errand half-done. No food held. Owe Leonardo one oak plank.
+- In Billy's row at 444,107,-1037 beside bed, beside Picard. Health 20, hunger 20, armed (wooden_sword in hand).
+- No errand half-done. No walk named for me. Holding for Billy's named call.
+- Owe Leonardo one oak plank. Dig nothing at the pit near 394,107,-1025.
 - Next at first light: hold in Billy's sight. Walk only in daylight on Billy's named call. Eat if food is offered at hunger 6 or below.
