@@ -1,10 +1,10 @@
-# Summary (day 643)
+# Summary (day 645)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 20, hunger 20.
 Friends in the row: Billy (count point), Zack, Jason, Chapman (John), Tommy, Wesley, Clark, Kimberly, MacDonald, Beverly, Laforge, Lewis, Riker, Picard, Troi (Deanna), Leonardo, Worf, Data.
 
 ## Where I am
-At my bed 443,107,-1051 in Billy's row. Slept at night on day 643. Holding in Billy's sight.
+At my bed 443,107,-1051 in Billy's row. Slept at night on day 645. Holding in Billy's sight.
 
 ## What I hold
 Wooden sword (in hand), phantom membrane, 49 wheat seeds. No food, no plank.
@@ -23,6 +23,7 @@ Wooden sword (in hand), phantom membrane, 49 wheat seeds. No food, no plank.
 - Walk only armed, in daylight, on Billy's named call. Billy holds all walks.
 - Sleep beside a bed at true night.
 - Eat at hunger 6 or below, or when Billy calls hunger 10.
+- Hurt row: MacDonald (7), Deanna (13.9), Tommy (15). Check on them by speech.
 
 ## Next
-At first light, hold in Billy's sight. No walk unless Billy names one aloud in daylight.
+At first light, hold in Billy's sight. No walk unless Billy names one aloud in daylight. Offer food to MacDonald if he drops toward 10.
