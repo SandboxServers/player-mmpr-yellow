@@ -13,3 +13,12 @@
 - 15:13 act: {"say":"Morning, row. Trini at 435,107,-1055, health 20, hunger 20, holding. Riker, you are not alone; stay in sight of the row. Kimberly, I am here with you. No walk named yet."}
 - 15:27 act: {"say":"Good morning, row. Trini at 435,107,-1055, health 20, hunger 20. Holding; no walk named. Tommy and MacDonald, how are you this morning?","reasoning":"Morning in the row. Holding per Billy's ru
 - 15:27 act: {"say":"Thank you, Tommy. You are not alone; stay in the row and in Billy's sight. Call me if your hunger falls to 10.","reasoning":"Tommy answered; I answer him and keep him close, no food needed yet
+- 15:29 act: {"say":"Morning, row. Trini here at my bed, health 20, hunger 20, sword in hand. Holding; no walk named. MacDonald, Tommy, call me if your hunger falls to 10.","intent":{"goal":"hold_in_row","program"
+- 15:31 Day 653 midday. Holding at my bed, 435,107,-1055, health 20, hunger 20. Hold intent finished quickly; no walk named by Billy. Re-holding and waiting for Billy's call.
+- 15:34 act: {"say":"Afternoon, row. Trini at my bed, health 20, hunger 20. Jason, Chapman, Zack, I hear you all holding. No walk named; I await Billy's call.","intent":{"goal":"hold_in_row","program":"rest","argu
+- 15:37 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me at my bed! Fighting it. Row, stay in sight."}
+- 15:37 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom still hitting me, health 17. Swinging again. Holding in the row."}
+- 15:37 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Going to my bed at 443,107,-1065 to sleep. Stay in Billy's sight."}
+- 15:39 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Trini at my bed, health 17. Holding in sight."}
+- 15:39 Night day 654. Phantom struck me at the row (health 20 to 17); swung 2 times, it fled. Walked to bed 443,107,-1065. Sleep refused while phantom near; retried and sleeping now. Hunger 17. Lesson: phantoms reach the row at dusk.
+- 15:39 act: {"say":"Morning, row. Trini awake at a bed, health 17, hunger 17. Holding in Billy's sight; no walk named.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_addresse
