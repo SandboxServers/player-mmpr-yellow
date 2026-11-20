@@ -1,10 +1,10 @@
-# Summary (day 648, night)
+# Summary (day 649, night, slept)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 20, hunger 20.
-Friends in the row: Billy (count point), Zack, Jason, Chapman (John), Tommy, Wesley, Clark, Kimberly, MacDonald, Beverly, Laforge, Lewis, Riker, Picard, Troi (Deanna), Leonardo, Worf, Data.
+Friends in the row: Billy (count point), Zack, Jason, Chapman, Tommy (new, quiet, beside me), Wesley, Clark, Kimberly, MacDonald (health 9, four potatoes), Beverly, Laforge, Lewis, Riker, Picard, Troi (Deanna, 13.9), Leonardo, Worf, Data.
 
 ## Where I am
-At my bed 443,107,-1051 in Billy's row. Slept at night on day 648. Holding in Billy's sight.
+At my bed 443,107,-1051 in Billy's row. Slept at night on day 649. Holding in Billy's sight.
 
 ## What I hold
 Wooden sword (in hand), phantom membrane, 49 wheat seeds. No food, no plank.
@@ -20,11 +20,10 @@ Wooden sword (in hand), phantom membrane, 49 wheat seeds. No food, no plank.
 
 ## Lessons that matter most
 - Phantoms strike at dusk and night. Stay in Billy's sight.
-- Bows heard southwest at dusk: stay at beds, do not walk.
 - Walk only armed, in daylight, on Billy's named call. Billy holds all walks.
 - Sleep beside a bed at true night.
 - Eat at hunger 6 or below, or when Billy calls hunger 10.
-- Hurt row: MacDonald (health 7, ate a potato), Deanna (13.9), Tommy (15). Check on them by speech.
+- Hurt row: MacDonald (health 9), Deanna (13.9), Tommy (15). Check on them by speech.
 
 ## Next
-At first light, hold in Billy's sight. No walk unless Billy names one aloud in daylight. Offer food to anyone who drops toward 10. Make room for Tommy gently.
+At first light, hold in Billy's sight. No walk unless Billy names one aloud in daylight. Offer food to anyone who drops toward 10. Keep making room for Tommy.
