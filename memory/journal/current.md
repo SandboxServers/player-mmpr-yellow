@@ -42,3 +42,6 @@
 - 00:54 say: {"text":"Billy, Trini here. I hear you. Stayed put all night, armed, health 20, hunger 20. Holding at 444,-1023 until you name a walk."}
 - Day 610 first light: held all night at 444,107,-1023, armed, health 20, hunger 20. Billy: stay put, daylight walk to the row later with Picard as escort, no verified route yet.
 - 01:25 say: {"text":"Billy, Trini here at 444,107,-1023, armed, health 20, hunger 20. I have no verified route either; I only know I got here on my own. I hold until you name one."}
+- 01:39 act: {"say":"Zack, morning. I am holding here at 444,107,-1023, health 20, armed. No walk until Billy names one."}
+- Day 612 morning: Zack beside me at 2 blocks, said holding too. No walk named, no one addressed me except Zack. Holding at 444,107,-1023, health 20, hunger 20, armed. Waiting on Billy's call.
+- 01:47 act: {"say":"Morning, Billy. Trini holding at 444,107,-1023, armed, health 20, hunger 20. Holding until a route is verified."}
