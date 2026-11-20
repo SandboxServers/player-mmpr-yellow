@@ -1,4 +1,4 @@
-# Summary (day 659, night, asleep)
+# Summary (day 661, night, asleep)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17.
 Friends in the row: Billy (count point), Zack, Jason, Tommy (new, quiet), MacDonald (health 11), Beverly, Laforge, Lewis, Riker, Picard, Worf, Data, Clark, Wesley, Chapman, Kimberly.
@@ -13,7 +13,7 @@ Wooden sword (in hand), phantom membrane, 49 wheat seeds. No food, no plank.
 - Row: around 430-447,107,-1020 to -1065 (Billy's count point at 443,107,-1023).
 - Pit (Worf stuck; do not dig): 394,107,-1025.
 - West route past x=370 not verified.
-- Sheep: none seen yet by Riker, Picard or me.
+- Sheep: none seen yet.
 
 ## Owe
 - Leonardo: one oak plank for his sword.
