@@ -8,6 +8,8 @@
 - Health can rise at hunger 17; keep food in the pack anyway.
 - A give to someone in sight goes to their pack at once; count it done only when they say it is in hand.
 - Saying good morning and holding in the row keeps the group calm and easy to find.
+- Day 672: night passed at my bed in the row; slept beside it at dusk-to-night, in sight of Billy.
+- Day 672: no sheep seen by anyone in the row yet; Leonardo still asks.
 
 ## Failed or false
 - Walking unarmed killed me once (day 414).
