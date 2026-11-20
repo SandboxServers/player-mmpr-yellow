@@ -2,3 +2,12 @@
 - 14:29 act: {"say":"Night, row. Trini here at 435,107,-1055, holding still in Billy's sight. No walk tonight.","reasoning":"Night, no walks. Sleep failed because I was not beside my bed. Hold here and wait for fi
 - 14:34 act: {"say":"Morning, row. Trini at 435,107,-1055, health 20, hunger 20. Holding for Billy's named walk. Tommy, MacDonald, how are you both?","reasoning":"Daylight now. No walk named by Billy, so I hold. C
 - 14:34 act: {"say":"Thank you, Tommy and MacDonald. Hold on, and eat your potatoes when your hunger falls to 6 or below. I'm holding too.","reasoning":"Both hurt ones are holding and fed enough. Encourage them an
+- 14:40 act: {"say":"Morning, row. Trini here at 435,107,-1055, health 20, hunger 20. Holding for Billy's named walk. Worf, Beverly, MacDonald, Tommy: say if your hunger drops toward 10.","intent":{"goal":"hold_in
+- 14:40 act: {"intent":{"goal":"hold_in_row_until_billy_calls","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block
+- 14:45 act: {"say":"Morning, row. Trini at 435,107,-1055, health 20, hunger 20, holding. MacDonald, health 11: tell me if you need food. Tommy, I am near if you want company."}
+- 14:45 act: {"say":"You are welcome, Tommy. Stay near the row and hold with us. I am here at 435,107,-1055 when you want to talk."}
+- 14:47 act: {"say":"Morning, Worf and MacDonald. Good to hear you both holding. MacDonald, call me the moment your hunger falls to 10 and I will bring food."}
+- 14:56 act: {"say":"Dusk, row. Trini holding at 435,107,-1055, sword in hand. No walk until Billy names one in daylight. Tommy, MacDonald, Lewis, Riker: stay in sight and call me if you need food."}
+- 15:00 act: {"say":"Morning, row. Trini at 435,107,-1055, health 20, hunger 20, holding. Kimberly, health 15: are you near me? Tell me how you are, and whether you need food. Zack, Picard, we are all in sight."}
+- 15:00 act: {"say":"Thank you, Kimberly and Zack. Kimberly, stay in sight; you are not alone. Zack, good that you hold potatoes for Tommy and MacDonald. I am holding here too."}
+- 15:13 act: {"say":"Morning, row. Trini at 435,107,-1055, health 20, hunger 20, holding. Riker, you are not alone; stay in sight of the row. Kimberly, I am here with you. No walk named yet."}
