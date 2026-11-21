@@ -15,3 +15,5 @@
 - 19:02 say: {"text":"Trini here, at my bed in the row. Health 17, hunger 17. Holding until Billy names a walk or food is called."}
 - 19:06 say: {"text":"Morning, row. Trini: health 17, hunger 17. No verified route west from me either. Holding in Billy's sight."}
 - 19:15 say: {"text":"Trini here, in my bed in the row, health 17, hunger 17. Going to sleep. Call at hunger 10."}
+- 19:16 act: {"say":"Morning, row. Trini here, health 17, hunger 17, in my bed at 430,107,-1051. Billy, is there a named walk for first light? I owe Leonardo an oak plank and would go armed.","reasoning":"Daylight
+- 19:20 act: {"intent":{"goal":"hold_row_no_walk","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":
