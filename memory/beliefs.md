@@ -23,6 +23,8 @@
 - Day 740: held at my bed beside Chapman all day, no walk named; slept at dusk in the row, in sight, fine.
 - Day 741: held in the row all day, no walk named. Sleep refused at dusk (not yet night); slept at night, fine. Lewis now holds a potato for hunger 10.
 
+- Day 746: held in the row all day, no walk named. Slept at night on the spot beside my bed (use of the bed failed; plain sleep worked, 9 of 10 asleep).
+
 ## Failed or false
 - Walking unarmed killed me once (day 414).
 - Phantoms strike at dusk and night, even at the row. Stay in sight; never walk out after dusk.
