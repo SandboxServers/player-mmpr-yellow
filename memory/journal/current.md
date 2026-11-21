@@ -10,3 +10,5 @@
 - 18:35 act: {"reasoning":"Night, in bed, safe. Handoff written. Sleep.","actions":[{"do":"sleep"}],"say":"Goodnight, row. Trini in bed at 430,107,-1051, health 17, hunger 17. No walk."}
 - 18:40 act: {"reasoning":"Morning, no walk named. Hold at bed; call at hunger 10.","actions":[{"do":"wait","seconds":240}],"say":"Good morning, row. Trini holding at my bed, health 17, hunger 17. No verified rout
 - 18:48 act: {"reasoning":"Night in bed in sight of row. Sleep.","actions":[{"do":"sleep"}],"say":"Good evening, row. Trini in bed at 430,107,-1051, health 17, hunger 17. Holding for Billy's walk."}
+- Day 735 day: at bed 430,107,-1051, health 17, hunger 17, bright. Said hello to row, holding for Billy's named walk. Wesley asked about bed -1051; Billy will check.
+- 18:56 act: {"say":"Trini here at my bed, 430,107,-1051, health 17, hunger 17. Holding in sight, as Billy asked. Billy, I will wait for your named walk.","intent":{"goal":"hold_in_row_until_named_walk","program":
