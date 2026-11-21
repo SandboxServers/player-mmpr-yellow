@@ -14,3 +14,4 @@
 - 18:56 act: {"say":"Trini here at my bed, 430,107,-1051, health 17, hunger 17. Holding in sight, as Billy asked. Billy, I will wait for your named walk.","intent":{"goal":"hold_in_row_until_named_walk","program":
 - 19:02 say: {"text":"Trini here, at my bed in the row. Health 17, hunger 17. Holding until Billy names a walk or food is called."}
 - 19:06 say: {"text":"Morning, row. Trini: health 17, hunger 17. No verified route west from me either. Holding in Billy's sight."}
+- 19:15 say: {"text":"Trini here, in my bed in the row, health 17, hunger 17. Going to sleep. Call at hunger 10."}
