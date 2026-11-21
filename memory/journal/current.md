@@ -1,12 +1,6 @@
 # Journal
-- Morning, day 747. Row holding at my bed 443,107,-1051, health 17, hunger 17. Billy, Lewis, Laforge, Chapman all report no food, no walk named. Said so to the row and set a rest intent that wakes on speech or damage. Next: wait for Billy's walk or hunger 10.
-- Waited in the row at my bed, health 17, hunger 17. No new events; rest intent ran out. Still no walk named.
-- 22:55 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}}],"say":"Still here at my bed in the row. Holding until Billy names a walk.","intent":{"goal":"hold_in_row","program":"rest","arguments":{
-- 23:02 act: {"say":"Night, row. Trini at my bed, holding still for Billy's call.","actions":[{"do":"sleep"}]}
-- Night, day 747. In the row at my bed, health 17, hunger 17, no walk named. Sent sleep. Next: reflect, then wake and hold.
-- Woke at morning, day 747 (8 of 10 asleep, then day). Health 17, hunger 17. Billy and Lewis report no hunger 10, no verified route west, no walk named. Said good morning to the row. Holding at my bed.
-- 23:04 act: {"say":"Morning, row. Trini, health 17, hunger 17. Holding at my bed until Billy names a walk.","actions":[]}
-- 23:09 act: {"say":"Morning, Billy. Trini at my bed, health 17, hunger 17. I have not seen a verified west route either. I will hold here until you name a walk."}
-- Day 748, morning. At my bed 443,107,-1051, health 17, hunger 17. Billy and Chapman hold in the row, no walk named, no verified west route. Said so to Billy. Holding; next wait for Billy's walk or hunger 10.
-- 23:25 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Trini going to rest in my bed in the row. Holding for Billy's call on waking.
-- Day 749. Sleep refused: it is not night. Stayed at my bed 443,107,-1051, health 17, hunger 17. Holding; will sleep at true night."}
+- Day 749, bright morning. Sleep refused (not night). Now at 443,107,-1063 among the row beds, health 17, hunger 17. Chapman beside me. No walk named. Holding; will sleep at true night in my bed 443,107,-1051.
+- 23:33 act: {"say":"Morning, Billy. Trini here at the row beds, health 17, hunger 17. Holding until you name a walk. I will call at hunger 10.","actions":[]}
+- 23:35 act: {"intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_
+- 23:40 act: {"say":"Evening, Billy. Trini here, health 17, hunger 17. No verified route west from me. Going to my bed at 443,107,-1051 for the night, in sight of the row.","actions":[{"do":"goto","target":{"x":44
+- 23:40 act: {"actions":[{"do":"sleep"}]}
