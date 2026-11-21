@@ -1,9 +1,9 @@
-# Summary (day 729, night)
+# Summary (day 730, night)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17.
 
 ## Where I am
-At my bed at 430,107,-1051 in Billy's row, in sight. Slept at dusk.
+At my bed at 430,107,-1051 in Billy's row, in sight. Slept at dusk on day 730.
 
 ## What I hold
 Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
@@ -16,8 +16,8 @@ Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 
 ## Who is near
 - Billy: leads the row. No walk named. Wants a call at hunger 10.
-- Zack: holds 3 potatoes for anyone at hunger 10.
-- Laforge, Troi, Worf, MacDonald, Beverly, John: holding at beds.
+- Zack: holds 3 potatoes for anyone at hunger 10 who steps into his sight.
+- Troi, MacDonald, Worf, Laforge, Beverly, John, Lewis, Wesley: holding at beds.
 - Tommy Oliver: not seen.
 
 ## Owe
@@ -27,7 +27,6 @@ Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 - Phantoms and bows strike at dusk and night. Stay in Billy's sight.
 - Walk only armed, in daylight, on Billy's named call.
 - At hunger 10, call out to Billy, Zack, Clark or Kimberly.
-- Sleep at the bed works at dusk; it may take several tries.
 
 ## Next
 Wait for Billy's named walk or Zack's potato at hunger 10. Keep MacDonald and Deanna in view.
