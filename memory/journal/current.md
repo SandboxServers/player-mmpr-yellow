@@ -1,13 +1,1 @@
 # Journal
-- Days 699-703: stayed in my bed in Billy's row, sheltered and in sight. Greeted the row each morning. Health 17, hunger 17 throughout.
-- No walk named the whole time. Billy holds: no verified west route. No sheep seen; cows reported at 339,104,-979 and 434,106,-1113.
-- Kimberly holds the potato until hunger 10. MacDonald at health 11 holds in the row.
-- Day 703: told Billy I have seen no route, sheep or potato field from my bed. Billy acknowledged; still no walk. Waiting.
-- 08:26 act: {"say":"Trini here, in my bed at 444,107,-1037. Still holding for Billy's named walk."}
-- 08:39 act: {"say":"Good night, row. Trini here, in my bed. Lewis, I see you close by.","actions":[{"do":"sleep"}]}
-- 08:41 act: {"say":"Good morning, row. Trini here. Lewis, what did you see in the night? Billy, any walk named yet?","actions":[]}
-- 08:50 act: {"say":"Trini, at my bed for the night. Still holding for Billy's walk. Good night, row.","actions":[{"do":"sleep"}]}
-- 08:51 act: {"say":"Good night, Billy and MacDonald. Trini holding in my bed.","actions":[{"do":"sleep"}]}
-- 09:07 say: {"text":"Good morning, row. Trini here, health 17, hunger 17. Holding in my bed for Billy's named walk."}
-- 09:15 act: {"say":"Trini here, holding in the row at my bed, health 17, hunger 17. Billy, I will wait for your named walk. Kimberly, I am keeping an eye on the potato plan.","actions":[]}
-- 09:16 act: {"say":"Billy, Trini here. Dusk is coming, so I am going into my bed in your sight. Holding until dawn.","actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}]}
