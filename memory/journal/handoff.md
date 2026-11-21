@@ -1,6 +1,6 @@
-# Handoff (day 745, slept)
+# Handoff (day 747, night)
 
-- Asleep in my bed in Billy's row, 443,107,-1051. Health 17, hunger 17.
-- No errand running. No walk named. West route not verified. Tommy and cows not seen.
-- Holding with the row. Carrying wooden sword, phantom membrane, 49 wheat seeds. No food.
-- Next: at hunger 10 call out to Lewis or Billy. Otherwise hold until Billy names a walk.
+- At my bed in Billy's row, 444,107,-1051 (bed 443,107,-1051 beside me). Health 17, hunger 17.
+- No errand running. No walk named. West route still not verified. Tommy not seen.
+- Row all holding in sight. Billy asleep at 429,107,-1037.
+- Next: at hunger 10 call Billy or Lewis. Otherwise hold until Billy names a walk.

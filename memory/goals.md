@@ -1,4 +1,4 @@
-# Goals (ranked, as of day 746)
+# Goals (ranked, as of day 747)
 
 1. Stay alive through the night in the row, in a bed. Reason: phantoms and bows strike at night.
 2. At hunger 10, call Lewis (has potato) or Billy. Reason: I hold no food.

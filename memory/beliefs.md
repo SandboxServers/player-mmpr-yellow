@@ -24,6 +24,7 @@
 - Day 741: held in the row all day, no walk named. Sleep refused at dusk (not yet night); slept at night, fine. Lewis now holds a potato for hunger 10.
 
 - Day 746: held in the row all day, no walk named. Slept at night on the spot beside my bed (use of the bed failed; plain sleep worked, 9 of 10 asleep).
+- Day 747: held all day in the row, no walk named. "use" on my bed failed (it is a bed); plain sleep at night worked beside it.
 
 ## Failed or false
 - Walking unarmed killed me once (day 414).

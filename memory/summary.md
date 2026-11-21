@@ -1,9 +1,9 @@
-# Summary (day 746, night, asleep)
+# Summary (day 747, night, asleep)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17.
 
 ## Where I am
-In my bed in Billy's row at 443,107,-1051, beside Lewis. Slept on day 746.
+In the row at 444,107,-1051, beside my bed at 443,107,-1051. Slept on day 747.
 
 ## What I hold
 Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
@@ -26,4 +26,4 @@ Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 
 ## Next
 Wait for Billy's named walk or Lewis's potato at hunger 10. Keep MacDonald and Troi in view.
-Sleep needs true night; use my bed from beside it, or sleep where I stand (it worked on day 746).
+Sleep at true night, beside my bed; plain sleep works there.
