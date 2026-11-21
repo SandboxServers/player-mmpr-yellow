@@ -1,4 +1,4 @@
-# Summary (day 706, asleep)
+# Summary (day 707, asleep)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17.
 
@@ -16,8 +16,8 @@ Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 
 ## Who is near
 - Billy: leads the row. No walk until a route is verified.
-- Kimberly: potato, health 15, will call at hunger 10.
-- Lewis: potato, healthy, sits close to me.
+- Kimberly: health 15, will call at hunger 10.
+- Lewis: potato, health 20, sits close to me.
 - Deanna (Troi): health 14, hunger 16, holding a potato.
 - MacDonald: health 11, three potatoes.
 - Beverly, Picard: healthy, holding in the row.
@@ -32,4 +32,4 @@ Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 - At hunger 10, call out to Billy, Zack or Kimberly.
 
 ## Next
-At first light, greet the row and check Deanna and MacDonald. Wait for Billy's named walk.
+Greet the row at first light. Check Deanna and MacDonald. Wait for Billy's named walk.
