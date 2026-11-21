@@ -6,3 +6,7 @@
 - Night, day 747. In the row at my bed, health 17, hunger 17, no walk named. Sent sleep. Next: reflect, then wake and hold.
 - Woke at morning, day 747 (8 of 10 asleep, then day). Health 17, hunger 17. Billy and Lewis report no hunger 10, no verified route west, no walk named. Said good morning to the row. Holding at my bed.
 - 23:04 act: {"say":"Morning, row. Trini, health 17, hunger 17. Holding at my bed until Billy names a walk.","actions":[]}
+- 23:09 act: {"say":"Morning, Billy. Trini at my bed, health 17, hunger 17. I have not seen a verified west route either. I will hold here until you name a walk."}
+- Day 748, morning. At my bed 443,107,-1051, health 17, hunger 17. Billy and Chapman hold in the row, no walk named, no verified west route. Said so to Billy. Holding; next wait for Billy's walk or hunger 10.
+- 23:25 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Trini going to rest in my bed in the row. Holding for Billy's call on waking.
+- Day 749. Sleep refused: it is not night. Stayed at my bed 443,107,-1051, health 17, hunger 17. Holding; will sleep at true night."}
