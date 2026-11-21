@@ -19,3 +19,6 @@
 - Day 736 day: bright, quiet, nobody in sight. Holding at bed 430,107,-1051 for Billy's named walk or food call. Health 17, hunger 17.
 - 19:20 act: {"intent":{"goal":"hold_row_no_walk","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":
 - 19:22 act: {"say":"Morning. I'm at my bed in the row, health 17, hunger 17. Billy, is there a walk today? I'll wait for your call.","intent":{"goal":"hold_in_row_for_billy_call","program":"rest","arguments":{},"
+- 19:23 act: {"say":"Understood, Billy. I'll hold at the row and call at hunger 10.","intent":{"goal":"hold_row_until_hunger_10","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed
+- 19:29 say: {"text":"Morning, Billy. Trini here, health 17, hunger 17. I have no verified route west either. Holding at my bed in the row."}
+- 19:41 say: {"text":"Goodnight, row. Trini in my bed at 430,107,-1051, health 17, hunger 17. No walk. Troi, I hear you; holding in sight."}
