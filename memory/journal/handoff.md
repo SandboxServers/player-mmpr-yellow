@@ -1,6 +1,6 @@
-# Handoff (day 739, night)
+# Handoff (day 740, dusk)
 
-- At 443,107,-1063 in Billy's row, beside bed at 443,107,-1064. Health 17, hunger 17.
-- No errand running. No walk named. No verified route west. Tommy and cows not seen by anyone.
-- Row holding: Chapman, Lewis, MacDonald, Worf, Wesley and others at beds.
-- Next: at first light, wait for Billy's named walk or call for food at hunger 10.
+- At bed 443,107,-1064 in Billy's row, beside Chapman. Health 17, hunger 17.
+- No errand running. No walk named by Billy. No west route verified. Tommy and cows not seen.
+- Holding with the row. Carrying wooden sword, phantom membrane, 49 wheat seeds. No food.
+- Next: at hunger 10 call out to Billy, Zack, Clark or Kimberly. Otherwise hold until Billy names a walk.
