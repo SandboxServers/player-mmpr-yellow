@@ -13,6 +13,7 @@
 - Day 674: held in the row all day; Billy named no walk. Slept at dusk beside my bed at 430,107,-1051, fine.
 - Day 681: slept at night beside the bed at 429,107,-1036; the row all held and no walk was named in daylight.
 - Day 683: held all day and night in the row; no walk named; slept beside bed 429,107,-1036 at night, fine.
+- Day 690: sleep at dusk in the row worked beside 443,107,-1022 (my bed); sleep refused in full daylight.
 
 ## Failed or false
 - Walking unarmed killed me once (day 414).
