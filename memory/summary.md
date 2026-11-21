@@ -17,8 +17,10 @@ Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 
 ## Who is near
 - Billy: leads the row. No walk until a route is verified.
-- Zack: three potatoes, offered one to Troi. Clark: potatoes for hunger 10.
-- Kimberly: holds a potato; will call at hunger 10.
+- Jason: holding with his sword in the row.
+- Kimberly: at 443,107,-1021, health 15, hunger 17. Holds a potato; will call at hunger 10.
+- Clark: health 20. Has potatoes.
+- Zack: three potatoes, offered one to Troi.
 - Deanna: health 14. MacDonald: health 11, ate a potato on day 713.
 - Tommy Oliver: not seen.
 
