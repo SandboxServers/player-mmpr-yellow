@@ -16,6 +16,7 @@
 - Day 690: sleep at dusk in the row worked beside 443,107,-1022 (my bed); sleep refused in full daylight.
 - Day 691: held all day in the row, no walk named, hunger stayed 17. Slept at dusk beside my bed, fine.
 - Day 710: held all day in the row, no walk named; slept at dusk in bed 429,107,-1037 in Billy's sight, fine. Beverly's bed at 443,107,-1022 refused her sleep and use; Billy has no fix yet.
+- Day 715: held at my bed through dawn and dusk; Billy still named no walk. Slept at dusk in bed 430,107,-1037, fine. Billy asks for a call at hunger 10.
 - Day 699: held all day in the row, no walk named again. Slept at night in my bed 443,107,-1037 with Billy and Lewis in sight, fine. A rest intent can time out in daylight; speaking to the row keeps us together.
 
 ## Failed or false
