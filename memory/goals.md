@@ -1,7 +1,7 @@
-# Goals (ranked, as of day 693)
+# Goals (ranked, as of day 696)
 
 1. Stay alive through the night in Billy's sight, in my bed in the row. Reason: phantoms strike at dusk and night.
-2. Call out to Billy, Zack or Kimberly at hunger 10 so the row finds food. Reason: I hold no food.
+2. Call out to Billy, Zack, Kimberly, Troi or Lewis at hunger 10 so the row finds food. Reason: I hold no food.
 3. Walk only in daylight, armed, on Billy's named call. Reason: no safe west route verified.
 4. Keep the row together; check on Deanna (14) and MacDonald (11). Reason: they are most hurt.
 5. Keep my promise: find one oak plank for Leonardo's sword. Reason: promised day 408, still owed.
