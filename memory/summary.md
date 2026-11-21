@@ -1,4 +1,4 @@
-# Summary (day 715, asleep)
+# Summary (day 716, asleep)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17.
 
