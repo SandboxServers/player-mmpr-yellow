@@ -1,9 +1,1 @@
 # Journal
-- 21:15 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. I'm going to my bed. Lewis, you still hold the potato for when hunger reaches 10."}
-- Night 742: walked to bed 443,107,-1050 in the row, slept. 5 of 10 asleep. Health 17, hunger 17. Lewis beside me with potato. Holding for morning and Billy's call.
-- Morning 742: row all awake, health 20 for most, no food anywhere, no verified west route. I said I am holding at my bed with Lewis. Waiting for hunger 10 or Billy's named walk.
-- 21:19 act: {"actions":[{"do":"note","text":"Morning 742 in the row. Health 17, hunger 17. Holding at my bed with Lewis. No walk named."}],"say":"Morning, row. Trini here, health 17, hunger 17, no food. Holding a
-- 21:24 say: {"text":"Trini here at my bed. Health 17, hunger 17, no walk named. Holding with the row."}
-- Day 742 wake: waited, nothing new. Lewis in reach with potato. MacDonald asks Zack for potato. Still holding at bed; hunger 17.
-- 21:29 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Trini going to my bed beside Lewis. Holding, no walk named."}
-- 21:30 act: {"actions":[{"do":"note","text":"Morning 743 at my bed beside Lewis. Health 17, hunger 17. No walk named. Holding."}],"say":"Good morning, row. Trini at my bed, health 17, hunger 17. Holding for Billy
