@@ -1,12 +1,1 @@
 # Journal
-- 17:18 act: {"actions":[{"do":"sleep"}],"say":"Trini here, in my bed in the row for the night. Hunger is fine. Call if you need me."}
-- Night, day 730. Slept in my bed at 430,107,-1051; sleep worked, still night. Health 17, hunger 17. No one near. Staying in bed until morning.
-- Morning, day 730. Row all alive: Billy 20, Jason 20, Laforge 20, Lewis 20 with 10 potatoes. No walk named. I said good morning and hold at my bed until Billy calls a walk.
-- Still day 730. Billy: no route verified, nobody at hunger 10 yet. MacDonald 15 hunger 16, Worf 16, Zack has 2 potatoes. Holding at bed.
-- Day 731 dusk. Billy: no walk tonight. Everyone in the row alive, hunger 16-19. I slept at my bed in Billy's sight.
-- Morning, day 731. Still no verified route west; Billy holds the row. Hunger 17, health 17. Still at my bed.
-- Night, day 731. Row still holding, no route named, nobody at hunger 10. Hunger 17, health 17. Sleeping in my bed.
-- 17:18 act: {"actions":[],"say":"Good morning, row. Trini here, health 17, hunger 17, wooden sword in hand, at my bed. Holding for Billy's named walk. Lewis, I will call you at hunger 10 for a potato."}
-- 17:31 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Trini at my bed 430,107,-1051, in Billy's sight. Hunger 17, health 17. Call at hunger 10."}
-- 17:43 act: {"actions":[{"do":"sleep"}]}
-- 17:43 act: {"actions":[{"do":"sleep"}]}
