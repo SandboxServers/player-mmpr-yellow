@@ -1,10 +1,10 @@
-# Summary (day 684, night, asleep)
+# Summary (day 686, night, asleep)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17.
-Friends in the row: Billy (count point), Zack, Jason, Kimberly, Tommy (new, quiet), MacDonald (hurt, 11), Deanna (14), Lewis, Picard, Clark, Chapman, Beverly, Wesley, Worf, Data, Leonardo.
+Friends in the row: Billy (count point), Zack, Jason, Kimberly, Tommy (new, quiet), MacDonald (hurt, 11), Deanna (14), Troi (13.9), Lewis, Picard, Clark, Chapman, Beverly, Wesley, Worf, Data, Leonardo.
 
 ## Where I am
-Beside my bed at 429,107,-1036 in Billy's row. Slept the night in sight of the row.
+Beside my bed near 444,107,-1037 in Billy's row. Slept at dusk in sight of the row.
 
 ## What I hold
 Wooden sword (in hand), phantom membrane, 49 wheat seeds. No food, no plank.
@@ -22,7 +22,7 @@ Wooden sword (in hand), phantom membrane, 49 wheat seeds. No food, no plank.
 ## Lessons that matter most
 - Phantoms strike at dusk and night. Stay in Billy's sight.
 - Walk only armed, in daylight, on Billy's named call. None named yet.
-- Food: Billy said stay at bed until hunger is 10, then tell him.
+- Food: at hunger 10, tell Billy or Zack; they offered potatoes.
 
 ## Next
-At first light, greet the row. At hunger 10, tell Billy and ask for the share.
+At first light, greet the row, check MacDonald and Deanna. Ask for food at hunger 10. Wait for Billy's named walk.
