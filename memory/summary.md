@@ -1,9 +1,9 @@
-# Summary (day 713, asleep)
+# Summary (day 714, asleep)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17.
 
 ## Where I am
-Asleep in my bed at 429,107,-1037 in Billy's row, in sight.
+Asleep in my bed at 430,107,-1037 in Billy's row, in sight.
 
 ## What I hold
 Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
@@ -17,9 +17,9 @@ Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 
 ## Who is near
 - Billy: leads the row. No walk until a route is verified.
+- Zack: three potatoes, offered one to Troi. Clark: potatoes for hunger 10.
 - Kimberly: holds a potato; will call at hunger 10.
-- Zack, Clark, Lewis, Picard, Wesley, Jason: healthy, holding in the row.
-- Deanna: health 13.9. MacDonald: health 11, ate a potato today.
+- Deanna: health 14. MacDonald: health 11, ate a potato on day 713.
 - Tommy Oliver: not seen.
 
 ## Owe
@@ -28,9 +28,9 @@ Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 ## Lessons that matter most
 - Phantoms and bows strike at dusk and night. Stay in Billy's sight.
 - Walk only armed, in daylight, on Billy's named call.
-- At hunger 10, call out to Billy, Zack, Kimberly or Clark.
-- Sleep works in a bed at dusk and night; it fails in full daylight.
-- Rest intents fail after a while ("took too long"); plain wait works.
+- At hunger 10, call out to Zack, Clark or Kimberly.
+- Sleep works in a bed at dusk and night.
+- Plain wait works better than rest intents.
 
 ## Next
 Greet the row at first light. Check MacDonald and Deanna. Wait for Billy's named walk.
