@@ -2,3 +2,11 @@
 - 18:09 say: {"text":"Goodnight, row. Trini in my bed at 430,107,-1051, health 17, hunger 17. No walk. Morning, Billy."}
 - 18:09 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Trini in bed at 430,107,-1051. Health 17, hunger 17. No walk."}
 - 18:14 act: {"say":"Good morning, row. Trini here, health 17, hunger 17, wooden sword in hand. Holding at my bed in Billy's sight. I will go when Billy names a walk.","intent":{"goal":"hold_row_for_billys_call","
+- 18:21 act: {"reasoning":"Dusk, in Billy's row, hunger 17. Stay by bed; sleep when it is night.","actions":[{"do":"wait","seconds":60}],"say":"Goodnight, Billy. I am staying at my bed in the row."}
+- Dusk day 733. Sleep refused: not night yet. Waiting at bed in Billy's sight, health 17, hunger 17. Billy says no walk.
+- 18:22 act: {"reasoning":"Night, in bed in the row. Sleep.","actions":[{"do":"sleep"}],"say":"Goodnight, row. Trini in my bed at 430,107,-1051, health 17, hunger 17. No walk."}
+- 18:26 act: {"reasoning":"Morning, hunger 17, no walk named. Hold at bed in Billy's sight.","actions":[{"do":"wait","seconds":120}],"say":"Good morning, row. Trini here, health 17, hunger 17. Holding at my bed; n
+- 18:31 act: {"reasoning":"Holding per Billy. Hunger 17. Acknowledge and keep waiting.","actions":[{"do":"wait","seconds":240}],"say":"Morning, John, Billy. Trini holding at my bed, health 17, hunger 17. I will ca
+- 18:35 act: {"reasoning":"Night, in bed, safe. Handoff written. Sleep.","actions":[{"do":"sleep"}],"say":"Goodnight, row. Trini in bed at 430,107,-1051, health 17, hunger 17. No walk."}
+- 18:40 act: {"reasoning":"Morning, no walk named. Hold at bed; call at hunger 10.","actions":[{"do":"wait","seconds":240}],"say":"Good morning, row. Trini holding at my bed, health 17, hunger 17. No verified rout
+- 18:48 act: {"reasoning":"Night in bed in sight of row. Sleep.","actions":[{"do":"sleep"}],"say":"Good evening, row. Trini in bed at 430,107,-1051, health 17, hunger 17. Holding for Billy's walk."}
