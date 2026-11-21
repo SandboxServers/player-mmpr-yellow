@@ -1,8 +1,7 @@
-# Handoff (day 686, night, asleep)
+# Handoff (day 688, night, asleep)
 
-- By my bed in Billy's row, around 444,107,-1037. Health 17, hunger 17. Wooden sword in hand.
-- No errand, no walk named. Holding in sight of the row.
-- Food: Zack and Lewis offered potatoes; I declined at hunger 17. Ask Billy or Zack when hunger reaches 10.
-- MacDonald (health 11) has three potatoes; Troi (13.9) is holding at her bed.
+- In my bed in Billy's row, around 443,107,-1022. Health 17, hunger 17. Wooden sword in hand.
+- No errand, no walk named. Billy: no verified west route yet; hold in sight.
+- Food: I hold none. Call Billy or Zack at hunger 10. Kimberly has a potato nearby.
 - Owe Leonardo one oak plank. Do not dig the pit at 394,107,-1025.
 - Next: at first light, greet the row, check MacDonald and Deanna, wait for Billy's named walk.
