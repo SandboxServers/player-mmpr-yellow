@@ -3,7 +3,7 @@
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17.
 
 ## Where I am
-Asleep next to a bed at 429,107,-1035 in Billy's row, in sight.
+Asleep in my bed at 429,107,-1037 in Billy's row, in sight.
 
 ## What I hold
 Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
@@ -18,9 +18,8 @@ Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 ## Who is near
 - Billy: leads the row. No walk until a route is verified.
 - Kimberly: holds the potato; will call at hunger 10.
-- Zack, Clark, Lewis: healthy, offer food, hold at beds.
+- Zack, Clark, Lewis, Picard, Wesley, Beverly: healthy, holding in the row.
 - Deanna: health 13.9. MacDonald: health 11, three potatoes.
-- Beverly, Wesley: healthy, holding in the row.
 - Tommy Oliver: not seen.
 
 ## Owe
@@ -30,7 +29,7 @@ Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 - Phantoms and bows strike at dusk and night. Stay in Billy's sight.
 - Walk only armed, in daylight, on Billy's named call.
 - At hunger 10, call out to Billy, Zack, Kimberly or Clark.
-- Sleep works in a bed at night; it fails in full daylight.
+- Sleep works in a bed at dusk and night; it fails in full daylight.
 
 ## Next
-Greet the row at first light. Check Deanna and MacDonald. Wait for Billy's named walk.
+Greet the row at first light. Check MacDonald and Deanna. Wait for Billy's named walk.
