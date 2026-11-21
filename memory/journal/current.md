@@ -6,3 +6,14 @@ Day 716 morning. Woke at my bed 430,107,-1037, health 17, hunger 17. Greeted the
 - 13:59 act: {"actions":[],"say":"Thank you, Zack. Trini at my bed, hunger 17, so I'll keep the potato for someone lower. I'll call you at 10."}
 - 14:20 act: {"say":"Morning, row. Trini at my bed 430,107,-1051, health 17, hunger 17, no food. Holding for Billy's named walk.","intent":{"goal":"hold_row_for_billy_walk","program":"rest","arguments":{},"wake_on
 - 14:25 act: {"say":"Zack, I'm in sight of your bed range but can't see you yet. I'll take one potato when you're in my sight; hunger 17. Thanks."}
+- 15:32 act: {"actions":[{"do":"sleep"}],"say":"Dusk, at my bed 430,107,-1051. Hunger 17, health 17. Going to sleep here in the row's sight."}
+- 15:36 act: {"actions":[],"say":"Morning, row. Trini here at my bed 430,107,-1051. Health 17, hunger 17, no food, no verified route past x=370. Holding for Billy's named call."}
+- 15:47 act: {"actions":[{"do":"sleep"}]}
+- 15:59 act: {"actions":[{"do":"sleep"}]}
+- 16:12 act: {"actions":[{"do":"sleep"}]}
+- 16:14 act: {"actions":[],"say":"Billy, Trini here at my bed 430,107,-1051. Health 17, hunger 17. No food in my pack, only wheat seeds. No verified route past x=370 from me. Holding."}
+- 16:19 act: {"actions":[],"say":"Zack, thank you. Trini at 17, so Troi goes first as Billy named. I will call when I near 10. No walk for me."}
+- 16:26 act: {"actions":[{"do":"sleep"}]}
+- 16:38 act: {"actions":[{"do":"sleep"}]}
+- 16:50 act: {"actions":[{"do":"sleep"}]}
+- 16:54 act: {"actions":[],"say":"Billy, Trini here at my bed. Health 17, hunger 17, no food, no verified route west from me. Holding."}
