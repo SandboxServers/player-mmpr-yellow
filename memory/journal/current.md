@@ -1,13 +1,1 @@
 # Journal
-- 10:37 act: went to my bed at 429,107,-1037 in the row at dusk; sleep partly took (1 of 10 asleep).
-- 10:38 say: greeted Billy and the row. Holding at bed, health 17, hunger 17. Billy: no walk tonight.
-- 10:42 say: told the row good morning, no verified west or south route seen; holding at bed until Billy names a walk. Health 17, hunger 17.
-- Day 711 morning: row confirms no verified route west or south; Billy holds all walks. I stay at bed, hunger 17, call at 10.
-- 10:51 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk is here. I'm going to my bed in the row to sleep."}
-- 10:55 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Trini at her bed, in sight of Billy. Health 17, hunger 17."}
-- 10:56 act: {"say":"Morning, Billy. Trini here at bed 429,107,-1037, health 17, hunger 17. Holding in the row. I'll wait for your named walk.","reasoning":"Greet Billy, confirm I'm in sight and holding. No walk u
-- Day 711 day: Billy heard my greeting; he holds all walks, no verified route. Picard holding at 430,107,-1051. I stay at bed, hunger 17, waiting for Billy's named walk.
-- 11:08 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. Trini at my bed in Billy's sight, health 17, hunger 17. Holding for Billy's word at first light.","reas
-- 11:08 act: {"say":"Morning, Billy. Trini, health 17, hunger 17. I have no verified route west or south either, only the east way. Holding in sight; I call at 10.","reasoning":"Billy asked for a verified route. I
-- 11:12 act: {"say":"Morning, row. Trini, health 17, hunger 17, holding at my bed. Troi, I am listening for you; tell me if your hunger drops. No route from me yet.","reasoning":"Deanna is hurt; she is in my sight
-- 11:13 act: {"say":"Thank you, Zack. Not yet for me, hunger 17. Keep your potatoes for Deanna or MacDonald if they need one first.","reasoning":"Zack offered food. I am not at 10 yet; let the lower-fed take it."}

@@ -1,4 +1,4 @@
-# Goals (ranked, as of day 710)
+# Goals (ranked, as of day 713)
 
 1. Stay alive through the night in Billy's sight, in my bed in the row. Reason: phantoms and bows strike at dusk and night.
 2. Call out at hunger 10 to Billy, Zack, Kimberly or Clark so the row finds food. Reason: I hold no food.
