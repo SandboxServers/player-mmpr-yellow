@@ -21,6 +21,7 @@
 - Day 699: held all day in the row, no walk named again. Slept at night in my bed 443,107,-1037 with Billy and Lewis in sight, fine. A rest intent can time out in daylight; speaking to the row keeps us together.
 
 - Day 740: held at my bed beside Chapman all day, no walk named; slept at dusk in the row, in sight, fine.
+- Day 741: held in the row all day, no walk named. Sleep refused at dusk (not yet night); slept at night, fine. Lewis now holds a potato for hunger 10.
 
 ## Failed or false
 - Walking unarmed killed me once (day 414).

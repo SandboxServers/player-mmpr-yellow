@@ -1,9 +1,9 @@
-# Summary (day 740, night, after sleep)
+# Summary (day 741, night, asleep)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17.
 
 ## Where I am
-At my bed at 443,107,-1064 in Billy's row, beside Chapman. Slept on day 740.
+In a bed in Billy's row around 443,107,-1051 to -1064. Slept on day 741.
 
 ## What I hold
 Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
@@ -16,8 +16,8 @@ Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 
 ## Who is near
 - Billy leads the row. No walk named. Wants a call at hunger 10.
-- Zack holds potatoes for anyone at hunger 10.
-- Chapman, Lewis, Laforge, MacDonald, Worf: holding at beds.
+- Lewis holds a potato for anyone at hunger 10.
+- Chapman, Laforge, MacDonald: holding at beds, no food.
 - Troi, Jason, Beverly: holding in the row.
 - Tommy Oliver: not seen.
 
@@ -25,4 +25,4 @@ Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 - Leonardo: one oak plank for his sword.
 
 ## Next
-Wait for Billy's named walk or Zack's potato at hunger 10. Keep MacDonald and Worf in view.
+Wait for Billy's named walk or Lewis's potato at hunger 10. Keep MacDonald in view.
