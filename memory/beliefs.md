@@ -11,6 +11,7 @@
 - Day 672: night passed at my bed in the row; slept beside it at dusk-to-night, in sight of Billy.
 - Day 672: no sheep seen by anyone in the row yet; Leonardo still asks.
 - Day 674: held in the row all day; Billy named no walk. Slept at dusk beside my bed at 430,107,-1051, fine.
+- Day 681: slept at night beside the bed at 429,107,-1036; the row all held and no walk was named in daylight.
 
 ## Failed or false
 - Walking unarmed killed me once (day 414).
