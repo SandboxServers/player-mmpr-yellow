@@ -1,2 +1,3 @@
 # Journal
 - 18:09 say: {"text":"Goodnight, row. Trini in my bed at 430,107,-1051, health 17, hunger 17. No walk. Morning, Billy."}
+- 18:09 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Trini in bed at 430,107,-1051. Health 17, hunger 17. No walk."}
