@@ -1,6 +1,6 @@
 # Goals (ranked, as of day 747)
 
-1. Stay alive through the night in the row, in a bed. Reason: phantoms and bows strike at night.
+1. Stay alive through the night in the row, in my bed. Reason: phantoms and bows strike at night.
 2. At hunger 10, call Lewis (has potato) or Billy. Reason: I hold no food.
 3. Walk only in daylight, armed, on Billy's named call. Reason: no verified west route.
 4. Keep the row together; check on MacDonald (health 15) and Troi. Reason: they are most hurt.
