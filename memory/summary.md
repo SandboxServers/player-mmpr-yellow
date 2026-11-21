@@ -1,4 +1,4 @@
-# Summary (day 697, asleep)
+# Summary (day 699, asleep)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17.
 
@@ -12,14 +12,14 @@ Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 - Row: around 430-447,107,-1020 to -1065.
 - Pit (Worf stuck; do not dig): 394,107,-1025.
 - West route past x=370 not verified.
-- Cows sighted near 339,104,-979.
-- Bows heard to the southwest all day.
+- Cows sighted near 339,104,-979. No sheep seen yet.
+- Bows heard to the southwest.
 
 ## Who is near
-- Billy: leads the row. Said "hold" on day 697. No west walk until a route is verified.
+- Billy: leads the row. Said "hold" on day 699. No walk until a route is verified.
 - Kimberly: potato, health 15, will call at hunger 10.
 - Lewis: potato, healthy, sits close to me.
-- Troi (Deanna): health 13.9, holding a potato for me.
+- Deanna (Troi): health 14, holding a potato for me.
 - MacDonald: health 11, three potatoes.
 - Beverly, Picard: healthy, holding in the row.
 - Tommy Oliver: not seen.
