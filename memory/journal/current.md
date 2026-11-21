@@ -9,3 +9,5 @@
 - 08:50 act: {"say":"Trini, at my bed for the night. Still holding for Billy's walk. Good night, row.","actions":[{"do":"sleep"}]}
 - 08:51 act: {"say":"Good night, Billy and MacDonald. Trini holding in my bed.","actions":[{"do":"sleep"}]}
 - 09:07 say: {"text":"Good morning, row. Trini here, health 17, hunger 17. Holding in my bed for Billy's named walk."}
+- 09:15 act: {"say":"Trini here, holding in the row at my bed, health 17, hunger 17. Billy, I will wait for your named walk. Kimberly, I am keeping an eye on the potato plan.","actions":[]}
+- 09:16 act: {"say":"Billy, Trini here. Dusk is coming, so I am going into my bed in your sight. Holding until dawn.","actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}]}
