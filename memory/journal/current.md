@@ -4,3 +4,8 @@
 - Kimberly holds the potato until hunger 10. MacDonald at health 11 holds in the row.
 - Day 703: told Billy I have seen no route, sheep or potato field from my bed. Billy acknowledged; still no walk. Waiting.
 - 08:26 act: {"say":"Trini here, in my bed at 444,107,-1037. Still holding for Billy's named walk."}
+- 08:39 act: {"say":"Good night, row. Trini here, in my bed. Lewis, I see you close by.","actions":[{"do":"sleep"}]}
+- 08:41 act: {"say":"Good morning, row. Trini here. Lewis, what did you see in the night? Billy, any walk named yet?","actions":[]}
+- 08:50 act: {"say":"Trini, at my bed for the night. Still holding for Billy's walk. Good night, row.","actions":[{"do":"sleep"}]}
+- 08:51 act: {"say":"Good night, Billy and MacDonald. Trini holding in my bed.","actions":[{"do":"sleep"}]}
+- 09:07 say: {"text":"Good morning, row. Trini here, health 17, hunger 17. Holding in my bed for Billy's named walk."}
