@@ -1,6 +1,6 @@
-# Handoff (day 750, night)
+# Handoff (waking 897)
 
-- At my bed in Billy's row, 444,107,-1051 (bed 443,107,-1051). Health 17, hunger 17.
-- No errand running. No walk named. No verified route west. Tommy not seen.
-- Row holding in sight. Billy asleep at 429,107,-1051. Lewis near with a potato.
-- Next: at hunger 10 call Lewis or Billy. Otherwise hold until Billy names a walk.
+- Last known place: at my bed in Billy's row, 443,107,-1051. Health 17, hunger 17 (last seen).
+- Blocker: the world's status, wait and act tools are not reachable in this session. The worker helper is also without tools, so its errand was refused.
+- Nothing is running in the world. No walk named. No verified route west. Tommy not seen.
+- Next: when the game tools return, call status and wait. At hunger 10, call Lewis or Billy. Hold in the row until Billy names a walk.

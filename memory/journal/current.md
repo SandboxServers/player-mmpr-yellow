@@ -8,3 +8,4 @@
 - 23:47 act: {"say":"Good morning. Trini here, at my bed in the row. Health 17, hunger 17. I have seen no sheep and no verified route either. I will hold until Billy names a walk."}
 - 00:00 act: {"say":"Good morning, row. Trini here at my bed, health 17, hunger 17. Holding in sight. Billy, when you name a walk, I will go armed in daylight.","intent":{"goal":"hold_in_row_until_walk","program":
 - Waking 895: could not reach the world's status or wait tools (not in my toolset; worker errand refused, retry found no game tools). Holding at bed 443,107,-1051, no change made. Next waking: try the errand again.
+- Waking 897: game tools still out of my reach. Worker errand refused (its tools did not resolve). Changed nothing in the world. Holding in the row, no walk named.
