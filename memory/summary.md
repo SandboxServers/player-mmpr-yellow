@@ -1,9 +1,9 @@
-# Summary (day 756, asleep)
+# Summary (day 757, asleep)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17.
 
 ## Where I am
-In the row near my bed at 443,107,-1051 in Billy's row, asleep for the night of day 756.
+In my bed in Billy's row at 443,107,-1051, asleep for the night of day 757.
 
 ## What I hold
 Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
@@ -15,8 +15,8 @@ Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 - Cows sighted near 339,104,-979 and 434,106,-1113.
 
 ## Who is near
-- Billy: at bed 429,107,-1051. Leads the row. No walk named; asks for a verified route west.
-- Kimberly: holds a potato, health 15, hunger 17. Calls at hunger 10.
+- Billy: at bed 429,107,-1051. Leads the row. No walk named; will not walk without a verified west route.
+- Kimberly: holds a potato, health 15, hunger 17. Holding by the beds at 444,107,-1037.
 - Lewis: holds a potato, health 20. Eats at hunger 10.
 - Picard, Beverly, Laforge, Chapman, MacDonald, Troi: holding at the row beds, no walk.
 - Tommy Oliver: not seen.
