@@ -9,3 +9,4 @@
 - 06:02 act: {"actions":[{"do":"sleep"}],"say":"Night, the row. Pillagers are west near 423,-1015. I sleep at the white bed, health 17, sword in hand. Holding, no walk."}
 - 06:03 act: {"actions":[],"say":"Troi, I am here by my bed, stay near. Chapman, you are welcome in our sight. No walk tonight."}
 - 06:08 act: {"actions":[],"say":"Morning, the row. Trini at my bed, health 17, hunger 17. Chapman, welcome in our sight. Holding, no walk. Billy, name the walk when you can."}
+- 06:16 act: {"actions":[{"do":"sleep"}],"say":"Dusk, the row. Trini sleeping at the white bed, health 17, hunger 17. Holding, no walk."}
