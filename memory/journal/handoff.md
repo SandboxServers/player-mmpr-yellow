@@ -1,7 +1,8 @@
-# Handoff (day 802, dusk)
+# Handoff (day 809, night)
 
-- Place: 415,107,-1021 in the row, on cobblestone, open to the sky, not enclosed. Troi 2 blocks off. Bed in reach 1 block north.
-- Health 10, hunger 17. Ate Troi's potato this morning. Wooden sword, 49 wheat seeds, phantom membrane. No food in pack.
-- Nothing half-done. No errand out. Billy has named no walk ("No walk until we have a verified route and food").
-- Bed "use" still fails; sleep works only at true night with no enemy in range.
-- Next: sleep at night in the row, sleep from the bed at 415 if it takes. At dawn hold for Billy's named call. Call for food at hunger 10. Leonardo still owed one oak plank. Step away from endermen, do not look.
+- Place: bed 415,107,-1023 in the row, open to sky, not enclosed. Billy's row all in sight nearby.
+- Health 12, hunger 16. 3 potatoes in pack, held for Worf and whoever is weakest at hunger 10.
+- Nothing half-done. No errand out. Billy has named no walk; holding.
+- Bows heard to the southeast and east; none hit me. Enderman seen near Data to the south: do not look at it.
+- Sleep at bed 415 works only at true night. Dusk sleep attempts failed "not night".
+- Next: at first light hold for Billy's call; eat at hunger 10, share potatoes with weakest. Leonardo still owed one oak plank.

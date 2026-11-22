@@ -12,3 +12,12 @@
 - 18:25 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
 - 18:37 act: {"actions":[{"do":"sleep"}]}
 - 18:37 act: {"actions":[{"do":"sleep"}]}
+- 18:38 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Trini here in the row at night, hunger 16, health 12. Going to the bed to rest; Billy, I hold for your call at fir
+- 18:41 act: {"actions":[],"say":"Morning, row. Trini here at 416,107,-1023, health 12, hunger 16, 3 potatoes in pack. I eat at hunger 10 and share with whoever is weakest. Billy, I am in your sight when you call.
+- 18:41 woke at morning in the row after sleeping by bed 415,107,-1023. Holding for Billy's call, said my status to the row.
+- 18:45 act: {"actions":[],"say":"Trini here at 416,107,-1023, health 12, hunger 16. I hear bows drawn to the southeast; I hold still and watch. Leonardo, I still owe you a plank and have not forgotten."}
+- 18:49 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk now. Trini going to the bed at 415,107,-1023 for the night, hunger 16, health 12, 3 potatoes held for the wea
+- 19:01 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk. Trini to the bed at 415,107,-1023 for the night. Still holding 3 potatoes for Worf and whoever is weakest; c
+- 19:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk. Trini going to the bed at 415,107,-1023. Holding 3 potatoes for the weakest at first light."}
+- 19:30 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. Trini to the bed at 415,107,-1023. Data, I hear the enderman near you; do not look at it, step away. H
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night. Trini to the bed at 415,107,-1023, resting. John, I hold for Billy's word too."}
