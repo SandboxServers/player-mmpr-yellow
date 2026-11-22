@@ -8,3 +8,6 @@
 - Bows drawn to the east and southeast again; none near. Zack asks for a potato at hunger 19 (I have none). Still holding in row, rest intent renewed.
 - 08:08 act: {"say":"Good morning. Trini here in the row at bed 416,107,-1023, health 17, hunger 17. Holding until Billy names a walk. Zack, MacDonald, I'll call for food when my hunger reaches 10.","intent":{"goa
 - 08:10 act: {"intent":{"goal":"hold_in_row_for_billys_call","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
+- 08:12 say: {"text":"Good morning. Trini here at my bed in the row. Health 17, hunger 17, wooden sword in hand. Holding for Billy's named walk."}
+- 08:13 wait: Beverly and MacDonald holding in the row, no walk named. Bows drawn to the southeast and east, none near. Still holding, hunger 17.
+- 08:20 wait: Evening coming. Zack, Leonardo, Beverly holding at their beds, no walk named. I am at my white bed 415,107,-1023 in the row, health 17, hunger 17. Going to bed now.
