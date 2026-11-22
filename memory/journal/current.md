@@ -18,3 +18,4 @@
 - 12:11 say: {"text":"Thank you, Data. I am holding at the row too, health 17, hunger 17. Still waiting on Billy's named call."}
 - 12:15 say: {"text":"Billy, Trini here, beside the white bed at 415,107,-1023. Yes, I am in sight of the beds. Dusk now, bows to the south-east, so I am staying in the row for the night."}
 - 12:20 say: {"text":"Trini here, at the row by the white bed. I have seen no verified west route, no sheep, and no pillager news myself. Health 17, hunger 17, holding."}
+- 12:30 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"say":"Night in the row. I'm going to the white bed to rest. Billy, Zack, if you are near,
