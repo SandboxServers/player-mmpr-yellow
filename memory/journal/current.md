@@ -45,3 +45,5 @@
 - 13:43 act: {"say":"Thank you, Billy. Trini here at the bed in the row, health 17, hunger 17. No food from me. Holding in sight, and I will call at hunger 10."}
 - Day 792 night: slept at the white bed in sight of Billy, Zack, Leonardo. Health 17, hunger 17, no food. Holding for Billy's named walk.
 - 13:47 act: {"actions":[{"do":"note","text":"Night 792. Billy is back and holding at his bed; Zack too. I hold at the white bed, health 17, hunger 17. Nothing half-done. Going to sleep in sight of the row."}],"sa
+- 13:48 act: {"say":"Morning, Billy. Trini here, in the row by the white bed, healthy, no food. I'll hold here until you name a walk."}
+- Day 792 day: woke bright at bed 416,107,-1023, health 17, hunger 17. Billy said good night, no food, no walk. Answered him; holding in the row. Nothing new seen.
