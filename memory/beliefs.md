@@ -44,7 +44,10 @@
 - Day 804: Billy found 14 potatoes NE at 463,-1073 and held them back for the weakest. Hand-out failed when I could not be seen in the crowd; step toward the caller and say where I stand.
 - Day 804: sleep at night at bed 415,107,-1022 worked; the night was skipped.
 
+- Day 815: held at my bed all day with 3 potatoes; Billy named no walk. Slept at night at bed 415,107,-1023 (goto onto the bed square, then sleep); the night was skipped.
+
 ## Failed or false
+- Day 815: a rest intent with program "rest" failed at once; hold by speaking and waiting instead.
 - Day 804: sleep at dusk, before night is true, fails ("it is not night").
 - Walking unarmed killed me once (day 414).
 - Phantoms strike at dusk and night, even at the row. Stay in sight; never walk out after dusk.
