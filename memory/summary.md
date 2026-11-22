@@ -1,23 +1,23 @@
-# Summary (day 766, asleep)
+# Summary (day 766, asleep at night)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17. 49 wheat seeds, phantom membrane. No food, no plank.
 
 ## Where I am
-In the row at 444,107,-1023, beside Troi, by the white bed at 443,107,-1023, asleep for the night of day 766.
+In the row at 444,107,-1023, beside Troi, by the white bed at 443,107,-1023. Asleep for the night.
 
 ## Places
 - Row: around 416-447,107,-1017 to -1065.
 - Pit (Worf stuck; do not dig): 394,107,-1025.
-- Pillagers NW near 412,-1055 (Billy and Kimberly were shot there). Bows heard to the southwest.
+- Pillagers NW near 412,-1055. Bows heard to the southwest all day.
 - West route past x=370 not verified. Cows sighted near 339,104,-979.
 
 ## Who is near
-- Billy: holds at the beds in the row, health 20. Names the walks.
-- Kimberly: died NW, respawned at the beds with nothing; sword lies at 412,107,-1055. Health 20.
-- Troi: beside me, health 14.
-- Zack: beside Billy, health 20, holds potatoes.
+- Billy: holds at the beds in the row. Names the walks.
+- Kimberly: at 444,107,-1037, health 20, no items.
+- Troi: beside me, holding a potato.
+- Zack: holds 2 potatoes.
 - MacDonald: bed 429,107,-1023, health 15.
-- Chapman: came in at health 4, by Beverly's bed.
+- Beverly: holds at her bed, no food.
 - Tommy Oliver: not seen.
 
 ## Owe
