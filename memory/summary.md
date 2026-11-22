@@ -1,4 +1,4 @@
-# Summary (day 781, asleep at dusk)
+# Summary (day 781, asleep at night)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17. 49 wheat seeds, phantom membrane. No food, no plank.
 
@@ -6,7 +6,7 @@ Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, 
 In the row at 416,107,-1023, by the white bed at 415,107,-1023. Asleep for the night, in sight of the row.
 
 ## Who is near
-- Zack (health 20), MacDonald (health 15), Leonardo (health 20), William, Data (health 13): holding in the row for Billy's named walk.
+- Zack, MacDonald, Leonardo, William, Data, Beverly: holding in the row for Billy's named walk.
 - Billy: not seen for days.
 - Tommy Oliver: seen at the row; welcomed, not yet known.
 
