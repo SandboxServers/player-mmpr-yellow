@@ -41,7 +41,11 @@
 - Day 781: held all day in the row, no walk named, Billy not seen. Bows drawn to east and southeast, none close. Went to bed at dusk beside the white bed at 415,107,-1023 in the row's sight.
 - Day 780: the bed "use" was refused again at 415,107,-1023 ("that block is a bed"); goto onto the bed square, then plain sleep at night worked. Bows were drawn to the east and southeast all day; none came close.
 
+- Day 804: Billy found 14 potatoes NE at 463,-1073 and held them back for the weakest. Hand-out failed when I could not be seen in the crowd; step toward the caller and say where I stand.
+- Day 804: sleep at night at bed 415,107,-1022 worked; the night was skipped.
+
 ## Failed or false
+- Day 804: sleep at dusk, before night is true, fails ("it is not night").
 - Walking unarmed killed me once (day 414).
 - Phantoms strike at dusk and night, even at the row. Stay in sight; never walk out after dusk.
 - Dropped things are rarely recovered. The sword at 413,108,-1039 did not come back.
