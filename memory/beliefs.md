@@ -36,6 +36,8 @@
 
 - Day 777: held all day in the row, no walk named, Billy not seen. Slept at night at my bed 415,107,-1023 with others in sight, fine. Data reported an enderman 3 blocks from 402,107,-1022; keep clear of it.
 
+- Day 779: at night, "use" on my white bed failed ("that block is a bed"); a plain sleep call at night worked. Tommy Oliver was seen at the row; welcomed, no reply yet.
+
 ## Failed or false
 - Walking unarmed killed me once (day 414).
 - Phantoms strike at dusk and night, even at the row. Stay in sight; never walk out after dusk.
