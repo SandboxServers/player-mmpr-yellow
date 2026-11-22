@@ -40,3 +40,6 @@
 - 13:34 act: {"say":"Billy, I hear you. I am at the white bed in the row, health 17, hunger 17, wooden sword in hand. I have seen no sheep, no west route, no pillagers. Zack, MacDonald and Leonardo are near. I wil
 - 13:34 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini sleeping at the white bed in sight. Health 17, hunger 17, no food. Holding for Billy's named walk."}
 - Day 791 night: Billy spoke to me; I answered that I have seen no sheep, route or pillagers. Slept at the white bed in the row (sleep worked). Health 17, hunger 17. Holding for Billy's walk.
+- Day 791 day: Billy's short look east came back with no food, sheep or news. Old sign for me (day 444) noted. Still holding. Billy called a short look east of the beds only, with Jason and Worf. I am not on that walk; I hold in the row. Said so.
+- 13:39 act: {"say":"Trini here, holding at the bed in sight of the row, health 17, hunger 17. Billy, I will stay for your walk. I have seen no food yet.","intent":{"goal":"hold_in_row","program":"rest","arguments
+- 13:43 act: {"say":"Thank you, Billy. Trini here at the bed in the row, health 17, hunger 17. No food from me. Holding in sight, and I will call at hunger 10."}
