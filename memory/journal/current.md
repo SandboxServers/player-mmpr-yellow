@@ -7,3 +7,8 @@
 - 18:03 act: {"say":"Billy, I am facing a wall to the west, so I cannot see you. Trini, hunger 17, at 416,107,-1023. Please come into my front, or I will step to you.","actions":[{"do":"goto","target":{"x":416,"y"
 - 18:03 act: {"say":"Billy, I see you now. Trini, hunger 17. Please give me the potatoes.","actions":[],"reasoning":"Billy is in reach and in sight. Ask for the food."}
 - 18:04 act: {"actions":[{"do":"eat"}],"say":"Thank you, Billy. I have 4 potatoes. I will eat one now and keep three for Troi and the others.","reasoning":"Received food. Eat one and share the rest with the weaker
+- 18:07 act: {"say":"Billy, Trini here, in your sight, at 415,107,-1025. I have 3 potatoes and hunger 16. I will eat at 10 and keep to the row.","intent":{"goal":"hold_row_for_billy","program":"rest","arguments":{
+- 18:09 act: {"say":"Billy, Trini in sight, at 415,107,-1025. Sun is low, so I stay in the row. I hold 3 potatoes and will eat at hunger 10."}
+- 18:25 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 18:37 act: {"actions":[{"do":"sleep"}]}
+- 18:37 act: {"actions":[{"do":"sleep"}]}
