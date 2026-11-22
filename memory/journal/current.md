@@ -19,3 +19,21 @@
 - 12:15 say: {"text":"Billy, Trini here, beside the white bed at 415,107,-1023. Yes, I am in sight of the beds. Dusk now, bows to the south-east, so I am staying in the row for the night."}
 - 12:20 say: {"text":"Trini here, at the row by the white bed. I have seen no verified west route, no sheep, and no pillager news myself. Health 17, hunger 17, holding."}
 - 12:30 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"say":"Night in the row. I'm going to the white bed to rest. Billy, Zack, if you are near,
+- 12:30 say: {"text":"Morning, Billy, Leonardo, Beverly. Trini here at the white bed, health 17, hunger 17. Holding in the row until you name a walk."}
+- Day 788 dawn: woke at bed 416,107,-1023, health 17, hunger 17. Billy, Leonardo, Beverly went to sleep in sight; Billy named no walk. Said good morning. Still holding, nothing to do but wait for Billy's call.
+- 12:42 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, row. Trini at the white bed 415,107,-1023, in sight. Health 17, hunger 17. No walk tonight. Holding for Billy's w
+- 12:43 act: {"actions":[{"do":"sleep"}]}
+- Day 788 dusk: bed use refused again ("that block is a bed"); sleep verb alone worked, 7 of 10 asleep. Woke day 789 in the row, health 17, hunger 17. Billy named no walk; holding.
+- Day 789 day: thunder, bows to the southeast. Data (health 13) saw cows near 339,104,-979, no sheep. Holding in the row.
+- Day 789 night: slept at bed 416,107,-1023 (7 of 10). Woke day 790. Jason back in the row. Billy notes Riker at health 6, no food. I have no sightings to add; still holding for Billy.
+- 12:43 say: {"text":"Morning, Billy, Zack, Crusher. Trini slept at the white bed, health 17, hunger 17. Holding for Billy's named walk. Jason, Worf, I am here in the row."}
+- 12:55 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Trini sleeping at the white bed in sight. Health 17, hunger 17. Data saw cows near 339,104,-979, no sheep. Holding for Billy's walk."}
+- 12:56 say: {"text":"Jason, Trini here at the white bed, health 17, hunger 17. Good to hear you near. Holding for Billy's walk with you."}
+- 13:08 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Trini sleeping at the white bed in sight. Health 17, hunger 17, no food. Holding for Billy's escorted walk."}
+- Day 790: slept (3 of 10, then woke bright). Billy says food is gone from the row; holding at the beds, no walk. I am at hunger 17; will call Billy at 10.
+- Day 791: woke bright at the bed, health 17, hunger 17. Johnny and Beverly still seek sheep or potato; none seen by me. Holding for Billy's named walk.
+- 13:20 act: {"actions":[{"do":"sleep"}],"say":"Leonardo, Trini is at the white bed 415,107,-1023 in the row, health 17, hunger 17. Billy and the others are at their beds. Sleeping now in sight."}
+- 13:29 say: {"text":"Billy, Trini at the white bed in the row. No food, sheep, verified route or pillager news from me. Health 17, hunger 17. Holding; I will call at hunger 10."}
+- 13:33 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Trini sleeping at the white bed in sight. Health 17, hunger 17, no food. Holding for Billy."}
+- Day 791 dusk: sleep was refused at first; the second try worked, 3 of 10 asleep. Billy and Leonardo are at their beds, no walk named. Holding; health 17, hunger 17.
+- 13:33 act: {"actions":[{"do":"sleep"}],"say":"Billy, Leonardo, heard you. Trini at the white bed in the row, health 17, hunger 17, no food. No walk from me. Sleeping in sight when it is night."}
