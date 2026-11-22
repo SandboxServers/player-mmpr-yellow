@@ -1,4 +1,4 @@
-# Summary (day 792, asleep at night)
+# Summary (day 794, asleep at night)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17. 49 wheat seeds, phantom membrane. No food, no plank.
 
@@ -6,8 +6,8 @@ Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, 
 In the row at 416,107,-1023, beside the white bed at 415,107,-1023. Asleep for the night, in sight of the row.
 
 ## Who is near
-- Zack, Beverly, John, Leonardo, William, MacDonald, Data: holding in the row for Billy's named walk.
-- Billy: back in the row, sleeping at his bed; has named no walk.
+- Billy: in the row, has named no walk. No verified route west.
+- Zack, Beverly, Troi, Leonardo: holding at their beds for Billy's named walk.
 
 ## Owe
 - Leonardo: one oak plank for his sword.
