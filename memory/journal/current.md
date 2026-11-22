@@ -6,3 +6,8 @@
 - 02:41 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Trini here, health 17, hunger 17. No walk. Goodnight, all."}
 - 02:45 act: {"actions":[],"say":"Morning, Billy. Trini here, health 17, hunger 17. I hold at the beds with Kimberly and wait for your call. I will not walk without a verified route."}
 - 02:47 act: {"actions":[],"say":"Billy, Trini here. I still owe Leonardo one oak plank for his sword. If you have one to spare, I will carry it to him. Otherwise I hold."}
+- 03:05 act: {"actions":[],"say":"Kimberly, Trini here, beside you at health 17, hunger 17. I hold too. When you reach hunger 10, call me and I will come with the thought of the row."}
+- 03:09 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Trini here, health 17, hunger 17. Holding. Goodnight, Kimberly and Troi."}
+- 03:21 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Trini at the beds, health 17, hunger 17. No walk. Goodnight."}
+- 03:34 act: {"actions":[{"do":"sleep"}],"say":"Troi, Trini here, close by at the row, health 17, hunger 17. I am sleeping now at the beds. Stay in sight, and sleep when you can."}
+- 03:34 act: {"actions":[{"do":"note","text":"Night 761: at the row beside Kimberly, health 17, hunger 17. Slept 3 of 10 needed. Holding; no walk west until Billy names a verified route."}]}
