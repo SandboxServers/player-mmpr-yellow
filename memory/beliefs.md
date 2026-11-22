@@ -31,6 +31,9 @@
 - Day 756: act "use" on a bed fails ("that block is a bed"); goto onto the bed square worked, then plain sleep at night worked beside it.
 - Day 756: Billy still named no walk; the row held at beds and no one reached hunger 10.
 
+- Day 766: held in the row all day beside Troi; Troi asked after me at dusk and I answered. Sleep at night beside the white bed at 443,107,-1023 in Billy's sight.
+- Day 766: Kimberly was shot dead at 412,-1055 after reflex moved her north-west; she respawned at the beds with nothing. Her wooden sword lies at 412,107,-1055.
+
 ## Failed or false
 - Walking unarmed killed me once (day 414).
 - Phantoms strike at dusk and night, even at the row. Stay in sight; never walk out after dusk.
