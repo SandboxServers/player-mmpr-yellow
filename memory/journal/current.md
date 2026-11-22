@@ -6,3 +6,4 @@
 - 23:40 act: {"actions":[{"do":"sleep"}]}
 - Day 750 morning. Health 17, hunger 17, at my bed 443,107,-1051 in the row. Picard and Lewis near. Chapman reports west road blocked near x=413. Said good morning, holding for Billy's walk.
 - 23:47 act: {"say":"Good morning. Trini here, at my bed in the row. Health 17, hunger 17. I have seen no sheep and no verified route either. I will hold until Billy names a walk."}
+- 00:00 act: {"say":"Good morning, row. Trini here at my bed, health 17, hunger 17. Holding in sight. Billy, when you name a walk, I will go armed in daylight.","intent":{"goal":"hold_in_row_until_walk","program":
