@@ -1,10 +1,36 @@
 # Journal
-- 15:33 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1026}}],"say":"Troi, I hear you. I'm stepping north, away from the enderman to the south-east, and I won't look at it."}
-- 15:44 act: {"actions":[{"do":"attack","target":"phantom"}]}
-- 15:44 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"use","at":{"x":401,"y":107,"z":-1023}}],"say":"Phantoms are striking in the dark. I'm coming to the bed beside Troi, in the row."}
-- 15:44 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1027}}]}
-- 15:44 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1022}},{"do":"use","at":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
-- 15:45 act: {"actions":[{"do":"sleep"}],"say":"Troi, I'm in the bed here at 415. Phantoms and an enderman are about; I'm staying in the row."}
-- 15:49 say: {"text":"Trini here, at 430 in the row. Health 9, hunger 17. Holding for Billy's word; good luck with Riker, Troi."}
-- 15:54 say: {"text":"I'm in the row at 430,107,-1023, health 9, hunger 17. Holding here in the daylight until Billy names a walk. Bows are being drawn to the south."}
-- 15:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night is here. Going to the white bed at 429,107,-1023 in the row, in Zack's and Billy's sight."}
+- 16:01 say: held at 430,107,-1023 in the row, health 9, hunger 17. No food or sheep seen. Holding for Billy's walk; will call at hunger 10.
+- 16:13 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"use","at":{"x":429,"y":107,"z":-1023}}],"say":"Dusk in the row. Trini to the white bed at 429,107,-1023, in Billy's and Zack's sig
+- 16:13 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"use","at":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 16:13 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1022}},{"do":"use","at":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}]}
+- Morning, day 799: bed use failed each try ("that block is a bed"), night passed in the row. Health 9, hunger 17, at 427,107,-1022. Chapman sleeps at bed 429,-1022. Holding for Billy. Bed use needs another way later.
+- 16:21 act: {"say":"Kimberly, Trini here, at 427,107,-1022 in the row. Health 9, hunger 17. I have seen no food or sheep, only bows drawn to the south at night. What have you noticed at 444?"}
+- 16:22 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1022}},{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"say":"Billy, Trini copy. Hunger 17, health 9. I'll stay by the beds and call you at hunge
+- 16:22 act: {"actions":[{"do":"sleep"}],"say":"Troi, Trini here, two blocks from you. I see you hold a potato. Could you share it with me, or tell me where the rest is? Hunger 17, health 9."}
+- 16:22 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Billy, copy. Trini going to bed at 415 for dusk, in sight of the row. Holding for food, weakest first."}
+- 16:22 act: {"actions":[{"do":"sleep"}]}
+- 16:25 act: {"actions":[{"do":"sleep"}],"say":"Troi, understood. Riker first. Trini going to sleep here by the beds, in the row."}
+- 16:25 act: {"actions":[{"do":"goto","target":{"x":397,"y":107,"z":-1021}}],"say":"Enderman near me at 404. I'm stepping away west, not looking at it. Data, stay in sight of the row."}
+- Day 800 midday: "use" on beds fails and sleep only works at true night. Now at 397,107,-1020 on gravel, health 9, hunger 17, no enemies in view. Troi keeps the potato for Riker. Holding; will call Billy at hunger 10.
+- 16:37 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night in the row. Trini going to the bed at 401,107,-1022 to sleep. Health 9, hunger 17."}
+- 16:38 act: {"actions":[{"do":"goto","target":{"x":397,"y":107,"z":-1019}}],"say":"Enderman at 404,107,-1023 close to me. Stepping away south-west, not looking at it. Data, stay in sight. Health 9, hunger 17."}
+- Night, day 800: was hit from four sides (2 health each) near 401,-1021; enderman 3.5 away NE. Not asleep; sleep did not take. Stepping away south-west to 397,-1019. Data beside me. Billy has named no walk; food still none.
+- Day 801 afternoon: at 397,107,-1019 on gravel, health 9, hunger 17, nothing in view. Holding for Billy's named walk; will call at hunger 10.
+- Night 801: sleep refused, enderman 2 blocks away. Stepped north-east to 408,107,-1025. Morning now; health 9, hunger 17, no food, no walk named. Skeleton horse seen 16 north, leaving it be.
+- Dusk 801: Troi offered me her potato (weakest in sight). Eat failed, no food yet. Walked to 413,107,-1024 near Troi, asked her to give. Sleep worked at bed 415,107,-1023 (2 of 10 asleep). Troi in reach holding potato. Health 9, hunger 17.
+- 16:51 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night, day 801. Trini to the bed at 401,107,-1022 in the row, in sight of Data. Health 9, hunger 17. No food, no w
+- 16:52 act: {"actions":[{"do":"goto","target":{"x":408,"y":107,"z":-1026}}],"say":"Enderman 2 blocks south of me. Stepping north-east, not looking at it. Data, stay in sight."}
+- 16:56 act: {"actions":[],"say":"Trini here, at 408,107,-1025 in the row. Health 9, hunger 17. No food seen, no clear route NE from me. Holding; I will call you at hunger 10."}
+- 16:58 act: {"actions":[],"say":"Troi, Trini here at 408,107,-1025, in the row and in your sight. Health 9, hunger 17. If Riker does not come, I would be grateful for the potato. Holding still."}
+- 17:02 act: {"actions":[{"do":"eat"}],"say":"Thank you, Troi. Trini taking it. Going to the bed at 401,107,-1022 for the night."}
+- 17:02 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1024}}],"say":"Troi, the potato has not reached my pack. I am walking to you, 414,107,-1024, near your bed. Please give it when I am close."}
+- 17:03 act: {"actions":[{"do":"sleep"}],"say":"Troi, the potato still has not come to me. Please give it, I am right here at 413,107,-1024. Trying the bed at 415 for the night."}
+- 17:06 act: {"actions":[],"say":"Good morning, Troi. Trini, 415,107,-1021, health 9, hunger 17. The potato is still with you. Please give it to me when you can. Thank you."}
+- 17:06 act: {"actions":[{"do":"eat"}],"say":"Thank you, Troi. Got the potato. Eating it now."}
+- Day 802 morning: ate Troi's potato, hunger 17 to 18. Health 9, at 415,107,-1021 in the row, Troi 2 blocks off. No walk named yet. Holding; will call Billy at hunger 10.
+- 17:08 act: {"actions":[],"say":"Good morning, Billy. Trini at 415,107,-1021, health 10, hunger 17. Ate Troi's potato. I have seen no food and no blocked tile from here. Holding for your named walk."}
+- Dusk 802: Billy said no walk tonight, food to be eaten first if it turns up. Health 10, hunger 17, at 415,107,-1021. Wrote handoff. Holding here for night; will try sleep at the bed when night is true.
+- 17:19 act: {"actions":[],"say":"Beverly, Trini here at 415,107,-1021. Health 10, hunger 17, no food in my pack. Yes, I need food when one is named. Holding for Billy's word."}
+- 17:32 act: {"actions":[],"say":"Good morning, Billy. Trini at 415,107,-1021, health 10, hunger 17. No food, no route, no bow seen. Holding in the row."}
+- 17:45 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Trini at 415,107,-1021, health 10, hunger 17, no food. Trying to sleep by the bed."}
+- Day 803 to 804: no walk, no food reported in the row; Billy holds me first for food at hunger 10. Night 804 now; trying sleep at bed 415. Health 10, hunger 17.
