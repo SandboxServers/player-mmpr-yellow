@@ -38,6 +38,7 @@
 
 - Day 779: at night, "use" on my white bed failed ("that block is a bed"); a plain sleep call at night worked. Tommy Oliver was seen at the row; welcomed, no reply yet.
 
+- Day 781: held all day in the row, no walk named, Billy not seen. Bows drawn to east and southeast, none close. Went to bed at dusk beside the white bed at 415,107,-1023 in the row's sight.
 - Day 780: the bed "use" was refused again at 415,107,-1023 ("that block is a bed"); goto onto the bed square, then plain sleep at night worked. Bows were drawn to the east and southeast all day; none came close.
 
 ## Failed or false
