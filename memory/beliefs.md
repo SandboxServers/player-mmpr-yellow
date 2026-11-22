@@ -1,6 +1,7 @@
 # Beliefs
 
 ## Worked
+- Day 754: held in the row all day with Kimberly and Beverly beside me; no walk named. Slept at dusk in my bed, in sight of Billy. Plain sleep worked; the bed use did not need to be tried.
 - Day 754: held in the row all day, no walk named. Sleep at night beside my bed (443,107,-1036 is Beverly's): 9 of 10 asleep, fine.
 - Standing in Billy's sight with armed friends and food nearby kept me alive through most nights.
 - Sleep in the bed Billy names. Day 594: Billy named 429,107,-1037; sleep worked there at dusk.

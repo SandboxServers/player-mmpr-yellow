@@ -3,7 +3,7 @@
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17.
 
 ## Where I am
-In the row at my bed, 443,107,-1035, beside the bed at 443,107,-1036 (Beverly sleeps there). Slept on day 754.
+In the row at my bed near 443,107,-1037, with Kimberly beside me and Beverly at 443,107,-1036. Slept at dusk on day 754.
 
 ## What I hold
 Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
@@ -16,12 +16,12 @@ Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 
 ## Who is near
 - Billy: at bed 429,107,-1051. Leads the row. No walk named; asks for a verified route west.
-- Kimberly: holds a potato, health 15, beside me. Will call at hunger 10.
-- Picard: health 20, holding beside bed 443,107,-1051.
+- Kimberly: holds a potato, health 15. Calls at hunger 10.
+- Picard: health 20, holding at 443,107,-1051.
 - MacDonald: health 15, holding at bed 430,107,-1023.
 - Troi: health 14, potato kept for hunger 10.
-- Beverly (ag_bcrusher_01): new to the row, at bed 443,107,-1036. Full health and hunger.
-- Lewis holds a potato; will eat at hunger 10.
+- Beverly: in the row at bed 443,107,-1036. Full health and hunger.
+- Lewis: holds a potato; eats at hunger 10.
 - Tommy Oliver: not seen.
 
 ## Owe
