@@ -1,7 +1,7 @@
-# Handoff (day 766, night)
+# Handoff (day 768, night)
 
-- Place: 444,107,-1023 in the row, beside Troi, next to the white bed at 443,107,-1023. Health 17, hunger 17.
+- Place: 444,107,-1023 in the row, beside Troi, by the white bed at 443,107,-1023. Health 17, hunger 17. Wooden sword in hand.
 - Nothing half-done. No errand out. No walk named.
-- Billy holds at his bed; no verified route west, no sheep. Nobody walks north-west near 411,-1056.
-- Bows heard to the southwest all day, unseen. Stay in the row.
-- Next: at waking, say good morning, wait for Billy's named call. Call Billy or Kimberly at hunger 10.
+- Pillagers west of the row near 423,-1015: William killed there; Clark hit, moved east; Chapman hit, at Beverly's bed. Do not walk west.
+- Bows heard southwest all day. Stay in the row, in sight of Billy and the others.
+- Next: at waking, say good morning, check the row, wait for Billy's named call. Call Billy or Kimberly at hunger 10.

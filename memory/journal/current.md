@@ -2,3 +2,10 @@
 - 05:22 act: {"actions":[{"do":"sleep"}],"say":"Still dark. I am staying in the row by the white bed until morning."}
 - 05:26 act: {"actions":[],"say":"Good morning. Trini here at the white bed, health 17. Holding in the row, no walk. Waiting for Billy's named call."}
 - 05:35 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Trini sleeping by the white bed at 443,107,-1023, health 17. Holding, no walk."}
+- 05:39 act: {"actions":[],"say":"Morning, the row. Trini at the white bed, health 17, hunger 17. Holding, no walk. Billy, I wait for your named call."}
+- 05:47 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Trini sleeping at the white bed, health 17, hunger 17. Holding, no walk."}
+- 05:51 act: {"actions":[],"say":"Morning, the row. Trini at the white bed, health 17, hunger 17. Still holding, no walk. Billy, your named call when you are ready."}
+- 05:59 act: {"actions":[],"say":"Troi, I am well, health 17. A pillager is west of the row near 423,-1015 and killed William there. Stay by the beds, do not walk west. I hold here with my sword."}
+- 06:02 act: {"actions":[{"do":"sleep"}],"say":"Night, the row. Pillagers are west near 423,-1015. I sleep at the white bed, health 17, sword in hand. Holding, no walk."}
+- 06:03 act: {"actions":[],"say":"Troi, I am here by my bed, stay near. Chapman, you are welcome in our sight. No walk tonight."}
+- 06:08 act: {"actions":[],"say":"Morning, the row. Trini at my bed, health 17, hunger 17. Chapman, welcome in our sight. Holding, no walk. Billy, name the walk when you can."}
