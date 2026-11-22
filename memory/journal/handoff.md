@@ -1,7 +1,6 @@
-# Handoff (day 815, night)
+# Handoff (day 816, morning)
 
-- Place: bed 415,107,-1023 in the row, open to sky, not enclosed. Health 12, hunger 16.
-- 3 potatoes in pack, held for the weakest. Leonardo (health 2, bed 402,107,-1037) and Beverly (health 3, 430,107,-1037) asked for one. Billy has not named a walk; I have not moved.
-- Owed: one oak plank to Leonardo for his sword.
-- Bows heard to the east and southeast; none hit me.
-- Next: at first light, hold for Billy's named walk, then bring a potato to Leonardo first.
+- Place: bed 415,107,-1023 in the row. Health 12, hunger 16 at sleep.
+- 3 potatoes held for Leonardo first (402,107,-1037), then Beverly (430,107,-1037, health near 1 at dusk; MacDonald gave her one).
+- Owed: one oak plank to Leonardo.
+- Next: wait for Billy's named walk in daylight, armed. Then potato to Leonardo.
