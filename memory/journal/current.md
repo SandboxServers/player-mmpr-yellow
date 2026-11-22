@@ -1,1 +1,8 @@
 # Journal
+- 02:14 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}}],"say":"Night in the row. I am going to my bed now."}
+- 02:14 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1052}},{"do":"use","at":{"x":443,"y":107,"z":-1051}}]}
+- 02:16 act: {"actions":[{"do":"note","text":"Woke at morning, row intact. Hold at the beds; no walk named."}],"say":"Good morning, the row. Trini here, health 17, hunger 17. I have no verified route west either. 
+- 02:29 act: {"actions":[{"do":"sleep"}],"say":"Dusk, the row. Trini here at my bed, health 17, hunger 17. No walk. Goodnight."}
+- 02:41 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Trini here, health 17, hunger 17. No walk. Goodnight, all."}
+- 02:45 act: {"actions":[],"say":"Morning, Billy. Trini here, health 17, hunger 17. I hold at the beds with Kimberly and wait for your call. I will not walk without a verified route."}
+- 02:47 act: {"actions":[],"say":"Billy, Trini here. I still owe Leonardo one oak plank for his sword. If you have one to spare, I will carry it to him. Otherwise I hold."}
