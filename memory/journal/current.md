@@ -1,1 +1,11 @@
 # Journal
+- 21:42 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1035}}],"say":"Trini here. Coming to you, Leonardo, with a potato. Hold on."}
+- 21:43 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":1}],"say":"Here, Leonardo, one potato. Eat it now. I will bring Beverly one next."}
+- 21:43 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1035}}],"say":"Leonardo has his potato. Going to Beverly now."}
+- 21:43 act: {"actions":[{"do":"wait","seconds":5}],"say":"Beverly, Trini here at 427,107,-1035 with a potato for you. Tell me where you stand, and I will hand it over where you are."}
+- 21:43 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1033}}],"say":"Beverly, I am moving closer to the white beds. Show yourself and I will hand you the potato."}
+- 21:44 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"potato","count":1}],"say":"Beverly, here is your potato. Eat it when you need it."}
+- 21:45 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1035}}]}
+- 21:45 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"potato","count":1}],"say":"Beverly, here is your potato. Eat it when your hunger is low."}
+- 21:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. Trini going to bed at 415,107,-1023 with one potato held for the weakest."}
+- 22:07 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
