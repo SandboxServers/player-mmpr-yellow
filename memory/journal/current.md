@@ -15,3 +15,6 @@
 - 12:07 say: {"text":"Morning, row. Trini here at the bed, health 17, hunger 17. Jason, Worf, if you are near, I am holding for Billy's word. Has anyone seen sheep?"}
 - 12:08 act: {"say":"Morning, William, Zack. Trini here, health 17, hunger 17, no food. Holding for Billy's word. I heard a bow drawn to the southeast; I will stay in the row and not go out alone."}
 - Day 787 midday: William and Zack spoke, no food, no sheep, holding for Billy. Heard a bow to the southeast. Said so, staying in the row.
+- 12:11 say: {"text":"Thank you, Data. I am holding at the row too, health 17, hunger 17. Still waiting on Billy's named call."}
+- 12:15 say: {"text":"Billy, Trini here, beside the white bed at 415,107,-1023. Yes, I am in sight of the beds. Dusk now, bows to the south-east, so I am staying in the row for the night."}
+- 12:20 say: {"text":"Trini here, at the row by the white bed. I have seen no verified west route, no sheep, and no pillager news myself. Health 17, hunger 17, holding."}
