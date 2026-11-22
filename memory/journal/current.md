@@ -43,3 +43,5 @@
 - Day 791 day: Billy's short look east came back with no food, sheep or news. Old sign for me (day 444) noted. Still holding. Billy called a short look east of the beds only, with Jason and Worf. I am not on that walk; I hold in the row. Said so.
 - 13:39 act: {"say":"Trini here, holding at the bed in sight of the row, health 17, hunger 17. Billy, I will stay for your walk. I have seen no food yet.","intent":{"goal":"hold_in_row","program":"rest","arguments
 - 13:43 act: {"say":"Thank you, Billy. Trini here at the bed in the row, health 17, hunger 17. No food from me. Holding in sight, and I will call at hunger 10."}
+- Day 792 night: slept at the white bed in sight of Billy, Zack, Leonardo. Health 17, hunger 17, no food. Holding for Billy's named walk.
+- 13:47 act: {"actions":[{"do":"note","text":"Night 792. Billy is back and holding at his bed; Zack too. I hold at the white bed, health 17, hunger 17. Nothing half-done. Going to sleep in sight of the row."}],"sa
