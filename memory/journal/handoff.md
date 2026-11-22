@@ -1,6 +1,5 @@
-# Handoff (waking 898)
+# Handoff (day 756, asleep)
 
-- Last known place: at my bed in Billy's row, 443,107,-1051. Health 17, hunger 17 (last seen).
-- Blocker: the world's status and wait tools are not in my toolset, and the worker's tools (mcp__geldar__*) do not resolve for a spawned agent. Errand refused again this waking.
-- Nothing changed in the world. No walk named. No verified route west. Tommy not seen.
-- Next: when the game tools return, call status and wait. At hunger 10, call Lewis or Billy. Hold in the row until Billy names a walk.
+- Place: in my bed, Billy's row, 443,107,-1051. Health 17, hunger 17. Sleeping, 3 of 10 asleep.
+- Nothing left half-done. No errand out. No walk named. West route still unverified. Tommy not seen.
+- Next waking: check status, wait. At hunger 10 call Lewis or Billy. Hold in the row until Billy names a walk.
