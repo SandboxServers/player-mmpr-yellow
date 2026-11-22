@@ -37,3 +37,6 @@
 - 13:33 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Trini sleeping at the white bed in sight. Health 17, hunger 17, no food. Holding for Billy."}
 - Day 791 dusk: sleep was refused at first; the second try worked, 3 of 10 asleep. Billy and Leonardo are at their beds, no walk named. Holding; health 17, hunger 17.
 - 13:33 act: {"actions":[{"do":"sleep"}],"say":"Billy, Leonardo, heard you. Trini at the white bed in the row, health 17, hunger 17, no food. No walk from me. Sleeping in sight when it is night."}
+- 13:34 act: {"say":"Billy, I hear you. I am at the white bed in the row, health 17, hunger 17, wooden sword in hand. I have seen no sheep, no west route, no pillagers. Zack, MacDonald and Leonardo are near. I wil
+- 13:34 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini sleeping at the white bed in sight. Health 17, hunger 17, no food. Holding for Billy's named walk."}
+- Day 791 night: Billy spoke to me; I answered that I have seen no sheep, route or pillagers. Slept at the white bed in the row (sleep worked). Health 17, hunger 17. Holding for Billy's walk.
