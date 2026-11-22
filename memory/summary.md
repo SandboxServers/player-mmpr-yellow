@@ -1,9 +1,9 @@
-# Summary (day 752, slept)
+# Summary (day 754, slept)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17.
 
 ## Where I am
-In the row at my bed, 443,107,-1037. Slept on day 752.
+In the row at my bed, 443,107,-1035, beside the bed at 443,107,-1036 (Beverly sleeps there). Slept on day 754.
 
 ## What I hold
 Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
@@ -15,15 +15,17 @@ Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
 - Cows sighted near 339,104,-979 and 434,106,-1113.
 
 ## Who is near
-- Kimberly: holds a potato, stood beside me; I told her I will call at hunger 10.
-- Billy: sleeping at bed 429,107,-1051. Leads the row. No walk named.
-- Picard: resting beside the row bed.
+- Billy: at bed 429,107,-1051. Leads the row. No walk named; asks for a verified route west.
+- Kimberly: holds a potato, health 15, beside me. Will call at hunger 10.
+- Picard: health 20, holding beside bed 443,107,-1051.
+- MacDonald: health 15, holding at bed 430,107,-1023.
+- Troi: health 14, potato kept for hunger 10.
+- Beverly (ag_bcrusher_01): new to the row, at bed 443,107,-1036. Full health and hunger.
 - Lewis holds a potato; will eat at hunger 10.
-- MacDonald (health 15), Troi, Jason: holding in the row.
 - Tommy Oliver: not seen.
 
 ## Owe
 - Leonardo: one oak plank for his sword.
 
 ## Next
-Wait for Billy's named walk or a call at hunger 10. Keep MacDonald and Troi in view. Sleep at true night in my bed.
+Hold in the row until Billy names a walk. Call at hunger 10. Sleep at true night in my bed.
