@@ -13,3 +13,5 @@
 - Day 787 dawn: slept in sight of the row, woke at bed 416,107,-1023. Health 17, hunger 17. Zack and Leonardo holding; still no walk named by Billy.
 - Day 787 day: holding at bed 416,107,-1023, hunger 17. Heard bows to the east. Jason and Worf reported near the row. Waiting on Billy.
 - 12:07 say: {"text":"Morning, row. Trini here at the bed, health 17, hunger 17. Jason, Worf, if you are near, I am holding for Billy's word. Has anyone seen sheep?"}
+- 12:08 act: {"say":"Morning, William, Zack. Trini here, health 17, hunger 17, no food. Holding for Billy's word. I heard a bow drawn to the southeast; I will stay in the row and not go out alone."}
+- Day 787 midday: William and Zack spoke, no food, no sheep, holding for Billy. Heard a bow to the southeast. Said so, staying in the row.
