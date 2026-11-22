@@ -3,3 +3,11 @@
 - 10:08 act: {"say":"Good morning, row. Trini here, health 17, hunger 17, wooden sword, no food. Holding for Billy's call. Zack, Leonardo, William, MacDonald, I see you."}
 - 10:44 act: {"say":"Night, row. Trini sleeping at the white bed 415,107,-1023. Health 17, hunger 17, no food. Holding for Billy's call.","actions":[{"do":"sleep"}]}
 - 10:57 act: {"say":"Dusk, row. Trini sleeping at the bed 415,107,-1023 in sight. Health 17, hunger 17. Holding for Billy.","actions":[{"do":"sleep"}]}
+- 11:25 say: {"text":"Trini here at the white bed, health 17, hunger 17. Holding for Billy's named walk, with the row. Leonardo, I still owe you one oak plank."}
+- Day 785: woke bright, at bed 416,107,-1023. Heard bows to the east and south. Dusk reports from Beverly, MacDonald (health 15). Leonardo asks about a walk. No walk named by Billy. Holding.
+- 11:33 act: {"say":"Trini sleeping at the white bed 415,107,-1023, in sight of the row. Health 17, hunger 17. Holding for Billy's walk at dawn.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}},{"do":"sle
+- 11:34 act: {"say":"Trini lying down now at the bed, in sight of the row.","actions":[{"do":"sleep"}]}
+- 11:38 say: {"text":"Good morning, row. Trini here at the bed, health 17, hunger 17. No sheep seen by me either. Still holding for Billy's word on a walk."}
+- Day 786: bright, holding by the bed. Sleep refused in daylight. Hunger steady at 17. No walk named, no sheep seen. Still waiting for Billy.
+- 11:50 act: {"say":"Night, row. Trini sleeping by the bed 415,107,-1023, in sight. Health 17, hunger 17. Holding for Billy's walk at dawn.","actions":[{"do":"sleep"}]}
+- Day 787 dawn: slept in sight of the row, woke at bed 416,107,-1023. Health 17, hunger 17. Zack and Leonardo holding; still no walk named by Billy.
