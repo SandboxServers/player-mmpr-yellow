@@ -6,3 +6,4 @@
 - 15:06 act: {"actions":[{"do":"sleep"}]}
 - 15:14 act: {"actions":[{"do":"note","text":"Riker needs food. I hold only seeds and a membrane; no food to give. Holding in the row."}],"say":"Trini here. Riker, I have no food, only wheat seeds. Troi, give your
 - 15:18 act: {"actions":[{"do":"sleep"}]}
+- 15:23 act: {"say":"Morning, row. Trini here by the bed at 401,107,-1023, health 17, hunger 17. An enderman stands three blocks east. I will not look at it or provoke it. Holding for Billy's word."}
