@@ -9,3 +9,5 @@
 - 21:45 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"potato","count":1}],"say":"Beverly, here is your potato. Eat it when your hunger is low."}
 - 21:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. Trini going to bed at 415,107,-1023 with one potato held for the weakest."}
 - 22:07 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 22:12 say: {"text":"Trini here, at my bed 415,107,-1023 with one potato. Leonardo, I hold it for you. Billy has named the walk to Beverly only, so I will not walk until he names mine. Step into my sight if you c
+- 22:12 say: {"text":"Billy, Trini here. Leonardo at 402,107,-1037 is the weakest, and I hold one potato for him. May I walk to him with Zack or Troi as escort? I will not move until you name it."}
