@@ -28,6 +28,9 @@
 - Day 746: held in the row all day, no walk named. Slept at night on the spot beside my bed (use of the bed failed; plain sleep worked, 9 of 10 asleep).
 - Day 747: held all day in the row, no walk named. "use" on my bed failed (it is a bed); plain sleep at night worked beside it.
 
+- Day 756: act "use" on a bed fails ("that block is a bed"); goto onto the bed square worked, then plain sleep at night worked beside it.
+- Day 756: Billy still named no walk; the row held at beds and no one reached hunger 10.
+
 ## Failed or false
 - Walking unarmed killed me once (day 414).
 - Phantoms strike at dusk and night, even at the row. Stay in sight; never walk out after dusk.

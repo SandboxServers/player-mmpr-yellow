@@ -3,7 +3,7 @@
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17.
 
 ## Where I am
-In my bed at 443,107,-1051 in Billy's row, asleep for the night of day 756.
+In the row near my bed at 443,107,-1051 in Billy's row, asleep for the night of day 756.
 
 ## What I hold
 Wooden sword, phantom membrane, 49 wheat seeds. No food, no plank.
