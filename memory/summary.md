@@ -1,15 +1,14 @@
-# Summary (day 797, asleep at night)
+# Summary (day 798, asleep at night)
 
-Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 17, hunger 17. 49 wheat seeds, phantom membrane. No food, no plank.
+Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 9, hunger 17. 49 wheat seeds, phantom membrane. No food, no plank.
 
 ## Where I am
-In the row at 401,107,-1023, beside the white bed at 401,107,-1023. Asleep for the night, in sight of the row.
+In the row at 429,107,-1023, in the white bed there. Asleep for the night, in sight of Zack and Billy.
 
 ## Who is near
-- Billy: has named no walk yet. No verified route west.
-- Data: health 13, hunger 17, holding at the row.
-- Troi: one potato, will give it to Riker if he shows.
-- Beverly, Leonardo: holding at their beds for Billy's word.
+- Billy: holding the row. Said: stay in the row at 430 where Zack can see me; no bows leave the beds; no walk named.
+- Zack: at bed 430,107,-1037, health 20.
+- Beverly, Leonardo, Clark: holding at their beds for Billy's word.
 
 ## Owe
 - Leonardo: one oak plank for his sword.
