@@ -4,3 +4,7 @@
 - Day 774: status fine, health 17, hunger 17. Heard bows to the southeast. Holding in the row, waiting for Billy's named call. No food yet.
 - 08:07 act: {"actions":[{"do":"note","text":"Day 775 night, thunder. Holding at bed 416,107,-1023 in the row. No Billy in sight. Health 17, hunger 17."}],"say":"Trini here, at the beds, health 17, hunger 17. Hold
 - 08:07 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}]}
+- Day 775 morning: woke in the row, health 17, hunger 17, thunder. Zack and MacDonald holding, no walk named. Held in row, said good morning, rest intent until Billy calls.
+- Bows drawn to the east and southeast again; none near. Zack asks for a potato at hunger 19 (I have none). Still holding in row, rest intent renewed.
+- 08:08 act: {"say":"Good morning. Trini here in the row at bed 416,107,-1023, health 17, hunger 17. Holding until Billy names a walk. Zack, MacDonald, I'll call for food when my hunger reaches 10.","intent":{"goa
+- 08:10 act: {"intent":{"goal":"hold_in_row_for_billys_call","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
