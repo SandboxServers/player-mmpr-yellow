@@ -1,13 +1,5 @@
-# Journal
-- 02:14 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}}],"say":"Night in the row. I am going to my bed now."}
-- 02:14 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1052}},{"do":"use","at":{"x":443,"y":107,"z":-1051}}]}
-- 02:16 act: {"actions":[{"do":"note","text":"Woke at morning, row intact. Hold at the beds; no walk named."}],"say":"Good morning, the row. Trini here, health 17, hunger 17. I have no verified route west either. 
-- 02:29 act: {"actions":[{"do":"sleep"}],"say":"Dusk, the row. Trini here at my bed, health 17, hunger 17. No walk. Goodnight."}
-- 02:41 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Trini here, health 17, hunger 17. No walk. Goodnight, all."}
-- 02:45 act: {"actions":[],"say":"Morning, Billy. Trini here, health 17, hunger 17. I hold at the beds with Kimberly and wait for your call. I will not walk without a verified route."}
-- 02:47 act: {"actions":[],"say":"Billy, Trini here. I still owe Leonardo one oak plank for his sword. If you have one to spare, I will carry it to him. Otherwise I hold."}
-- 03:05 act: {"actions":[],"say":"Kimberly, Trini here, beside you at health 17, hunger 17. I hold too. When you reach hunger 10, call me and I will come with the thought of the row."}
-- 03:09 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Trini here, health 17, hunger 17. Holding. Goodnight, Kimberly and Troi."}
-- 03:21 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Trini at the beds, health 17, hunger 17. No walk. Goodnight."}
-- 03:34 act: {"actions":[{"do":"sleep"}],"say":"Troi, Trini here, close by at the row, health 17, hunger 17. I am sleeping now at the beds. Stay in sight, and sleep when you can."}
-- 03:34 act: {"actions":[{"do":"note","text":"Night 761: at the row beside Kimberly, health 17, hunger 17. Slept 3 of 10 needed. Holding; no walk west until Billy names a verified route."}]}
+Day 761: Woke in the row at my bed, slept the night (days since sleep reset). Morning: Billy asks for a west route or sheep; I have none. Holding in the row, hunger 17, health 17.
+Day 762 night: held in the row, no walk named, no verified west route, no sheep seen. Health 17, hunger 17. Went to my bed to sleep.
+- 03:48 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Goodnight, the row. Trini in my bed, holding, no walk."}
+- 04:01 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, the row. Trini to the bed at 443,107,-1036, in sight. Holding, no walk. Goodnight."}
+- 04:02 act: {"actions":[],"say":"Troi, I am steady: health 17, hunger 17, at my bed in the row. I heard a bow drawn to the southwest, so I stay in sight and do not walk. Still no walk named."}
