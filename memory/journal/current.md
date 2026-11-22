@@ -11,3 +11,5 @@
 - Day 786: bright, holding by the bed. Sleep refused in daylight. Hunger steady at 17. No walk named, no sheep seen. Still waiting for Billy.
 - 11:50 act: {"say":"Night, row. Trini sleeping by the bed 415,107,-1023, in sight. Health 17, hunger 17. Holding for Billy's walk at dawn.","actions":[{"do":"sleep"}]}
 - Day 787 dawn: slept in sight of the row, woke at bed 416,107,-1023. Health 17, hunger 17. Zack and Leonardo holding; still no walk named by Billy.
+- Day 787 day: holding at bed 416,107,-1023, hunger 17. Heard bows to the east. Jason and Worf reported near the row. Waiting on Billy.
+- 12:07 say: {"text":"Morning, row. Trini here at the bed, health 17, hunger 17. Jason, Worf, if you are near, I am holding for Billy's word. Has anyone seen sheep?"}
