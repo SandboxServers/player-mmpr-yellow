@@ -34,6 +34,8 @@
 - Day 766: held in the row all day beside Troi; Troi asked after me at dusk and I answered. Sleep at night beside the white bed at 443,107,-1023 in Billy's sight.
 - Day 766: Kimberly was shot dead at 412,-1055 after reflex moved her north-west; she respawned at the beds with nothing. Her wooden sword lies at 412,107,-1055.
 
+- Day 777: held all day in the row, no walk named, Billy not seen. Slept at night at my bed 415,107,-1023 with others in sight, fine. Data reported an enderman 3 blocks from 402,107,-1022; keep clear of it.
+
 ## Failed or false
 - Walking unarmed killed me once (day 414).
 - Phantoms strike at dusk and night, even at the row. Stay in sight; never walk out after dusk.
