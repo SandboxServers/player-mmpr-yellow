@@ -1,4 +1,4 @@
-# Summary (day 827, asleep at night)
+# Summary (day 828, asleep at night)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 12, hunger 16 at sleep. Holding 49 wheat seeds, a phantom membrane. No food.
 
@@ -6,9 +6,10 @@ Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 12, 
 Beside the white bed at 430,107,-1023, in Billy's row. Not enclosed.
 
 ## Who is near
-- Billy: names the walks. He gathered at 418,-1039 with potatoes.
-- Kimberly, Troi, Leonardo, Chapman: hurt or hungry, moving north toward Billy.
-- MacDonald: killed by a pillager south of the row. His sword and a potato lie at 444,107,-1037.
+- Billy: names the walks. Holds at spawn 416,-1037 with the potatoes at 409,107,-1054. Died once to the pillager.
+- Troi: shot to health 2, moved east to 442,-1043.
+- Kimberly, Leonardo, Chapman, MacDonald: holding at the row beds, no walks named.
+- Pillager: west and south of the row, shooting at anyone in its line.
 
 ## Next
-At first light, hold for Billy's named walk. Owed: one oak plank to Leonardo. Eat at hunger 10. Keep out of the pillager's line south of the row.
+Hold for Billy's named walk in daylight. Walk only when named in sight. Eat at hunger 10. Owed: one oak plank to Leonardo.
