@@ -17,3 +17,9 @@
 - 13:39 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1022}}]}
 - 13:39 act: {"say":"Morning, row. Trini awake at 429,107,-1021, health 12, hunger 17, no food. Holding for Billy's named walk."}
 - Day 864, morning: slept in the bed at 415 (sleep worked, night skipped). Back at 430,107,-1023. Health 12, hunger 17, no food. Bows south all along, no harm. Still holding for Billy's named walk.
+- 13:52 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini sleeping in the bed beside me, holding for Billy's named walk."}
+- 13:52 act: {"actions":[{"do":"sleep"}]}
+- 13:55 act: {"actions":[],"say":"Morning, row. Trini at the bed 430,107,-1023, health 12, hunger 17, no food. Leonardo, I am still holding for Billy's named walk, same as you. Troi, I am well enough."}
+- 14:05 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini in the bed, holding for Billy's named walk."}
+- 14:05 act: {"actions":[{"do":"sleep"}]}
+- 14:06 act: {"actions":[],"say":"Morning, Kimberly, MacDonald. Trini at the bed 430,107,-1023, health 12, hunger 17. Leonardo is the weakest, so the potato goes to him first. If any is left, I will take it if you
