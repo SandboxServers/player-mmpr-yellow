@@ -1,9 +1,9 @@
-# Handoff (day 838, morning)
+# Handoff (day 839, night)
 
 - Place: beside the white bed at 430,107,-1023, in Billy's row. Not enclosed. Health 12, hunger 16.
 - Holding: wheat seeds 49, phantom membrane 1, wooden sword. No food.
-- Slept nothing new since dusk; it is day now, light bright. No walk named by Billy yet. Hold for it.
-- Leonardo weakest (health 10, hunger 17, no food). I asked Kimberly to give her potato to him; she is holding at 443,107,-1033 until Billy names a path.
-- Danger: bows drawn to the south and southeast all night and morning. Keep out of its line.
+- No walk named by Billy yet. Hold for it in daylight.
+- Leonardo weakest (health 10, hunger 17, no food). Kimberly holds her potato for him at 443,107,-1033.
 - Owed: one oak plank to Leonardo (none in pack).
-- Next: hold for Billy's call. Eat at hunger 10 (no food now).
+- Bows heard drawn to the south and southeast all evening. Keep out of their line.
+- Next: sleep beside the bed, then hold for Billy's call at dawn. Eat at hunger 10.
