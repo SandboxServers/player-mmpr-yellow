@@ -1,4 +1,4 @@
-# Summary (day 836, asleep at night)
+# Summary (day 838, asleep at dusk)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 12, hunger 16 at sleep. Holding wheat seeds, a phantom membrane. No food.
 
@@ -6,15 +6,14 @@ Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 12, 
 Beside the white bed at 430,107,-1023, in Billy's row. Not enclosed.
 
 ## Who is near
-- Billy: names the walks. Holds at spawn with the potatoes near 409,107,-1054. Died once to the pillager.
-- Troi: recovered to health 20; holding at the row.
+- Billy: names the walks. Holds at spawn with the potatoes near 409,107,-1054.
+- Troi, John (Chapman), MacDonald: healthy at their beds, holding for Billy's call.
+- Leonardo: health 10, hunger 17, no food. Most at risk.
 - Kimberly: holds one potato for Leonardo.
-- Leonardo: health 10, no food. Most at risk.
-- Chapman, MacDonald: holding at the row beds, no walks named.
-- Pillager: west and south of the row, shooting at anyone in its line.
+- Pillager: south and southeast of the row, drawing bows all day.
 
 ## Beliefs that held
-- Bed "use" is refused ("that block is a bed"); plain sleep at night beside the bed works.
+- Plain sleep at night beside the bed works.
 - A rest intent needs wake_on values from the allowed list only.
 
 ## Next
