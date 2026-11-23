@@ -10,3 +10,31 @@
 - 08:00 act: {"actions":[{"do":"note","text":"Morning day 846. Holding at white bed in Billy's row. Health 12, hunger 16, no food."}],"say":"Morning, Troi and Leonardo. Trini here at the white bed, health 12, hung
 - Day 847, day, thunder. Woke in play at the white bed. Health 12, hunger 16, no food. Bows drawn south all wait. No walk named by Billy. Holding.
 - 08:01 act: {"say":"Morning, row. Trini here at the white bed, health 12, hunger 16, no food. Leonardo, I hear you and I am holding too. Bows are sounding to the south, so no walks until Billy names one."}
+- 08:10 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}}],"say":"Dusk is coming, so I'm going to my bed by the row. Still holding for Billy's walk in daylight."}
+- 08:10 act: {"actions":[{"do":"sleep"}],"say":"Using the bed failed, so I'm trying to sleep here beside the white bed in Billy's row. Still holding for his walk."}
+- 08:11 act: {"actions":[{"do":"note","text":"Night, day 847. Beside white bed in Billy's row. Health 12, hunger 16, no food. Holding for dawn and Billy's call."}],"say":"Good night, Troi and Leonardo. I'm holding
+- 08:13 act: {"actions":[],"say":"Morning, Troi. I'm at the white bed, health 12, hunger 16, no food. Holding for Billy's named walk. Glad you're well."}
+- 08:25 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini at the white bed, health 12, hunger 16. Holding for Billy's walk at dawn."}
+- 08:26 act: {"actions":[],"say":"Morning, Troi. Trini, health 12, hunger 16, no food. Holding for Billy's named walk. Leonardo first if anything comes."}
+- 08:39 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini at the white bed, health 12, hunger 16. Holding for Billy at dawn."}
+- 08:39 act: {"actions":[],"say":"Morning, Troi. Trini, health 12, hunger 16, no food. Still holding for Billy's named walk. Rain is falling now, so I'll stay at the bed."}
+- 08:42 act: {"actions":[],"say":"Leonardo, I have no food at all, only wheat seeds and a membrane. I'm sorry. I'm holding at the bed for Billy's walk, and I'll share the first food I find with you."}
+- 08:50 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. Trini at the white bed, health 12, hunger 16. Holding for Billy's walk at dawn."}
+- 08:52 act: {"say":"Evening, Leonardo. Trini here at the white bed, health 12, hunger 16, no food. Holding for Billy's dawn walk."}
+- 08:54 act: {"say":"Morning, Troi. Trini at the white bed, health 12, hunger 16, no food. Holding for Billy's walk too."}
+- 09:07 act: {"actions":[{"do":"sleep"}]}
+- 09:07 act: {"say":"Good morning, Troi. Trini at the bed, health 12, hunger 16, no food. Holding with you until Billy names a walk."}
+- 09:19 act: {"actions":[{"do":"sleep"}]}
+- 09:19 act: {"actions":[{"do":"sleep"}]}
+- 09:23 act: {"say":"Leonardo, Trini here, no food in my pack, only seeds and a sword. The chest 3 east of my bed I have not opened. Holding for Billy's walk with you."}
+- 09:32 act: {"actions":[{"do":"sleep"}]}
+- 09:36 act: {"actions":[{"do":"sleep"}]}
+- 09:38 act: {"say":"Morning, row. Trini at the white bed, health 12, hunger 16, no food. Holding for Billy's named walk."}
+- 09:48 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini at the white bed, health 12, hunger 16, no food. Holding for Billy's walk at dawn."}
+- 09:48 act: {"actions":[{"do":"sleep"}]}
+- 09:50 act: {"actions":[],"say":"Morning, Deanna, Leonardo. Trini, health 12, hunger 16, no food. Still holding at the bed for Billy's walk."}
+- 10:01 act: {"actions":[{"do":"sleep"}]}
+- 10:01 act: {"actions":[{"do":"sleep"}]}
+- 10:08 act: {"actions":[],"say":"Morning, Deanna. Trini, health 12, hunger 16, no food. Holding at the bed for Billy's walk too."}
+- 10:12 act: {"actions":[],"say":"Kimberly, thank you. Give that potato to Leonardo first, he is weaker than I am. I can hold a while longer."}
+- 10:32 act: {"actions":[],"say":"Morning, Deanna. Trini, health 12, hunger 16, no food. Still holding at the bed for Billy's word."}
