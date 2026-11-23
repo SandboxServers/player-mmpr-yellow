@@ -53,3 +53,6 @@
 - 11:22 say: {"text":"Dusk, row. Trini at the white bed, health 12, hunger 16, no food. No walk in the dark. Holding for Billy at first light."}
 - 11:23 say: {"text":"Thank you, John. Stay at the bed, Trini here too. Billy's word first."}
 - 11:26 say: {"text":"Morning, Troi. Trini at the white bed, health 12, hunger 16, no food. Leonardo, I am still with you. Holding for Billy's word."}
+- 11:43 act: {"actions":[{"do":"note","text":"Day 857, day, bright. At the white bed 430,107,-1023. Health 12, hunger 16, no food. No walk named by Billy. Holding."}],"say":"Morning, row. Trini at the white bed, h
+- 11:43 act: {"actions":[],"say":"Troi, I am at the white bed, health 12, hunger 16, no food. Holding for Billy's named walk, Leonardo first when we have food."}
+- 11:51 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini at the white bed, health 12, hunger 16, no food. Holding for Billy's walk at first light."}
