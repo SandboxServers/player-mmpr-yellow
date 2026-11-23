@@ -16,3 +16,9 @@
 - 03:50 say: {"text":"Troi, honestly: steady but hungry. Health 12, hunger 16, no food. Leonardo is the one I'm worried for, at health 10 with none."}
 - 03:53 say: {"text":"Kimberly, yes: Leonardo gets the potato if Billy names the path. I'm still holding at my bed for Billy's call."}
 - Day 834 night: Still at the bed, health 12, hunger 16, no food. Bows drawn to the south all night. No walk named. Going to sleep in the bed; handoff written.
+- 04:00 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}}],"say":"Holding here for Billy's call at first light. Bows are drawn to the south, so I'm staying low by the bed."}
+- 04:00 act: {"actions":[],"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
+- 04:00 act: {"actions":[],"say":"Troi, I'm holding at my bed: health 12, hunger 16, no food. Glad you're at 20. Leonardo, how are you? Still waiting on Billy's call."}
+- 04:01 act: {"actions":[],"say":"Leonardo, thank you for holding. I'm holding too, health 12, hunger 16. The potato goes to you first when Billy calls the path. Hold steady."}
+- 04:01 act: {"actions":[],"say":"Morning, Troi. Trini here at my bed: health 12, hunger 16, no food. Holding for Billy's word."}
+- 04:05 act: {"actions":[],"say":"Thank you, Kimberly, Chapman, MacDonald, Troi. I'm holding at my bed, health 12, hunger 16. Leonardo first for any food. Billy, I'm waiting on your named walk."}
