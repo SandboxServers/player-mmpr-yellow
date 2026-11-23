@@ -38,3 +38,8 @@
 - 10:08 act: {"actions":[],"say":"Morning, Deanna. Trini, health 12, hunger 16, no food. Holding at the bed for Billy's walk too."}
 - 10:12 act: {"actions":[],"say":"Kimberly, thank you. Give that potato to Leonardo first, he is weaker than I am. I can hold a while longer."}
 - 10:32 act: {"actions":[],"say":"Morning, Deanna. Trini, health 12, hunger 16, no food. Still holding at the bed for Billy's word."}
+- 10:44 act: {"say":"Morning, row. Trini at the white bed, health 12, hunger 16, no food. Holding for Billy's named walk. Bows are still drawing to the south."}
+- Day 854, day, bright. At the white bed 430,107,-1023. Health 12, hunger 16, no food. Bows drawn south. No walk named by Billy. Said good morning to the row. Holding.
+- 10:44 act: {"say":"Leonardo, I hear you. Holding at the bed with you. Billy's word first, then the potatoes, escorts in sight."}
+- 10:52 act: {"actions":[{"do":"open","at":{"x":433,"y":107,"z":-1023}}]}
+- 10:56 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini at the white bed, health 12, hunger 16, no food. Holding for Billy's walk at dawn."}
