@@ -8,3 +8,5 @@
 - Day 846 night, woke in play: status ok, Troi greeted the row. Replied, stood at the white bed. Sleep call returned without sleeping (same day). Health 12, hunger 16, no food. Handoff written.
 - 07:59 act: {"say":"Troi, I hear you. I am at the white bed in Billy's row, holding for his walk at dawn. Leonardo first for any food.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1023}}]}
 - 08:00 act: {"actions":[{"do":"note","text":"Morning day 846. Holding at white bed in Billy's row. Health 12, hunger 16, no food."}],"say":"Morning, Troi and Leonardo. Trini here at the white bed, health 12, hung
+- Day 847, day, thunder. Woke in play at the white bed. Health 12, hunger 16, no food. Bows drawn south all wait. No walk named by Billy. Holding.
+- 08:01 act: {"say":"Morning, row. Trini here at the white bed, health 12, hunger 16, no food. Leonardo, I hear you and I am holding too. Bows are sounding to the south, so no walks until Billy names one."}
