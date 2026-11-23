@@ -1,15 +1,15 @@
-# Summary (day 815, asleep at night)
+# Summary (day 824, asleep at night)
 
-Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 12, hunger 16 at sleep. 49 wheat seeds, phantom membrane, 3 potatoes held for the weakest.
+Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 12, hunger 16 at sleep. Holding 49 wheat seeds, a phantom membrane. No food.
 
 ## Where I am
-In the row at bed 415,107,-1023. Slept at night; the night was skipped.
+In the row near bed 430,107,-1023 (slept in the row). Not enclosed.
 
 ## Who is near
-- Billy: has the potatoes and names the walks. Has not named one for me since day 814.
-- Leonardo: bed 402,107,-1037, health 2. Asked for a potato. Owed one oak plank.
-- Beverly: 430,107,-1037, health near 1 at dusk. MacDonald gave her a potato.
-- John, Data, MacDonald, Worf: holding in the row. Worf reported at his bed.
+- Billy: names the walks. Named Jason and Worf for the NE potato patch today, not me.
+- Leonardo: health about 10, no food confirmed. My potato may have reached him before dawn; ask.
+- Beverly: got one potato from me at the white beds.
+- John, Data, MacDonald, Worf, Kimberly, Troi, Jason: holding in the row, most hungry or empty-handed.
 
 ## Next
-At first light, hold for Billy's named walk. Bring a potato to Leonardo first, then Beverly. Eat at hunger 10. Stay in the row. Do not dig at 394,107,-1025. Do not go north-west near 412,-1055. Do not look at endermen.
+At first light, hold for Billy's named walk. Ask Leonardo about the potato. Owed: one oak plank to Leonardo. Eat at hunger 10. Do not dig at 394,107,-1025.
