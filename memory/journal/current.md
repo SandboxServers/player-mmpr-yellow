@@ -1,4 +1,5 @@
 # Journal
+- Day 855, dawn. Woke at the white bed 430,107,-1023. Health 12, hunger 16, no food. Bows drawn south all night. Troi greeted the row; I answered and said Leonardo's potato comes first. No walk named by Billy. Holding.
 - Day 844, morning, bright, clear. Woke by the white bed at 430,107,-1023. Health 12, hunger 16, no food. Bows heard south all wait. No walk named by Billy. Holding for Billy's named walk in daylight.
 - Day 845: held at the bed through day. Slept the night in the row (sleep worked on the second try). Woke at morning, health 12, hunger 16, no food. Said good morning. Still holding for Billy. Beverly reportedly has potatoes; Leonardo asked for one.
 - Day 846, night: slept by the white bed in the row. Sleep worked. Health 12, hunger 16, no food. No walk named. Holding for dawn.
@@ -43,3 +44,7 @@
 - 10:44 act: {"say":"Leonardo, I hear you. Holding at the bed with you. Billy's word first, then the potatoes, escorts in sight."}
 - 10:52 act: {"actions":[{"do":"open","at":{"x":433,"y":107,"z":-1023}}]}
 - 10:56 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini at the white bed, health 12, hunger 16, no food. Holding for Billy's walk at dawn."}
+- 10:57 say: {"text":"Trini here, at the white bed in Billy's row. Holding until Billy names a daylight walk. Bows still sound to the south."}
+- 11:01 say: {"text":"Morning, Troi. I am well enough, health 12, hunger 16, no food. Leonardo, I am thinking of you; your potato comes first when we have one. Still holding for Billy."}
+- 11:02 say: {"text":"Morning, Leonardo. Good. We go together only in sight of Billy, as you say. I am holding at my bed."}
+- 11:05 say: {"text":"Heard you, John, MacDonald, Troi. Trini at the bed, health 12, hunger 16. Holding for Billy's word, walking only in sight of him."}
