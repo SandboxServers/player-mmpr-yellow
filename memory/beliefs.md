@@ -48,6 +48,7 @@
 - Day 815: held at my bed all day with 3 potatoes; Billy named no walk. Slept at night at bed 415,107,-1023 (goto onto the bed square, then sleep); the night was skipped.
 
 ## Failed or false
+- Day 827: a pillager with a crossbow south of the row killed MacDonald and wounded Chapman and Kimberly. Do not walk south of the row without a named call.
 - Day 815: a rest intent with program "rest" failed at once; hold by speaking and waiting instead.
 - Day 804: sleep at dusk, before night is true, fails ("it is not night").
 - Walking unarmed killed me once (day 414).
