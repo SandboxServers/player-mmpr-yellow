@@ -1,10 +1,9 @@
-# Handoff (day 865, night)
+# Handoff (day 871, dusk)
 
-- Place: beside the white bed at 429,107,-1023 (I stand at 430,107,-1023) in Billy's row. Not enclosed, no danger from anyone here.
-- Health 12, hunger 17, no food. Health steady.
-- Holding: wheat seeds 49, phantom membrane 1, wooden sword.
-- Owed: one oak plank to Leonardo (no planks yet).
-- Billy has not named a daylight walk yet. Leonardo, Troi, MacDonald and Johnny are all holding too.
-- Bows drawn to the south and southeast all day and night, no harm.
-- days_since_sleep 1. Sleeping in the bed now.
-- Next: at first light, wait for Billy's named walk or a call. Eat at hunger 10.
+- Place: 430,107,-1023, beside the white bed at 429,107,-1023 in Billy's row. Not enclosed.
+- Bed at 429,107,-1023 refused use on day 870 ("that block is a bed"). Bed at 415,107,-1022 worked on day 864. Try that one only at first light, by daylight walk.
+- Health 12, hunger 17, no food. Holding: wheat seeds 49, phantom membrane 1, wooden sword.
+- Owed: one oak plank to Leonardo (still none).
+- Kimberly has one potato, to go to Leonardo first. Troi and Leonardo agreed.
+- Bows drawn south all day; one drawn east at dusk 871.
+- days_since_sleep 7. Next: at first light, wait for Billy's named walk.

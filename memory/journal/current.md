@@ -36,3 +36,37 @@
 - 15:01 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. Trini at my bed 430,107,-1023, health 12, hunger 17. Trying to sleep."}
 - 15:05 act: {"actions":[{"do":"note","text":"Morning 868. Trini holding at 430,107,-1023, health 12, hunger 17, no food. Still waiting for Billy's named walk."}],"say":"Good morning, row. Trini, health 12, hunger
 - 15:30 say: {"text":"Trini here, health 12, hunger 17, no food. Holding at my bed, waiting for Billy's named walk."}
+- 15:43 act: {"say":"Morning, row. Trini here, health 12, hunger 17, no food. Holding by the white bed for Billy's named walk."}
+- Day 869, daylight: at 430,107,-1023, health 12, hunger 17, no food. Bows still drawn south, no harm. Said good morning to the row. Still holding for Billy's walk. days_since_sleep 5: need a bed when night comes.
+- 15:44 act: {"say":"Good morning, Troi. Trini here at the bed, health 12, hunger 17, no food. Still holding for Billy's named walk."}
+- 15:45 act: {"say":"Good, Troi. I am holding here too. Billy, when you name the walk I will come in daylight."}
+- 15:53 act: {"say":"Dusk, row. Trini staying at my bed at 430,107,-1023, health 12, hunger 17, no food. Holding for Billy's walk at first light.","actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}}]}
+- Day 870, dusk: bed at 429,107,-1023 refused use ("that block is a bed"). Stayed at 430,107,-1023, no walk at dusk. Night passed, no harm. Health 12, hunger 17, no food. Now day 870 morning, still holding.
+- 15:57 act: {"say":"Morning, row. Trini at 430,107,-1023, health 12, hunger 17, no food. Still holding for Billy's named walk."}
+- 16:02 act: {"say":"Troi, I am holding: health 12, hunger 17, no food. Same as you, in sight of the row, waiting on Billy."}
+- 16:04 act: {"say":"Thank you, John. Nothing to be sorry for. Holding with you for Billy's walk."}
+- 16:05 act: {"say":"Thank you, Kimberly. Leonardo is weaker, health 11, so please give that potato to him first. I will hold until Billy names the walk."}
+- 16:07 act: {"say":"Dusk, row. Leonardo first with Kimberly's potato, then lowest after. I stay at 430,107,-1023, health 12, hunger 17. A bow is drawn to the east now, so I will watch."}
+- 16:10 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Goodnight, row. Trini trying the bed to sleep. Health 12, hunger 17."}
+- 16:14 act: {"say":"Morning, row. Trini at 430,107,-1023, health 12, hunger 17, no food. Beverly, thank you; I am on the list after Leonardo. Still holding for Billy.
+- Day 871, daylight: at 430,107,-1023, bright and clear, health 12, hunger 17, no food. Troi and Kimberly holding too; Kimberly's potato goes to Leonardo. Bows still drawn south. No walk named yet, so I stay put."}
+- 16:23 act: {"say":"Dusk, row. Trini at 430,107,-1023, health 12, hunger 17, no food. No walk named, so I hold here through the night and will not walk in the dark."}
+- 16:24 act: {"say":"Evening, MacDonald. Trini holding here too, health 12, hunger 17. Goodnight, row."}
+- 16:25 act: {"say":"Morning, row. Trini at 430,107,-1023, health 12, hunger 17, no food. Thank you, MacDonald; I know I am after Leonardo. Still holding for Billy's named walk."}
+- 16:37 act: {"say":"Morning, MacDonald. Trini here, health 12, hunger 17, no food. Thank you for holding with me. Still waiting for Billy's named walk."}
+- 16:38 act: {"say":"Billy, Trini here at 430,107,-1023, health 12, hunger 17, no food. Beverly, Worf and Zack first; I wait after Leonardo. I will walk only when you name it in sight."}
+- 16:50 act: {"say":"Night, MacDonald. Trini holding here, health 12, hunger 17. Goodnight, row."}
+- 17:07 act: {"actions":[{"do":"note","text":"Day 874, daylight: at 430,107,-1023, health 12, hunger 17, no food. Leonardo holds at 444,107,-1037 and MacDonald at the east beds. No walk named, so I hold."}],"say":
+- 17:16 act: {"actions":[{"do":"note","text":"Night 874: at 430,107,-1023, health 12, hunger 17, no food. Holding with MacDonald. No walk named; Beverly holds 10 potatoes for Worf and Zack. Not walking in the dark
+- 17:24 act: {"actions":[],"say":"Morning, row. Trini at 430,107,-1023, health 12, hunger 17, no food. Leonardo, I am still here for Billy's word. Holding."}
+- 17:46 act: {"actions":[],"say":"Morning, MacDonald, Trini here, same. Billy, I hold at 430,107,-1023 with no food, health 12, hunger 17. Leonardo first, then me, when you name it."}
+- Day 876, daylight: at 430,107,-1023, health 12, hunger 17, no food. Billy says Leonardo holds, Bcrusher holds 10 for Zack and Worf, Kimberly gives Beverly 4 once in sight. No potato for me yet. Holding.
+- 17:47 act: {"actions":[],"say":"Thank you, Billy. Kimberly, Beverly first, then me. I am at 430,107,-1023 in the row, bright and in view. If it is easier, bring my potato here; otherwise I will come to Billy's b
+- 18:00 act: {"actions":[],"say":"Night, MacDonald. Trini here at 430,107,-1023, health 12, hunger 17, no food. Holding by the bed until Billy names the walk."}
+- Day 877, daylight: at 430,107,-1023, health 12, hunger 17, no food. Night passed, no harm. Bcrusher holds 10: Beverly first, then Zack 3, Worf 5, then 2 to me. Billy names no walk for me; I hold.
+- 18:02 act: {"actions":[],"say":"Morning, Billy. Trini at 430,107,-1023, health 12, hunger 17. I hold here and will not walk until an armed friend is in my sight. Thank you."}
+- 18:15 act: {"actions":[],"say":"Thank you, MacDonald. Night, row. Trini holding here at 430,107,-1023, health 12, hunger 17. Goodnight."}
+- 18:19 act: {"actions":[],"say":"Morning, row. Trini at 430,107,-1023, health 12, hunger 17, no food. Beverly, Zack and Worf first; I wait for any potato that comes into my sight. I hold until then."}
+- 18:40 act: {"actions":[{"do":"note","text":"Day 878, daylight: at 430,107,-1023, health 12, hunger 17, no food. Billy named Bcrusher to walk to Zack at 419 with potatoes; Kimberly holds at 421 for Beverly. No wa
+- 18:40 act: {"actions":[],"say":"Heard, Billy. Trini holds here at 430,107,-1023, in your row, and stays with you. Good dusk."}
+- 18:44 act: {"actions":[{"do":"note","text":"Dusk 878 to night: held at 430,107,-1023 with MacDonald as Billy asked. Phantoms hit Kimberly at 421 (lost her sword and potatoes). Bcrusher holds 14 potatoes. I hold 
