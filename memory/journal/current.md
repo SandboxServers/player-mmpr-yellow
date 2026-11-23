@@ -11,3 +11,19 @@
 - 22:07 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
 - 22:12 say: {"text":"Trini here, at my bed 415,107,-1023 with one potato. Leonardo, I hold it for you. Billy has named the walk to Beverly only, so I will not walk until he names mine. Step into my sight if you c
 - 22:12 say: {"text":"Billy, Trini here. Leonardo at 402,107,-1037 is the weakest, and I hold one potato for him. May I walk to him with Zack or Troi as escort? I will not move until you name it."}
+- 22:21 act: {"say":"Leonardo, I am here in the row at my bed. I have your potato. Come to the beds.","actions":[{"do":"note","text":"Night in the row. Holding at bed 415,107,-1023 with Billy, Zack, Troi. Potato f
+- 22:21 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 22:21 act: {"intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}}
+- 22:27 act: {"say":"Billy, Trini here at my bed 416,107,-1023 with one potato for Leonardo. Name my walk to him, with Zack or Troi as escort, and I go. I will not move before you name it.","actions":[{"do":"note"
+- 22:31 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Leonardo has eaten, so my potato waits for whoever is weak at first light. Trini going to bed at 415,107,-1023."}
+- 22:40 act: {"say":"Leonardo, Trini here at bed 416,107,-1023 with one potato for you. Come into my sight and I hand it over. I will not walk without Billy's call.","actions":[{"do":"note","text":"Offered my pota
+- 22:48 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":1},{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Leonardo, here is my potato, in reach now. Eat it wh
+- 22:48 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 22:50 act: {"say":"Leonardo, my give said it worked, one potato from me to you just before dawn. Check your pack again, please. If it is not there, say so and I will tell Billy. Beverly first is right.","actions
+- 22:58 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}]}
+- 23:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}],"say":"Night, row. Going to my bed at 415,107,-1023. No food, holding until Billy names a walk."}
+- 23:15 act: {"actions":[{"do":"sleep"}]}
+- 23:44 act: {"actions":[],"say":"Morning, Leonardo. No, I have no potato and no food. I hold here at my bed, 415,107,-1023. Did the potato I gave you reach your pack? I have nothing to spare."}
+- 23:56 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night, Leonardo. No potato for you, I have none. I take the other half of this bed, 415,107,-1022, so you keep the
+- 00:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. Going to bed at 415,107,-1023. No food; holding for Billy's word."}
+- Day 824, morning: at 430,107,-1023 beside Chapman. Health 12, hunger 16. No walk named by Billy. MacDonald and John are holding. Still holding; no food.
