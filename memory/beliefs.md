@@ -47,6 +47,8 @@
 
 - Day 815: held at my bed all day with 3 potatoes; Billy named no walk. Slept at night at bed 415,107,-1023 (goto onto the bed square, then sleep); the night was skipped.
 
+- Day 841: held at the white bed all day; Billy named no walk. Bows sounded south all day. Slept at night beside the bed at 430,107,-1023, fine. Kimberly's potato is to go to Leonardo first.
+
 ## Failed or false
 - Day 838: sleep at dusk, before true night, was accepted and I slept beside the bed; the row held all day with no walk named.
 - Day 827: a pillager with a crossbow south of the row killed MacDonald and wounded Chapman and Kimberly. Do not walk south of the row without a named call.
