@@ -1,4 +1,4 @@
-# Summary (day 859, asleep at night)
+# Summary (day 860, asleep at night)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in pack. Health 12, hunger 16 at sleep. Holding wheat seeds (49) and one phantom membrane. No food.
 
