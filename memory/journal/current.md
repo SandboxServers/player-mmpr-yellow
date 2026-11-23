@@ -23,3 +23,16 @@
 - 14:05 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini in the bed, holding for Billy's named walk."}
 - 14:05 act: {"actions":[{"do":"sleep"}]}
 - 14:06 act: {"actions":[],"say":"Morning, Kimberly, MacDonald. Trini at the bed 430,107,-1023, health 12, hunger 17. Leonardo is the weakest, so the potato goes to him first. If any is left, I will take it if you
+- 14:19 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. Trini in the bed beside me, holding for Billy's named walk. Hunger 17, no food."}
+- 14:19 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Trini trying the other half of the bed at 429,107,-1022 to sleep."}
+- 14:19 act: {"actions":[],"say":"The beds here will not take me, so I will stay put at 430,107,-1023 through the night and not walk in the dark."}
+- 14:22 act: {"actions":[],"say":"Morning, Troi. Trini at 430,107,-1023, health 12, hunger 17, no food. Still holding for Billy's named walk."}
+- 14:26 act: {"actions":[],"say":"Morning, Kimberly. Trini at 430,107,-1023, health 12, hunger 17. Leonardo is weaker than I am, so please give your potato to him first. I will hold for Billy's walk."}
+- 14:28 act: {"actions":[],"say":"Leonardo, I hear you. I will hold here at 430,107,-1023 until Billy names the walk, and I will not walk the row on my own. Kimberly, please give your potato to Leonardo when you c
+- 14:32 act: {"actions":[],"say":"Good dusk, Troi and MacDonald. Trini at 430,107,-1023, health 12, hunger 17, holding here until daylight."}
+- 14:36 act: {"actions":[],"say":"Morning, Troi. Trini at 430,107,-1023, health 12, hunger 17, no food. Holding for Billy's named walk, as you are."}
+- 14:49 act: {"actions":[],"say":"Morning, Troi. Trini holding at 430,107,-1023: health 12, hunger 17, no food. Still waiting for Billy's named daylight walk, and I will not walk without it."}
+- 14:52 act: {"actions":[{"do":"note","text":"Chapman at 443,107,-1023 has no food. I have none either. Still holding at 430,107,-1023 for Billy."}],"say":"Trini here, health 12, hunger 17, no food. Holding at my 
+- 15:01 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. Trini at my bed 430,107,-1023, health 12, hunger 17. Trying to sleep."}
+- 15:05 act: {"actions":[{"do":"note","text":"Morning 868. Trini holding at 430,107,-1023, health 12, hunger 17, no food. Still waiting for Billy's named walk."}],"say":"Good morning, row. Trini, health 12, hunger
+- 15:30 say: {"text":"Trini here, health 12, hunger 17, no food. Holding at my bed, waiting for Billy's named walk."}
