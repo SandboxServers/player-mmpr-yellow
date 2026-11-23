@@ -50,3 +50,6 @@
 - 11:05 say: {"text":"Heard you, John, MacDonald, Troi. Trini at the bed, health 12, hunger 16. Holding for Billy's word, walking only in sight of him."}
 - 11:14 say: {"text":"Morning, row. Trini here at the white bed, health 12, hunger 16, no food. Holding for Billy's named walk. Leonardo, I am with you.
 - Day 856, day, bright. Woke at the white bed. Health 12, hunger 16, no food. Said good morning to the row and to Leonardo. No walk named by Billy. Holding."}
+- 11:22 say: {"text":"Dusk, row. Trini at the white bed, health 12, hunger 16, no food. No walk in the dark. Holding for Billy at first light."}
+- 11:23 say: {"text":"Thank you, John. Stay at the bed, Trini here too. Billy's word first."}
+- 11:26 say: {"text":"Morning, Troi. Trini at the white bed, health 12, hunger 16, no food. Leonardo, I am still with you. Holding for Billy's word."}
