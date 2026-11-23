@@ -1,1 +1,18 @@
 # Journal
+- 06:21 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}}],"say":"Night, row. Trini at the bed beside you, health 12, hunger 16. Holding here. Sleep well."}
+- 06:21 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}}]}
+- 06:22 act: {"actions":[{"do":"sleep"}]}
+- 06:23 act: {"actions":[],"say":"Morning, Troi. Trini here, health 12, hunger 16. Holding for Billy's word. Leonardo, I am still thinking of you."}
+- Slept in the row beside the white bed (use on bed failed; the sleep verb worked). Woke at morning. Troi and Billy holding. No walk named yet. Health 12, hunger 16, no food. Holding for Billy.
+- 06:36 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini in the row, health 12, hunger 16. Sleeping here, holding for Billy at dawn."}
+- 06:39 act: {"actions":[],"say":"Morning, row. Trini, health 12, hunger 16. Leonardo, I am well enough to hold. I stay in the row until Billy names the walk."}
+- 06:47 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Trini sleeping here, health 12, hunger 16. Holding for Billy at dawn."}
+- 06:47 act: {"actions":[{"do":"sleep"}]}
+- 06:50 act: {"actions":[],"say":"Morning, Troi. Trini, health 12, hunger 16. Still holding in the row for Billy's named walk."}
+- 07:02 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini sleeping here, health 12, hunger 16. Holding for Billy at dawn."}
+- Day 844, bright, clear. Woke by the white bed at 430,107,-1023. Health 12, hunger 16. Bows heard south. Leonardo sleeping at his bed. No walk named by Billy yet. Holding in the row.
+- 07:06 act: {"actions":[],"say":"Morning, row. Trini here, health 12, hunger 16. Still holding by the white bed for Billy's named walk."}
+- 07:07 act: {"actions":[],"say":"Troi, I am well enough, health 12, hunger 16. Leonardo, I am still thinking of your plank. Holding here until Billy names a walk."}
+- Day 844 dusk: Troi, Johnny and MacDonald all holding for Billy. No walk named. Health 12, hunger 16. Sleeping by the white bed again.
+- 07:15 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Trini sleeping by the bed, health 12, hunger 16. Holding for Billy at dawn."}
+- 07:15 act: {"actions":[{"do":"sleep"}]}
