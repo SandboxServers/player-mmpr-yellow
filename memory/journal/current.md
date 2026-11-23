@@ -15,3 +15,4 @@
 - 03:48 say: {"text":"Morning, Troi. Still holding at my bed, health 12, hunger 16. Waiting on Billy's call."}
 - 03:50 say: {"text":"Troi, honestly: steady but hungry. Health 12, hunger 16, no food. Leonardo is the one I'm worried for, at health 10 with none."}
 - 03:53 say: {"text":"Kimberly, yes: Leonardo gets the potato if Billy names the path. I'm still holding at my bed for Billy's call."}
+- Day 834 night: Still at the bed, health 12, hunger 16, no food. Bows drawn to the south all night. No walk named. Going to sleep in the bed; handoff written.
