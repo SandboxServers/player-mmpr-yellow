@@ -1,4 +1,4 @@
-# Goals (ranked, as of day 839, night)
+# Goals (ranked, as of day 841, night)
 
 1. Hold for Billy's named walk in daylight; walk only when named and in sight. Reason: pillagers roam south and walkers get shot.
 2. Eat at hunger 10; keep any food for the weakest. Reason: no food, hunger 16.

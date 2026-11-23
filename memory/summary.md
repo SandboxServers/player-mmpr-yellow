@@ -1,9 +1,9 @@
-# Summary (day 840, asleep at night)
+# Summary (day 841, asleep at night)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword in hand. Health 12, hunger 16 at sleep. Holding wheat seeds and a phantom membrane. No food.
 
 ## Where I am
-Beside the white bed at 430,107,-1023, in Billy's row. Not enclosed.
+Beside the white bed at 429,107,-1023, in Billy's row. Not enclosed.
 
 ## Who is near
 - Billy: names the walks. Has not named one yet.
