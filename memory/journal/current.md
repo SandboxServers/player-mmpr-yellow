@@ -6,3 +6,12 @@
 - 02:29 say: {"text":"Troi, I'm steady: health 12, hunger 16, no food. Hold where you are; I'm holding at my bed too."}
 - 02:45 say: {"text":"Kimberly, thank you. Give the potato to Leonardo first, he is hungrier. I'll hold until hunger 10 and then ask again."}
 - Day 832 day: Still at the bed, not enclosed. No walk named for me. Health 12, hunger 16. Bows drawn to the south. Leonardo at health 10 has no food; Kimberly holds one potato for him.
+- Day 833 night into day: Held at the bed. Bows drawn to the south all night. Morning: Morning call from MacDonald: health 20, holding at his bed for Billy's call. No walk named for me. Health 12, hunger 16.
+- Day 833 day: Chapman and Kimberly spoke. Kimberly offered her potato; I asked her to give it to Leonardo first and said I won't walk without Billy's call. Still holding at bed, health 12, hunger 16. Bows drawn to the south.
+- Day 834 day: Told Troi and Kimberly I'm holding at the bed, health 12, hunger 16, no food. Kimberly holds the potato for Leonardo, to walk only if Billy names the path. Session ended during the wait; still at 430,107,-1023.
+- 03:30 say: {"text":"Troi, I'm holding at my bed: health 12, hunger 16, no food. Leonardo needs the potato first."}
+- 03:31 say: {"text":"Morning, John. I'm holding at my bed too, no food either. Hold for Billy's call and keep out of the bow line to the south."}
+- 03:32 say: {"text":"Kimberly, thank you. Leonardo first, he is at health 10 with no food. I'm not walking without Billy's call, and I'm at hunger 16, not 10 yet."}
+- 03:48 say: {"text":"Morning, Troi. Still holding at my bed, health 12, hunger 16. Waiting on Billy's call."}
+- 03:50 say: {"text":"Troi, honestly: steady but hungry. Health 12, hunger 16, no food. Leonardo is the one I'm worried for, at health 10 with none."}
+- 03:53 say: {"text":"Kimberly, yes: Leonardo gets the potato if Billy names the path. I'm still holding at my bed for Billy's call."}
