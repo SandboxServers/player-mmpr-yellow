@@ -1,1 +1,19 @@
 # Journal
+- Day 860, morning: night passed by the bed, bows drawn south all night, no harm. Told Leonardo I am holding for Billy's walk. Still no food, hunger 16.
+- Day 861: night and day passed at the bed, bows south all along, no harm. Billy holds 10 potatoes: Worf 5, Zack 3, Leonardo after. I said I hold until he names the walk.
+- 12:35 act: {"say":"Morning, Leonardo. I am holding here by the bed. I have not heard Billy name a walk yet. Hunger is 16 for me too, so I will eat only when it is safe."}
+- 12:36 act: {"say":"Morning, Troi. I am well enough: health 12, hunger 16, no food. I hold too, and I will walk only when Billy names it and I can see him."}
+- 12:37 act: {"say":"Thank you, Johnny. Please tell Billy I am here by the white bed, holding, and ready when he names the walk."}
+- 13:01 act: {"say":"Billy, Trini here at the white bed in your row. Worf and Zack first, as you said. Leonardo is next, hunger 17. I will hold until you name the walk."}
+- 13:07 act: {"say":"Holding, Troi. Health 12, hunger 16, no food. Still waiting for Billy's named walk."}
+- 13:14 act: {"say":"Billy, thank you. I cannot see you from the white bed, and the bows are still drawn to the south. Could you walk north to my bed, or name the walk so I can come in daylight? I will wait for yo
+- 13:28 act: {"say":"Morning, Leonardo. Trini here, standing by the white bed at 430, 107, -1023, in Billy's row. Health 12, hunger 16, no food. I am in view now and will wait for Billy's named walk."}
+- 13:30 act: {"say":"Thank you, Leonardo. I do not know where your bed is from here. Where are you standing, in coordinates? I will come north-to-south only along the row and only where the bows are not drawn."}
+- 13:32 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1023}}],"say":"Coming west along the row to you, Leonardo, in daylight."}
+- 13:32 act: {"say":"I am here beside you, Leonardo. Thank you for the potato. I will eat it now."}
+- 13:33 act: {"say":"Leonardo, I am in reach beside you. Please hand me the potato when you are ready."}
+- 13:35 act: {"actions":[{"do":"eat"}],"say":"Thank you, Leonardo. Eating it now."}
+- 13:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1022}}],"say":"Night, row. Trini going to the white bed at 415,107,-1022 to sleep."}
+- 13:39 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1022}}]}
+- 13:39 act: {"say":"Morning, row. Trini awake at 429,107,-1021, health 12, hunger 17, no food. Holding for Billy's named walk."}
+- Day 864, morning: slept in the bed at 415 (sleep worked, night skipped). Back at 430,107,-1023. Health 12, hunger 17, no food. Bows south all along, no harm. Still holding for Billy's named walk.
