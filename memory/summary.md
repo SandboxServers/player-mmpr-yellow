@@ -1,14 +1,14 @@
-# Summary (day 946, night)
+# Summary (day 947, night)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword held. Health 11, hunger 17. Holding 2 potatoes, promised to Leonardo first, then Worf, then Zack. No other food.
 
 ## Where I am
-At 444,107,-1051, beside the white bed at 443,107,-1050, in Billy's row. Not enclosed. Plain sleep at night works beside it; "use" on a bed is refused.
+At 444,107,-1051, beside the white bed at 443,107,-1050, in Billy's row. Not enclosed. Plain sleep at night works beside it.
 
 ## Who is near
 - Billy names the walks. Wait for his named call in daylight.
-- Beverly, Troi, Riker, Clark, Bcrusher, Deanna, Lewis: in the row, holding.
-- Leonardo: weakest, out of sight. Worf and Zack: not in sight.
+- Beverly, Troi, Riker, Clark, Lewis: in the row, holding at their beds.
+- Leonardo: weakest (health 1 per Troi), out of sight. Worf and Zack: not in sight.
 
 ## I owe
 - 2 potatoes to Leonardo (first), then Worf, then Zack, when each is in my sight in daylight.
@@ -19,7 +19,6 @@ At 444,107,-1051, beside the white bed at 443,107,-1050, in Billy's row. Not enc
 - Walk only in daylight, armed, on Billy's named call, and in his sight.
 - Bows sound south; do not walk south of the row.
 - Phantoms strike at dusk and night. Stay near the row.
-- Sleep only at true night; at dusk it is refused.
 - Hand food over only when the person is in sight.
 
 ## Next
