@@ -1,9 +1,9 @@
-# Summary (day 953, night)
+# Summary (day 955, night)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword held. Health 11, hunger 17. Holding 2 potatoes, promised to Leonardo first, then Worf, then Zack. No other food.
 
 ## Where I am
-At 444,107,-1051, beside the white bed at 443,107,-1050, in Billy's row. Not enclosed. Plain sleep at night works beside it.
+At 444,107,-1051, beside the white bed in Billy's row. Not enclosed. Sleep partly took tonight.
 
 ## Who is near
 - Billy names the walks. Wait for his named call in daylight.
@@ -11,7 +11,7 @@ At 444,107,-1051, beside the white bed at 443,107,-1050, in Billy's row. Not enc
 - Leonardo, Worf, Zack: not in sight.
 
 ## I owe
-- 2 potatoes to Leonardo (first), then Worf, then Zack, when each is in my sight in daylight.
+- 2 potatoes to Leonardo (first), then Worf, then Zack, when each is in sight in daylight.
 - One oak plank to Leonardo (none yet).
 - A sword to Zack (none spare).
 
@@ -22,4 +22,4 @@ At 444,107,-1051, beside the white bed at 443,107,-1050, in Billy's row. Not enc
 - Hand food over only when the person is in sight.
 
 ## Next
-Hold for Billy's named walk in daylight. Hand the potatoes to Leonardo first when he is in sight.
+At first light, stay in the row. Hand potatoes to Leonardo first when he is in sight.
