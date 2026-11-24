@@ -1,9 +1,10 @@
-# Handoff (day 871, dusk)
+# Handoff (day 910, daylight)
 
-- Place: 430,107,-1023, beside the white bed at 429,107,-1023 in Billy's row. Not enclosed.
-- Bed at 429,107,-1023 refused use on day 870 ("that block is a bed"). Bed at 415,107,-1022 worked on day 864. Try that one only at first light, by daylight walk.
-- Health 12, hunger 17, no food. Holding: wheat seeds 49, phantom membrane 1, wooden sword.
-- Owed: one oak plank to Leonardo (still none).
-- Kimberly has one potato, to go to Leonardo first. Troi and Leonardo agreed.
-- Bows drawn south all day; one drawn east at dusk 871.
-- days_since_sleep 7. Next: at first light, wait for Billy's named walk.
+- Place: 444,107,-1037, open ground, not enclosed. Holding by the white beds in the row. Not sheltered.
+- Beds 443,107,-1023, 443,107,-1022 and 429,107 beds refuse use ("that block is a bed"). 415,107,-1022 worked on day 864 but is far; walk only in daylight when named.
+- Health 15, hunger 17. Holding: 2 potatoes for Worf (give when he is in sight), wheat seeds 49, phantom membrane 1, wooden sword.
+- Bcrusher (Beverly) now says he holds no potatoes. Zack's share is gone from his pack.
+- Billy's rule: no walking at night; walk only when named, in daylight, with an armed friend in sight. Not named for me yet.
+- Owed: one oak plank to Leonardo (none yet).
+- Days since sleep: 46. Sleep overdue.
+- Next: hold in place. Give Worf a potato when he is in sight. Walk only if named, in daylight. Eat at hunger 10.
