@@ -167,3 +167,7 @@
 - 11:52 act: {"say":"Trini, morning. Health 11, hunger 17, holding by Beverly. Two potatoes kept for Leonardo, then Worf. No walk named yet."}
 - Day 930, dusk, thunder: at 444,107,-1036 beside Beverly, health 11, hunger 17, no food but my 2 potatoes. Nothing new in the wait. Holding, no walk.
 - 12:04 act: {"say":"Good night, Beverly. Trini stays here beside you through the dark with my two potatoes for Leonardo, then Worf. No walk until morning.","intent":{"goal":"hold_overnight_by_beverly","program":"
+- 12:04 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"use","at":{"x":443,"y":107,"z":-1050}}],"say":"Trini here, night in the row. Holding at the bed, no walk named, hunger 17, health 
+- 12:08 act: {"actions":[],"say":"Morning, row. Trini here at the white bed, health 11, hunger 17. I hold two potatoes for Leonardo, then Worf, once either is in sight. Still no walk named; I stay put."}
+- 12:28 act: {"actions":[],"say":"Deanna, Trini here, health 11, hunger 17, at the white bed. I hold two potatoes for Leonardo, then Worf, when either is in sight. I hold until a daylight walk is named."}
+- 12:58 act: {"actions":[],"say":"Beverly, Trini here. Health 11, hunger 17, holding my two potatoes for Leonardo and Worf. Holding still at the bed, no walk named."}
