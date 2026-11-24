@@ -1,9 +1,9 @@
-# Summary (day 955, night)
+# Summary (day 957, night)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword held. Health 11, hunger 17. Holding 2 potatoes, promised to Leonardo first, then Worf, then Zack. No other food.
 
 ## Where I am
-At 444,107,-1051, beside the white bed in Billy's row. Not enclosed. Sleep partly took tonight.
+At my white bed in Billy's row, 444,107,-1051. Slept in it tonight. Not enclosed.
 
 ## Who is near
 - Billy names the walks. Wait for his named call in daylight.

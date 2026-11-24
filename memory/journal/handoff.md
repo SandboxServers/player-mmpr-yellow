@@ -1,4 +1,4 @@
-# Handoff (day 956, night)
+# Handoff (day 957, dusk)
 
 - At my white bed in Billy's row, 444,107,-1051. Health 11, hunger 17.
 - Holding 2 potatoes: Leonardo first, then Worf, then Zack, when each is in sight in daylight.
