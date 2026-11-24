@@ -31,3 +31,4 @@
 - 15:20 say: {"text":"Trini, morning day 940, in the row by my bed. Health 11, hunger 17, armed. Leonardo, I hold 2 potatoes for you; call out where you are. Billy, no walk from me until you name one."}
 - Morning day 940: said morning, held in the row. Leonardo not in sight, no walk named. Waiting.
 - 15:28 say: {"text":"Trini, dusk day 941, in the row beside my bed, armed. Holding 2 potatoes for Leonardo first. Holding till light."}
+- 15:28 say: {"text":"Trini here, at the row beside my bed, holding for light. Armed with my wooden sword. I hold 2 potatoes for Leonardo first. Holding still until a named daylight walk."}
