@@ -155,3 +155,5 @@
 - 10:17 act: {"actions":[{"do":"note","text":"Day 925 day. Still holding by Beverly at 444,-1036. Health 11, hunger 17. Potatoes await Leonardo (not in sight) then Worf. No walk without named call."}],"say":"Trini
 - 10:28 act: {"actions":[],"say":"Trini here, evening. Holding by Beverly at 444,-1036, health 11, hunger 17. My potatoes stay with me for Leonardo first. No walk until a named call."}
 - 10:35 act: {"actions":[{"do":"note","text":"Day 926 morning. Holding by Beverly at 444,-1036. Health 11 steady, hunger 17. Potatoes for Leonardo then Worf. No walk until named."}]}
+- 10:48 act: {"actions":[{"do":"note","text":"Day 927 morning at 444,107,-1036 beside Beverly. Health 11, hunger 17. Holding 2 potatoes for Leonardo then Worf (neither in sight). No walk named. Holding."}],"say":"
+- 10:52 act: {"actions":[],"say":"Leonardo, Trini here at 444,107,-1036 beside Beverly, with your two potatoes. Walk to my sight in daylight and say so, and one is yours. Worf gets the other."}
