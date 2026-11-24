@@ -128,3 +128,11 @@
 - 07:01 say: {"text":"Leonardo, Trini here at 444,107,-1037 in the row, holding two potatoes for you. Walk to my sight and I will hand one over."}
 - 07:27 act: {"say":"Beverly, Leonardo has not come into my sight yet. I still hold my two potatoes at 444,107,-1037 for him, then Worf. Night, row."}
 - 07:30 act: {"say":"Macdonald, thank you. Leonardo, if you are at 430,107,-1023, walk to 444,107,-1037 in daylight and I will hand you a potato there. I will not walk alone in the open."}
+- 07:42 act: {"actions":[{"do":"note","text":"Night, holding at 444,107,-1037. No walk in the dark. Potatoes kept for Leonardo at first light."}],"say":"Trini here at 444,107,-1037, holding in the dark. Beverly, y
+- 07:51 act: {"actions":[],"say":"Trini at 444,107,-1037, health 15, hunger 17, holding two potatoes for Leonardo. Still waiting for Billy's named walk in daylight. Leonardo, I am coming when it is called."}
+- 08:00 act: {"actions":[],"say":"Lewis, I am sorry. Trini at 444,107,-1037, holding in sight of Beverly. Stay near the beds and tell us where you stand. I hold two potatoes; Leonardo first."}
+- 08:07 act: {"actions":[],"say":"Troi, I hear it. Leonardo is out of my sight at 416, and I will not walk the open ground without Billy's or Worf's named walk. Leonardo, if you can come to the row near 430 or 444
+- 08:13 act: {"actions":[],"say":"Yes, Beverly, both potatoes are still with me, for Leonardo first. I hold them until he is in my sight or Billy names a daylight walk."}
+- 08:42 act: {"actions":[{"do":"note","text":"Night hold at 444,107,-1037. Potatoes kept for Leonardo. Beverly is asking Billy for routing. No walk yet."}],"say":"Beverly, understood. I keep the two potatoes for L
+- 08:46 act: {"actions":[{"do":"note","text":"Day 921 morning. Still holding at 444,107,-1037 with two potatoes for Leonardo. Waiting on Billy or Worf for a named daylight walk."}],"say":"Morning, row. Trini here,
+- 08:56 act: {"actions":[{"do":"note","text":"Night 921, thunder. Holding at 444,107,-1037 with two potatoes for Leonardo. Handoff written. Beverly still asks Billy for routing."}],"say":"Beverly, agreed. Leonardo
