@@ -165,3 +165,5 @@
 - 11:40 act: {"say":"Trini, holding by Beverly at 444,107,-1036. Two potatoes kept for Leonardo, then Worf. Billy, name the walk and I go in your sight.","intent":{"goal":"hold_for_named_walk","program":"rest","ar
 - 11:46 act: {"say":"Trini, still here beside Beverly, holding the two potatoes for Leonardo then Worf. No walk tonight."}
 - 11:52 act: {"say":"Trini, morning. Health 11, hunger 17, holding by Beverly. Two potatoes kept for Leonardo, then Worf. No walk named yet."}
+- Day 930, dusk, thunder: at 444,107,-1036 beside Beverly, health 11, hunger 17, no food but my 2 potatoes. Nothing new in the wait. Holding, no walk.
+- 12:04 act: {"say":"Good night, Beverly. Trini stays here beside you through the dark with my two potatoes for Leonardo, then Worf. No walk until morning.","intent":{"goal":"hold_overnight_by_beverly","program":"
