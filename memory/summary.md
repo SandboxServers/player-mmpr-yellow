@@ -1,4 +1,4 @@
-# Summary (day 959, night, slept)
+# Summary (day 960, night, slept)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword held. Health 11, hunger 17. Holding 2 potatoes, promised to Leonardo first, then Worf, then Zack.
 
@@ -7,8 +7,8 @@ At my white bed in Billy's row, 444,107,-1051. Slept here. Not enclosed.
 
 ## Who is near
 - Billy names the walks. No walk named yet. Wait for his named call in daylight.
-- Riker (William), Troi (Deanna), Beverly, Lewis (Meriwether), Clark (William) in the row.
-- Leonardo, Worf and Zack not in sight.
+- Riker (William), Troi (Deanna), Beverly, Lewis (Meriwether), Clark (William) in the row. Deanna has no food.
+- Leonardo answered in speech but was not in sight. Worf and Zack not in sight.
 
 ## I owe
 - 2 potatoes to Leonardo, then Worf, then Zack, when each is in sight in daylight.

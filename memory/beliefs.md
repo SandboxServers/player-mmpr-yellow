@@ -9,6 +9,8 @@
 - Walking armed, in daylight, on Billy's named call.
 - Health rose to 15 while hunger read 17 (day 913 to 921 area); health later fell back to 11. Keep food in the pack anyway.
 
+- Day 960: waiting in the row by my bed all day, speaking my holdings, kept everyone calm. Leonardo answered by speech but was not in sight, so the potatoes stayed in my pack. Speech alone does not bring someone into sight.
+
 ## Failed or false
 - ~~Eating a potato lowers hunger.~~ Day 934: I ate potatoes from Leonardo (day 863) and from Kimberly (day 878) and hunger still read 17. Not confirmed; do not count on it.
 - ~~Sleep at dusk, before true night, is accepted.~~ Day 804 it failed ("it is not night"); day 838 it was accepted once. Unreliable: wait for true night.
