@@ -1,7 +1,7 @@
-# Handoff (day 935, night)
+# Handoff (day 935, dusk)
 
-- Place: 444,107,-1051, beside my white bed at 443,107,-1050, in Billy's row. Not enclosed. No errand running.
-- Health 11 steady, hunger 17. Days since sleep reset by the sleep on day 935.
-- Holding 2 potatoes: Leonardo first (not in sight), then Worf (not in sight), then Zack.
+- Place: row at 443,107,-1050 (white bed), Billy's row, beside Beverly and Riker. Not enclosed. Going to sleep here.
+- Health 11, hunger 17. Holding 2 potatoes: Leonardo first (not in sight since day 921), then Worf, then Zack.
 - Owed: one oak plank to Leonardo (none); a sword to Zack (none spare).
-- Next: hold in the row until Billy names a daylight walk. Stay armed. Eat at hunger 10 after the potatoes are served.
+- No errand running. Billy has not yet named a walk.
+- Next: on waking, hold in the row, stay armed, hand potatoes to Leonardo when he is in sight. Eat at hunger 10 after serving.
