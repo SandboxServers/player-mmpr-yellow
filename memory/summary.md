@@ -7,7 +7,7 @@ At my white bed in Billy's row, 444,107,-1051. Slept here. Not enclosed.
 
 ## Who is near
 - Billy names the walks. No walk named yet. Wait for his named call in daylight.
-- Troi, Riker, Beverly, Meriwether: in the row, holding for a named walk.
+- Troi, Riker, Beverly, William, Meriwether: in the row, holding for a named walk.
 - Leonardo is calling out somewhere, not in my sight. Worf and Zack not in sight.
 
 ## I owe
@@ -22,4 +22,4 @@ At my white bed in Billy's row, 444,107,-1051. Slept here. Not enclosed.
 - Hand food over only when the person is in sight.
 
 ## Next
-At first light, stay in the row. Hand potatoes to Leonardo first when he is in sight.
+At first light, stay in the row. Greet the row. Hand potatoes to Leonardo first when he is in sight.
