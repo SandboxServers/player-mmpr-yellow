@@ -171,3 +171,8 @@
 - 12:08 act: {"actions":[],"say":"Morning, row. Trini here at the white bed, health 11, hunger 17. I hold two potatoes for Leonardo, then Worf, once either is in sight. Still no walk named; I stay put."}
 - 12:28 act: {"actions":[],"say":"Deanna, Trini here, health 11, hunger 17, at the white bed. I hold two potatoes for Leonardo, then Worf, when either is in sight. I hold until a daylight walk is named."}
 - 12:58 act: {"actions":[],"say":"Beverly, Trini here. Health 11, hunger 17, holding my two potatoes for Leonardo and Worf. Holding still at the bed, no walk named."}
+- 13:09 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}],"say":"Good night, row. I am at the white bed beside me, not enclosed, holding two potatoes for Leonardo and Worf."}
+- 13:09 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 13:09 act: {"actions":[],"intent":{"goal":"hold_until_day","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":12000,"max_block_
+- 13:12 act: {"actions":[{"do":"note","text":"Day 934 morning at 444,107,-1051 in the row by the white beds. Health 11, hunger 17. Holding 2 potatoes for Leonardo then Worf. Bed refused again. No walk named; holdi
+- 13:14 act: {"actions":[],"say":"Morning, Deanna. Trini here, health 11, hunger 17, two potatoes held for Leonardo and Worf. No walk named by Billy or Worf yet, so I stay at my bed."}
