@@ -136,3 +136,8 @@
 - 08:42 act: {"actions":[{"do":"note","text":"Night hold at 444,107,-1037. Potatoes kept for Leonardo. Beverly is asking Billy for routing. No walk yet."}],"say":"Beverly, understood. I keep the two potatoes for L
 - 08:46 act: {"actions":[{"do":"note","text":"Day 921 morning. Still holding at 444,107,-1037 with two potatoes for Leonardo. Waiting on Billy or Worf for a named daylight walk."}],"say":"Morning, row. Trini here,
 - 08:56 act: {"actions":[{"do":"note","text":"Night 921, thunder. Holding at 444,107,-1037 with two potatoes for Leonardo. Handoff written. Beverly still asks Billy for routing."}],"say":"Beverly, agreed. Leonardo
+- 09:02 act: {"say":"Morning, row. Trini at 444,107,-1037, health 15, hunger 17. Two potatoes held for Leonardo, then Worf, given when either is in my sight. No walk named, so I stay put."}
+- 09:09 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}],"say":"Dusk, row. Trini at 444,107,-1037, health 15, hunger 17. Holding two potatoes for Leonardo then Worf. I will not walk in the dark."}
+- 09:16 act: {"say":"Morning, row. Trini at 444,107,-1037, health 15, hunger 17, two potatoes held. Leonardo or Worf, step into my sight and they are yours. No walk named, so I stay put."}
+- 09:25 act: {"say":"Heard, Beverly. Trini holds at 444,107,-1037 through the night. Leonardo's potato stays with me until he is in sight. Goodnight, row."}
+- 09:33 act: {"say":"Morning, row. Trini at 444,107,-1037, health 15, hunger 17. Glad to hear Billy is alive. I hold two potatoes, Leonardo first, then Worf. Billy, name the walk and I will come in sight."}
