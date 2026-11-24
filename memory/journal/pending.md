@@ -1,0 +1,178 @@
+# Journal
+- Day 860, morning: night passed by the bed, bows drawn south all night, no harm. Told Leonardo I am holding for Billy's walk. Still no food, hunger 16.
+- Day 861: night and day passed at the bed, bows south all along, no harm. Billy holds 10 potatoes: Worf 5, Zack 3, Leonardo after. I said I hold until he names the walk.
+- 12:35 act: {"say":"Morning, Leonardo. I am holding here by the bed. I have not heard Billy name a walk yet. Hunger is 16 for me too, so I will eat only when it is safe."}
+- 12:36 act: {"say":"Morning, Troi. I am well enough: health 12, hunger 16, no food. I hold too, and I will walk only when Billy names it and I can see him."}
+- 12:37 act: {"say":"Thank you, Johnny. Please tell Billy I am here by the white bed, holding, and ready when he names the walk."}
+- 13:01 act: {"say":"Billy, Trini here at the white bed in your row. Worf and Zack first, as you said. Leonardo is next, hunger 17. I will hold until you name the walk."}
+- 13:07 act: {"say":"Holding, Troi. Health 12, hunger 16, no food. Still waiting for Billy's named walk."}
+- 13:14 act: {"say":"Billy, thank you. I cannot see you from the white bed, and the bows are still drawn to the south. Could you walk north to my bed, or name the walk so I can come in daylight? I will wait for yo
+- 13:28 act: {"say":"Morning, Leonardo. Trini here, standing by the white bed at 430, 107, -1023, in Billy's row. Health 12, hunger 16, no food. I am in view now and will wait for Billy's named walk."}
+- 13:30 act: {"say":"Thank you, Leonardo. I do not know where your bed is from here. Where are you standing, in coordinates? I will come north-to-south only along the row and only where the bows are not drawn."}
+- 13:32 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1023}}],"say":"Coming west along the row to you, Leonardo, in daylight."}
+- 13:32 act: {"say":"I am here beside you, Leonardo. Thank you for the potato. I will eat it now."}
+- 13:33 act: {"say":"Leonardo, I am in reach beside you. Please hand me the potato when you are ready."}
+- 13:35 act: {"actions":[{"do":"eat"}],"say":"Thank you, Leonardo. Eating it now."}
+- 13:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1022}}],"say":"Night, row. Trini going to the white bed at 415,107,-1022 to sleep."}
+- 13:39 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1022}}]}
+- 13:39 act: {"say":"Morning, row. Trini awake at 429,107,-1021, health 12, hunger 17, no food. Holding for Billy's named walk."}
+- Day 864, morning: slept in the bed at 415 (sleep worked, night skipped). Back at 430,107,-1023. Health 12, hunger 17, no food. Bows south all along, no harm. Still holding for Billy's named walk.
+- 13:52 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini sleeping in the bed beside me, holding for Billy's named walk."}
+- 13:52 act: {"actions":[{"do":"sleep"}]}
+- 13:55 act: {"actions":[],"say":"Morning, row. Trini at the bed 430,107,-1023, health 12, hunger 17, no food. Leonardo, I am still holding for Billy's named walk, same as you. Troi, I am well enough."}
+- 14:05 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini in the bed, holding for Billy's named walk."}
+- 14:05 act: {"actions":[{"do":"sleep"}]}
+- 14:06 act: {"actions":[],"say":"Morning, Kimberly, MacDonald. Trini at the bed 430,107,-1023, health 12, hunger 17. Leonardo is the weakest, so the potato goes to him first. If any is left, I will take it if you
+- 14:19 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. Trini in the bed beside me, holding for Billy's named walk. Hunger 17, no food."}
+- 14:19 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Trini trying the other half of the bed at 429,107,-1022 to sleep."}
+- 14:19 act: {"actions":[],"say":"The beds here will not take me, so I will stay put at 430,107,-1023 through the night and not walk in the dark."}
+- 14:22 act: {"actions":[],"say":"Morning, Troi. Trini at 430,107,-1023, health 12, hunger 17, no food. Still holding for Billy's named walk."}
+- 14:26 act: {"actions":[],"say":"Morning, Kimberly. Trini at 430,107,-1023, health 12, hunger 17. Leonardo is weaker than I am, so please give your potato to him first. I will hold for Billy's walk."}
+- 14:28 act: {"actions":[],"say":"Leonardo, I hear you. I will hold here at 430,107,-1023 until Billy names the walk, and I will not walk the row on my own. Kimberly, please give your potato to Leonardo when you c
+- 14:32 act: {"actions":[],"say":"Good dusk, Troi and MacDonald. Trini at 430,107,-1023, health 12, hunger 17, holding here until daylight."}
+- 14:36 act: {"actions":[],"say":"Morning, Troi. Trini at 430,107,-1023, health 12, hunger 17, no food. Holding for Billy's named walk, as you are."}
+- 14:49 act: {"actions":[],"say":"Morning, Troi. Trini holding at 430,107,-1023: health 12, hunger 17, no food. Still waiting for Billy's named daylight walk, and I will not walk without it."}
+- 14:52 act: {"actions":[{"do":"note","text":"Chapman at 443,107,-1023 has no food. I have none either. Still holding at 430,107,-1023 for Billy."}],"say":"Trini here, health 12, hunger 17, no food. Holding at my 
+- 15:01 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. Trini at my bed 430,107,-1023, health 12, hunger 17. Trying to sleep."}
+- 15:05 act: {"actions":[{"do":"note","text":"Morning 868. Trini holding at 430,107,-1023, health 12, hunger 17, no food. Still waiting for Billy's named walk."}],"say":"Good morning, row. Trini, health 12, hunger
+- 15:30 say: {"text":"Trini here, health 12, hunger 17, no food. Holding at my bed, waiting for Billy's named walk."}
+- 15:43 act: {"say":"Morning, row. Trini here, health 12, hunger 17, no food. Holding by the white bed for Billy's named walk."}
+- Day 869, daylight: at 430,107,-1023, health 12, hunger 17, no food. Bows still drawn south, no harm. Said good morning to the row. Still holding for Billy's walk. days_since_sleep 5: need a bed when night comes.
+- 15:44 act: {"say":"Good morning, Troi. Trini here at the bed, health 12, hunger 17, no food. Still holding for Billy's named walk."}
+- 15:45 act: {"say":"Good, Troi. I am holding here too. Billy, when you name the walk I will come in daylight."}
+- 15:53 act: {"say":"Dusk, row. Trini staying at my bed at 430,107,-1023, health 12, hunger 17, no food. Holding for Billy's walk at first light.","actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}}]}
+- Day 870, dusk: bed at 429,107,-1023 refused use ("that block is a bed"). Stayed at 430,107,-1023, no walk at dusk. Night passed, no harm. Health 12, hunger 17, no food. Now day 870 morning, still holding.
+- 15:57 act: {"say":"Morning, row. Trini at 430,107,-1023, health 12, hunger 17, no food. Still holding for Billy's named walk."}
+- 16:02 act: {"say":"Troi, I am holding: health 12, hunger 17, no food. Same as you, in sight of the row, waiting on Billy."}
+- 16:04 act: {"say":"Thank you, John. Nothing to be sorry for. Holding with you for Billy's walk."}
+- 16:05 act: {"say":"Thank you, Kimberly. Leonardo is weaker, health 11, so please give that potato to him first. I will hold until Billy names the walk."}
+- 16:07 act: {"say":"Dusk, row. Leonardo first with Kimberly's potato, then lowest after. I stay at 430,107,-1023, health 12, hunger 17. A bow is drawn to the east now, so I will watch."}
+- 16:10 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Goodnight, row. Trini trying the bed to sleep. Health 12, hunger 17."}
+- 16:14 act: {"say":"Morning, row. Trini at 430,107,-1023, health 12, hunger 17, no food. Beverly, thank you; I am on the list after Leonardo. Still holding for Billy.
+- Day 871, daylight: at 430,107,-1023, bright and clear, health 12, hunger 17, no food. Troi and Kimberly holding too; Kimberly's potato goes to Leonardo. Bows still drawn south. No walk named yet, so I stay put."}
+- 16:23 act: {"say":"Dusk, row. Trini at 430,107,-1023, health 12, hunger 17, no food. No walk named, so I hold here through the night and will not walk in the dark."}
+- 16:24 act: {"say":"Evening, MacDonald. Trini holding here too, health 12, hunger 17. Goodnight, row."}
+- 16:25 act: {"say":"Morning, row. Trini at 430,107,-1023, health 12, hunger 17, no food. Thank you, MacDonald; I know I am after Leonardo. Still holding for Billy's named walk."}
+- 16:37 act: {"say":"Morning, MacDonald. Trini here, health 12, hunger 17, no food. Thank you for holding with me. Still waiting for Billy's named walk."}
+- 16:38 act: {"say":"Billy, Trini here at 430,107,-1023, health 12, hunger 17, no food. Beverly, Worf and Zack first; I wait after Leonardo. I will walk only when you name it in sight."}
+- 16:50 act: {"say":"Night, MacDonald. Trini holding here, health 12, hunger 17. Goodnight, row."}
+- 17:07 act: {"actions":[{"do":"note","text":"Day 874, daylight: at 430,107,-1023, health 12, hunger 17, no food. Leonardo holds at 444,107,-1037 and MacDonald at the east beds. No walk named, so I hold."}],"say":
+- 17:16 act: {"actions":[{"do":"note","text":"Night 874: at 430,107,-1023, health 12, hunger 17, no food. Holding with MacDonald. No walk named; Beverly holds 10 potatoes for Worf and Zack. Not walking in the dark
+- 17:24 act: {"actions":[],"say":"Morning, row. Trini at 430,107,-1023, health 12, hunger 17, no food. Leonardo, I am still here for Billy's word. Holding."}
+- 17:46 act: {"actions":[],"say":"Morning, MacDonald, Trini here, same. Billy, I hold at 430,107,-1023 with no food, health 12, hunger 17. Leonardo first, then me, when you name it."}
+- Day 876, daylight: at 430,107,-1023, health 12, hunger 17, no food. Billy says Leonardo holds, Bcrusher holds 10 for Zack and Worf, Kimberly gives Beverly 4 once in sight. No potato for me yet. Holding.
+- 17:47 act: {"actions":[],"say":"Thank you, Billy. Kimberly, Beverly first, then me. I am at 430,107,-1023 in the row, bright and in view. If it is easier, bring my potato here; otherwise I will come to Billy's b
+- 18:00 act: {"actions":[],"say":"Night, MacDonald. Trini here at 430,107,-1023, health 12, hunger 17, no food. Holding by the bed until Billy names the walk."}
+- Day 877, daylight: at 430,107,-1023, health 12, hunger 17, no food. Night passed, no harm. Bcrusher holds 10: Beverly first, then Zack 3, Worf 5, then 2 to me. Billy names no walk for me; I hold.
+- 18:02 act: {"actions":[],"say":"Morning, Billy. Trini at 430,107,-1023, health 12, hunger 17. I hold here and will not walk until an armed friend is in my sight. Thank you."}
+- 18:15 act: {"actions":[],"say":"Thank you, MacDonald. Night, row. Trini holding here at 430,107,-1023, health 12, hunger 17. Goodnight."}
+- 18:19 act: {"actions":[],"say":"Morning, row. Trini at 430,107,-1023, health 12, hunger 17, no food. Beverly, Zack and Worf first; I wait for any potato that comes into my sight. I hold until then."}
+- 18:40 act: {"actions":[{"do":"note","text":"Day 878, daylight: at 430,107,-1023, health 12, hunger 17, no food. Billy named Bcrusher to walk to Zack at 419 with potatoes; Kimberly holds at 421 for Beverly. No wa
+- 18:40 act: {"actions":[],"say":"Heard, Billy. Trini holds here at 430,107,-1023, in your row, and stays with you. Good dusk."}
+- 18:44 act: {"actions":[{"do":"note","text":"Dusk 878 to night: held at 430,107,-1023 with MacDonald as Billy asked. Phantoms hit Kimberly at 421 (lost her sword and potatoes). Bcrusher holds 14 potatoes. I hold 
+- 18:49 act: {"say":"Morning. Holding at the white bed here, no walk until Billy names one. Hunger 17, no food on me.","intent":{"goal":"hold_for_billy_walk","program":"rest","arguments":{},"wake_on":["directly_ad
+- 18:55 act: {"say":"Dusk, row. Trini here at 430,107,-1023, health 12, hunger 17. Billy, I heard your word: Kimberly's 2 potatoes to me only after Beverly. I will not walk in the dark; I hold here.","intent":{"go
+- 18:56 act: {"say":"Heard, Billy. Trini holds here at 430,107,-1023 until first light. Goodnight, row."}
+- 19:01 act: {"say":"Kimberly, Trini is at 430,107,-1023, by the white bed in the row, hunger 17. If you can walk north to me in daylight, the potatoes are welcome; Beverly first if she comes."}
+- 19:28 act: {"say":"Morning. Holding at the bed for Billy's named walk. Hunger 17, no food yet."}
+- 19:30 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1036}}],"say":"Billy, Trini here with my wooden sword, walking to your side now in daylight. I will stand in your sight, then go to the potatoes
+- 19:30 act: {"say":"Billy, Trini is here at 441,107,-1035 with my wooden sword, in daylight. I do not see you yet. Tell me where you stand and I will come to you."}
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1036}}],"say":"Billy, I am stepping next to your bed now to be in your sight."}
+- 19:31 act: {"say":"Leonardo, I see you with a potato, and you are the weakest, so it is yours first. Trini here with my sword, in daylight. Billy, I am near you now, waiting for your word."}
+- 19:35 act: {"say":"Goodnight, Leonardo, Billy. Trini holds here near the row with my sword, health 12, hunger 17. I will walk only when named, at first light."}
+- 19:55 act: {"say":"Morning, Billy. Trini at 441,107,-1036, health 12, hunger 17, no food, sword in hand. When you name the walk for me, I will stand in your sight and go."}
+- 19:58 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Kimberly, Trini coming to you in daylight at 430,-1036. Beverly first if she is seen, as Billy named; then I take my share. I wil
+- 19:58 act: {"say":"Kimberly, Trini in reach now. Beverly is not here, so please give me the potatoes Billy named for me, 2 if that is his word. I am hungry at 17 and will eat them."}
+- 20:00 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"Thank you, Kimberly. Eating two now. Billy, I hold the other two; Leonardo or Beverly, whoever is weakest in sight, gets one."}
+- 20:01 act: {"say":"Bcrusher, I already have my 4 from Kimberly, eaten 2, 2 left in my pack. Nothing more is owed to me from you. Zack and Worf's 10 are theirs."}
+- 20:09 act: {"say":"Morning. Trini holding 2 potatoes at 430,-1035, hunger 17. I will walk only if Billy names it. Leonardo, if you are in my sight and weaker, say so."}
+- 20:13 act: {"say":"Leonardo, hunger 16 here and you are weaker than me. Give your potato to Beverly if she comes, otherwise to me and I will share. I hold 2."}
+- 20:34 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}}]}
+- 20:40 act: {"say":"Leonardo, keep your potato for Beverly as the group rule says. I hold my 2 until Billy names the lowest. Worf is at 12, so he is lowest of those I know."}
+- 20:53 act: {"say":"Beverly, health 7 is low. If you are in my sight, I give you my 2 potatoes now. Say so, and step within reach."}
+- 21:51 say: {"text":"Trini here at 430,107,-1035, unarmed, holding 2 potatoes, hunger 17. Worf or Zack, step into my sight and say so, and I will give you one if you are lowest."}
+- 21:52 say: {"text":"Zack, understood. Worf first, at hunger 12. I will give him a potato when he is in my sight; I will not walk alone."}
+- 21:55 say: {"text":"Worf, I will not walk alone to you, and I am unarmed with only a wooden sword in my pack. Please come to my bed in daylight, or walk with Zack or Jason. I will hold the potato out when you ar
+- 21:56 say: {"text":"Zack, yes. Come to my bed at 430,107,-1035 with Worf and Jason in daylight. I will hold here with the potato for Worf, handed over when he is in my sight."}
+- 22:15 act: {"say":"Billy, Trini coming with you in daylight, armed with my wooden sword. Following you to Beverly.","intent":{"goal":"follow_billy_to_beverly","program":"follow","arguments":{"target":"ag_billy_0
+- 22:16 say: {"text":"Billy, my follow failed; you were out of my sight. I stay at 430,107,-1035 with my 2 potatoes until you or Beverly come into my sight."}
+- 22:16 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}}],"say":"Billy, Trini and Kimberly walking to you at 444,107,-1022 now, in daylight."}
+- 22:16 say: {"text":"Trini here with Billy and Beverly, in daylight, hunger 17. Worf at 12 is the lowest I know of; I keep my 2 potatoes for him or Zack when either is in my sight."}
+- 22:27 say: {"text":"Trini: it's night and I'm staying put beside Billy and Bcrusher, no walking. Potatoes held for Worf first, then Zack, when in sight."}
+- 22:28 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1022}}],"say":"Trini: trying the bed one block north, the one Billy named, since it is right beside me."}
+- 22:32 say: {"text":"Trini: morning. I'm armed with my wooden sword and staying beside Billy in daylight. Beverly, you're lowest on health, so take food first; I hold my 2 potatoes for Worf or Zack."}
+- 22:58 say: {"text":"Trini: morning. I'm with you, Billy, sword in hand, and I'll move only where you name in daylight. Worf's share is mine to hand over when he's in sight."}
+- 23:18 act: {"say":"Still here with Kimberly and Chapman. Holding 2 potatoes for Worf first, then Zack. Waiting in daylight.","intent":{"goal":"hold_and_wait_daylight","program":"rest","arguments":{},"wake_on":["
+- 23:20 act: {"actions":[{"do":"unstick"}],"say":"Dusk is coming. No Worf or Zack in sight. I am staying here with Kimberly and Chapman, and I will not walk at night."}
+- 23:20 act: {"intent":{"goal":"hold_here_overnight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_operation
+- 23:23 act: {"intent":{"goal":"hold_here_overnight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations":8}}}
+- 23:25 act: {"say":"Morning. I hold 2 potatoes for Worf, then Zack. Hunger 17, so I will eat later. Waiting for Billy's named walk.","intent":{"goal":"hold_and_wait_daylight","program":"rest","arguments":{},"wake
+- 00:44 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}}],"intent":{"goal":"hold_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],
+- 01:16 say: {"text":"Good morning, Chapman. I'm holding here with my 2 potatoes for Worf, and I'll wait for Billy's call."}
+- 02:15 say: {"text":"Trini here, holding at the bed. My 2 potatoes are for Worf, so I keep them until he is in sight. Beverly, you hold 10 and your health is low, so eat one now."}
+- 03:43 say: {"text":"Trini here, at the bed by Chapman. I hold 2 potatoes for Worf. Worf, come into sight and they are yours. Zack, Beverly holds 10 for you."}
+- 04:35 say: {"text":"Billy, Trini here at 444,107,-1023. I hold 2 potatoes. If you are in sight, say so and I will give them to you now."}
+- 04:55 act: {"say":"Chapman, I have two potatoes. One is promised to Worf, and I'll give it to him when he's in sight. If you're the weakest, say so and I'll hand you the other.","intent":{"goal":"hold_for_worf",
+- 04:57 say: {"text":"Morning. Trini here at 444,107,-1037, health 15, hunger 17, holding 2 potatoes for Worf. Bcrusher, I heard you hold none now. Worf, come into my sight and they are yours."}
+- 04:57 say: {"text":"Morning, Deanna. Trini here, health 15, hunger 17. I hold 2 potatoes for Worf and will give them when he's in sight. Billy, I stay put until you name a walk."}
+- 05:19 say: {"text":"Morning, row. Trini at 444,107,-1037, health 15, hunger 17. Worf, I still hold your 2 potatoes. Step into my sight and they are yours."}
+- 05:28 say: {"text":"Good morning, Troi. I'm holding in place here with two potatoes, kept for Worf when he is in sight. Billy, I'm waiting for your named walk."}
+- 05:32 say: {"text":"Leonardo, Troi says you are at health 1. I hold two potatoes at 444,107,-1037. Step into my sight and say so, and one is yours now, the other for Worf. Billy, I will not walk."}
+- 05:37 say: {"text":"Good night, Beverly. I am well, health 15, hunger 17, at 444,107,-1037 with my two potatoes. I will not walk in the dark. Leonardo, Worf, come to my sight in daylight."}
+- 05:42 say: {"text":"Morning, Beverly. No walk or food routing named to me yet. I hold my two potatoes for Leonardo and Worf, at 444,107,-1037, and I stay put until Billy names it."}
+- 05:43 say: {"text":"Morning, Troi. Trini here, health 15, hunger 17, two potatoes held for Leonardo and Worf. Still waiting on Billy's word and on anyone who comes into my sight."}
+- 05:51 say: {"text":"Pillager to the south-east, heard. I stay at 444,107,-1037, armed with my wooden sword, and will not move toward the arrows. Macdonald, Lewis, stay out of its line. Still holding two potatoes
+- 05:55 say: {"text":"Beverly, I do not know where Billy is routing them; I have not heard his word. I stay here at 444,107,-1037 with my two potatoes, for Leonardo first and then Worf. Good night."}
+- 06:05 say: {"text":"Trini, day 913, holding at 444,107,-1037 with two potatoes. Leonardo, Worf: name where you are and I will bring one, in daylight, if Billy or Worf names the walk."}
+- 06:13 say: {"text":"Understood, Beverly. The potatoes stay with me for Leonardo first. Sleep well."}
+- 07:01 say: {"text":"Leonardo, Trini here at 444,107,-1037 in the row, holding two potatoes for you. Walk to my sight and I will hand one over."}
+- 07:27 act: {"say":"Beverly, Leonardo has not come into my sight yet. I still hold my two potatoes at 444,107,-1037 for him, then Worf. Night, row."}
+- 07:30 act: {"say":"Macdonald, thank you. Leonardo, if you are at 430,107,-1023, walk to 444,107,-1037 in daylight and I will hand you a potato there. I will not walk alone in the open."}
+- 07:42 act: {"actions":[{"do":"note","text":"Night, holding at 444,107,-1037. No walk in the dark. Potatoes kept for Leonardo at first light."}],"say":"Trini here at 444,107,-1037, holding in the dark. Beverly, y
+- 07:51 act: {"actions":[],"say":"Trini at 444,107,-1037, health 15, hunger 17, holding two potatoes for Leonardo. Still waiting for Billy's named walk in daylight. Leonardo, I am coming when it is called."}
+- 08:00 act: {"actions":[],"say":"Lewis, I am sorry. Trini at 444,107,-1037, holding in sight of Beverly. Stay near the beds and tell us where you stand. I hold two potatoes; Leonardo first."}
+- 08:07 act: {"actions":[],"say":"Troi, I hear it. Leonardo is out of my sight at 416, and I will not walk the open ground without Billy's or Worf's named walk. Leonardo, if you can come to the row near 430 or 444
+- 08:13 act: {"actions":[],"say":"Yes, Beverly, both potatoes are still with me, for Leonardo first. I hold them until he is in my sight or Billy names a daylight walk."}
+- 08:42 act: {"actions":[{"do":"note","text":"Night hold at 444,107,-1037. Potatoes kept for Leonardo. Beverly is asking Billy for routing. No walk yet."}],"say":"Beverly, understood. I keep the two potatoes for L
+- 08:46 act: {"actions":[{"do":"note","text":"Day 921 morning. Still holding at 444,107,-1037 with two potatoes for Leonardo. Waiting on Billy or Worf for a named daylight walk."}],"say":"Morning, row. Trini here,
+- 08:56 act: {"actions":[{"do":"note","text":"Night 921, thunder. Holding at 444,107,-1037 with two potatoes for Leonardo. Handoff written. Beverly still asks Billy for routing."}],"say":"Beverly, agreed. Leonardo
+- 09:02 act: {"say":"Morning, row. Trini at 444,107,-1037, health 15, hunger 17. Two potatoes held for Leonardo, then Worf, given when either is in my sight. No walk named, so I stay put."}
+- 09:09 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}],"say":"Dusk, row. Trini at 444,107,-1037, health 15, hunger 17. Holding two potatoes for Leonardo then Worf. I will not walk in the dark."}
+- 09:16 act: {"say":"Morning, row. Trini at 444,107,-1037, health 15, hunger 17, two potatoes held. Leonardo or Worf, step into my sight and they are yours. No walk named, so I stay put."}
+- 09:25 act: {"say":"Heard, Beverly. Trini holds at 444,107,-1037 through the night. Leonardo's potato stays with me until he is in sight. Goodnight, row."}
+- 09:33 act: {"say":"Morning, row. Trini at 444,107,-1037, health 15, hunger 17. Glad to hear Billy is alive. I hold two potatoes, Leonardo first, then Worf. Billy, name the walk and I will come in sight."}
+- 09:45 act: {"say":"Beverly, heard, Trini holds at 444,107,-1037 through the night with my two potatoes, for Leonardo first, then Worf. I will not walk in the dark.","intent":{"goal":"hold_here_overnight","progra
+- 09:45 act: {"actions":[{"do":"note","text":"Night 924: at 449,107,-1037 (drifted east from 444), health 15, hunger 17, holding 2 potatoes for Leonardo then Worf. Intent ended; holding in place, no walk in the da
+- 09:49 act: {"say":"Morning, row. Trini at 449,107,-1037, health 15, hunger 17, two potatoes held for Leonardo, then Worf. Leonardo, Worf, step into my sight and say so. Billy, I still wait for your named walk."}
+- 09:53 act: {"actions":[{"do":"note","text":"Day 924 midday: at 449,107,-1037, health 15, hunger 17, holding 2 potatoes for Leonardo then Worf. No walk named, no one in sight. Holding."}]}
+- 09:53 act: {"intent":{"goal":"hold_for_leonardo_and_worf","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_op
+- 09:59 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 10:00 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1036}}],"say":"Phantom is hitting me, health 11. Moving to Beverly's bed at 444,-1036 to stand with the row."}
+- 10:00 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1036}}],"say":"Going to bed here next to Beverly. Phantom is out of sight now."}
+- 10:00 act: {"actions":[{"do":"note","text":"Night 924. Bed use at 443,-1036 refused (bed). Holding next to Beverly, health steady 11, hunger 17. No walk. Eat at hunger 10."}]}
+- 10:01 act: {"actions":[],"say":"Trini here, holding by Beverly at 444,-1036, health 11, unarmed except wooden sword. No walk until Billy names one."}
+- 10:06 act: {"actions":[{"do":"note","text":"Day 925 morning. Trini at 444,-1036 with Beverly, health 11, hunger 17. Holding 2 potatoes for Leonardo and Worf. Waiting for a named daylight walk."}],"say":"Trini he
+- 10:17 act: {"actions":[{"do":"note","text":"Day 925 day. Still holding by Beverly at 444,-1036. Health 11, hunger 17. Potatoes await Leonardo (not in sight) then Worf. No walk without named call."}],"say":"Trini
+- 10:28 act: {"actions":[],"say":"Trini here, evening. Holding by Beverly at 444,-1036, health 11, hunger 17. My potatoes stay with me for Leonardo first. No walk until a named call."}
+- 10:35 act: {"actions":[{"do":"note","text":"Day 926 morning. Holding by Beverly at 444,-1036. Health 11 steady, hunger 17. Potatoes for Leonardo then Worf. No walk until named."}]}
+- 10:48 act: {"actions":[{"do":"note","text":"Day 927 morning at 444,107,-1036 beside Beverly. Health 11, hunger 17. Holding 2 potatoes for Leonardo then Worf (neither in sight). No walk named. Holding."}],"say":"
+- 10:52 act: {"actions":[],"say":"Leonardo, Trini here at 444,107,-1036 beside Beverly, with your two potatoes. Walk to my sight in daylight and say so, and one is yours. Worf gets the other."}
+- 11:01 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}],"say":"Night, row. Trini here, at 444,107,-1036 beside Beverly, health 11, hunger 17. I hold 2 potatoes for Leonardo and Worf and will not wa
+- 11:02 act: {"actions":[{"do":"note","text":"Day 927 morning at 444,107,-1036 beside Beverly. Health 11, hunger 17. Bed 443,-1037 refused use. Holding 2 potatoes for Leonardo then Worf, neither in sight. No walk 
+- 11:13 act: {"actions":[{"do":"note","text":"Dusk 928. At 444,107,-1036 beside Beverly, health 11, hunger 17. Holding 2 potatoes for Leonardo then Worf. No walk. Holding through night."}],"say":"Beverly, heard. T
+- 11:17 act: {"actions":[{"do":"note","text":"Day 929 morning. Leonardo reported health 1, not in my sight. I hold 2 potatoes at 444,107,-1036; no walk named, so I stay."}],"say":"Morning, Troi. Trini at 444,107,-
+- 11:32 act: {"actions":[{"do":"note","text":"Night 929 day-turn. Holding at 444,107,-1036 with Beverly. Health 11, hunger 17. Potatoes for Leonardo (not in sight) then Worf. No walk named."}],"say":"Beverly, yes,
+- 11:40 act: {"say":"Trini, holding by Beverly at 444,107,-1036. Two potatoes kept for Leonardo, then Worf. Billy, name the walk and I go in your sight.","intent":{"goal":"hold_for_named_walk","program":"rest","ar
+- 11:46 act: {"say":"Trini, still here beside Beverly, holding the two potatoes for Leonardo then Worf. No walk tonight."}
+- 11:52 act: {"say":"Trini, morning. Health 11, hunger 17, holding by Beverly. Two potatoes kept for Leonardo, then Worf. No walk named yet."}
+- Day 930, dusk, thunder: at 444,107,-1036 beside Beverly, health 11, hunger 17, no food but my 2 potatoes. Nothing new in the wait. Holding, no walk.
+- 12:04 act: {"say":"Good night, Beverly. Trini stays here beside you through the dark with my two potatoes for Leonardo, then Worf. No walk until morning.","intent":{"goal":"hold_overnight_by_beverly","program":"
+- 12:04 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"use","at":{"x":443,"y":107,"z":-1050}}],"say":"Trini here, night in the row. Holding at the bed, no walk named, hunger 17, health 
+- 12:08 act: {"actions":[],"say":"Morning, row. Trini here at the white bed, health 11, hunger 17. I hold two potatoes for Leonardo, then Worf, once either is in sight. Still no walk named; I stay put."}
+- 12:28 act: {"actions":[],"say":"Deanna, Trini here, health 11, hunger 17, at the white bed. I hold two potatoes for Leonardo, then Worf, when either is in sight. I hold until a daylight walk is named."}
+- 12:58 act: {"actions":[],"say":"Beverly, Trini here. Health 11, hunger 17, holding my two potatoes for Leonardo and Worf. Holding still at the bed, no walk named."}
+- 13:09 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}],"say":"Good night, row. I am at the white bed beside me, not enclosed, holding two potatoes for Leonardo and Worf."}
+- 13:09 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 13:09 act: {"actions":[],"intent":{"goal":"hold_until_day","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":12000,"max_block_
+- 13:12 act: {"actions":[{"do":"note","text":"Day 934 morning at 444,107,-1051 in the row by the white beds. Health 11, hunger 17. Holding 2 potatoes for Leonardo then Worf. Bed refused again. No walk named; holdi
+- 13:14 act: {"actions":[],"say":"Morning, Deanna. Trini here, health 11, hunger 17, two potatoes held for Leonardo and Worf. No walk named by Billy or Worf yet, so I stay at my bed."}

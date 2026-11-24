@@ -1,6 +1,7 @@
 # Kimberly
 
-Impression: steady and generous. She returned a plank after my death on day 403, and stayed in reach at the row through the nights.
-Trust: 70/100. Why: she has kept her word and held food for the group; I have had no recent dealings with her in the journal.
+Impression: steady and generous. She returned a plank after my death on day 403. She gave me 4 potatoes when Billy named it (day 878), and was hit by phantoms that day, losing her sword and potatoes.
+Trust: 75/100. Why: she has kept her word on the potatoes Billy named, and she stays in reach at the row.
 I owe her: nothing open.
-She holds: melon and chicken (noted day 406), for whoever is at hunger 6 or below, after I confirm the recipient is in sight. Not confirmed since.
+She owes me: nothing now. Her 4 potatoes: I ate 2 and hold 2 for Leonardo, then Worf.
+Last seen: row, day 878 to 934, near 421 to the white beds.

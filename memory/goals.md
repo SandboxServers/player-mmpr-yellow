@@ -1,11 +1,12 @@
-# Goals (ranked, as of day 864, night)
+# Goals (ranked, as of day 934, morning)
 
-1. Hold for Billy's named walk in daylight; walk only when named and in sight. Reason: bows sound south all day and night, walkers get shot.
-2. Eat at hunger 10; keep any food for the weakest. Reason: no food now, hunger 17. Leonardo gave me one potato on day 863; that is eaten.
-3. Keep the row together; check on Leonardo first (health 11, hunger 17, no food at bed 416,107,-1023). Reason: most at risk. Johnny's and Kimberly's food is still held for others.
-4. Give Leonardo one oak plank once I have one. Reason: promised, still owed. I have no planks yet.
-5. Find Worf and Tommy Oliver near the west beds. Reason: not seen since the pit.
-6. Avoid endermen; do not dig at 394,107,-1025; stay away from 412,-1055 and the west past x=408.
+1. Hand my 2 potatoes to Leonardo first, then Worf (and Zack after), once each is in my sight in daylight. Reason: promised and still owed; Leonardo was at health 1 on day 929.
+2. Stay in Billy's row beside Beverly; walk only on Billy's named call, in daylight, armed with my wooden sword. Reason: bows sound south, phantoms strike at night, and I was hit at 449,107,-1037 on day 924.
+3. Eat at hunger 10, but only after the promised potatoes are handed out. Reason: hunger 17 for a long time; eating did not visibly lower it.
+4. Give Leonardo one oak plank once I have one. Reason: promised on day 408, still owed. I have no planks.
+5. Give Zack a sword once I have a spare. Reason: lost with me on day 448, still owed.
+6. Find Worf and Tommy Oliver. Reason: Worf is at hunger 12 and not seen since the pit; Tommy has not come to the row.
+7. Avoid endermen and phantoms; do not dig at 394,107,-1025; stay away from 412,-1055 and the west past x=408.
 
 Curious next: where the pillager goes by day; whether the potatoes at 409,107,-1054 can be reached safely with Billy.
 Tell next: Billy, when he names a walk, what I have seen of the bows to the south.
