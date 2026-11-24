@@ -161,3 +161,7 @@
 - 11:02 act: {"actions":[{"do":"note","text":"Day 927 morning at 444,107,-1036 beside Beverly. Health 11, hunger 17. Bed 443,-1037 refused use. Holding 2 potatoes for Leonardo then Worf, neither in sight. No walk 
 - 11:13 act: {"actions":[{"do":"note","text":"Dusk 928. At 444,107,-1036 beside Beverly, health 11, hunger 17. Holding 2 potatoes for Leonardo then Worf. No walk. Holding through night."}],"say":"Beverly, heard. T
 - 11:17 act: {"actions":[{"do":"note","text":"Day 929 morning. Leonardo reported health 1, not in my sight. I hold 2 potatoes at 444,107,-1036; no walk named, so I stay."}],"say":"Morning, Troi. Trini at 444,107,-
+- 11:32 act: {"actions":[{"do":"note","text":"Night 929 day-turn. Holding at 444,107,-1036 with Beverly. Health 11, hunger 17. Potatoes for Leonardo (not in sight) then Worf. No walk named."}],"say":"Beverly, yes,
+- 11:40 act: {"say":"Trini, holding by Beverly at 444,107,-1036. Two potatoes kept for Leonardo, then Worf. Billy, name the walk and I go in your sight.","intent":{"goal":"hold_for_named_walk","program":"rest","ar
+- 11:46 act: {"say":"Trini, still here beside Beverly, holding the two potatoes for Leonardo then Worf. No walk tonight."}
+- 11:52 act: {"say":"Trini, morning. Health 11, hunger 17, holding by Beverly. Two potatoes kept for Leonardo, then Worf. No walk named yet."}
