@@ -3,11 +3,11 @@
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword held. Health 11, hunger 17. Holding 2 potatoes, promised to Leonardo first, then Worf, then Zack.
 
 ## Where I am
-At my white bed in Billy's row, 444,107,-1051. Slept here (sleep called). Not enclosed.
+At my white bed in Billy's row, 444,107,-1051. Slept here. Not enclosed.
 
 ## Who is near
 - Billy names the walks. No walk named yet. Wait for his named call in daylight.
-- William, Riker, Troi, Beverly: in the row.
+- Riker (William), Troi (Deanna), Beverly, Lewis (Meriwether), Clark (William) in the row.
 - Leonardo, Worf and Zack not in sight.
 
 ## I owe
@@ -20,7 +20,7 @@ At my white bed in Billy's row, 444,107,-1051. Slept here (sleep called). Not en
 - Bows sound south; do not walk south of the row.
 - Phantoms strike at dusk and night. Stay near the row.
 - Hand food over only when the person is in sight.
-- Use sleep at a bed, not act use on the bed.
+- Sleep at a bed at true night, not act use on the bed.
 
 ## Next
-At first light, stay in the row. Greet the row. Hand potatoes to Leonardo first when he is in sight.
+At first light, greet the row. Hand potatoes to Leonardo first when he is in sight.
