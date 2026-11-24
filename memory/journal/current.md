@@ -141,3 +141,17 @@
 - 09:16 act: {"say":"Morning, row. Trini at 444,107,-1037, health 15, hunger 17, two potatoes held. Leonardo or Worf, step into my sight and they are yours. No walk named, so I stay put."}
 - 09:25 act: {"say":"Heard, Beverly. Trini holds at 444,107,-1037 through the night. Leonardo's potato stays with me until he is in sight. Goodnight, row."}
 - 09:33 act: {"say":"Morning, row. Trini at 444,107,-1037, health 15, hunger 17. Glad to hear Billy is alive. I hold two potatoes, Leonardo first, then Worf. Billy, name the walk and I will come in sight."}
+- 09:45 act: {"say":"Beverly, heard, Trini holds at 444,107,-1037 through the night with my two potatoes, for Leonardo first, then Worf. I will not walk in the dark.","intent":{"goal":"hold_here_overnight","progra
+- 09:45 act: {"actions":[{"do":"note","text":"Night 924: at 449,107,-1037 (drifted east from 444), health 15, hunger 17, holding 2 potatoes for Leonardo then Worf. Intent ended; holding in place, no walk in the da
+- 09:49 act: {"say":"Morning, row. Trini at 449,107,-1037, health 15, hunger 17, two potatoes held for Leonardo, then Worf. Leonardo, Worf, step into my sight and say so. Billy, I still wait for your named walk."}
+- 09:53 act: {"actions":[{"do":"note","text":"Day 924 midday: at 449,107,-1037, health 15, hunger 17, holding 2 potatoes for Leonardo then Worf. No walk named, no one in sight. Holding."}]}
+- 09:53 act: {"intent":{"goal":"hold_for_leonardo_and_worf","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_op
+- 09:59 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 10:00 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1036}}],"say":"Phantom is hitting me, health 11. Moving to Beverly's bed at 444,-1036 to stand with the row."}
+- 10:00 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1036}}],"say":"Going to bed here next to Beverly. Phantom is out of sight now."}
+- 10:00 act: {"actions":[{"do":"note","text":"Night 924. Bed use at 443,-1036 refused (bed). Holding next to Beverly, health steady 11, hunger 17. No walk. Eat at hunger 10."}]}
+- 10:01 act: {"actions":[],"say":"Trini here, holding by Beverly at 444,-1036, health 11, unarmed except wooden sword. No walk until Billy names one."}
+- 10:06 act: {"actions":[{"do":"note","text":"Day 925 morning. Trini at 444,-1036 with Beverly, health 11, hunger 17. Holding 2 potatoes for Leonardo and Worf. Waiting for a named daylight walk."}],"say":"Trini he
+- 10:17 act: {"actions":[{"do":"note","text":"Day 925 day. Still holding by Beverly at 444,-1036. Health 11, hunger 17. Potatoes await Leonardo (not in sight) then Worf. No walk without named call."}],"say":"Trini
+- 10:28 act: {"actions":[],"say":"Trini here, evening. Holding by Beverly at 444,-1036, health 11, hunger 17. My potatoes stay with me for Leonardo first. No walk until a named call."}
+- 10:35 act: {"actions":[{"do":"note","text":"Day 926 morning. Holding by Beverly at 444,-1036. Health 11 steady, hunger 17. Potatoes for Leonardo then Worf. No walk until named."}]}
