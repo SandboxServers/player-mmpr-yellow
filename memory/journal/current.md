@@ -41,6 +41,17 @@
 - Day 942: woke in row at 444,107,-1051, health 11, hunger 17, armed, 2 potatoes held. Row holding, no walk named; Leonardo, Worf, Zack not in sight. Said my hold and waited.
 - 15:55 act: {"say":"Trini here, in the row at my bed, health 11, hunger 17. I hold 2 potatoes for Leonardo first, then Worf, then Zack. I will hand them over when each is in my sight. No walk from me until Billy 
 - 16:07 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Trini, night in the row, day 943. Health 11, hunger 17, armed. Still holding 2 potatoes for Leonardo first, then W
+- Day 944: said morning in the row. Troi asked me to give potatoes to Leonardo now; he is not in my sight, so I kept my word and held. Troi agreed.
 - Night day 943: slept beside bed 443,107,-1050 in the row; woke to morning. Row holding, no walk named, Leonardo/Worf/Zack not in sight. Potatoes still held.
 - 16:12 act: {"say":"Trini, morning day 943, in the row at my bed. Health 11, hunger 17, armed. Beverly, Troi: I still hold 2 potatoes for Leonardo first, then Worf, then Zack. No walk from me until Billy or Worf 
 - 16:20 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Trini, dusk day 943, going to my bed in the row. Still holding 2 potatoes for Leonardo first. Good night, Beverly,
+- 16:25 act: {"say":"Trini, morning day 944, in the row by my bed. Health 11, hunger 17, armed. Worf, if you hear me, I hold 2 potatoes for you after Leonardo. Name a route and I will walk with you in daylight."}
+- 16:27 act: {"say":"Troi, I hear you. Leonardo is not in my sight, and I gave my word to hand them only to someone I can see. Leonardo, step into my sight by the row and the potatoes are yours at once."}
+- 16:33 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Trini, dusk day 944, sleeping in the row by my bed, armed. Still holding 2 potatoes for Leonardo first. Good night
+- 16:37 act: {"actions":[{"do":"sleep"}]}
+- 16:37 act: {"actions":[],"say":"Trini, morning day 944, at my bed in the row. Health 11, hunger 17, armed. Still holding 2 potatoes for Leonardo first, then Worf. Holding for Billy's or Worf's named walk."}
+- 16:41 act: {"actions":[],"say":"Troi, I hear you. Leonardo, I am at 444,107,-1051 beside the white bed in the row, with 2 potatoes. Step into my sight and they are yours at once. I will not walk until Billy name
+- 16:45 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Trini, dusk day 945, going to my bed in the row. Armed, 2 potatoes still held for Leonardo first. Good night."}
+- 16:45 act: {"actions":[{"do":"sleep"}],"say":"Troi, I hear you. Trini at my bed in the row, armed, holding 2 potatoes for Leonardo first, then Worf. Good night."}
+- 16:47 act: {"actions":[{"do":"sleep"}],"say":"Good night, Troi and Riker. Trini here at my bed, armed, 2 potatoes held for Leonardo first."}
+- 16:51 act: {"actions":[],"say":"Morning, row. Trini at my bed, health 11, hunger 17, armed. Leonardo, step into my sight and the 2 potatoes are yours. No walk from me until Billy or Worf names one."}
