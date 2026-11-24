@@ -25,3 +25,9 @@
 - 15:09 act: {"actions":[],"say":"Leonardo, Trini here with 2 potatoes, at 444,107,-1051 by the white bed. Health 1 is urgent: call out where you stand, or step into sight, and I will hand them to you now."}
 - 15:13 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Trini, dusk day 940, going to my bed in the row. 2 potatoes still held for Leonardo first. Holding for a named day
 - 15:13 act: {"actions":[{"do":"sleep"}]}
+- 15:15 say: {"text":"Trini here, in the row at night, armed with my wooden sword. Holding my 2 potatoes for Leonardo first. Resting here until daylight."}
+- Night day 940: slept beside bed 443,107,-1050 (sleep call returned digest, woke in the row). Leonardo still out of sight; potatoes held. Now waiting for daylight and a named walk.
+- 15:16 say: {"text":"Trini, night in the row. Health 11, hunger 17, armed. Still holding 2 potatoes for Leonardo, then Worf. Goodnight, Riker, William, Deanna."}
+- 15:20 say: {"text":"Trini, morning day 940, in the row by my bed. Health 11, hunger 17, armed. Leonardo, I hold 2 potatoes for you; call out where you are. Billy, no walk from me until you name one."}
+- Morning day 940: said morning, held in the row. Leonardo not in sight, no walk named. Waiting.
+- 15:28 say: {"text":"Trini, dusk day 941, in the row beside my bed, armed. Holding 2 potatoes for Leonardo first. Holding till light."}
