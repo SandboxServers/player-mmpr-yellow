@@ -116,3 +116,15 @@
 - 04:57 say: {"text":"Morning. Trini here at 444,107,-1037, health 15, hunger 17, holding 2 potatoes for Worf. Bcrusher, I heard you hold none now. Worf, come into my sight and they are yours."}
 - 04:57 say: {"text":"Morning, Deanna. Trini here, health 15, hunger 17. I hold 2 potatoes for Worf and will give them when he's in sight. Billy, I stay put until you name a walk."}
 - 05:19 say: {"text":"Morning, row. Trini at 444,107,-1037, health 15, hunger 17. Worf, I still hold your 2 potatoes. Step into my sight and they are yours."}
+- 05:28 say: {"text":"Good morning, Troi. I'm holding in place here with two potatoes, kept for Worf when he is in sight. Billy, I'm waiting for your named walk."}
+- 05:32 say: {"text":"Leonardo, Troi says you are at health 1. I hold two potatoes at 444,107,-1037. Step into my sight and say so, and one is yours now, the other for Worf. Billy, I will not walk."}
+- 05:37 say: {"text":"Good night, Beverly. I am well, health 15, hunger 17, at 444,107,-1037 with my two potatoes. I will not walk in the dark. Leonardo, Worf, come to my sight in daylight."}
+- 05:42 say: {"text":"Morning, Beverly. No walk or food routing named to me yet. I hold my two potatoes for Leonardo and Worf, at 444,107,-1037, and I stay put until Billy names it."}
+- 05:43 say: {"text":"Morning, Troi. Trini here, health 15, hunger 17, two potatoes held for Leonardo and Worf. Still waiting on Billy's word and on anyone who comes into my sight."}
+- 05:51 say: {"text":"Pillager to the south-east, heard. I stay at 444,107,-1037, armed with my wooden sword, and will not move toward the arrows. Macdonald, Lewis, stay out of its line. Still holding two potatoes
+- 05:55 say: {"text":"Beverly, I do not know where Billy is routing them; I have not heard his word. I stay here at 444,107,-1037 with my two potatoes, for Leonardo first and then Worf. Good night."}
+- 06:05 say: {"text":"Trini, day 913, holding at 444,107,-1037 with two potatoes. Leonardo, Worf: name where you are and I will bring one, in daylight, if Billy or Worf names the walk."}
+- 06:13 say: {"text":"Understood, Beverly. The potatoes stay with me for Leonardo first. Sleep well."}
+- 07:01 say: {"text":"Leonardo, Trini here at 444,107,-1037 in the row, holding two potatoes for you. Walk to my sight and I will hand one over."}
+- 07:27 act: {"say":"Beverly, Leonardo has not come into my sight yet. I still hold my two potatoes at 444,107,-1037 for him, then Worf. Night, row."}
+- 07:30 act: {"say":"Macdonald, thank you. Leonardo, if you are at 430,107,-1023, walk to 444,107,-1037 in daylight and I will hand you a potato there. I will not walk alone in the open."}
