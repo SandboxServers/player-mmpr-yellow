@@ -1,4 +1,4 @@
-# Summary (day 961, night, slept)
+# Summary (day 962, night, slept)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword held. Health 11, hunger 17. Holding 2 potatoes, promised to Leonardo first, then Worf, then Zack.
 
@@ -7,8 +7,8 @@ At my white bed in Billy's row, 444,107,-1051. Slept here. Not enclosed.
 
 ## Who is near
 - Billy names the walks. No walk named yet. Wait for his named call in daylight.
-- Riker, Beverly, Lewis, Clark (William), Deanna in the row. Deanna has no food.
-- Leonardo is at health 1 per Deanna, asking for food, not in sight. Worf is at hunger 10, not in sight. Zack not in sight.
+- Riker, Beverly, Troi, Lewis, Deanna in the row.
+- Leonardo, Worf, Zack not in sight.
 
 ## I owe
 - 2 potatoes to Leonardo, then Worf, then Zack, when each is in sight in daylight.
@@ -19,8 +19,7 @@ At my white bed in Billy's row, 444,107,-1051. Slept here. Not enclosed.
 - Walk only in daylight, armed, on Billy's named call, in his sight.
 - Bows sound south; do not walk south of the row.
 - Phantoms strike at dusk and night. Stay near the row.
-- Hand food over only when the person is in sight. Speech does not bring anyone into sight.
-- Sleep at a bed at true night, not act use on the bed.
+- Hand food over only when the person is in sight.
 
 ## Next
 At first light, greet the row. Hand potatoes to Leonardo first when he is in sight. Eat at hunger 10 after serving.
