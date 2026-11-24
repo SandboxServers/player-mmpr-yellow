@@ -55,3 +55,4 @@
 - 16:45 act: {"actions":[{"do":"sleep"}],"say":"Troi, I hear you. Trini at my bed in the row, armed, holding 2 potatoes for Leonardo first, then Worf. Good night."}
 - 16:47 act: {"actions":[{"do":"sleep"}],"say":"Good night, Troi and Riker. Trini here at my bed, armed, 2 potatoes held for Leonardo first."}
 - 16:51 act: {"actions":[],"say":"Morning, row. Trini at my bed, health 11, hunger 17, armed. Leonardo, step into my sight and the 2 potatoes are yours. No walk from me until Billy or Worf names one."}
+- 17:12 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}],"say":"It is dark. I am going to the bed to rest. Leonardo and Worf, I still hold the potatoes for you."}
