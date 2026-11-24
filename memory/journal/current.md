@@ -36,3 +36,5 @@
 - Day 941: woke in the row by white bed 443,107,-1050, health 11, hunger 17. Billy and Riker holding till light. Said I hold too. 2 potatoes still held for Leonardo, not in sight. No walk taken.
 - 15:30 act: {"say":"Good morning, Riker. Trini here, still in the row by my bed. Holding my 2 potatoes for Leonardo first, then Worf. Waiting on Billy's named walk."}
 - 15:42 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Trini, night in the row beside my bed. Armed, holding 2 potatoes for Leonardo first. Holding for a named daylight 
+- 15:46 act: {"actions":[{"do":"note","text":"Morning, day 942. Holding in the row with my wooden sword. Two potatoes are for Leonardo first, when he is in sight."}],"say":"Morning. Trini here, in the row, health 
+- 15:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Trini, night in the row. Armed, holding 2 potatoes for Leonardo first. Good night, all."}
