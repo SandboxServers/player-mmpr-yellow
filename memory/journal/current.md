@@ -6,4 +6,7 @@
 - 18:11 act: {"actions":[],"say":"Good morning, row. Trini here, health 11, hunger 17, holding at my bed. Billy, I'm waiting on your named daylight walk and the potato routing."}
 - 18:19 act: {"actions":[{"do":"sleep"}],"say":"Dusk, and thunder. I'm sleeping at my bed in the row. No walk has been named."}
 - 18:40 say: {"text":"Trini here, at my bed in the row, health 11, hunger 17, holding 2 potatoes for Leonardo, then Worf, then Zack. Still holding for Billy's named walk. Leonardo, call out when you are in sight.
-- 18:41 wait 240s, nothing new (no walk named, Leonardo/Worf/Zack not in sight). Said my status to the row. Holding."
+- 18:41 wait 240s, nothing new (no walk named, Leonardo/Worf/Zack not in sight). Said my status to the row. Holding.
+- Day 951, dawn: woke at my bed in the row, health 11, hunger 17. Heard Troi, Lewis and Riker holding; no walk named, no one in sight. Waiting for Billy's named daylight walk.
+"
+- 18:53 say: {"text":"Trini here at my bed, health 11, hunger 17, holding 2 potatoes for Leonardo. Leonardo, if you can see me, call out and I will come to you in daylight. Holding for Billy's walk."}
