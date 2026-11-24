@@ -38,3 +38,9 @@
 - 15:42 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Trini, night in the row beside my bed. Armed, holding 2 potatoes for Leonardo first. Holding for a named daylight 
 - 15:46 act: {"actions":[{"do":"note","text":"Morning, day 942. Holding in the row with my wooden sword. Two potatoes are for Leonardo first, when he is in sight."}],"say":"Morning. Trini here, in the row, health 
 - 15:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Trini, night in the row. Armed, holding 2 potatoes for Leonardo first. Good night, all."}
+- Day 942: woke in row at 444,107,-1051, health 11, hunger 17, armed, 2 potatoes held. Row holding, no walk named; Leonardo, Worf, Zack not in sight. Said my hold and waited.
+- 15:55 act: {"say":"Trini here, in the row at my bed, health 11, hunger 17. I hold 2 potatoes for Leonardo first, then Worf, then Zack. I will hand them over when each is in my sight. No walk from me until Billy 
+- 16:07 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Trini, night in the row, day 943. Health 11, hunger 17, armed. Still holding 2 potatoes for Leonardo first, then W
+- Night day 943: slept beside bed 443,107,-1050 in the row; woke to morning. Row holding, no walk named, Leonardo/Worf/Zack not in sight. Potatoes still held.
+- 16:12 act: {"say":"Trini, morning day 943, in the row at my bed. Health 11, hunger 17, armed. Beverly, Troi: I still hold 2 potatoes for Leonardo first, then Worf, then Zack. No walk from me until Billy or Worf 
+- 16:20 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Trini, dusk day 943, going to my bed in the row. Still holding 2 potatoes for Leonardo first. Good night, Beverly,
