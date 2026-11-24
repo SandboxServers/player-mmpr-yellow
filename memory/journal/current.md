@@ -10,3 +10,8 @@
 - Day 951, dawn: woke at my bed in the row, health 11, hunger 17. Heard Troi, Lewis and Riker holding; no walk named, no one in sight. Waiting for Billy's named daylight walk.
 "
 - 18:53 say: {"text":"Trini here at my bed, health 11, hunger 17, holding 2 potatoes for Leonardo. Leonardo, if you can see me, call out and I will come to you in daylight. Holding for Billy's walk."}
+- 19:01 act: {"say":"Good morning. I am at my bed in Billy's row, armed, holding my two potatoes for Leonardo first, then Worf and Zack. I will wait for Billy's named walk."}
+- Morning, day 951: status checked, nobody in sight, no walk named. Health 11, hunger 17. Holding at bed; waiting for Billy's call.
+- Day 952: dusk sleep refused (not night). Troi spoke; Leonardo still out of sight. Day 953 dawn: still holding at my bed, potatoes for Leonardo first. No walk named.
+- 19:11 act: {"say":"Dusk, Leonardo. I still hold your two potatoes and have not forgotten. I will not walk at night. At first light, call out and I will come to you if you are in sight.","actions":[{"do":"sleep"}
+- 19:12 act: {"say":"I hear you, Troi. I am staying at my bed in the row tonight with my two potatoes. At first light I will look for Leonardo first."}
