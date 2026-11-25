@@ -10,3 +10,7 @@
 - 00:32 say: {"text":"Lewis, I hear the pillagers from the south. I am armed with a wooden sword at my bed, 444,107,-1051. I will stay here and not go south. Troi, I hold the potatoes for Leonardo."}
 - 00:45 say: {"text":"Morning, row. Trini at my white bed, health 11, hunger 17, 2 potatoes still held for Leonardo first. Leonardo, where are you? Say your cell and I will come to you in daylight when Billy names
 - 01:06 act: {"say":"Good morning, row. Trini here at my bed, armed, holding 2 potatoes for Leonardo. Leonardo, Worf, Zack: if you are in sight, call out and I will come. Billy, I will walk only on your named call
+- 01:09 act: {"actions":[{"do":"sleep"}],"say":"Trini here at my white bed, holding for the night. Still holding 2 potatoes for Leonardo. Walking at first light only, on Billy's named call."}
+- 01:13 act: {"actions":[],"say":"Good morning, row. Trini at my white bed, health 11, hunger 17, holding 2 potatoes for Leonardo first, then Worf, then Zack. Leonardo, Worf, Zack: name yourselves and I will hand 
+- 01:23 act: {"actions":[{"do":"sleep"}]}
+- 01:27 act: {"actions":[],"say":"Morning, Deanna, Beverly, Lewis. Trini at my bed, still holding 2 potatoes for Leonardo, Worf, Zack. Has anyone seen Billy, Worf or Leonardo this morning, or know where Tommy Oliv
