@@ -21,3 +21,9 @@
 - Day 998 day: greeted row, held still at bed; hold intent ran out with nobody near. Dusk now, health 11, hunger 17, still holding 2 potatoes. Staying at bed, no walk named.
 - 10:25 act: {"say":"Good day, row. Trini here, holding at my bed. I still hold 2 potatoes for Leonardo, then Worf, then Zack. Billy, the row is holding and waiting for your named walk.","intent":{"goal":"hold_and
 - 10:35 act: {"say":"Morning, Riker and Beverly. Trini here, health 11, hunger 17. I hold the 2 potatoes for Leonardo, Worf and Zack, and I will hand them over in that order once one is in sight. I have seen no on
+- 10:44 act: {"say":"Morning, Riker. Trini here, at my bed in the row. I am holding my 2 potatoes for Leonardo, then Worf, then Zack. I will stay put until Billy or Worf names the walk."}
+- 10:44 act: {"say":"Billy, Zack, Trini here. Leonardo has not been in sight for days, and I promised him the potatoes first. Zack, when you are in sight in daylight I will hand them over, and if Leonardo still ha
+- 10:52 act: {"say":"Worf, Trini here. I hold the 2 potatoes for Leonardo, then you, then Zack. Leonardo is still not in sight. When you are in my sight in daylight, I will hand them to you, unless he comes first.
+- 10:59 act: {"say":"Worf, Trini here. The potatoes are still with me, at my bed. Leonardo has not come yet. Once he has had his turn, or if he is still not in sight, they are yours; I will hand them over when you
+- 11:04 act: {"say":"Worf, agreed. Leonardo is still not in my sight, so when Zack stands in my sight I will give him the potatoes. Zack, come to my bed in daylight and say so."}
+- 11:04 act: {"say":"Zack, my bed is at 430,107,-1051 in the row, on the white bed beside the chest. I do not know a clear cell from the row to it, so hold until Billy or Worf names one."}
