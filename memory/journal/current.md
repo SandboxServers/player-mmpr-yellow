@@ -28,3 +28,10 @@
 - 17:16 act: {"actions":[],"say":"Trini, day 1018. We are all walled in by planks. Proposal: Billy or Jason, name one plank on the west wall to break in daylight, with a sword in sight. I hold two potatoes for Leo
 - 17:17 act: {"actions":[],"say":"Trini: facing west from 430,107,-1051, the solid plank ahead is at 428,107,-1051 with planks behind it. Jason, you check it in sight and break it first, if you agree. I will not t
 - 17:25 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini in bed, nothing broken, potatoes kept. First light, I look at 428,107,-1051 with Jason before anything."}
+- 17:26 act: {"say":"Trini, morning, at 430,107,-1051 by my bed. Holding 2 potatoes, nobody in sight. Leonardo first, then Zack, then Worf. Name an open cell and I walk only there.","intent":{"goal":"hold_for_open
+- 17:26 act: {"say":"Trini, morning, still at 430,107,-1051 in your sight line, holding 2 potatoes. Jason, look at 428,107,-1051 and say what you see. I break nothing until you do."}
+- 17:27 act: {"say":"Trini: Jason sees planks on every side, nothing open. I hold at 430,107,-1051 with 2 potatoes for Leonardo, Zack, Worf. Nobody breaks until a cell is seen open."}
+- 17:36 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 17:41 act: {"say":"Trini, morning, at 430,107,-1051, holding 2 potatoes. Jason, you stand at 418. Is there an open cell between 423 and 430 at z -1051? Name it and I walk; Worf gets the first potato."}
+- 17:52 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 18:04 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}},{"do":"sleep"}]}
