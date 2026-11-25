@@ -9,3 +9,4 @@
 - 00:13 say: {"text":"Morning, row. Trini at my white bed, health 11, hunger 17, still holding 2 potatoes for Leonardo, Worf, Zack. Nobody of the three in sight yet. Waiting for Billy's named walk."}
 - 00:32 say: {"text":"Lewis, I hear the pillagers from the south. I am armed with a wooden sword at my bed, 444,107,-1051. I will stay here and not go south. Troi, I hold the potatoes for Leonardo."}
 - 00:45 say: {"text":"Morning, row. Trini at my white bed, health 11, hunger 17, 2 potatoes still held for Leonardo first. Leonardo, where are you? Say your cell and I will come to you in daylight when Billy names
+- 01:06 act: {"say":"Good morning, row. Trini here at my bed, armed, holding 2 potatoes for Leonardo. Leonardo, Worf, Zack: if you are in sight, call out and I will come. Billy, I will walk only on your named call
