@@ -18,3 +18,6 @@
 - 16:05 say: {"text":"Zack, Jason: my view west is solid oak planks, no open cell. I cannot name a route from here, so I hold at my bed with the potatoes. Name an open cell in daylight and I will walk it."}
 - 16:18 say: {"text":"Worf, I hear you. I cannot see you from my bed, and my view west is solid planks. If you can see an open cell between us, name it and I will walk it in daylight with a potato in hand."}
 - 16:47 say: {"text":"Trini, day 1017, at my bed 430,107,-1051. Billy, I see planks between me and 423, so I cannot cross there. Zack, Jason: the air at 420-423 is not joined to me yet. I hold; I will walk only a 
+- 16:57 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk is coming and no one is in sight. I'll rest in my bed and hand out the potatoes at light."}
+- 16:57 act: {"actions":[],"say":"Trini in my bed at 429,107,-1051, not enclosed. Two potatoes kept for Leonardo, Zack and Worf. I will walk at first light only on open cells someone names."}
+- 16:57 act: {"actions":[],"say":"Heard you, Zack, Jason, Riker. Potatoes at first light, in sight. Zack and Worf first with Leonardo still unseen. I hold at my bed until then."}
