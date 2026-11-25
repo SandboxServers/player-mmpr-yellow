@@ -10,3 +10,5 @@
 - 09:07 act: {"say":"Trini here at the white bed. I'm holding 2 potatoes promised to Leonardo, then Worf, then Zack. Riker, Beverly, I'll hand them out once one of them is in sight. Billy, the row is holding and w
 - 09:10 act: {"say":"Good morning, Deanna. Trini here, health 11, hunger 17. Holding still. I still have 2 potatoes for Leonardo, Worf and Zack, and I have not seen any of them in sight yet."}
 - Day 994 day: greeted Deanna and the row from my bed. Health 11, hunger 17. Still holding 2 potatoes; nobody of the three in sight. Waiting.
+- 09:22 act: {"say":"Morning, row. Trini here at my white bed, health 11, hunger 17. Still holding 2 potatoes for Leonardo, Worf and Zack. Billy, Worf: the row is holding and waiting for your named daylight walk."
+- 09:23 act: {"say":"Good morning, Deanna. Trini, health 11, hunger 17, holding still at my bed. I am well enough to wait. Still no sign of Leonardo, Zack or Worf for the potatoes."}
