@@ -1,4 +1,5 @@
 # Journal
+- Day 995 (waking 1118): status and wait; nobody in sight. Meriwether and Riker asked about food and a safe route; said no walk named yet, still holding 2 potatoes for Leonardo, Worf, Zack. Waiting.
 - 08:42 act: {"say":"Morning, row. Trini here at my white bed, health 11, holding 2 potatoes for Leonardo, Worf and Zack. Watching for them in sight."}
 - Day 992 dawn: greeted the row from my bed at 444,107,-1051. Nobody in sight yet. Holding potatoes. Waiting for Leonardo, Worf or Zack.
 - 08:43 act: {"say":"Morning, Deanna. Trini here, health 11, hunger 17. I am holding still in the row and waiting for Billy's or Worf's named walk. Riker, I will not walk east without Billy's word."}
@@ -13,3 +14,4 @@
 - 09:22 act: {"say":"Morning, row. Trini here at my white bed, health 11, hunger 17. Still holding 2 potatoes for Leonardo, Worf and Zack. Billy, Worf: the row is holding and waiting for your named daylight walk."
 - 09:23 act: {"say":"Good morning, Deanna. Trini, health 11, hunger 17, holding still at my bed. I am well enough to wait. Still no sign of Leonardo, Zack or Worf for the potatoes."}
 - 09:31 act: {"say":"Morning, row. Trini here at my white bed, health 11, hunger 17. I hold 2 potatoes for Leonardo first, then Worf, then Zack. Leonardo, if you are near, call out and I will come to you in daylig
+- 09:40 act: {"say":"Meriwether, Riker, Trini here at my white bed, health 11, hunger 17. I have not seen Billy or Worf in sight, and I know of no safe food route yet. I still hold 2 potatoes for Leonardo, then Wo
