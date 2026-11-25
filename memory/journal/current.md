@@ -7,3 +7,6 @@
 - Dusk, day 993: row holding for the night. No walk named. I stay at my bed, unarmed moves only, and keep the potatoes for Leonardo.
 - 08:59 act: {"say":"Morning. Trini here at my bed, health 11. Kimberly, Billy, Jason, Zack: if you are near, say where you are. I still hold 2 potatoes for Leonardo, Worf and Zack."}
 - Day 993 thunder: still holding at my bed. No walk named, no one in sight with the potatoes' owners. Waiting.
+- 09:07 act: {"say":"Trini here at the white bed. I'm holding 2 potatoes promised to Leonardo, then Worf, then Zack. Riker, Beverly, I'll hand them out once one of them is in sight. Billy, the row is holding and w
+- 09:10 act: {"say":"Good morning, Deanna. Trini here, health 11, hunger 17. Holding still. I still have 2 potatoes for Leonardo, Worf and Zack, and I have not seen any of them in sight yet."}
+- Day 994 day: greeted Deanna and the row from my bed. Health 11, hunger 17. Still holding 2 potatoes; nobody of the three in sight. Waiting.
