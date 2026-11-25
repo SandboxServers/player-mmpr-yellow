@@ -6,3 +6,5 @@
 - Day 1008 morning: greeted row. Billy heard, not in sight, no route named; holding at bed with 2 potatoes. Waiting.
 - 13:59 act: {"say":"Zack, I hear you. Still holding the 2 potatoes for you and Worf. Name a route and I will come when I can see you."}
 - Row heard: Zack, Riker, Wesley, Billy all holding; Billy names no route past x422. I keep holding at bed, potatoes kept. Waiting.
+- 14:08 say: {"text":"Evening, Lewis. Trini here at my bed. Holding 2 potatoes for Zack and Worf; I'll hand them over once a route is named and they're in sight."}
+- 14:13 say: {"text":"Morning, Worf and Zack. Trini at my bed 430,107,-1051, potatoes in hand. Zack first, then Worf, as promised. Name a route you have seen open, and come within sight of me, and I'll hand them o
