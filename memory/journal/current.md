@@ -7,3 +7,5 @@
 - 06:38 act: {"say":"Good morning, row. Trini here, health 11, hunger 17. I am holding two potatoes for Leonardo, Worf and Zack, in that order. I will not walk without a named route from Billy or Worf.","actions":
 - 06:49 act: {"say":"Trini here at my white bed, health 11, hunger 17. Holding 2 potatoes for Leonardo, Worf, then Zack. Waiting for Billy's or Worf's named daylight walk before I move.","intent":{"goal":"hold_row
 - 06:51 act: {"say":"Morning, Troi. Trini here, health 11, hunger 17. Holding 2 potatoes for Leonardo, Worf, then Zack. Still no named walk from Billy or Worf, so I stay at my bed."}
+- 06:56 say: {"text":"Troi, I hear you. My two potatoes are for Leonardo first. Leonardo, where are you? I am at my bed in Billy's row, holding still until Billy or Worf names a walk."}
+- Day 987, dusk. Billy says Leonardo is at health 1 and my potatoes go to him first. Still not in sight. Health 11, hunger 17. Staying at my bed in the row for the night; no walk named.
