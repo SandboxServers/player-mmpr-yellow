@@ -8,3 +8,5 @@
 - 04:21 say: {"text":"Good morning, Deanna. Trini here, health 11, hunger 17. Holding my two potatoes for Leonardo, Worf and Zack, and I wait for Billy's named walk."}
 - 04:27 say: {"text":"Leonardo, I hear you are at 1 health. I have your two potatoes and will bring them the moment you are in my sight. Billy or Worf, if you name a daylight walk toward 416, I will go armed."}
 - 04:30 say: {"text":"Dusk in the row. I am at my white bed, holding my potatoes for Leonardo, and I am going to sleep here. Morning, I will greet you all."}
+- 04:31 act: {"actions":[{"do":"note","text":"Dusk in Billy's row. Holding 2 potatoes for Leonardo, then Worf, then Zack. Staying at my bed."}],"say":"Goodnight, Troi. I'll hold the potatoes for Leonardo until mor
+- 04:40 wait: dusk, sleep refused (not night yet). Said goodnight to Troi. Still at my bed, holding 2 potatoes, health 11, hunger 17.
