@@ -2,3 +2,10 @@
 - 22:40 say: {"text":"Good morning, row. Trini here, at my white bed, health 11, hunger 17. I hold 2 potatoes for Leonardo, then Worf, then Zack. Holding for Billy's named walk."}
 - 22:52 say: {"text":"Morning, row. Trini at my white bed, health 11, hunger 17, holding 2 potatoes. Leonardo, Worf, Zack: I will hand them over when you are in sight. Billy, I wait for your named walk."}
 - Day 963 morning: night passed at my bed, nobody attacked. Still holding 2 potatoes for Leonardo, Worf, Zack; none in sight. Hunger 17, not eating yet. Waiting for Billy's walk.
+- Day 964: held at my bed through the morning and into night. No walk named, no potato recipient in sight. Still holding 2 potatoes. Not sleeping yet, since I am not enclosed.
+- Day 965: still at my bed in the row. Holding 2 potatoes for Leonardo, Worf, Zack; none of them in sight. No walk named. Health 11, hunger 17.
+- Day 966: same. Holding at bed, potatoes still with me, no walk named, nobody of the three in sight. Waiting.
+- 23:08 say: {"text":"Good morning, row. Trini at my bed, health 11, hunger 17, 2 potatoes still held for Leonardo, Worf, Zack. Billy, Worf: a named walk when you are ready; I will go armed and in sight."}
+- 00:13 say: {"text":"Morning, row. Trini at my white bed, health 11, hunger 17, still holding 2 potatoes for Leonardo, Worf, Zack. Nobody of the three in sight yet. Waiting for Billy's named walk."}
+- 00:32 say: {"text":"Lewis, I hear the pillagers from the south. I am armed with a wooden sword at my bed, 444,107,-1051. I will stay here and not go south. Troi, I hold the potatoes for Leonardo."}
+- 00:45 say: {"text":"Morning, row. Trini at my white bed, health 11, hunger 17, 2 potatoes still held for Leonardo first. Leonardo, where are you? Say your cell and I will come to you in daylight when Billy names
