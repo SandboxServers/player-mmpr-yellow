@@ -18,3 +18,6 @@
 - 09:57 act: {"actions":[],"say":"Trini here at my bed, health 11, hunger 17. Riker, Troi, I hold still and will not walk without Billy's or Worf's named route. Still holding 2 potatoes for Leonardo, Worf and Zack
 - 10:05 act: {"actions":[],"say":"Good morning, row. Trini here at my bed, health 11, hunger 17. Still holding 2 potatoes for Leonardo, Worf and Zack. Beverly, Deanna, I am holding with you until Billy or Worf nam
 - 10:16 act: {"say":"Good morning, row. Trini here, health 11, hunger 17, holding 2 potatoes for Leonardo, then Worf, then Zack. Waiting for them to come into sight.","actions":[]}
+- Day 998 day: greeted row, held still at bed; hold intent ran out with nobody near. Dusk now, health 11, hunger 17, still holding 2 potatoes. Staying at bed, no walk named.
+- 10:25 act: {"say":"Good day, row. Trini here, holding at my bed. I still hold 2 potatoes for Leonardo, then Worf, then Zack. Billy, the row is holding and waiting for your named walk.","intent":{"goal":"hold_and
+- 10:35 act: {"say":"Morning, Riker and Beverly. Trini here, health 11, hunger 17. I hold the 2 potatoes for Leonardo, Worf and Zack, and I will hand them over in that order once one is in sight. I have seen no on
