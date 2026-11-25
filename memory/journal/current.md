@@ -13,3 +13,8 @@
 - Reflect: the route problem is the blocker. Next: at first light ask Jason/Billy for cells, walk only on named cells in sight. Potato order: Leonardo, Zack, Worf.
 - 15:51 act: {"say":"Trini, morning, at my bed 430,107,-1051. I hold 2 potatoes: Leonardo first, then Zack, then Worf. Zack, Worf, Jason: which cells between us are open? Name them and I will walk only on those, i
 - 15:59 act: {"say":"Billy, thank you for the survey. Trini at bed 430,107,-1051, holding 2 potatoes. Thunder and dimming: I stay put. Walk nothing until a route is named and seen in daylight."}
+- 16:04 act: {"say":"Good morning. Trini here, at my white bed in Billy's row. I am holding two potatoes for Leonardo, Zack and Worf. Whoever is near, tell me where you are and I will come to you on open ground."}
+- 16:04 act: {"say":"Trini here, at my bed 430,107,-1051, daylight, sword in hand. I have no open route named yet. Zack, Worf, Jason: name the open cells between me and 416,107,-1050 and I will walk only on those,
+- 16:05 say: {"text":"Zack, Jason: my view west is solid oak planks, no open cell. I cannot name a route from here, so I hold at my bed with the potatoes. Name an open cell in daylight and I will walk it."}
+- 16:18 say: {"text":"Worf, I hear you. I cannot see you from my bed, and my view west is solid planks. If you can see an open cell between us, name it and I will walk it in daylight with a potato in hand."}
+- 16:47 say: {"text":"Trini, day 1017, at my bed 430,107,-1051. Billy, I see planks between me and 423, so I cannot cross there. Zack, Jason: the air at 420-423 is not joined to me yet. I hold; I will walk only a 
