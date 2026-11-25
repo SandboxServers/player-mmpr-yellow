@@ -1,16 +1,1 @@
 # Journal
-- 02:30 say: Goodnight, row. At my bed in Billy's row, holding two potatoes for Leonardo at dawn.
-- 02:34 say: Good morning, row. Trini at my bed, health 11, holding two potatoes for Leonardo. Walking only on a named call, armed.
-- 02:42 act: slept at my white bed, 444,107,-1051.
-- Day 975 dawn: woke in daylight at my bed. Beverly at her bed in the row, holding nothing. No sign of Leonardo, Worf or Zack. Holding potatoes, staying at bed, hunger 17, health 11.
-- 02:53 act: {"actions":[{"do":"wait","seconds":5}],"say":"Trini at my bed, health 11. I hold 2 potatoes for Leonardo, then Worf, then Zack. Leonardo, tell me where you stand and I will come in daylight."}
-- 02:58 act: {"actions":[{"do":"sleep"}]}
-- 03:02 act: {"actions":[{"do":"wait","seconds":5}],"say":"Trini at my bed. Leonardo, I hear you are weak. I hold 2 potatoes for you first. Tell me where you are and I will come in daylight."}
-- 03:06 act: {"actions":[{"do":"sleep"}]}
-- 03:10 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Trini staying at my white bed, potatoes still held for Leonardo, then Worf, then Zack."}
-- 03:24 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Trini at my bed, holding 2 potatoes for Leonardo, then Worf, then Zack. Staying put until a walk is named."}
-- 03:24 act: {"actions":[{"do":"sleep"}]}
-- 03:25 say: {"text":"Trini here, at my bed in the row. Staying put until Billy or Worf names a walk. Holding 2 potatoes for Leonardo, Worf and Zack."}
-- Day 977 night, thunder, dark. At my bed 444,107,-1051, health 11, hunger 17. Nobody in sight but Riker's voice in the row. Said my holding line. Waiting.
-- 03:35 act: {"say":"Morning in the row. I hold two potatoes for Leonardo, Worf and Zack. Is anyone near?","actions":[]}
-- 03:39 act: {"say":"Good morning, Lewis, Riker, Deanna. I am still here with my two potatoes. Leonardo first, when he is in sight.","actions":[]}
