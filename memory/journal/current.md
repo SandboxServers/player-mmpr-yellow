@@ -8,3 +8,7 @@
 - 22:09 act: {"say":"Morning, 1033. I am at my white bed, 430,107,-1051, with 2 potatoes held for Worf. Worf, when you are in my sight I will hand them over. Wesley, I heard you have no food. I will look for you t
 - 22:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}}],"say":"Night. Worf is heading to his bed, and I still hold 2 potatoes for him. I will keep them until he is in my sight."}
 - 22:12 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}]}
+- 22:13 act: {"say":"Trini here, at my bed in Billy's row, 430,107,-1051. Holding 2 potatoes for Worf. Holding in place until light."}
+- 22:20 say: {"text":"Trini, morning, at my bed 430,107,-1051. Worf, Troi, Laforge, Billy: I hold 2 potatoes for Worf and will hand them over the moment he is in my sight. I break no plank until a cell is named."}
+- 22:24 say: {"text":"Leonardo, Trini here. Troi says you are at health 1. Where are you? I have 2 potatoes. Tell me your place and I will bring one to you now, and keep one for Worf."}
+- 22:24 say: {"text":"Billy, Worf: I cannot see either of you from my bed, the planks are between us. Worf, I hold one potato for you and one for Leonardo. I will not walk in the dusk. Name an open cell in dayligh
