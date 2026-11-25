@@ -7,3 +7,4 @@
 - 05:52 act: {"say":"Trini here, still in Billy's row. Holding my two potatoes for Leonardo, Worf and Zack. Staying put until Billy or Worf names a daylight walk.","intent":{"goal":"hold_row_until_daylight","progr
 - 05:55 act: {"actions":[{"do":"note","text":"Night, at my white bed in Billy's row. Health 11, hunger 17. Holding 2 potatoes for Leonardo, Worf, Zack. Staying put until first light."}],"say":"Trini here, at my be
 - 05:59 act: {"actions":[],"say":"Morning, Deanna. Trini here, well enough: health 11, hunger 17, holding 2 potatoes for Leonardo, Worf and Zack. None of them in sight yet. I will hold here for Billy's named walk.
+- 06:06 act: {"say":"Night in the row. I'm at my bed, holding. Hungry, but I'll eat once I've handed the potatoes out."}
