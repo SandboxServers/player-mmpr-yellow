@@ -21,3 +21,10 @@
 - 16:57 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk is coming and no one is in sight. I'll rest in my bed and hand out the potatoes at light."}
 - 16:57 act: {"actions":[],"say":"Trini in my bed at 429,107,-1051, not enclosed. Two potatoes kept for Leonardo, Zack and Worf. I will walk at first light only on open cells someone names."}
 - 16:57 act: {"actions":[],"say":"Heard you, Zack, Jason, Riker. Potatoes at first light, in sight. Zack and Worf first with Leonardo still unseen. I hold at my bed until then."}
+- 17:01 act: {"actions":[],"say":"Morning, row. Trini at my bed 430,107,-1051, in daylight. Zack, Worf: I see only solid planks between me and 423, so no open cell. If one of you can see a cell I can reach, name i
+- 17:03 act: {"actions":[],"say":"Worf, Zack, Jason, Billy: still no open cell named, and I will not break the row's planks on my own. I hold at my bed with two potatoes, in sight of nobody yet. Whoever sees a cle
+- 17:08 act: {"actions":[],"say":"Trini, day 1018, at my bed, two potatoes in hand. Zack, Worf, Billy: every side is planks, so no route is named. I will not break the row's walls alone. Whoever first sees a clear
+- 17:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Trini in bed, no route named, two potatoes kept for light."}
+- 17:16 act: {"actions":[],"say":"Trini, day 1018. We are all walled in by planks. Proposal: Billy or Jason, name one plank on the west wall to break in daylight, with a sword in sight. I hold two potatoes for Leo
+- 17:17 act: {"actions":[],"say":"Trini: facing west from 430,107,-1051, the solid plank ahead is at 428,107,-1051 with planks behind it. Jason, you check it in sight and break it first, if you agree. I will not t
+- 17:25 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trini in bed, nothing broken, potatoes kept. First light, I look at 428,107,-1051 with Jason before anything."}
