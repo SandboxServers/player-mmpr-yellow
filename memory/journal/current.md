@@ -8,3 +8,5 @@
 - 03:02 act: {"actions":[{"do":"wait","seconds":5}],"say":"Trini at my bed. Leonardo, I hear you are weak. I hold 2 potatoes for you first. Tell me where you are and I will come in daylight."}
 - 03:06 act: {"actions":[{"do":"sleep"}]}
 - 03:10 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Trini staying at my white bed, potatoes still held for Leonardo, then Worf, then Zack."}
+- 03:24 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Trini at my bed, holding 2 potatoes for Leonardo, then Worf, then Zack. Staying put until a walk is named."}
+- 03:24 act: {"actions":[{"do":"sleep"}]}
