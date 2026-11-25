@@ -39,6 +39,9 @@
 
 - Day 1034: sleep at my bed at night was accepted; holding by speech and waiting kept the row calm. Speech alone still does not bring Worf or Leonardo into my sight.
 
+- Day 1034: an intent with program "rest" and wake_on "unexpected_damage" is valid; wake_on "damage" is refused. max_block_operations must be at least 1.
+- Day 1034: at dusk, speaking to Riker and sleeping in my bed worked; Riker spoke from nearby, and Billy and Worf were in the row.
+
 ## Open
 - Whether the phantom membrane at 412,107,-1039 is still on the ground.
 - Where the chickens went.
