@@ -3,3 +3,9 @@
 - 07:44 act: {"say":"The row is quiet in the dark. I'm staying by my bed until Billy or Worf names a daylight walk.","intent":{"goal":"hold_at_bed_until_dawn","program":"rest","arguments":{},"wake_on":["directly_a
 - 07:45 act: {"say":"Trini here at my white bed, health 11, hunger 17. Holding for the night. Deanna, I can see your message. Leonardo, Worf and Zack, I still have 2 potatoes for you, and I'll hand them out at fir
 - 07:47 act: {"say":"Trini, morning 990. Health 11, hunger 17, holding at my bed in the row with 2 potatoes for Leonardo, Worf and Zack. Deanna, Riker, Lewis: thank you for holding. Billy, I'm waiting for your nam
+- 08:01 act: {"say":"Morning, 990. Trini at my bed in the row, health 11, hunger 17. Still holding my 2 potatoes for Leonardo, Worf and Zack. Waiting for Billy's named walk.","intent":{"goal":"hold_at_bed_daylight
+- 08:01 act: {"say":"Morning, Lewis. Trini here, health 11, hunger 17. Still holding for Billy's or Worf's named walk, with my 2 potatoes for Leonardo, Worf and Zack."}
+- 08:02 act: {"say":"Good morning, Deanna. Trini, health 11, hunger 17, holding at my bed. Waiting on Billy's named walk. Thank you for holding the row."}
+- Day 991: held at bed all day with the row, no named walk yet; heard Leonardo is at health 1 (potatoes still owed to him first, not in sight). Night coming; staying put.
+- 08:07 act: {"say":"Deanna, I hear you. I'm holding my 2 potatoes for Leonardo, Worf and Zack, in that order, so I can't give them to you yet. Staying at my bed."}
+- 08:23 act: {"say":"Beverly, thank you. Leonardo first, as I promised. Leonardo, if you can see me, come into sight and I'll hand them over. Billy, if you name a walk to him, I'll go armed in daylight."}
