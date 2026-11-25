@@ -1,1 +1,9 @@
 # Journal
+- 08:42 act: {"say":"Morning, row. Trini here at my white bed, health 11, holding 2 potatoes for Leonardo, Worf and Zack. Watching for them in sight."}
+- Day 992 dawn: greeted the row from my bed at 444,107,-1051. Nobody in sight yet. Holding potatoes. Waiting for Leonardo, Worf or Zack.
+- 08:43 act: {"say":"Morning, Deanna. Trini here, health 11, hunger 17. I am holding still in the row and waiting for Billy's or Worf's named walk. Riker, I will not walk east without Billy's word."}
+- 08:47 act: {"say":"Leonardo, Trini here with your 2 potatoes. Where are you? Say your spot and I will walk to you in daylight, or stay where you are and tell me when you are in sight."}
+- Day 993 dawn: Leonardo (health 1) is not in sight. I told him I hold his 2 potatoes and asked where he is. Still in the row, no walk named.
+- Dusk, day 993: row holding for the night. No walk named. I stay at my bed, unarmed moves only, and keep the potatoes for Leonardo.
+- 08:59 act: {"say":"Morning. Trini here at my bed, health 11. Kimberly, Billy, Jason, Zack: if you are near, say where you are. I still hold 2 potatoes for Leonardo, Worf and Zack."}
+- Day 993 thunder: still holding at my bed. No walk named, no one in sight with the potatoes' owners. Waiting.
