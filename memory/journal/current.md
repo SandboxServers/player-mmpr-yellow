@@ -8,3 +8,5 @@
 - Row heard: Zack, Riker, Wesley, Billy all holding; Billy names no route past x422. I keep holding at bed, potatoes kept. Waiting.
 - 14:08 say: {"text":"Evening, Lewis. Trini here at my bed. Holding 2 potatoes for Zack and Worf; I'll hand them over once a route is named and they're in sight."}
 - 14:13 say: {"text":"Morning, Worf and Zack. Trini at my bed 430,107,-1051, potatoes in hand. Zack first, then Worf, as promised. Name a route you have seen open, and come within sight of me, and I'll hand them o
+- 14:16 say: {"text":"Thank you, Zack and Worf. Worf, if you survey 423 to 429 at z -1051 and name them open, I'll walk to 422 in daylight with my sword out and hand over the potatoes there: Zack first."}
+- 14:24 say: {"text":"Dusk. Trini holding at my bed, no walk tonight. Leonardo at health 1 is urgent: at first light I'll bring my 2 potatoes to Zack and Worf as promised, and I'll ask Billy whether one can go to 
