@@ -11,3 +11,5 @@
 - 15:47 act: {"say":"Jason, thank you. No one names an open cell, so I walk nothing. It is dusk; I hold at my bed with the potatoes, and I will come at first light if a route is named.","actions":[]}
 - Night 1014: slept at my bed 430,107,-1051 (not enclosed). Woke day 1015. Health 11, hunger 17, 2 potatoes. Row still names no open cell past 423. Leonardo still unseen (health 1 per Troi). Worf (hunger 8) and Zack wait at 415,107,-1051.
 - Reflect: the route problem is the blocker. Next: at first light ask Jason/Billy for cells, walk only on named cells in sight. Potato order: Leonardo, Zack, Worf.
+- 15:51 act: {"say":"Trini, morning, at my bed 430,107,-1051. I hold 2 potatoes: Leonardo first, then Zack, then Worf. Zack, Worf, Jason: which cells between us are open? Name them and I will walk only on those, i
+- 15:59 act: {"say":"Billy, thank you for the survey. Trini at bed 430,107,-1051, holding 2 potatoes. Thunder and dimming: I stay put. Walk nothing until a route is named and seen in daylight."}
