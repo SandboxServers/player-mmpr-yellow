@@ -12,3 +12,5 @@
 - 07:05 act: {"actions":[{"do":"note","text":"Day 988 dawn. At my bed, health 11, hunger 17. Holding 2 potatoes for Leonardo, Worf, Zack. No walk named yet."}],"say":"Good morning, row. Trini here at my white bed,
 - 07:07 act: {"actions":[{"do":"note","text":"Day 988. Holding at my bed in the row, health 11, hunger 17. Troi is awake and listening. No named walk yet."}],"say":"Troi, I hear you. Trini here, health 11, hunger 
 - 07:16 act: {"actions":[{"do":"note","text":"Night, day 988. Staying at my bed in the row. Health 11, hunger 17. No walk named. Going to sleep."}]}
+- 07:16 act: {"say":"Good morning, Billy's row. Is anyone out there? I'm holding two potatoes for Leonardo, Worf and Zack.","actions":[]}
+- 07:17 act: {"say":"Good light, Deanna, Beverly. Trini here, at my bed, health 11. I'm holding two potatoes for Leonardo, Worf and Zack. I'll hand them out when one of them is in sight.","actions":[]}
