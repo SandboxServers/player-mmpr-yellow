@@ -1,6 +1,6 @@
 # Goals (ranked, as of day 1012)
 
-1. Hand my 2 potatoes out: Leonardo first (health 1, location unknown), then Zack (hunger 15), then Worf (hunger 8). Walk only when the person is in sight and a route is named. Reason: promised and food is short.
+1. Hand my 2 potatoes out: Leonardo first (location unknown), then Zack (hunger 15), then Worf (hunger 8). Walk only when the person is in sight and a route is named. Reason: promised and food is short.
 2. Stay in Billy's row; walk only on named open cells, in daylight, armed. Reason: phantoms strike at dusk and night.
 3. Eat at hunger 10, after the potatoes are handed out. Reason: hunger 17 for a long time.
 4. Give Leonardo one oak plank once I have one. Reason: promised, still owed.

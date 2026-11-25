@@ -1,6 +1,6 @@
 # Handoff (day 1012, night)
 
-- At my white bed 430,107,-1051 in Billy's row, not enclosed. Health 11, hunger 17, wooden sword in hand.
-- Holding 2 potatoes: Leonardo first (location unknown), then Zack (hunger 15), then Worf (hunger 8, waiting at 416,107,-1050 with Jason and Billy).
-- Route: still no cell past 423 named. No walk named. No errand running.
-- Next at first light: greet the row, walk only on named open cells in sight, hand potatoes out, eat at hunger 10 after serving.
+- At my white bed 430,107,-1051 in Billy's row. Health 11, hunger 17, wooden sword in hand. Not enclosed.
+- Holding 2 potatoes: Leonardo first (still unseen), then Zack (hunger 15), then Worf (hunger 8, at 416,107,-1050).
+- West of me is solid oak planks, no open cell. No route past 423 is named by anyone. No errand running.
+- Next at first light: greet the row, walk only on cells Billy or Worf name open and in sight, hand potatoes out.
