@@ -5,3 +5,5 @@
 - 06:34 act: {"say":"Trini here, at my bed in Billy's row. Health 11, hunger 17. I hold two potatoes for Leonardo, Worf and Zack, and I am staying put tonight.","actions":[]}
 - 06:34 act: {"actions":[{"do":"sleep"}]}
 - 06:38 act: {"say":"Good morning, row. Trini here, health 11, hunger 17. I am holding two potatoes for Leonardo, Worf and Zack, in that order. I will not walk without a named route from Billy or Worf.","actions":
+- 06:49 act: {"say":"Trini here at my white bed, health 11, hunger 17. Holding 2 potatoes for Leonardo, Worf, then Zack. Waiting for Billy's or Worf's named daylight walk before I move.","intent":{"goal":"hold_row
+- 06:51 act: {"say":"Morning, Troi. Trini here, health 11, hunger 17. Holding 2 potatoes for Leonardo, Worf, then Zack. Still no named walk from Billy or Worf, so I stay at my bed."}
