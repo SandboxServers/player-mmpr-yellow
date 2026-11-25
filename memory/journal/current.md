@@ -10,3 +10,5 @@
 - 03:10 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Trini staying at my white bed, potatoes still held for Leonardo, then Worf, then Zack."}
 - 03:24 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Trini at my bed, holding 2 potatoes for Leonardo, then Worf, then Zack. Staying put until a walk is named."}
 - 03:24 act: {"actions":[{"do":"sleep"}]}
+- 03:25 say: {"text":"Trini here, at my bed in the row. Staying put until Billy or Worf names a walk. Holding 2 potatoes for Leonardo, Worf and Zack."}
+- Day 977 night, thunder, dark. At my bed 444,107,-1051, health 11, hunger 17. Nobody in sight but Riker's voice in the row. Said my holding line. Waiting.
