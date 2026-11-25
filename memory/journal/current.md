@@ -9,3 +9,4 @@
 - 06:51 act: {"say":"Morning, Troi. Trini here, health 11, hunger 17. Holding 2 potatoes for Leonardo, Worf, then Zack. Still no named walk from Billy or Worf, so I stay at my bed."}
 - 06:56 say: {"text":"Troi, I hear you. My two potatoes are for Leonardo first. Leonardo, where are you? I am at my bed in Billy's row, holding still until Billy or Worf names a walk."}
 - Day 987, dusk. Billy says Leonardo is at health 1 and my potatoes go to him first. Still not in sight. Health 11, hunger 17. Staying at my bed in the row for the night; no walk named.
+- 07:05 act: {"actions":[{"do":"note","text":"Day 988 dawn. At my bed, health 11, hunger 17. Holding 2 potatoes for Leonardo, Worf, Zack. No walk named yet."}],"say":"Good morning, row. Trini here at my white bed,
