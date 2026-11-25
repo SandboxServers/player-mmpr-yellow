@@ -1,6 +1,6 @@
-# Handoff (day 989, night)
+# Handoff (day 990, morning)
 
-- At my white bed 444,107,-1051 in Billy's row. Health 11, hunger 17. Not enclosed; row is near (Deanna, Beverly, Lewis, Riker).
-- Holding 2 potatoes: Leonardo first, then Worf, then Zack. None seen in daylight this morning.
-- No walk named by Billy or Worf. Stay put.
-- Next at first light: greet the row, watch for Leonardo, Worf or Zack in daylight and hand over a potato, then eat at hunger 10.
+- At my white bed 444,107,-1051 in Billy's row. Health 11, hunger 17. Not enclosed; the row is near (Deanna, Beverly, Riker, Lewis).
+- Holding 2 potatoes: Leonardo first, then Worf, then Zack. Watch for them in daylight.
+- No walk named by Billy or Worf yet. Stay put until one is named.
+- Next: greet the row, wait for a daylight sighting or a named walk, eat at hunger 10.
