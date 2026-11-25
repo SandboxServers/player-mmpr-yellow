@@ -37,6 +37,8 @@
 
 - Day 1007: holding in place by my bed, speaking to the row, and not walking kept everyone calm all day. Zack and Worf stayed out of sight; a hand-over needs them in sight.
 
+- Day 1034: sleep at my bed at night was accepted; holding by speech and waiting kept the row calm. Speech alone still does not bring Worf or Leonardo into my sight.
+
 ## Open
 - Whether the phantom membrane at 412,107,-1039 is still on the ground.
 - Where the chickens went.

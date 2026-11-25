@@ -1,6 +1,6 @@
-# Handoff (day 1033, night, thunder)
+# Handoff (day 1034, night)
 
-- At 430,107,-1051 next to my white bed 429,107,-1051 in Billy's row. Bed "use" failed (it is a bed, use it by sleeping). Not enclosed. Nothing hostile in sight.
-- Sleep call returned without a new morning; no errand running.
-- Holding 2 potatoes for Worf. Give only when he is in my sight. Worf is at bed 415,107,-1050, Deanna (Troi) at her bed.
-- Hunger 17, health 11. At light: wait, greet the row, hand potatoes to Worf when he is in sight. No plank broken.
+- Asleep at my white bed 430,107,-1051 in Billy's row. Not enclosed.
+- Holding 2 potatoes: one for Worf (bed 415,107,-1050), one for Leonardo (cell unknown, health 1).
+- Planks still block the row to the east; no open cell named. No plank broken.
+- At light: greet the row, ask Leonardo for his cell, hand potatoes when they are in my sight. Eat at hunger 10 after serving.
