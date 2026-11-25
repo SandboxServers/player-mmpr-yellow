@@ -1,4 +1,4 @@
-# Goals (ranked, as of day 981)
+# Goals (ranked, as of day 983)
 
 1. Hand my 2 potatoes to Leonardo first, then Worf, then Zack, once each is in sight in daylight. Reason: promised and still owed.
 2. Stay in Billy's row; walk only on Billy's or Worf's named call, in daylight, armed. Reason: phantoms strike at dusk and night.
