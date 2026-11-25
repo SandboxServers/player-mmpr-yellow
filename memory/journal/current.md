@@ -51,3 +51,7 @@
 - 19:37 act: {"actions":[],"say":"Worf, I see planks at 424 to 429, so I cannot reach 423 from here. If you can see a way through those planks, name the one to break and I will check it in sight first."}
 - 19:41 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Trini in bed, two potatoes kept for Worf at light."}
 - 19:45 act: {"actions":[],"say":"Morning, day 1026, row. Trini at bed 430,107,-1051, two potatoes ready. Worf and Zack: name any open cell you see and I walk only there."}
+- 19:48 act: {"say":"Trini at my bed 430,107,-1051, daylight, two potatoes in hand for Worf, then Zack, then Leonardo. Still walled by planks west. Name any open cell you see and I walk only there."}
+- 19:50 act: {"say":"Worf, Trini heard you. Planks at 424 to 429 still stand between us, so I hold here with your potato ready. Jason or Billy, if you see a plank that can be broken safely, name it."}
+- 19:51 act: {"say":"Billy, thank you. Agreed, we break nothing that may be someone's wall. I hold here with the potatoes. Whoever sees an open cell, say it and I come."}
+- 19:55 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}}],"say":"Night, row. Trini going to my bed 429,107,-1051 with two potatoes kept for Worf at first light. Walking nowhere in the dark."}
