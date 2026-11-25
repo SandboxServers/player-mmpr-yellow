@@ -35,6 +35,8 @@
 - Ripe wheat and potatoes by the water at 462-463,107,-1073 to -1087 (last seen day 804).
 - Potatoes at 409,107,-1054: wanted; not yet reached safely.
 
+- Day 1007: holding in place by my bed, speaking to the row, and not walking kept everyone calm all day. Zack and Worf stayed out of sight; a hand-over needs them in sight.
+
 ## Open
 - Whether the phantom membrane at 412,107,-1039 is still on the ground.
 - Where the chickens went.
