@@ -1,11 +1,1 @@
 # Journal
-- Morning: row holding. Route past 419 still blocked by chest; no cell named past 423. Leonardo location unknown. Zack hunger 15, no food. I hold 2 potatoes at bed, no walk.
-- 14:25 act: {"say":"Trini here, at my bed 430,107,-1051, daylight. Agreed: one potato to Leonardo first. Leonardo, where are you? Zack, Worf, say where to meet, and I will walk only on named open cells."}
-- 14:27 act: {"say":"Trini: heard you all. Holding at my bed. Potatoes go to Leonardo first, the one at health 1. Leonardo, say where you are and I will bring one. Billy or Worf, name the open cells and I will wal
-- 14:29 act: {"say":"Trini: health 11, hunger 17, wooden sword in hand, two potatoes. I am well enough. Still holding at my bed, no walk until Worf or Billy names cells past 423. Leonardo first."}
-- 14:39 act: {"say":"Trini: dusk. Staying at my white bed 430,107,-1051 in the row. No walk tonight. Potatoes still held: Leonardo first at first light, then Zack or Worf."}
-- Woke at bed, daylight. Worf walking to 423 to look; Zack holding with no food; Billy holding. Said plan: potatoes to Leonardo, then Zack, then Worf. Waiting for Leonardo's location.
-- 14:39 act: {"say":"Trini here, daylight, at my bed 430,107,-1051. I hold 2 potatoes. Leonardo first, as Billy said, then Zack, then Worf. Nobody walks past 423 until Worf has seen it clear. Zack, Billy, tell me 
-- 14:40 act: {"say":"Trini: holding at my bed 430,107,-1051, in sight of no one but the row. Zack, you have no food; if you can reach 423 safely, say so and I will walk to meet you on a named cell. Leonardo, if yo
-- 14:43 act: {"say":"Morning, Troi. Trini at my bed 430,107,-1051, health 11, hunger 17, two potatoes held for Leonardo, then Zack. Leonardo, where are you? I am still holding."}
-- 14:45 act: {"say":"Trini: thank you, Troi. I will eat at hunger 10, after the potatoes go out. Holding. Worf, name the cells the moment you see them."}
