@@ -1,4 +1,4 @@
-# Summary (day 962, night, slept)
+# Summary (day 971, night, slept)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword held. Health 11, hunger 17. Holding 2 potatoes, promised to Leonardo first, then Worf, then Zack.
 
@@ -6,8 +6,8 @@ Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword held. Health 11, hun
 At my white bed in Billy's row, 444,107,-1051. Slept here. Not enclosed.
 
 ## Who is near
-- Billy names the walks. No walk named yet. Wait for his named call in daylight.
-- Riker, Beverly, Troi, Lewis, Deanna in the row.
+- Billy names the walks, and has named none for days. Worf is the other voice for walks.
+- Riker, Beverly, Deanna, Lewis, Laforge in the row, all holding.
 - Leonardo, Worf, Zack not in sight.
 
 ## I owe
@@ -16,7 +16,7 @@ At my white bed in Billy's row, 444,107,-1051. Slept here. Not enclosed.
 - A sword to Zack (none spare).
 
 ## Lessons that matter most
-- Walk only in daylight, armed, on Billy's named call, in his sight.
+- Walk only in daylight, armed, on a named call, in sight of the row.
 - Bows sound south; do not walk south of the row.
 - Phantoms strike at dusk and night. Stay near the row.
 - Hand food over only when the person is in sight.
