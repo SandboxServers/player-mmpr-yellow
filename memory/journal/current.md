@@ -17,3 +17,4 @@
 - 09:40 act: {"say":"Meriwether, Riker, Trini here at my white bed, health 11, hunger 17. I have not seen Billy or Worf in sight, and I know of no safe food route yet. I still hold 2 potatoes for Leonardo, then Wo
 - 09:57 act: {"actions":[],"say":"Trini here at my bed, health 11, hunger 17. Riker, Troi, I hold still and will not walk without Billy's or Worf's named route. Still holding 2 potatoes for Leonardo, Worf and Zack
 - 10:05 act: {"actions":[],"say":"Good morning, row. Trini here at my bed, health 11, hunger 17. Still holding 2 potatoes for Leonardo, Worf and Zack. Beverly, Deanna, I am holding with you until Billy or Worf nam
+- 10:16 act: {"say":"Good morning, row. Trini here, health 11, hunger 17, holding 2 potatoes for Leonardo, then Worf, then Zack. Waiting for them to come into sight.","actions":[]}
