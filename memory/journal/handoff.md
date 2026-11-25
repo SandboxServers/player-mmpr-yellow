@@ -1,6 +1,6 @@
-# Handoff (day 1033, night)
+# Handoff (day 1033, night, thunder)
 
-- At my white bed 430,107,-1051 in Billy's row. Not enclosed, nothing hostile in sight. No errand running.
-- Planks 424 to 429 on z -1051 still wall me. Billy saw no open cell. I have broken nothing.
-- Holding 2 potatoes for Worf. Give only when he is in my sight. Wesley (415,107,-1047) has no food; he is near Worf and Billy.
-- Hunger 17, health 11. At light: wait, then look for Worf and Wesley. Break a plank only with a named cell and a sight check.
+- At 430,107,-1051 next to my white bed 429,107,-1051 in Billy's row. Bed "use" failed (it is a bed, use it by sleeping). Not enclosed. Nothing hostile in sight.
+- Sleep call returned without a new morning; no errand running.
+- Holding 2 potatoes for Worf. Give only when he is in my sight. Worf is at bed 415,107,-1050, Deanna (Troi) at her bed.
+- Hunger 17, health 11. At light: wait, greet the row, hand potatoes to Worf when he is in sight. No plank broken.

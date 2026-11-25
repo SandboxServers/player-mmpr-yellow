@@ -6,3 +6,5 @@
 - 22:03 say: Told Worf I do not see him; potatoes held until he is in my sight or a cell is named open.
 - 22:05 wait: Morning 1033. Row still walled by planks; no one has named an open cell. I hold the potatoes and break nothing.
 - 22:09 act: {"say":"Morning, 1033. I am at my white bed, 430,107,-1051, with 2 potatoes held for Worf. Worf, when you are in my sight I will hand them over. Wesley, I heard you have no food. I will look for you t
+- 22:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}}],"say":"Night. Worf is heading to his bed, and I still hold 2 potatoes for him. I will keep them until he is in my sight."}
+- 22:12 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}]}
