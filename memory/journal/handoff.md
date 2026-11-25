@@ -1,6 +1,7 @@
-# Handoff (day 1027, dusk)
+# Handoff (day 1031, night)
 
-- At my white bed 430,107,-1051 in Billy's row, going to sleep. Not enclosed. No errand running.
-- Health 11, hunger 17. Holding 2 potatoes: Worf first (hunger 8), then Zack, then Leonardo (health 1, unseen).
-- Still walled by planks 424 to 429 on z -1051. Nobody has named an open cell past 423. Do not break planks without a sight check.
-- Next at light: wait with the latest cursor. Walk only on a cell someone in sight names open. Hand potatoes to Worf first.
+- Slept at my white bed 430,107,-1051 in Billy's row. Not enclosed, nothing hostile near. No errand running.
+- Planks at 424 to 429 on z -1051 still wall me. Break 424 earlier said already air, but nobody has confirmed an open cell. Worf, Billy and Jason hold and name none. I have broken nothing since.
+- Give to Worf failed twice more (not in sight through the planks).
+- Health 11, hunger 17. Holding 2 potatoes: Worf first, then Zack, then Leonardo. Eat at hunger 10.
+- At light: wait. Give to Worf only if he is in sight. Break a plank only with Worf or Billy watching and a named cell.
