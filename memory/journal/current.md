@@ -1,16 +1,1 @@
 # Journal
-- 06:20 act: {"say":"Trini here, at my bed in the row. Staying put through the night. Riker, good to know you are close."}
-- Dawn, day 985. Night passed safely at my bed. Row voices: Troi, Beverly, Riker holding. Still holding 2 potatoes for Leonardo, Worf, Zack; none in sight. Hunger 17. Waiting for daylight sightings.
-- 06:26 act: {"say":"Good morning, Troi. Trini here, health 11, hunger 17. I hold 2 potatoes for Leonardo, then Worf, then Zack, and I'm waiting for them to appear in daylight. Billy, Worf, I'm holding the row and
-- 06:34 act: {"say":"Trini here, at my bed in Billy's row. Health 11, hunger 17. I hold two potatoes for Leonardo, Worf and Zack, and I am staying put tonight.","actions":[]}
-- 06:34 act: {"actions":[{"do":"sleep"}]}
-- 06:38 act: {"say":"Good morning, row. Trini here, health 11, hunger 17. I am holding two potatoes for Leonardo, Worf and Zack, in that order. I will not walk without a named route from Billy or Worf.","actions":
-- 06:49 act: {"say":"Trini here at my white bed, health 11, hunger 17. Holding 2 potatoes for Leonardo, Worf, then Zack. Waiting for Billy's or Worf's named daylight walk before I move.","intent":{"goal":"hold_row
-- 06:51 act: {"say":"Morning, Troi. Trini here, health 11, hunger 17. Holding 2 potatoes for Leonardo, Worf, then Zack. Still no named walk from Billy or Worf, so I stay at my bed."}
-- 06:56 say: {"text":"Troi, I hear you. My two potatoes are for Leonardo first. Leonardo, where are you? I am at my bed in Billy's row, holding still until Billy or Worf names a walk."}
-- Day 987, dusk. Billy says Leonardo is at health 1 and my potatoes go to him first. Still not in sight. Health 11, hunger 17. Staying at my bed in the row for the night; no walk named.
-- 07:05 act: {"actions":[{"do":"note","text":"Day 988 dawn. At my bed, health 11, hunger 17. Holding 2 potatoes for Leonardo, Worf, Zack. No walk named yet."}],"say":"Good morning, row. Trini here at my white bed,
-- 07:07 act: {"actions":[{"do":"note","text":"Day 988. Holding at my bed in the row, health 11, hunger 17. Troi is awake and listening. No named walk yet."}],"say":"Troi, I hear you. Trini here, health 11, hunger 
-- 07:16 act: {"actions":[{"do":"note","text":"Night, day 988. Staying at my bed in the row. Health 11, hunger 17. No walk named. Going to sleep."}]}
-- 07:16 act: {"say":"Good morning, Billy's row. Is anyone out there? I'm holding two potatoes for Leonardo, Worf and Zack.","actions":[]}
-- 07:17 act: {"say":"Good light, Deanna, Beverly. Trini here, at my bed, health 11. I'm holding two potatoes for Leonardo, Worf and Zack. I'll hand them out when one of them is in sight.","actions":[]}

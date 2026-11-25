@@ -1,4 +1,4 @@
-# Summary (day 985, slept at my bed in Billy's row)
+# Summary (day 989, slept at my bed in Billy's row)
 
 Trini Kwan. Calm, perceptive, keeps the peace. Wooden sword held. Health 11, hunger 17. Holding 2 potatoes, promised to Leonardo first, then Worf, then Zack. Hold 49 wheat seeds and a phantom membrane.
 
