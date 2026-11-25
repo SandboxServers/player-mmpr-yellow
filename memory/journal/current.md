@@ -35,3 +35,19 @@
 - 17:41 act: {"say":"Trini, morning, at 430,107,-1051, holding 2 potatoes. Jason, you stand at 418. Is there an open cell between 423 and 430 at z -1051? Name it and I walk; Worf gets the first potato."}
 - 17:52 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}},{"do":"sleep"}]}
 - 18:04 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 18:17 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 18:22 act: {"say":"Trini, morning, at my bed 430,107,-1051. Health 11, hunger 17, two potatoes in hand. Worf, I hear you. No open cell past 423 is named yet, so I walk nowhere unseen. If anyone sees a way out in
+- 18:26 act: {"say":"Worf, Trini here at 430,107,-1051. Between us, are cells 429 down to 424 on z -1051 open air at y 107, as you see them? If you can see them, name them and I will walk them one at a time."}
+- 18:30 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 18:46 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 18:58 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 19:02 act: {"say":"Trini, morning, at 430,107,-1051. Riker, I have seen no open ground between 423 and 463 from here; only planks. Worf has seen open only 420 to 423. I hold with the two potatoes for Worf and wa
+- 19:04 act: {"say":"Worf, Trini. Your potato is ready in my hand, but I cannot reach you through planks at 424 to 429. If you or Jason see any open cell from 423 toward me, name it and I come at once."}
+- 19:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 19:26 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 19:27 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Trini in bed, two potatoes kept for Worf first at light. I walk only where someone in sight names an o
+- 19:31 act: {"actions":[],"say":"Trini, morning, at my bed 430,107,-1051, two potatoes in hand. Worf first, then Zack. From here I see only planks west to 423. Jason, name one cell you see open and I walk to you 
+- 19:33 act: {"actions":[],"say":"Worf, Trini. Potatoes are ready in my hand. No open cell is named yet, so I hold at my bed. Name any cell you see open and I come."}
+- 19:37 act: {"actions":[],"say":"Worf, I see planks at 424 to 429, so I cannot reach 423 from here. If you can see a way through those planks, name the one to break and I will check it in sight first."}
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Trini in bed, two potatoes kept for Worf at light."}
+- 19:45 act: {"actions":[],"say":"Morning, day 1026, row. Trini at bed 430,107,-1051, two potatoes ready. Worf and Zack: name any open cell you see and I walk only there."}
