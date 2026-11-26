@@ -1,6 +1,7 @@
-# Handoff (day 1102, night, to bed 429,107,-1051)
+# Handoff (day 1103, dusk, going to bed in the row at 429,107,-1050)
 
-- Asleep in the row, no errand running, nothing broken.
-- Holding 2 potatoes: Worf first, then Zack, then Leonardo. Tommy asked; told him they are promised.
+- Holding 2 potatoes: Worf first, then Zack, then Leonardo. Not yet handed: no two-reader gap cell named.
 - Hunger 17, health 11. Eat at hunger 10, after serving.
-- At light: view from 422 or 423, name a cell both Worf and Zack can see, wait for two readers before any plank is touched.
+- Walked to 423 at light, planks block sight north; Zack, Worf, Billy, Jason, Riker all hold. No plank is touched.
+- Bed use at 429,107,-1051 failed as "that block is a bed"; sleep partly worked earlier.
+- At light: view from 423, wait for a cell two readers name before any plank is touched.
