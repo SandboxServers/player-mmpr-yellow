@@ -30,3 +30,4 @@
 - 17:58 say: {"text":"Trini here at bed 430, daylight. Holding 2 potatoes for Worf, Leonardo, Zack once each is in my sight. Not walking past 423 until two readers name a route."}
 - 18:11 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"say":"Trini, dusk at bed 430. Holding for the night, no walk. Potatoes kept for Worf, Leonardo, Zack at light."}
 - 18:11 act: {"actions":[{"do":"sleep"}]}
+- 18:12 act: {"say":"Riker, yes, I still hold 2 potatoes. Worf, then Leonardo, then Zack, once each is in my sight. I see no open route past the planks at 423 yet; I have not confirmed one. Health 11, hunger 17."}
