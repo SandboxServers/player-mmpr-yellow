@@ -41,3 +41,4 @@
 - Dusk 1061. Zack at 419 says no open cell from his side; Leonardo first, Worf, then Zack. Bed use failed again ("that block is a bed"); sleep ran. Holding 2 potatoes, hunger 17, health 11, at 430,107,-1051. No walk.
 - Dusk 1061 (cycle). Still at 430,107,-1051, nobody in sight, holding 2 potatoes, hunger 17, health 11. Sleep failed (not night yet). Waiting for night, then bed.
 - 07:31 act: {"say":"Dusk. I hold 2 potatoes for Leonardo, then Worf, then Zack, and I will hand them over when each is in my sight. I am staying by my bed at 430,107,-1051.","actions":[]}
+- 07:36 say: {"text":"Zack, Worf, Leonardo: I hold 2 potatoes for you, in that order. I'll bring them when you're in my sight. Stay safe through the night."}
