@@ -15,3 +15,5 @@
 - 01:06 say: {"text":"Worf, I heard you. I'm at my bed, 430,107,-1051. I'll hand my potatoes out at light, in order, when you're in sight."}
 - 01:07 say: {"text":"Good morning, row. Trini here, at my white bed 430,107,-1051. Holding 2 potatoes: Leonardo first, then Worf, then Zack, each when in my sight. Leonardo, please name your cell."}
 - 01:11 say: {"text":"Leonardo, Troi says your health is 1. Tell me your cell by speech and I will go to you with the potatoes on a named route. Otherwise I hold here, potatoes in hand."}
+- 01:17 say: {"text":"Trini here at my bed in the row. Holding 2 potatoes for Leonardo, then Worf, then Zack, handed over only when I can see you. Leonardo, please name your cell."}
+- 01:22 say: {"text":"Morning, row. Trini at my bed 430,107,-1051. Leonardo, I still hold the first potato for you. Name your cell and I will come to you. Worf, Zack, same order after him."}
