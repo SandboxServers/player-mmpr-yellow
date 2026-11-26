@@ -10,3 +10,5 @@
 - 16:59 say: {"text":"Trini here, awake at 430,107,-1051. Holding, no walk. Holding my 2 potatoes for Leonardo, Worf, Zack when I can see them."}
 - 17:06 say: {"text":"Worf, morning 1090, I hear you at 418 with hunger 5. I still cannot see you from 430, and the wall is between us. I am checking the cells west of me now, and I will bring the potatoes the mom
 - 17:15 say: {"text":"Trini, night 1090, going to my bed at 430,107,-1051. Holding 2 potatoes for Leonardo, Worf, Zack when they are in my sight. No walk from me tonight."}
+- 1090 morning: woke at 430, no one in sight, no walk named. Said morning to the row and asked for an armed read past 423. Holding the 2 potatoes.
+- 17:20 act: {"actions":[{"do":"note","text":"Morning 1090. Trini at bed 430, holding 2 potatoes. No one in sight. Worf (hunger 5) and Zack (14) still behind the wall at 418; no open route past 423 is named by two
