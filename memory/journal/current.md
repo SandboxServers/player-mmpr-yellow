@@ -1,1 +1,9 @@
 # Journal
+- 16:47 act: {"say":"Morning, row. I am at bed 430 with 2 potatoes, held for whoever comes into sight first: Leonardo, then Worf, then Zack. Still no open route past 423 named."}
+- Day 1089 morning, woke at bed 430. Health 11, hunger 17. No one in sight. Said the row greeting and the potato order. Holding; waiting for someone in sight.
+- 16:49 act: {"say":"Riker, I have no exact open cells past 423 yet. My survey stops at 423 on z -1065, so I cannot name a route. I will not walk it alone. Holding at 430 with the potatoes."}
+- Heard the row: Worf at 418 hunger 5, Zack at 418 hunger 14, Billy says serve Worf first. Leonardo not seen. No open route past 423 named. Holding at 430; potatoes stay with me until someone is in sight.
+- Told Worf I cannot see him from 430 and will not send an unconfirmed walk. Billy, Jason, Zack all hold; no cell past 423 named. Still holding the 2 potatoes.
+- 16:50 act: {"say":"Worf, I hear you at 418, hunger 5. Leonardo is not in my sight, so the potatoes are yours next. The wall sits between 423 and 430, so I cannot reach you safely yet. Can you walk to 423 and tel
+- 16:50 act: {"say":"Zack, I hear you at 418, hunger 14. I still cannot see Leonardo, so I hold the potatoes for whoever comes into my sight first. Worf is the next one I will serve. Troi, Leonardo has not come in
+- 16:54 act: {"say":"Worf, no, I cannot see you from 430. The wall is between us. I will not send you a walk I cannot confirm. Stay at 418 with Zack, and I will come to 423 with the potatoes once Billy or Jason na
