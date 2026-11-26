@@ -8,3 +8,5 @@
 - 16:50 act: {"say":"Zack, I hear you at 418, hunger 14. I still cannot see Leonardo, so I hold the potatoes for whoever comes into my sight first. Worf is the next one I will serve. Troi, Leonardo has not come in
 - 16:54 act: {"say":"Worf, no, I cannot see you from 430. The wall is between us. I will not send you a walk I cannot confirm. Stay at 418 with Zack, and I will come to 423 with the potatoes once Billy or Jason na
 - 16:59 say: {"text":"Trini here, awake at 430,107,-1051. Holding, no walk. Holding my 2 potatoes for Leonardo, Worf, Zack when I can see them."}
+- 17:06 say: {"text":"Worf, morning 1090, I hear you at 418 with hunger 5. I still cannot see you from 430, and the wall is between us. I am checking the cells west of me now, and I will bring the potatoes the mom
+- 17:15 say: {"text":"Trini, night 1090, going to my bed at 430,107,-1051. Holding 2 potatoes for Leonardo, Worf, Zack when they are in my sight. No walk from me tonight."}
