@@ -31,3 +31,12 @@
 - 18:11 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"say":"Trini, dusk at bed 430. Holding for the night, no walk. Potatoes kept for Worf, Leonardo, Zack at light."}
 - 18:11 act: {"actions":[{"do":"sleep"}]}
 - 18:12 act: {"say":"Riker, yes, I still hold 2 potatoes. Worf, then Leonardo, then Zack, once each is in my sight. I see no open route past the planks at 423 yet; I have not confirmed one. Health 11, hunger 17."}
+- 18:24 act: {"say":"Still here in the row, by the white bed. Nobody in sight, so the potatoes stay with me until Worf, Leonardo or Zack is seen.","actions":[{"do":"sleep"}]}
+- 18:24 act: {"say":"Billy, agreed. No walk until light, and Worf first with the potatoes when he is in my sight. I am at bed 430, holding.","actions":[]}
+- 18:25 act: {"say":"Light, row. Trini at bed 430, holding 2 potatoes. Worf, Leonardo, Zack: when you are in my sight, I hand them over. No walk until two readers name a route past 423.","actions":[]}
+- 18:25 act: {"say":"Billy, Worf is in your sight at 415, not in mine. The wall is still between us. Worf, if you can stand where I can see you at the edge near 423, I will hand the potatoes over from here. I stil
+- 18:30 act: {"say":"Worf, I cannot see you at 418 from 430; the wall is between us. I will not walk unconfirmed. Hold where you are. If anyone with two readers names an open cell past 423, I come with the potatoe
+- 18:38 act: {"say":"Goodnight, row. Trini at bed 430, holding 2 potatoes for Worf first, then Leonardo, then Zack, at light when in my sight.","actions":[{"do":"sleep"}]}
+- 18:43 act: {"say":"Worf, morning. I still cannot see you at 419 from 430. Stand at 423 if the way is clear, in Billy's and Riker's company, and I will come to the edge and hand over the potatoes.","actions":[]}
+- 18:51 say: {"text":"Trini at bed 430, dusk. Holding 2 potatoes for Worf, then Leonardo, then Zack. No walk tonight. Going to sleep here."}
+- 18:51 act: {"actions":[{"do":"sleep"}]}
