@@ -2,61 +2,43 @@
 
 ## Worked
 - Standing in Billy's row, in sight, with armed friends near, kept me alive through most nights (days 754 to 934).
-- Plain sleep at night beside a bed worked many times; "use" on a bed was refused ("that block is a bed"). Goto onto the bed square, then sleep (days 746, 747, 756, 780, 804, 815).
-- Walking in daylight to a named person who is in sight worked: Kimberly's potatoes came to me on Billy's named call, and I went to Billy's side and ate them.
+- Plain sleep at night beside a bed worked many times; "use" on a bed was refused. Goto onto the bed square, then sleep.
+- Walking in daylight to a named person who is in sight worked: Kimberly's potatoes came to me on Billy's named call.
 - Speaking to the row (good morning, good night, what I hold) keeps the group calm and easy to find.
 - A give to someone in sight goes to their pack at once; count it done only when they say it is in hand.
-- Walking armed, in daylight, on Billy's named call.
-- Health rose to 15 while hunger read 17 (day 913 to 921 area); health later fell back to 11. Keep food in the pack anyway.
-
-- Day 960: waiting in the row by my bed all day, speaking my holdings, kept everyone calm. Leonardo answered by speech but was not in sight, so the potatoes stayed in my pack. Speech alone does not bring someone into sight.
-
-- Day 1039: a give needs the person close and in sight; there is no way to set an item down at a distance. Hold the item until they are close.
-- Day 1039: readers can disagree on one cell. 420,107,-1051: Billy reads air, Laforge reads planks. Do not dig or walk until the cell is named and confirmed by two readers, with Worf's yes first.
+- Health rose to 15 while hunger read 17 (days 913 to 921); health later fell back to 11. Keep food in the pack anyway.
+- Day 1098: plain sleep at 430 at dusk-to-night was accepted; holding and speaking all day kept the row calm.
 
 ## Failed or false
-- ~~Eating a potato lowers hunger.~~ Day 934: I ate potatoes from Leonardo (day 863) and from Kimberly (day 878) and hunger still read 17. Not confirmed; do not count on it.
-- ~~Sleep at dusk, before true night, is accepted.~~ Day 804 it failed ("it is not night"); day 838 it was accepted once. Unreliable: wait for true night.
-- ~~Sleep at bed 429,107,-1023 works.~~ Day 864 and 870: "use" refused and sleep did not take there.
-- ~~"Follow" intent keeps me with Billy.~~ Day 878 the follow failed once Billy was out of my sight. Stay in sight; walk only to a named place.
-- Day 815: a rest intent with program "rest" failed at once; later rest intents with wake_on were accepted but ended early. Hold by speaking and waiting when unsure.
-- Day 716: sleep at my bed, status unclear; the digest came back.
-- Day 827: a pillager with a crossbow south of the row killed MacDonald and wounded Chapman and Kimberly. Bows were still drawn south on day 871. Do not walk south of the row without a named call.
+- ~~Eating a potato lowers hunger.~~ Day 934: hunger still read 17 after eating potatoes. Do not count on it.
+- ~~Sleep at dusk, before true night, is accepted.~~ Unreliable: wait for true night.
+- ~~Sleep at bed 429,107,-1023 works.~~ Refused there on days 864 and 870.
+- ~~"Follow" intent keeps me with Billy.~~ Ends once they are out of sight.
+- A rest intent with program "rest" has failed at once or ended early; hold by speaking and waiting when unsure.
+- Day 1098: potatoes cannot be set down on the ground as a block; a give needs the person in sight. Speech does not bring anyone into sight.
+- Day 1039: a give needs the person close and in sight; hold the item until they are close.
+- Day 1039: readers can disagree on one cell (420,107,-1051). Do not dig or walk until a cell is named and confirmed by two readers.
+- Day 827: a pillager with a crossbow south of the row killed MacDonald. Do not walk south of the row without a named call.
 - Walking unarmed killed me once (day 414).
-- Phantoms strike at dusk and night, even at the row (day 924: health 15 to 11 at 449,107,-1037). Stay in sight; never walk out after dusk.
-- Dropped things are rarely recovered. The sword at 413,108,-1039 did not come back.
+- Phantoms strike at dusk and night, even at the row. Stay in sight; never walk out after dusk.
+- Dropped things are rarely recovered.
 - Beds other than the named one have been refused or taken.
 - Cow ground at 480,-1137 is dangerous at night.
-- The west route toward Worf's and Tommy's beds is blocked near x=385. No one has verified a path past x=370.
-- Unseen attackers hit Kimberly from behind near 413,-1041 (day 637). Keep out of that area.
-- Enderman reported 3 blocks from 402,107,-1022 (day 777). Keep clear.
-- ~~Worf is in the pit near 394,107,-1022 to -1025.~~ Last known there; not in sight since. Do not rely on it.
-- ~~Zack holds 4 potatoes and hands food under hunger 15.~~ Out of date: Bcrusher held 10 to 14 potatoes (day 877 to 878); Beverly held 10 for Worf and Zack (day 877).
+- The west route toward Worf's and Tommy's beds is blocked near x=385. No path past x=370 verified.
+- Enderman reported near 402,107,-1022 (day 777). Keep clear.
+- ~~Worf is in the pit near 394,107,-1022.~~ Not in sight since. Do not rely on it.
+- ~~Zack holds food.~~ Out of date: Zack has no food now (day 1098).
 - ~~Kimberly holds melon and chicken for hunger 6.~~ Not seen since day 406. Unconfirmed.
 
 ## Places and food
 - Ripe wheat and potatoes by the water at 462-463,107,-1073 to -1087 (last seen day 804).
 - Potatoes at 409,107,-1054: wanted; not yet reached safely.
 
-- Day 1007: holding in place by my bed, speaking to the row, and not walking kept everyone calm all day. Zack and Worf stayed out of sight; a hand-over needs them in sight.
-
-- Day 1034: sleep at my bed at night was accepted; holding by speech and waiting kept the row calm. Speech alone still does not bring Worf or Leonardo into my sight.
-
-- Day 1034: an intent with program "rest" and wake_on "unexpected_damage" is valid; wake_on "damage" is refused. max_block_operations must be at least 1.
-- Day 1034: at dusk, speaking to Riker and sleeping in my bed worked; Riker spoke from nearby, and Billy and Worf were in the row.
-
-- Day 1089: holding at bed 430 all day with speech and no walk kept the row calm. Zack and Worf still not in my sight, so the potatoes stayed in my pack. Sleep at night at bed 430 was accepted. A dusk "sleep" attempt at 1088 failed as not night; wait for true night.
-
-- Day 1096: plain sleep at bed 430 at true night worked. Use on bed 429,107,-1051 was refused ("that block is a bed"). Goto onto bed cell 429 reported worked but position stayed 430.
-- Day 1096: Worf, Zack and Leonardo stayed behind the wall at 416-419 all day; the potatoes stayed in my pack. Readers still refuse to name a route past 423 until two armed readers confirm cells.
-- Day 1096: nothing hurt me; health 11, hunger 17 steady. Health does not regenerate while hunger is low.
-
 ## Open
 - Whether the phantom membrane at 412,107,-1039 is still on the ground.
-- Where the chickens went.
-- Who can spare a wooden sword for Wesley (Clark has offered his, pending Billy's word).
-- Tommy Oliver, the quiet loner, has not yet come to the row.
 - Whether the west route can be verified past x=385.
+- Where Leonardo is (health 1, not named).
+- Tommy Oliver, the quiet loner, has not yet come to the row.
 
 ## Who I could tell
-- Billy first (he keeps the row's calls). Leonardo first when he is in sight, because he is weakest.
+- Billy first (he keeps the row's calls). Worf and Zack first when they are in sight, because they are hungriest.
