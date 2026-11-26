@@ -27,3 +27,6 @@
 - 17:43 act: {"say":"Goodnight, row. Deanna, Riker, Zack: holding at 430 with the 2 potatoes. Worf first, then Leonardo, then Zack, once in my sight. No walk until two readers name a route."}
 - 17:48 act: {"say":"Morning 1092. Worf, I hear you; the potatoes are yours first. The wall still sits between 423 and 430, and I cannot see you from here. I will walk only on a route two readers name. Who can rea
 - 17:53 act: {"say":"Billy, yes: Worf first. I have looked west from 430 and see only planks, no open cell. Until a cell past the planks is named by two of us, I hold the potatoes here."}
+- 17:58 say: {"text":"Trini here at bed 430, daylight. Holding 2 potatoes for Worf, Leonardo, Zack once each is in my sight. Not walking past 423 until two readers name a route."}
+- 18:11 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"say":"Trini, dusk at bed 430. Holding for the night, no walk. Potatoes kept for Worf, Leonardo, Zack at light."}
+- 18:11 act: {"actions":[{"do":"sleep"}]}
