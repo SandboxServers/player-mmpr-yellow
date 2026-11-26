@@ -1,7 +1,8 @@
-# Handoff (day 1051, night)
+# Handoff (day 1055, night)
 
-- At 430,107,-1050 beside the white bed at 429,107,-1050 in Billy's row. Not enclosed. No errand half-done.
-- Holding 2 potatoes. Plan: at light serve Leonardo, then Worf, then Zack, only when each is in my sight. Note: I told Zack and Riker "whoever comes first", which is not the agreed order; restore Leonardo, Worf, Zack order.
-- Zack, Billy and Jason at 418,108,-1050 for the night; Riker at 430,107,-1065.
-- Route past 423 still unconfirmed. Nobody walks until 426 to 430 is read by two.
+- At 430,107,-1051 beside the white bed at 429,107,-1051. Not enclosed. No errand running.
+- Holding 2 potatoes. Worf is first (Zack yielded to him, Billy agrees), then Zack. Serve when either is in my sight.
+- Worf at 418,107,-1047 (hunger 7, no food). Zack at 418,108,-1050. Billy, Jason hold at 418 and 416. Riker 430,107,-1065. Laforge 416,107,-1065. Meriwether 444,107,-1051.
+- No two-reader route past 425. My view west is all planks; I cannot read 426 to 430. Nobody walks until named.
 - Health 11, hunger 17. Eat at hunger 10, after serving.
+- Sleep: days_since_sleep 4. Trying the bed now.

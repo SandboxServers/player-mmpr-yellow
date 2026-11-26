@@ -9,3 +9,12 @@
 - 04:20 act: {"say":"Billy, thank you. The row agreed Leonardo, then Worf, then Zack, so I hold to that order. Whoever of them comes into my sight, I hand over the potato."}
 - Day 1052 dusk. Still holding at 430,107,-1051 beside the bed, hunger 17, health 11. Nobody in my sight; Worf holds at 419, no route named past 425. Waiting for light and for someone to come into sight.
 - Day 1052 morning. Everyone holds; no route named past 425; Riker, Laforge, Billy, Zack all wait for 426 to 430 read by two. My view west is all planks, so I read nothing east. Still holding with 2 potatoes, nobody in sight.
+- Day 1053 morning. Slept nothing; still holding at bed. Zack hunger 14 at 418 with Worf and Billy, no route. Nobody in my sight. Hunger 17, health 11. Waiting.
+- Worf yielded his turn: potatoes go to Zack first when he is in my sight (Leonardo still unseen). Billy agrees. I told Zack to come when route is read open. Still no route past 425; Jason reads only planks.
+- 04:47 act: {"say":"Trini, morning 1053. I hold 2 potatoes at 430,107,-1051 for Leonardo, Worf, Zack in that order, as soon as one is in my sight. No route is named yet, so I stay put."}
+- 04:53 act: {"say":"Worf, thank you. Zack first, when he is in my sight. Zack, come to 430,107,-1051 once the route is read open, and I will hand you a potato."}
+- 05:06 act: {"say":"Trini, morning 1054. Worf, your hunger is 7; Zack first, then you when either of you is in my sight. I still have no route to walk, so I stay at 430,107,-1051."}
+- 05:14 act: {"say":"Trini, day 1054 bright. Worf, Zack: I still hold 2 potatoes at 430,107,-1051. Name open cells past 425 and I will walk to meet you, or come to me and I hand you one."}
+- 05:15 act: {"say":"Zack, I have not given you a potato yet; I still hold both. Worf is hungry at 7, so Worf first when he comes into my sight, then Zack. I walk only on two readers' named cells."}
+- 05:18 act: {"say":"Trini, day 1054 bright. Worf, I face west and see only planks, so I cannot read 426 to 430 either. I hold both potatoes at 430,107,-1051 and will hand one to you the moment you come into my si
+- 05:26 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"say":"Trini, night 1055. Holding 2 potatoes for Worf first, then Zack, at my bed 430,107,-1051. I go to sleep here."}
