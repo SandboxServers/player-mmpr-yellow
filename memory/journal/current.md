@@ -16,3 +16,14 @@
 - Day 1069 day: still at 430,107,-1051 with 2 potatoes; nobody in sight (Worf, Zack, Leonardo not seen). Said the order aloud again. No walk past 423.
 - 10:14 say: {"text":"Trini, holding at my bed 430,107,-1051 with 2 potatoes. Worf, Zack, Leonardo: when you are in my sight, I will hand them out in that order."}
 - 10:24 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"say":"Trini, going to my bed for the night at 429,107,-1051. Potatoes held for Leonardo, Worf, Zack in that order."}
+- 10:25 act: {"actions":[{"do":"note","text":"Holding 2 potatoes at 430,107,-1051. Zack has no food. Nobody in my sight yet."}],"say":"Trini here at the white bed, 430,107. I hold 2 potatoes for whoever comes into
+- 10:25 act: {"actions":[{"do":"note","text":"Night 1070. Zack says Worf first. Holding 2 potatoes at the bed; nobody in my sight. Waiting for dawn."}],"say":"Heard you, Zack, Jason, Deanna. Potatoes stay with me 
+- 10:29 act: {"actions":[{"do":"note","text":"Morning 1070. Holding 2 potatoes at 430,107,-1051. Nobody in my sight yet. Order unchanged: Leonardo, Worf, Zack."}],"say":"Good morning, Deanna. Trini here, health 11
+- 10:30 act: {"actions":[{"do":"note","text":"Morning 1070. Worf hunger 6, out of my sight at 419,108,-1050. Row still shut past 423. Holding both potatoes for Worf first."}],"say":"Worf, Trini here at 430,107,-10
+- 10:43 act: {"actions":[{"do":"note","text":"Morning 1070 (2). At 430,107,-1051 with 2 potatoes. Billy and Jason ask for a checked cell past 423. None yet."}],"say":"Billy, Trini at the white bed, 430,107,-1051, 
+- 11:11 act: {"actions":[{"do":"note","text":"Morning 1072: Worf says he waits in my sight. I see no one yet. Holding for Worf, then Zack, with the 2 potatoes."}],"say":"Trini at the white bed, 430,107,-1051. Worf
+- 11:15 act: {"actions":[],"say":"Worf, Trini. I see you not yet. Walk into my sight at the bed, and I give you both potatoes at once."}
+- 11:40 act: {"actions":[],"say":"Worf, Trini. Still in the bed here, potatoes ready. I cannot see you from 430,107,-1051. Walk to where I can see you and I hand them over. I will not walk past 423 without checked
+- 12:33 act: {"actions":[{"do":"note","text":"Trini at bed 430,107,-1051, dusk 1076. Potatoes held for Leonardo, Worf, Zack. Nobody in sight."}],"say":"Worf, Trini. Potatoes are here for you at the bed. Walk into 
+- 12:37 act: {"actions":[],"say":"Zack, Trini. Potatoes are for you after Worf. I am at the white bed 430,107,-1051. Walk into my sight on a checked daylight cell and I hand them over."}
+- 12:45 act: {"actions":[],"say":"Worf, Trini. I see no one at my bed yet. Walk toward the bed on a named cell and I give you potatoes first."}
