@@ -29,3 +29,10 @@
 - 22:50 act: {"actions":[],"say":"Tommy, I hear you; I hold the potatoes for Worf and Zack first. Worf or Zack, step into my sight and I hand them over."}
 - 22:56 say: {"text":"Leonardo, where are you? If you can see me or step into view at 423, I will give you one potato now, since you are at 1 health."}
 - 22:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}},{"do":"sleep"}],"say":"Dusk, 1107. Going to my bed at 429 with 2 potatoes for Worf and Zack. Name a cell at light and I will come."}
+- 23:00 say: {"text":"Riker, heard you. I stay at my bed 429 through the night with the 2 potatoes. At light I go to 423 for Worf and Zack."}
+- 23:04 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1049}}],"say":"Light, 1107. I walk to 423 with the 2 potatoes for Worf and Zack. Name an open cell you see, or step where I can see you."}
+- 23:04 act: {"actions":[],"say":"At 423 in morning sun, holding 2 potatoes. Nobody in my sight. Worf, Zack, Riker: step where I can see you, or name one open cell you see, and I hand them over. I break no plank."
+- 23:05 say: {"text":"Riker, Lewis, I hear you. I still see only planks at 423, so no cell is named and I break none. I hold the 2 potatoes for Worf and Zack. If either of you wants to come into my sight, I will h
+- 23:07 say: {"text":"Riker, I will not walk the potatoes to you. I promised them to Worf and Zack first. I hold at 423 and will hand them over the moment either of them is in my sight."}
+- 23:07 say: {"text":"Worf, I hear you at 416, hunger 5. I am at 423 holding 2 potatoes for you. Name any cell you can see past the planks, and if Zack or Laforge sees the same one, I break it and hand you one at 
+- 23:15 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}},{"do":"sleep"}],"say":"Night, 1108. Nobody in sight past the planks, so I go to my bed at 429 with the 2 potatoes for Worf and Zack. I br
