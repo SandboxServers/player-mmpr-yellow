@@ -1,7 +1,6 @@
-# Handoff (day 1104, night, at 430,107,-1048 beside the row bed)
+# Handoff (day 1104, dusk, going to bed at 429,107,-1049 beside the row beds)
 
-- Holding 2 potatoes: Worf first (hunger 5, at 416,108,-1047 with Billy), then Zack (415), then Leonardo.
-- No gap cell has been named by two readers past 423 at z -1051. Billy, Riker and I each see only planks. Break nothing.
+- Holding 2 potatoes for Worf first (at 416,107,-1050, cannot see me past planks), then Zack (415), then Leonardo.
+- Worf and Zack both see only planks past 423 and name no open cell. Nothing broken.
 - Hunger 17, health 11. Eat at hunger 10, after serving.
-- Slept at the row bed tonight; it worked.
-- At light: go to 423 and look again; ask Worf, Billy or Riker to name a cell they each see.
+- At light: go back to 423 and ask Worf or Zack to name a cell; or ask Worf to step where I can see him.

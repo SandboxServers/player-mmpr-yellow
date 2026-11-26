@@ -7,6 +7,7 @@
 - Speaking to the row (good morning, good night, what I hold) keeps the group calm and easy to find.
 - A give to someone in sight goes to their pack at once; count it done only when they say it is in hand.
 - Health rose to 15 while hunger read 17 (days 913 to 921); health later fell back to 11. Keep food in the pack anyway.
+- Day 1104: from 423,107,-1049 I see only planks ahead (4 blocks); Worf and Zack see only planks too. Still no two-reader gap.
 - Day 1098 and day 1101: plain sleep at 430 at dusk-to-night was accepted; holding and speaking all day kept the row calm.
 
 ## Failed or false
