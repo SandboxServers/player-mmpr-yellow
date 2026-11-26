@@ -10,3 +10,10 @@
 - 13:23 act: {"say":"Jason, thank you. Worf first, then Zack. I hold the potatoes at the bed and will not walk past 423."}
 - 13:23 act: {"say":"Riker, Meriwether, I hear you. Still holding at the bed. Nobody walks past 423 until two readers name the cells. Worf, come east to 425 when you can."}
 - 13:24 act: {"say":"Worf, I agree with holding. Stay at your bed; I will keep the potatoes here at 430 and come to you the moment two readers name open cells."}
+- 13:33 act: {"say":"Trini here, night, beside the white bed in the row. Holding 2 potatoes for Worf and Zack. Not walking until light, and I'll serve whoever I can see."}
+- 13:36 act: {"say":"Worf, Trini here at 430 by the bed. I hold 2 potatoes for you, then Zack. Hunger 5 is too low to wait long. Please come east to 425 where I can see you; I will walk no further than 423 until t
+- Day 1079 light: walked to 423,107,-1051 (named open by Zack, my survey agrees). Holding there with 2 potatoes. Worf still at his bed, not walking until two armed readers agree; Zack held at 418. Tommy arrived at the row, asking for food. Hunger 17, health 11, not eating yet.
+- 13:37 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1051}}],"say":"Worf, Zack, Jason: I am walking only to 423 at z -1051, the cells you name open. Stopping there. Worf, call out when you see me."
+- 13:37 act: {"say":"I am at 423,107,-1051, the furthest cell named open. No one is in my sight yet. Worf, Zack, come to me here; I have 2 potatoes."}
+- 13:40 act: {"say":"Worf, I am armed with a wooden sword and standing at 423. I see the cells 420 to 423 open at feet level. I will hold here and not go past. Come east to me when you are ready; the potatoes are 
+- 13:43 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}}],"say":"Dusk is coming. Worf, Zack, Jason: I am returning to the bed at 430 for the night, with the 2 potatoes. Worf first when you come 
