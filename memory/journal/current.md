@@ -10,3 +10,4 @@
 - 15:47 act: {"actions":[{"do":"note","text":"Day 1086 light. Still walled; Jason at 419,108,-1050 names no route. Leonardo's cell unknown. Holding at 430 with 2 potatoes; hunger 17."}],"say":"Morning, row. Jason,
 - 15:48 act: {"actions":[{"do":"note","text":"Jason still holds at his bed; no route, no food. I hold at 430 with the potatoes. Leonardo has not named a cell."}],"say":"Jason, I hear you. Still holding here with t
 - 15:49 act: {"actions":[{"do":"note","text":"Meriwether holds at 443 with an empty pack. Still no route; Leonardo silent. Holding."}],"say":"Meriwether, thank you. Holding, potatoes kept. Leonardo, Worf, Zack: na
+- 15:51 act: {"actions":[{"do":"note","text":"Night 1086. At bed 430,107,-1051, holding 2 potatoes for Worf then Zack. No route named past 423; no one in sight to serve. Going to bed."}],"say":"Night, row. Potatoe
