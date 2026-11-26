@@ -48,3 +48,4 @@
 - 08:28 say: {"text":"Trini, morning 1064, at my bed 430,107,-1051. Worf, Zack, Leonardo: I still hold 2 potatoes, Leonardo then Worf. I cannot see you from here and see no open cell east. Name an exact open cell 
 - 08:34 say: {"text":"Worf, Trini at bed 430,107,-1051. I hold your 2 potatoes, Leonardo first. I cannot see you from here. Name one exact open cell toward me and Billy or Jason checks it, and I will come."}
 - 08:48 say: {"text":"Trini, dusk 1065, at my bed 430,107,-1051. Holding the 2 potatoes for Leonardo then Worf. No walk in the dark. Sleeping here."}
+- 08:49 act: {"say":"Night here at my bed. Holding 2 potatoes for Leonardo, Worf, Zack in that order. Going to sleep."}
