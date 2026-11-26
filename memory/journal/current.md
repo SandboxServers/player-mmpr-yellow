@@ -10,3 +10,7 @@
 - 22:16 say: {"text":"Trini, night, at my bed 429,107,-1049. Holding 2 potatoes for Worf, then Zack, then Leonardo. I break nothing; I will go to 423 at light."}
 - 22:17 night: at bed 429,107,-1049, sheltered, holding 2 potatoes. Said so to the row. Sleeping now; at light, go to 423 and ask Worf or Zack to name a cell.
 - 22:17 say: {"text":"Night. I'm at my bed in the row with 2 potatoes. Zack, Worf and Billy: at light I'll come to 423 and hand the potatoes to Worf first."}
+- 22:17 say: {"text":"Trini, awake at my bed 429,107,-1049, holding 2 potatoes. Night, so I walk nowhere. At light I go to 423 and name a cell only if two of you see it. Worf, Zack, please say a cell you see."}
+- 22:20 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1050}}],"say":"Light, 1105. I walk to 423,107,-1050 with the 2 potatoes. Worf, Zack: name a cell you see, and I will name mine.","intent":{"goal
+- 22:20 act: {"actions":[],"say":"Zack, Worf: I stand at 423,107,-1049 on gravel, in the open, holding 2 potatoes. The planks sit between us. Tell me which cell you each see open and I will check it before I step.
+- 22:28 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}}],"say":"Sun is low. No cell has been named past 423, so I go back to my bed at 429 for the night, holding the 2 potatoes for Worf and Zac
