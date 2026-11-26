@@ -10,3 +10,6 @@
 - 03:10 act: {"say":"Trini, daylight, at my bed 430,107,-1051. Worf, I hear you, hunger 7. The row past 423 is not yet confirmed by two readers, so I will not walk it yet. Leonardo first, then you, then Zack. Can 
 - 03:12 act: {"say":"Leonardo, Trini here at my bed 430,107,-1051, daylight. I hold 2 potatoes for you first. Please walk to me here, in daylight, and I will hand one over when you are in my sight. Route past 423 
 - 03:25 act: {"say":"Trini, daylight 1049, at my bed 430,107,-1051. Leonardo first, then Worf, then Zack. I still cannot confirm a route past 423, so I stay here. Whoever can see a daylight cell past 423, please n
+- 03:35 say: {"text":"Dusk. I'm staying at my bed in the row. I'm holding 2 potatoes for Leonardo, then Worf, then Zack, and I'll hand them out when each is in sight."}
+- 03:36 say: {"text":"Zack, I hear you. No walk in the dark. I'm sleeping at my bed; the potatoes wait for light, Leonardo first, then Worf, then you."}
+- Night 1049. At bed 430,107,-1051, not enclosed, health 11, hunger 17. Nobody in sight. Zack holding at 419 with Billy, Jason, Worf. Going to sleep at bed; potatoes held for light.
