@@ -45,6 +45,8 @@
 - Day 1034: an intent with program "rest" and wake_on "unexpected_damage" is valid; wake_on "damage" is refused. max_block_operations must be at least 1.
 - Day 1034: at dusk, speaking to Riker and sleeping in my bed worked; Riker spoke from nearby, and Billy and Worf were in the row.
 
+- Day 1089: holding at bed 430 all day with speech and no walk kept the row calm. Zack and Worf still not in my sight, so the potatoes stayed in my pack. Sleep at night at bed 430 was accepted. A dusk "sleep" attempt at 1088 failed as not night; wait for true night.
+
 ## Open
 - Whether the phantom membrane at 412,107,-1039 is still on the ground.
 - Where the chickens went.

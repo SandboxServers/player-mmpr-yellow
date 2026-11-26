@@ -1,7 +1,7 @@
-# Handoff (day 1088, dusk)
+# Handoff (day 1089, night)
 
-- At bed 430,107,-1051 in the row, not enclosed. Jason, Riker, Laforge, Billy, Beverly, Troi, Meriwether nearby, all holding. No errand running.
-- Holding 2 potatoes, unserved. Order: Zack first (hunger 14), then Worf (hunger 5), then Leonardo if seen. Neither Zack nor Worf is in my sight.
-- No open route past 423 has been named by anyone. Nobody walks.
+- At bed 430,107,-1051 in the row, not enclosed. Row holding: Jason and Worf and Billy at 415 beds, Zack near 418, Laforge at 416,-1065, Troi at 430,-1037.
+- No errand running. Holding 2 potatoes, unserved. Order: Leonardo if seen (health 1), then Worf, then Zack.
+- No open route past 423 has been named by two readers. Riker asked for armed readers on 424-445 at z -1065; not yet answered.
 - Health 11, hunger 17. Eat at hunger 10, after serving.
-- Next: at light, hold; serve Zack or Worf when in my sight.
+- Next at light: hold; serve whoever is in my sight, first Leonardo.
