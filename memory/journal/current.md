@@ -39,3 +39,5 @@
 - 07:30 act: {"actions":[],"say":"Trini, morning 1061, at 430,107,-1051. Holding 2 potatoes: Leonardo, Worf, Zack in order. Zack, I cannot see you from here; name an open cell and I will walk to meet you."}
 - 07:30 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"say":"Zack, understood. I stay at my bed, holding 2 potatoes for Leonardo, then Worf, then Zack. Dusk now; I will not walk in the dark."}
 - Dusk 1061. Zack at 419 says no open cell from his side; Leonardo first, Worf, then Zack. Bed use failed again ("that block is a bed"); sleep ran. Holding 2 potatoes, hunger 17, health 11, at 430,107,-1051. No walk.
+- Dusk 1061 (cycle). Still at 430,107,-1051, nobody in sight, holding 2 potatoes, hunger 17, health 11. Sleep failed (not night yet). Waiting for night, then bed.
+- 07:31 act: {"say":"Dusk. I hold 2 potatoes for Leonardo, then Worf, then Zack, and I will hand them over when each is in my sight. I am staying by my bed at 430,107,-1051.","actions":[]}
