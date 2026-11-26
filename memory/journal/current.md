@@ -24,3 +24,6 @@
 - 05:44 act: {"actions":[],"say":"Trini, morning 1056. Still at 430,107,-1051 with 2 potatoes. Leonardo first, then Worf, then Zack, when any is in my sight. I walk no route until two readers name open cells."}
 - Day 1056 morning. Bed use failed ("that block is a bed"); sleep did run partly. Nobody in my sight; row reads only planks east and west. Holding 2 potatoes, hunger 17, health 11. Leonardo at health 1 per Troi. Waiting.
 - 05:58 act: {"actions":[],"say":"Troi, Trini here. Health 11, hunger 17, holding 2 potatoes at my bed 430,107,-1051. Leonardo, Worf, Zack first in that order when in my sight. I walk nowhere until two readers nam
+- 06:23 say: {"text":"Trini, night 1057, at my bed 430,107,-1051. Holding 2 potatoes for Leonardo, then Worf, then Zack, when in my sight. Walking nowhere until light."}
+- 06:27 say: {"text":"Trini, morning 1058. Holding 2 potatoes at 430,107,-1051: Leonardo, Worf, Zack in that order when in my sight. Nobody is in view yet. Jason, I can read only planks from here, so no open cell 
+- 06:28 say: {"text":"Billy, Trini here, holding at my bed 430,107,-1051 too. Agreed: no walk until two readers name an open cell. Whoever comes into my sight first gets a potato in the agreed order."}
