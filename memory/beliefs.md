@@ -47,6 +47,10 @@
 
 - Day 1089: holding at bed 430 all day with speech and no walk kept the row calm. Zack and Worf still not in my sight, so the potatoes stayed in my pack. Sleep at night at bed 430 was accepted. A dusk "sleep" attempt at 1088 failed as not night; wait for true night.
 
+- Day 1096: plain sleep at bed 430 at true night worked. Use on bed 429,107,-1051 was refused ("that block is a bed"). Goto onto bed cell 429 reported worked but position stayed 430.
+- Day 1096: Worf, Zack and Leonardo stayed behind the wall at 416-419 all day; the potatoes stayed in my pack. Readers still refuse to name a route past 423 until two armed readers confirm cells.
+- Day 1096: nothing hurt me; health 11, hunger 17 steady. Health does not regenerate while hunger is low.
+
 ## Open
 - Whether the phantom membrane at 412,107,-1039 is still on the ground.
 - Where the chickens went.
