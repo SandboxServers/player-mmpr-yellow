@@ -1,7 +1,6 @@
-# Handoff (day 1069, dusk)
+# Handoff (day 1078, night)
 
-- At 430,107,-1051 beside the white bed 429,107,-1051. Not enclosed. No errand running.
-- Holding 2 potatoes. Order: Leonardo (not seen), then Worf, then Zack. Serve only when each is in my sight. If Leonardo is absent and Worf is in sight, Worf next.
-- Nobody in my sight all day 1069. No walk past 423; no open cell named.
+- Asleep beside the white bed 429,107,-1051 in the row. Not enclosed. No errand running.
+- Holding 2 potatoes. Worf first, then Zack; Leonardo first if he is seen. Serve only when each is in my sight.
+- Row still shut past 423. No walk past 423 until two readers name a route.
 - Health 11, hunger 17. Eat at hunger 10, after serving.
-- Going to the bed for the night.
