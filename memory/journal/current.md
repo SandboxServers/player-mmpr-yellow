@@ -14,3 +14,18 @@
 - 22:20 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1050}}],"say":"Light, 1105. I walk to 423,107,-1050 with the 2 potatoes. Worf, Zack: name a cell you see, and I will name mine.","intent":{"goal
 - 22:20 act: {"actions":[],"say":"Zack, Worf: I stand at 423,107,-1049 on gravel, in the open, holding 2 potatoes. The planks sit between us. Tell me which cell you each see open and I will check it before I step.
 - 22:28 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}}],"say":"Sun is low. No cell has been named past 423, so I go back to my bed at 429 for the night, holding the 2 potatoes for Worf and Zac
+- 22:29 act: {"say":"Dusk at my bed by the row. Holding 2 potatoes for Worf and Zack. Nobody in sight yet.","actions":[]}
+- 22:31 say: {"text":"Night. I'm at my bed 429,107,-1049 holding 2 potatoes for Worf, then Zack. Riker, I'll name a cell at light."}
+- 22:31 act: {"actions":[{"do":"sleep"}]}
+- 22:36 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1049}}],"say":"Good morning, row. Worf, you are hungry at 5. I am walking to 423,107,-1049 with 2 potatoes. Worf, Zack: name one open cell you s
+- 22:37 act: {"actions":[],"say":"Zack, I am at 423,107,-1049 in full daylight, holding 2 potatoes. I see only planks too. Worf, can you step to a cell that you can see me from and name it?"}
+- 22:45 midday 1106: at 423 holding 2 potatoes. Worf (hunger 5) and Zack see only planks. Riker asks for a named cell too. Nothing broken. Waiting.
+- 22:38 act: {"actions":[],"say":"Worf, Zack, I hear you. I am at 423 and still see only planks, so I break none. I will wait here in the open and name any cell that opens."}
+- 22:39 say: {"text":"Riker, Worf, Zack: at 423 I see only planks too. No cell is named by two of us, so I break nothing and hold the potatoes here."}
+- 22:45 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}}],"say":"Night, 1107. No cell named past 423 by anyone, so I walk back to my row bed to hold the potatoes for the night."}
+- 22:47 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1049}}],"say":"Dim light, 1107. I walk to 423 with the 2 potatoes for Worf and Zack. Name an open cell if you can see me."}
+- 22:48 act: {"actions":[],"say":"At 423 in morning sun, holding 2 potatoes. Nobody in sight. Worf, Zack, step where I can see you and I will hand them over."}
+- 22:48 act: {"actions":[],"say":"Worf, Zack: I hear you, you cannot see me from 416 and 415. I break no plank. I hold the 2 potatoes here at 423 and will hand them over the moment one of you is in sight."}
+- 22:50 act: {"actions":[],"say":"Tommy, I hear you; I hold the potatoes for Worf and Zack first. Worf or Zack, step into my sight and I hand them over."}
+- 22:56 say: {"text":"Leonardo, where are you? If you can see me or step into view at 423, I will give you one potato now, since you are at 1 health."}
+- 22:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}},{"do":"sleep"}],"say":"Dusk, 1107. Going to my bed at 429 with 2 potatoes for Worf and Zack. Name a cell at light and I will come."}
