@@ -1,1 +1,8 @@
 # Journal
+- 22:02 act: {"say":"Worf, Zack, I am awake at my bed by 429. I hold 2 potatoes. Tell me where you can see me and I will come to you.","intent":{"goal":"reach_worf_with_potatoes","program":"travel","arguments":{"x
+- 22:03 act: {"say":"Worf, I hear you. I will hold the potatoes and wait for light. Name a cell you see when you can."}
+- 22:05 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1050}}],"say":"It is light. I am walking to 423,107,-1050 with the potatoes. Worf, Zack, name a cell you can see me on."}
+- 22:05 act: {"say":"I am at 423,107,-1049 in the light, holding 2 potatoes. Worf, Zack: do you see me? Name a cell you see, or step where I can see you."}
+- 22:07 act: {"say":"Worf, I am at 423,107,-1049 on gravel, and the planks sit between us. I break no plank without two of you naming the cell. I wait here."}
+- 22:09 act: {"say":"Tommy, I hear you. The two potatoes I hold go to Worf and Zack first, as I promised. I will come back to you after. Stay where it is safe."}
+- 22:15 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}}],"say":"Dusk. Worf, Zack: the planks still block us, so I go back to my row bed at 429 for the night. I still hold the 2 potatoes for you
