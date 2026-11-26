@@ -13,3 +13,6 @@
 - 09:49 act: {"say":"Worf, I hear you. Leonardo is not in my sight, so you are next. Come along the row to me at 430,107,-1051 and I hand you a potato. I will not walk past 423."}
 - Day 1069 morning: still holding at 430,107,-1051 with 2 potatoes, nobody in my sight. Troi says my bed holds the potatoes; Riker and Jason hold too. No walk past 423.
 - 09:53 act: {"say":"Worf, I cannot name open cells past 423 myself, I have not read them. I stand at 430,107,-1051 with the beds 429 and 443 around me. Come only where two readers have checked the cells. I will h
+- Day 1069 day: still at 430,107,-1051 with 2 potatoes; nobody in sight (Worf, Zack, Leonardo not seen). Said the order aloud again. No walk past 423.
+- 10:14 say: {"text":"Trini, holding at my bed 430,107,-1051 with 2 potatoes. Worf, Zack, Leonardo: when you are in my sight, I will hand them out in that order."}
+- 10:24 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"say":"Trini, going to my bed for the night at 429,107,-1051. Potatoes held for Leonardo, Worf, Zack in that order."}
