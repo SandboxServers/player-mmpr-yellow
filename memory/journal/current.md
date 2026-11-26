@@ -18,3 +18,9 @@
 - 05:15 act: {"say":"Zack, I have not given you a potato yet; I still hold both. Worf is hungry at 7, so Worf first when he comes into my sight, then Zack. I walk only on two readers' named cells."}
 - 05:18 act: {"say":"Trini, day 1054 bright. Worf, I face west and see only planks, so I cannot read 426 to 430 either. I hold both potatoes at 430,107,-1051 and will hand one to you the moment you come into my si
 - 05:26 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"say":"Trini, night 1055. Holding 2 potatoes for Worf first, then Zack, at my bed 430,107,-1051. I go to sleep here."}
+- 05:27 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night 1055. Going to bed here by the white bed, no walk. Jason is sleeping nearby too."}
+- 05:30 act: {"actions":[],"say":"Worf, Trini here at 430,107,-1051, morning 1055. I hold 2 potatoes for you first, then Zack. Come into my sight and I hand one over. I walk no route until two readers name open ce
+- 05:32 act: {"actions":[],"say":"Leonardo, Trini here at 430,107,-1051. Health 1, I am sorry. You are first in my order: come into my sight and I hand you a potato now. Worf and Zack next. Tell me where you stand
+- 05:44 act: {"actions":[],"say":"Trini, morning 1056. Still at 430,107,-1051 with 2 potatoes. Leonardo first, then Worf, then Zack, when any is in my sight. I walk no route until two readers name open cells."}
+- Day 1056 morning. Bed use failed ("that block is a bed"); sleep did run partly. Nobody in my sight; row reads only planks east and west. Holding 2 potatoes, hunger 17, health 11. Leonardo at health 1 per Troi. Waiting.
+- 05:58 act: {"actions":[],"say":"Troi, Trini here. Health 11, hunger 17, holding 2 potatoes at my bed 430,107,-1051. Leonardo, Worf, Zack first in that order when in my sight. I walk nowhere until two readers nam
