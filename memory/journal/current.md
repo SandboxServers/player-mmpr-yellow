@@ -8,3 +8,8 @@
 - 09:32 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}}]}
 - 09:33 act: {"say":"Morning. Trini here at the white bed 430,107,-1051. I hold 2 potatoes for Leonardo, then Worf, then Zack. Come into my sight and I will serve you.","actions":[]}
 - 09:33 act: {"say":"Zack, I hear you at 415. The order is Leonardo, then Worf, then you. I stay at 430,107,-1051 and will not walk past 423 until two readers name a route. Worf or Leonardo, come into my sight.","
+- 09:47 act: {"say":"Trini here at 430,107,-1051, morning, holding 2 potatoes. Leonardo, then Worf, then Zack. Come into my sight and I serve you. I still walk nowhere past 423."}
+- Day 1068 morning: Worf (hunger 6) and Zack say they hold at 415-419 and are waiting for me; none in my sight, so I hand out nothing. Still holding at 430,107,-1051, no walk past 423.
+- 09:49 act: {"say":"Worf, I hear you. Leonardo is not in my sight, so you are next. Come along the row to me at 430,107,-1051 and I hand you a potato. I will not walk past 423."}
+- Day 1069 morning: still holding at 430,107,-1051 with 2 potatoes, nobody in my sight. Troi says my bed holds the potatoes; Riker and Jason hold too. No walk past 423.
+- 09:53 act: {"say":"Worf, I cannot name open cells past 423 myself, I have not read them. I stand at 430,107,-1051 with the beds 429 and 443 around me. Come only where two readers have checked the cells. I will h

@@ -1,6 +1,6 @@
-# Goals (ranked, as of day 1051 night)
+# Goals (ranked, as of day 1069)
 
-1. Hand the 2 potatoes out in order: Leonardo, then Worf, then Zack, only when each is in my sight. Reason: the row agreed this order; Worf and Zack are hungry.
+1. Hand the 2 potatoes out when each is in my sight. Order: Leonardo, then Worf, then Zack. If Leonardo is still not in sight and Worf is, Worf goes next. Reason: Worf's hunger was 6 on day 1068, the lowest in the group; the order holds only while Leonardo is absent.
 2. Get a named daylight route past 423 that two readers confirm (426 to 430 still unread). Reason: the row is shut until then.
 3. Eat at hunger 10, after potatoes are handed out.
 4. Break no plank without a named cell and a sight check.
