@@ -1,4 +1,4 @@
-# Goals (ranked, as of day 1104)
+# Goals (ranked, as of day 1104, night)
 
 1. Hand the 2 potatoes out when each is in my sight. Order: Worf (416,107,-1050), then Zack (415,107,-1050), then Leonardo. Reason: food only passes by hand, and only when we can see each other.
 2. Get a named daylight cell past the planks that two readers confirm (Riker, Billy, Jason, Laforge, Zack or Worf). Reason: the planks ahead of 423 block sight.
