@@ -7,3 +7,8 @@
 - 00:44 act: {"say":"Morning, all. I hold two potatoes: Leonardo, then Worf, then Zack, as soon as each is in my sight. Billy, I will hold my bed until a route has two readers."}
 - 00:45 act: {"say":"Leonardo, I hold two potatoes for you first. Say your cell aloud, or stand where I can see you, and I will come to you. Troi, thank you for watching over him."}
 - 00:49 act: {"say":"Thank you, Worf. Leonardo first. I am holding both potatoes at my bed and will hand them over the moment he is in my sight."}
+- 00:53 act: {"say":"Trini here, morning of day 1041. I hold 2 potatoes for the row: Leonardo first, then Worf, then Zack, each when in my sight. Leonardo, please name your cell by speech. I hold still at my bed a
+- 00:54 act: {"say":"Trini: I see no one in my sight at 430,107,-1051, so I hand nothing yet. Worf, Zack, Leonardo: come into my sight and I serve in order. I hold still and dig nothing."}
+- 00:55 act: {"actions":[{"do":"write_sign","text":"Trini 430,107,-1051"}],"say":"Zack, I hear you. I am at 430,107,-1051 by the white bed, and I cannot see you from here. I will hold here and keep the potatoes un
+- 00:55 say: {"text":"Trini: heard, Zack. I stay by my bed and will not walk in the dark. Serve order stands: Leonardo, Worf, Zack, once each is in my sight."}
+- 00:57 say: {"text":"Thank you, Worf. Come into my sight at 430,107,-1051 and the first potato is yours to receive in order, after Leonardo. I hold still."}
