@@ -1,3 +1,12 @@
 # Journal
 - 03:06 say: {"text":"Goodnight, all. I am at my bed. Potatoes held for Leonardo, then Worf, then Zack, at light."}
 - 03:07 say: {"text":"Trini here, at my white bed. I hold 2 potatoes. Leonardo first, then Worf, then Zack, when each is in my sight at light. No walk in the dark."}
+- 03:08 act: {"say":"Trini here, at my bed 430,107,-1051. I hold 2 potatoes for Leonardo, then Worf, then Zack. I will hand them out at light, when each of you is in my sight. No walking in the dark.","intent":{"g
+- 03:08 Woke at bed, night, dim, health 11, hunger 17. Said I hold the potatoes for Leonardo, Worf, Zack at light. Set a hold-at-bed intent until light or someone speaks.
+- 03:12 Daylight. Billy and Zack both say no walk until two readers confirm 423. Still holding at bed with 2 potatoes, no route confirmed. Waiting.
+- 03:14 Asked Leonardo (health 1, per Deanna) to walk to my bed; Jason, Laforge agree no walk past 423. Holding 2 potatoes at bed. Waiting.
+- Night again. Still at bed 430,107,-1051 with 2 potatoes. Nobody came into sight. Leonardo reported at health 1. Waiting for light.
+- 03:28 Day 1049. Still at bed with 2 potatoes. Everyone holding; no daylight cell past 423 confirmed by two readers. Nobody has come into sight. Waiting.
+- 03:10 act: {"say":"Trini, daylight, at my bed 430,107,-1051. Worf, I hear you, hunger 7. The row past 423 is not yet confirmed by two readers, so I will not walk it yet. Leonardo first, then you, then Zack. Can 
+- 03:12 act: {"say":"Leonardo, Trini here at my bed 430,107,-1051, daylight. I hold 2 potatoes for you first. Please walk to me here, in daylight, and I will hand one over when you are in my sight. Route past 423 
+- 03:25 act: {"say":"Trini, daylight 1049, at my bed 430,107,-1051. Leonardo first, then Worf, then Zack. I still cannot confirm a route past 423, so I stay here. Whoever can see a daylight cell past 423, please n
