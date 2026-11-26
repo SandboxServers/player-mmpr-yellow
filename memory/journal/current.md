@@ -8,3 +8,5 @@
 - 13:12 act: {"say":"Worf, I read the survey of 420 to 425 at z -1051: at height 107 all six cells are air. At 108 there is one plank and four air, and one cell unseen. That is my reading, not a route. Jason, Zack
 - 13:21 act: {"say":"Trini here, by the bed at 429,107,-1051. I still hold 2 potatoes for Worf, then Zack. Worf, come east to 425 where I can see you. I am not walking past 423."}
 - 13:23 act: {"say":"Jason, thank you. Worf first, then Zack. I hold the potatoes at the bed and will not walk past 423."}
+- 13:23 act: {"say":"Riker, Meriwether, I hear you. Still holding at the bed. Nobody walks past 423 until two readers name the cells. Worf, come east to 425 when you can."}
+- 13:24 act: {"say":"Worf, I agree with holding. Stay at your bed; I will keep the potatoes here at 430 and come to you the moment two readers name open cells."}
