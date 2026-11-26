@@ -1,1 +1,15 @@
 # Journal
+- 19:06 say: {"text":"Trini here, holding at bed 430 with the two potatoes. Worf, Zack, Leonardo: I will hand them over at light when you are in sight."}
+- 19:07 say: morning, holding at bed 430 with 2 potatoes; Worf and Billy not in my sight. Asked Billy/Worf for a named route to 423 to hand over at the edge.
+- 19:08 waiting for a named route or someone in sight; no walk yet.
+- 19:09 view west: planks wall close in front of me; no gap I can name. Billy and Worf say no route past 423 is named. Holding at bed 430.
+- 19:10 thunder. Billy asks me to bring potatoes to Worf at 416,107,-1050. Still no named route past 423; I wait.
+- 19:12 Jason at 418 sees no open cell to the north-west. Still no route. Holding at 430, health 11, hunger 17."
+- 19:14 say: {"text":"Trini: Leonardo, where are you? I cannot see you from bed 430. Name your cell and a route, and I will bring the potatoes the moment I can see you. Worf is next."}
+- 19:15 Worf holds at 416,107,-1050 and asks for the potatoes there; still no named route past 423. Holding at 430.
+- 19:17 Wesley: potatoes go to Leonardo, then Worf. No route named yet. Still holding at 430.
+- 19:30 dusk again. Billy's walk to bed 415 was blocked; he holds at 415,107,-1047. No route past 423 named. I stay at bed 430 for the night.
+- 19:22 say: {"text":"Worf, Trini here at bed 430 with the 2 potatoes. I cannot see a route past 423 from here, and I will not walk one unconfirmed. Name a cell I can reach and I will come."}
+- 19:40 day 1097. Riker and Wesley both say the planks at 423 block the row; no route named. Still holding at 430 with 2 potatoes, health 11, hunger 17.
+- 19:44 Worf and Jason: no open cell between 420 and 430 at z -1051; none named. The row is walled here. Holding.
+- 19:24 say: {"text":"Riker, Trini: I hold at 430. The planks at 423 are still between us from my view, so I will not walk the row until Billy or Worf confirms the cells."}
