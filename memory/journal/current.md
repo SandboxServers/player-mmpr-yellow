@@ -9,3 +9,4 @@
 - 22:16 act: {"say":"Dusk. I'm at my bed in the row with 2 potatoes for Worf and Zack. Troi, I hope you find food soon."}
 - 22:16 say: {"text":"Trini, night, at my bed 429,107,-1049. Holding 2 potatoes for Worf, then Zack, then Leonardo. I break nothing; I will go to 423 at light."}
 - 22:17 night: at bed 429,107,-1049, sheltered, holding 2 potatoes. Said so to the row. Sleeping now; at light, go to 423 and ask Worf or Zack to name a cell.
+- 22:17 say: {"text":"Night. I'm at my bed in the row with 2 potatoes. Zack, Worf and Billy: at light I'll come to 423 and hand the potatoes to Worf first."}
