@@ -17,3 +17,5 @@
 - 01:11 say: {"text":"Leonardo, Troi says your health is 1. Tell me your cell by speech and I will go to you with the potatoes on a named route. Otherwise I hold here, potatoes in hand."}
 - 01:17 say: {"text":"Trini here at my bed in the row. Holding 2 potatoes for Leonardo, then Worf, then Zack, handed over only when I can see you. Leonardo, please name your cell."}
 - 01:22 say: {"text":"Morning, row. Trini at my bed 430,107,-1051. Leonardo, I still hold the first potato for you. Name your cell and I will come to you. Worf, Zack, same order after him."}
+- 01:35 act: {"say":"Trini here, at my white bed 430,107,-1051. Health 11, hunger 17, two potatoes held for Leonardo, then Worf, then Zack, handed out when each is in my sight. Leonardo, could you name your cell b
+- 01:44 act: {"actions":[],"say":"Trini: Worf, I hear your hunger is 7. Leonardo has not come into my sight yet, so I hold the first potato for him. Troi, John, if you see Leonardo, bring him to my bed 430,107,-10
