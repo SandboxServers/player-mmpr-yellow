@@ -15,3 +15,8 @@
 - 17:24 act: {"actions":[{"do":"note","text":"Morning 1090 at 430,107,-1051. No one in my sight; the wall between 423 and 430 blocks the view west to Worf at 418. Holding, no walk."}],"say":"Trini here at 430,107,
 - 17:25 act: {"actions":[{"do":"note","text":"Day 1091 morning at bed 430. Still no one in my sight; wall blocks the view west. Holding with 2 potatoes, no walk."}],"say":"Trini at 430,107,-1051, still holding. Wo
 - 17:28 act: {"actions":[{"do":"note","text":"Night 1091 at bed 430. Holding, no errand, no walk. 2 potatoes unserved; Worf at 418 out of sight."}],"say":"Trini at 430,107,-1051, night. I hold here with the 2 pota
+- 17:31 act: {"actions":[{"do":"note","text":"Morning 1091, at 430. Zack asks me to serve Worf first, then Leonardo. Worf is not in my sight, so I hold the 2 potatoes. No walk without two readers."}],"say":"Zack, 
+- 17:32 act: {"actions":[{"do":"note","text":"Billy confirms: no walk until two armed readers name an open daylight route; potatoes to Worf first when in sight. Still holding at 430."}],"say":"Billy, agreed. Worf 
+- 17:32 act: {"actions":[{"do":"note","text":"Surveyed x419-423, z-1052..-1050, y107-109. The reading is ambiguous: air at y107 but walls/planks at y108 near 420. I cannot name a confirmed cell. Holding."}],"say":
+- 17:33 act: {"actions":[{"do":"note","text":"Billy and Riker hold; no open cell past 423 named by two readers. I hold at 430 with 2 potatoes."}],"say":"Billy, Riker, agreed. No confirmed air past 423 yet, so nobo
+- 17:37 act: {"actions":[{"do":"note","text":"Morning 1091. Jason sees no air east from 417; Wesley walks to bed 415 in sight. No route past 423 named. Holding at 430 with 2 potatoes."}],"say":"Jason, Wesley, hear
