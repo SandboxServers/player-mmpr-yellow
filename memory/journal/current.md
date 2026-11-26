@@ -6,3 +6,6 @@
 - Worf (hunger 5) also holds, waiting for a confirmed route. Still no open route past 423. I hold 2 potatoes at 430.
 - 16:01 act: {"say":"I looked west from 430: planks all round, no air. I am not walking. Still holding the potatoes for Worf, then Zack or Leonardo."}
 - 16:05 act: {"say":"Night, row. Trini at bed 430, holding the potatoes for Worf. Goodnight."}
+- 16:06 act: {"say":"Morning, Laforge, Jason. Trini at bed 430, 2 potatoes held for Worf, then Zack or Leonardo. Still no open route past 423; I am holding."}
+- 16:09 act: {"say":"Heard you, Billy, Zack, Troi. Trini still at 430 holding 2 potatoes for Worf, then Zack. I see no one from here. I have not looked past 423 and will not walk until two readers name an open cel
+- 16:13 act: {"say":"Worf, understood: Zack first when he is in my sight. Meriwether, I hear you. Trini holds at 430, walking nowhere until two readers name open cells."}
