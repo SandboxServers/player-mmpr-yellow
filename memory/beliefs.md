@@ -11,6 +11,9 @@
 
 - Day 960: waiting in the row by my bed all day, speaking my holdings, kept everyone calm. Leonardo answered by speech but was not in sight, so the potatoes stayed in my pack. Speech alone does not bring someone into sight.
 
+- Day 1039: a give needs the person close and in sight; there is no way to set an item down at a distance. Hold the item until they are close.
+- Day 1039: readers can disagree on one cell. 420,107,-1051: Billy reads air, Laforge reads planks. Do not dig or walk until the cell is named and confirmed by two readers, with Worf's yes first.
+
 ## Failed or false
 - ~~Eating a potato lowers hunger.~~ Day 934: I ate potatoes from Leonardo (day 863) and from Kimberly (day 878) and hunger still read 17. Not confirmed; do not count on it.
 - ~~Sleep at dusk, before true night, is accepted.~~ Day 804 it failed ("it is not night"); day 838 it was accepted once. Unreliable: wait for true night.

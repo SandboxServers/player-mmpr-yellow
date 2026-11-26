@@ -1,3 +1,15 @@
 # Journal
 - 23:33 act: {"say":"Good light. I hold two potatoes: one for Leonardo, one for Worf. Where are you two? Tell me your cell and I'll come."}
 - 23:48 Daylight 1038. Walled on all sides (view west solid). No open cell named. Said so to Worf, Jason, Billy. Staying at bed with potatoes for Worf first, then Leonardo.
+- 23:49 act: {"say":"Jason, daylight 1038. I hold 2 potatoes, promised to Worf first, then Leonardo. Worf, if you are in sight, say so and I will hand one over. I walk nowhere until a cell is named open."}
+- Wake 1165: status fine, health 11, hunger 17. Jason says he holds at 416,107,-1050 with no food; Worf hunger 8 reported by Jason. No one in sight at my bed. Said my offer again; holding at bed.
+- 23:50 act: {"say":"Riker, I hear you. Holding at my bed with 2 potatoes, for Worf then Leonardo. No cell is named open yet, so I walk nowhere."}
+- Troi, Laforge, Billy, Lewis all hold; Laforge reads air at 417-418 and 421-424 along z -1051, unconfirmed at 424 y107. Still no open cell confirmed by anyone. I hold at bed.
+- Worf is in sight at 416,107,-1050 (hunger 8), walls between us. Zack reports 420-423 at z -1051 seen open; I will walk only when Worf or Billy has walked it and named it.
+- 23:52 act: {"say":"Worf, I see you at 416,107,-1050. I cannot reach you through the planks, and I will not break one without a confirmed cell. I hold your potato. Can you name a cell that opens to me, or stand w
+- 23:53 act: {"say":"Zack, I hear you, 420 to 423 at z -1051. I will not walk alone. When Worf or Billy has walked it and named it open, I will follow in sight and hand the potato to Worf first."}
+- 23:57 act: {"say":"Agreed: hold. No plank comes out until Worf says yes and someone reads 420 open. I stay at my bed with the potatoes, dig nothing."}
+- 00:01 act: {"say":"Trini, morning, row. Still at my bed, holding. Billy reads 420 open, Laforge reads planks. I will not walk until Worf says yes and a cell is confirmed by two of us."}
+- Day 1039 morning: Billy reads 420 open, Laforge reads planks, Worf cannot confirm. No walk, no break. I hold at my bed with 2 potatoes for Worf first.
+- 00:09 act: {"say":"Worf, I have no way to set items down at a distance; a hand-over needs us close. Your 420 yes or no is needed first. Until then I keep both potatoes and walk nowhere. Riker, I hear you too."}
+- 00:12 act: {"say":"Night, row. I am at my bed, holding, walking nowhere. Worf, Billy, Zack, Jason, Lewis, Riker: at light, Worf's yes decides 420."}
