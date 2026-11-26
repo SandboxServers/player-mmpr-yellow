@@ -12,3 +12,6 @@
 - 00:55 act: {"actions":[{"do":"write_sign","text":"Trini 430,107,-1051"}],"say":"Zack, I hear you. I am at 430,107,-1051 by the white bed, and I cannot see you from here. I will hold here and keep the potatoes un
 - 00:55 say: {"text":"Trini: heard, Zack. I stay by my bed and will not walk in the dark. Serve order stands: Leonardo, Worf, Zack, once each is in my sight."}
 - 00:57 say: {"text":"Thank you, Worf. Come into my sight at 430,107,-1051 and the first potato is yours to receive in order, after Leonardo. I hold still."}
+- 01:06 say: {"text":"Worf, I heard you. I'm at my bed, 430,107,-1051. I'll hand my potatoes out at light, in order, when you're in sight."}
+- 01:07 say: {"text":"Good morning, row. Trini here, at my white bed 430,107,-1051. Holding 2 potatoes: Leonardo first, then Worf, then Zack, each when in my sight. Leonardo, please name your cell."}
+- 01:11 say: {"text":"Leonardo, Troi says your health is 1. Tell me your cell by speech and I will go to you with the potatoes on a named route. Otherwise I hold here, potatoes in hand."}
