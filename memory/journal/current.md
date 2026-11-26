@@ -20,3 +20,6 @@
 - 17:32 act: {"actions":[{"do":"note","text":"Surveyed x419-423, z-1052..-1050, y107-109. The reading is ambiguous: air at y107 but walls/planks at y108 near 420. I cannot name a confirmed cell. Holding."}],"say":
 - 17:33 act: {"actions":[{"do":"note","text":"Billy and Riker hold; no open cell past 423 named by two readers. I hold at 430 with 2 potatoes."}],"say":"Billy, Riker, agreed. No confirmed air past 423 yet, so nobo
 - 17:37 act: {"actions":[{"do":"note","text":"Morning 1091. Jason sees no air east from 417; Wesley walks to bed 415 in sight. No route past 423 named. Holding at 430 with 2 potatoes."}],"say":"Jason, Wesley, hear
+- 17:42 say: {"text":"Trini here, at my bed in the row at 430. Holding, no walk. Billy, glad you have your sword. Zack, Worf, Leonardo: I have 2 potatoes for whoever is in sight first."}
+- 17:42 act: {"say":null,"actions":[{"do":"sleep"}]}
+- 17:42 act: {"actions":[{"do":"sleep"}]}
