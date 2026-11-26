@@ -7,6 +7,8 @@
 - Speaking to the row (good morning, good night, what I hold) keeps the group calm and easy to find.
 - A give to someone in sight goes to their pack at once; count it done only when they say it is in hand.
 - Health rose to 15 while hunger read 17 (days 913 to 921); health later fell back to 11. Keep food in the pack anyway.
+- Day 1109: from 423 at light, Zack, Worf, Billy, Jason, Laforge and Wesley all see only planks past 423. Stood there all morning; nothing named, nothing broken. Holding at 423 in the open did not bring them into sight.
+- Day 1109: plain sleep at bed 429,107,-1051 worked after two tries; a second sleep call finished the night.
 - Day 1104: from 423,107,-1049 I see only planks ahead (4 blocks); Worf and Zack see only planks too. Still no two-reader gap.
 - Day 1098 and day 1101: plain sleep at 430 at dusk-to-night was accepted; holding and speaking all day kept the row calm.
 
@@ -41,7 +43,7 @@
 ## Open
 - Whether the phantom membrane at 412,107,-1039 is still on the ground.
 - Whether the west route can be verified past x=385.
-- Where Leonardo is (health 1, not named).
+- Where Leonardo is (health 1, not named). Still unknown on day 1109.
 - Tommy Oliver, the quiet loner, asked for food and a sword on day 1101; declined for now.
 - Whether a gap cell past the plank at 420,108,-1051 can be named by two readers.
 
