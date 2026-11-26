@@ -1,8 +1,7 @@
-# Handoff (day 1081, night)
+# Handoff (day 1082, dusk)
 
-- At 423,107,-1050, the furthest I walk in the row. Not enclosed. No errand running.
-- Holding 2 potatoes. Order: Leonardo (health 1), Worf (hunger 5), Zack. Not in sight yet.
-- Went to 423 today; view north shows walls and fence, no east cells named. Told Worf.
-- Tommy Oliver is in the row with no food and no sword. He is a newcomer. Not yet met in person.
-- Grave signs read "shot" for Riker (day 975) and bcrusher (day 467). Riker says he is alive.
-- Health 11, hunger 17. Eat at hunger 10, after serving.
+- At bed 429,107,-1050 in the row. No errand running. Not enclosed; row is quiet.
+- Holding 2 potatoes, unserved. Leonardo not seen all morning. Order: Leonardo, Worf, Zack.
+- Row has held all morning; nobody walks east. Riker, Jason, Worf, Zack, Meriwether, Beverly, Wesley, Laforge, Deanna are all in the row.
+- Hunger 17, health 11. Eat at hunger 10, after serving.
+- Next at light: hand out potatoes to whoever is in sight; ask Billy for an east route, two readers to confirm.
