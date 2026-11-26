@@ -1,6 +1,6 @@
 # Worf
 
-Impression: quiet and in need. Last in sight: not seen in daylight. Seen behind the wall at 416-419 on day 1096, hunger 5, waiting.
-Trust: 50/100. Why: I have not seen him keep or break a word; I have not been able to reach him.
-I owe him: 2 potatoes, held by me, to hand over when he is in my sight in daylight (first in order).
+Impression: quiet, patient, honest about his survey. Hungry (hunger 5 on day 1101) and enclosed by planks at 419,108,-1047.
+Trust: 55/100. Why: he names his cells plainly and agrees to wait for two readers; I have not yet been able to hand him food.
+I owe him: 2 potatoes, held by me, to hand over the moment he is in my sight (first in order).
 He owes me: nothing I know of.

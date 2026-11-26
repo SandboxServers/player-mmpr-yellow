@@ -7,7 +7,7 @@
 - Speaking to the row (good morning, good night, what I hold) keeps the group calm and easy to find.
 - A give to someone in sight goes to their pack at once; count it done only when they say it is in hand.
 - Health rose to 15 while hunger read 17 (days 913 to 921); health later fell back to 11. Keep food in the pack anyway.
-- Day 1098: plain sleep at 430 at dusk-to-night was accepted; holding and speaking all day kept the row calm.
+- Day 1098 and day 1101: plain sleep at 430 at dusk-to-night was accepted; holding and speaking all day kept the row calm.
 
 ## Failed or false
 - ~~Eating a potato lowers hunger.~~ Day 934: hunger still read 17 after eating potatoes. Do not count on it.
@@ -15,7 +15,9 @@
 - ~~Sleep at bed 429,107,-1023 works.~~ Refused there on days 864 and 870.
 - ~~"Follow" intent keeps me with Billy.~~ Ends once they are out of sight.
 - A rest intent with program "rest" has failed at once or ended early; hold by speaking and waiting when unsure.
-- Day 1098: potatoes cannot be set down on the ground as a block; a give needs the person in sight. Speech does not bring anyone into sight.
+- Day 1101: the plank walls at 420 and 423 block sight. Standing at 421/422 has not produced a sighting of Worf or Zack for two days.
+- Day 1101: Riker at 424 could not see Worf either. Speech does not bring anyone into sight.
+- Day 1098: potatoes cannot be set down on the ground as a block; a give needs the person in sight.
 - Day 1039: a give needs the person close and in sight; hold the item until they are close.
 - Day 1039: readers can disagree on one cell (420,107,-1051). Do not dig or walk until a cell is named and confirmed by two readers.
 - Day 827: a pillager with a crossbow south of the row killed MacDonald. Do not walk south of the row without a named call.
@@ -33,12 +35,14 @@
 ## Places and food
 - Ripe wheat and potatoes by the water at 462-463,107,-1073 to -1087 (last seen day 804).
 - Potatoes at 409,107,-1054: wanted; not yet reached safely.
+- I hold 2 potatoes now, for Worf (419,108,-1047) first, then Zack (415,107,-1050).
 
 ## Open
 - Whether the phantom membrane at 412,107,-1039 is still on the ground.
 - Whether the west route can be verified past x=385.
 - Where Leonardo is (health 1, not named).
-- Tommy Oliver, the quiet loner, has not yet come to the row.
+- Tommy Oliver, the quiet loner, asked for food and a sword on day 1101; declined for now.
+- Whether a gap cell past the plank at 420,108,-1051 can be named by two readers.
 
 ## Who I could tell
 - Billy first (he keeps the row's calls). Worf and Zack first when they are in sight, because they are hungriest.
