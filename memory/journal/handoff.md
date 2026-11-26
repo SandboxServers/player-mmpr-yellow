@@ -1,7 +1,7 @@
-# Handoff (day 1103, dusk, going to bed in the row at 429,107,-1050)
+# Handoff (day 1103, night, at 429,107,-1049 beside the row bed)
 
-- Holding 2 potatoes: Worf first, then Zack, then Leonardo. Not yet handed: no two-reader gap cell named.
+- Holding 2 potatoes: Worf first, then Zack, then Leonardo. Hand them out only when I can see each person.
 - Hunger 17, health 11. Eat at hunger 10, after serving.
-- Walked to 423 at light, planks block sight north; Zack, Worf, Billy, Jason, Riker all hold. No plank is touched.
-- Bed use at 429,107,-1051 failed as "that block is a bed"; sleep partly worked earlier.
-- At light: view from 423, wait for a cell two readers name before any plank is touched.
+- Sleep attempt returned without a new day; days_since_sleep still 0. Try the bed again at night.
+- No errand running. Nobody in sight. No plank touched; the planks north of 423 still block sight.
+- At light: go to 423, name a cell only when two readers see it. Serve Worf first.
