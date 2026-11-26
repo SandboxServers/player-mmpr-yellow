@@ -13,3 +13,6 @@
 - 19:40 day 1097. Riker and Wesley both say the planks at 423 block the row; no route named. Still holding at 430 with 2 potatoes, health 11, hunger 17.
 - 19:44 Worf and Jason: no open cell between 420 and 430 at z -1051; none named. The row is walled here. Holding.
 - 19:24 say: {"text":"Riker, Trini: I hold at 430. The planks at 423 are still between us from my view, so I will not walk the row until Billy or Worf confirms the cells."}
+- 19:33 say: {"text":"Trini, morning at bed 430 with 2 potatoes. No one in my sight yet. Leonardo, Worf, Zack: name a cell I can reach and I will come."}
+- 19:34 say: {"text":"Trini: Zack, I see the walls at 423 from here and no open cell is named between us. Name the exact cells from 430 to 416 and I will walk them with you in sight."}
+- 19:45 say: {"text":"Trini: dusk, I am going to bed at 430 with the 2 potatoes. Still holding for a named route past 423; at light I will ask again."}
