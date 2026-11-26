@@ -42,3 +42,9 @@
 - Dusk 1061 (cycle). Still at 430,107,-1051, nobody in sight, holding 2 potatoes, hunger 17, health 11. Sleep failed (not night yet). Waiting for night, then bed.
 - 07:31 act: {"say":"Dusk. I hold 2 potatoes for Leonardo, then Worf, then Zack, and I will hand them over when each is in my sight. I am staying by my bed at 430,107,-1051.","actions":[]}
 - 07:36 say: {"text":"Zack, Worf, Leonardo: I hold 2 potatoes for you, in that order. I'll bring them when you're in my sight. Stay safe through the night."}
+- 07:52 say: {"text":"Trini here, night 1062, at my bed 430,107,-1051. Holding still, no walk in the dark. At light I'll look for the open way east with Billy and Jason."}
+- 07:58 say: {"text":"Trini, morning 1062, at my bed 430,107,-1051. I hold 2 potatoes for Leonardo, then Worf. Looking east for an open cell now; I name none yet and will not walk until two readers agree."}
+- 08:12 say: {"text":"Trini, light 1063, at bed 430,107,-1051. I hold 2 potatoes for Leonardo first. Leonardo, I cannot see you from here; name your exact cell and I will come to you if the way is open. No walk un
+- 08:28 say: {"text":"Trini, morning 1064, at my bed 430,107,-1051. Worf, Zack, Leonardo: I still hold 2 potatoes, Leonardo then Worf. I cannot see you from here and see no open cell east. Name an exact open cell 
+- 08:34 say: {"text":"Worf, Trini at bed 430,107,-1051. I hold your 2 potatoes, Leonardo first. I cannot see you from here. Name one exact open cell toward me and Billy or Jason checks it, and I will come."}
+- 08:48 say: {"text":"Trini, dusk 1065, at my bed 430,107,-1051. Holding the 2 potatoes for Leonardo then Worf. No walk in the dark. Sleeping here."}

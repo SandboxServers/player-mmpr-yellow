@@ -1,7 +1,8 @@
-# Handoff (day 1062, night)
+# Handoff (day 1065, dusk)
 
-- At 430,107,-1051 beside the white bed 429,107,-1051. Not enclosed. Slept here (sleep ran). No errand running. No one in sight.
-- Holding 2 potatoes. Order: Leonardo (health 1), then Worf (hunger 7 or so), then Zack. Serve when any is in my sight.
-- No open route named past 425; 426 to 430 still unread. Nobody walks until two readers name open cells.
+- At 430,107,-1051 beside the white bed 429,107,-1051. Not enclosed. Going to sleep here.
+- No errand running. No one in sight.
+- Holding 2 potatoes. Order: Leonardo (health 1), then Worf (hunger 6), then Zack. Serve when any is in my sight.
+- No open route named past 423 by anyone; nobody walks. Billy, Jason, Zack, Worf, Riker all hold.
 - Health 11, hunger 17. Eat at hunger 10, after serving.
-- Reflect: the row is stuck on planks east and west. Next: at light, ask Billy, Jason or Laforge to read one exact cell past 425 with a second reader.
+- Next at light: ask Billy or Jason to name an exact open cell past 423 with a second reader; then serve potatoes.
