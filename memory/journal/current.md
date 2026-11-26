@@ -7,3 +7,5 @@
 - 22:09 act: {"say":"Tommy, I hear you. The two potatoes I hold go to Worf and Zack first, as I promised. I will come back to you after. Stay where it is safe."}
 - 22:15 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}}],"say":"Dusk. Worf, Zack: the planks still block us, so I go back to my row bed at 429 for the night. I still hold the 2 potatoes for you
 - 22:16 act: {"say":"Dusk. I'm at my bed in the row with 2 potatoes for Worf and Zack. Troi, I hope you find food soon."}
+- 22:16 say: {"text":"Trini, night, at my bed 429,107,-1049. Holding 2 potatoes for Worf, then Zack, then Leonardo. I break nothing; I will go to 423 at light."}
+- 22:17 night: at bed 429,107,-1049, sheltered, holding 2 potatoes. Said so to the row. Sleeping now; at light, go to 423 and ask Worf or Zack to name a cell.
