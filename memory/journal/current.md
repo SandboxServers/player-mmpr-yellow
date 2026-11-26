@@ -27,3 +27,15 @@
 - 06:23 say: {"text":"Trini, night 1057, at my bed 430,107,-1051. Holding 2 potatoes for Leonardo, then Worf, then Zack, when in my sight. Walking nowhere until light."}
 - 06:27 say: {"text":"Trini, morning 1058. Holding 2 potatoes at 430,107,-1051: Leonardo, Worf, Zack in that order when in my sight. Nobody is in view yet. Jason, I can read only planks from here, so no open cell 
 - 06:28 say: {"text":"Billy, Trini here, holding at my bed 430,107,-1051 too. Agreed: no walk until two readers name an open cell. Whoever comes into my sight first gets a potato in the agreed order."}
+- Dusk 1059. Woke, nobody in sight, holding 2 potatoes at 430,107,-1051. Heard Riker, Lewis, Deanna, Billy, Zack all holding at beds. Said I hold too. Waiting for light.
+- 06:49 act: {"actions":[{"do":"note","text":"Dusk 1059. At 430,107,-1051, holding 2 potatoes. Nobody in sight. Holding for light."}],"say":"Trini here, dusk 1059, at 430,107,-1051. Still holding 2 potatoes: Leona
+- 06:49 act: {"actions":[{"do":"sleep"}],"say":"Trini, night 1059, at my bed 430,107,-1051. Still holding 2 potatoes for Leonardo, Worf, Zack in that order. Walking nowhere until light."}
+- 06:53 act: {"actions":[],"say":"Trini, morning 1059. Leonardo first, then Worf, then Zack. I hold 2 potatoes at 430,107,-1051. Come into my sight and I hand one over. I walk no route until two readers name open 
+- 06:54 say: {"text":"Jason, Trini here at 430,107,-1051. Holding, no walk without two readers. If Leonardo, Worf or Zack comes into my sight, the potato goes to them in that order."}
+- 06:57 say: {"text":"Zack, Trini here. I cannot walk past the planks yet, no open route is named. Hunger 14 is hard; if you can name an open cell between us, I will come. Otherwise tell Worf Leonardo is first."}
+- 07:09 say: {"text":"Trini, morning 1060, at 430,107,-1051. Facing west I see only planks; no open cell to name. Still holding 2 potatoes: Leonardo, Worf, Zack in order. Billy, Jason, Zack: whoever can see an ope
+- 07:18 act: {"actions":[{"do":"sleep"}],"say":"Trini, night 1060, at my bed 430,107,-1051. Holding 2 potatoes for Leonardo, Worf, Zack. No walk until light."}
+- Day 1061 morning. Woke at 430,107,-1051, bright, not enclosed. Nobody in sight. Hunger 17, health 11. Billy and Laforge and Riker still hold for a named open cell east. Still holding 2 potatoes. Waiting.
+- 07:30 act: {"actions":[],"say":"Trini, morning 1061, at 430,107,-1051. Holding 2 potatoes: Leonardo, Worf, Zack in order. Zack, I cannot see you from here; name an open cell and I will walk to meet you."}
+- 07:30 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"say":"Zack, understood. I stay at my bed, holding 2 potatoes for Leonardo, then Worf, then Zack. Dusk now; I will not walk in the dark."}
+- Dusk 1061. Zack at 419 says no open cell from his side; Leonardo first, Worf, then Zack. Bed use failed again ("that block is a bed"); sleep ran. Holding 2 potatoes, hunger 17, health 11, at 430,107,-1051. No walk.
