@@ -7,3 +7,4 @@
 - 16:50 act: {"say":"Worf, I hear you at 418, hunger 5. Leonardo is not in my sight, so the potatoes are yours next. The wall sits between 423 and 430, so I cannot reach you safely yet. Can you walk to 423 and tel
 - 16:50 act: {"say":"Zack, I hear you at 418, hunger 14. I still cannot see Leonardo, so I hold the potatoes for whoever comes into my sight first. Worf is the next one I will serve. Troi, Leonardo has not come in
 - 16:54 act: {"say":"Worf, no, I cannot see you from 430. The wall is between us. I will not send you a walk I cannot confirm. Stay at 418 with Zack, and I will come to 423 with the potatoes once Billy or Jason na
+- 16:59 say: {"text":"Trini here, awake at 430,107,-1051. Holding, no walk. Holding my 2 potatoes for Leonardo, Worf, Zack when I can see them."}
