@@ -6,3 +6,4 @@
 - 22:07 act: {"say":"Worf, I am at 423,107,-1049 on gravel, and the planks sit between us. I break no plank without two of you naming the cell. I wait here."}
 - 22:09 act: {"say":"Tommy, I hear you. The two potatoes I hold go to Worf and Zack first, as I promised. I will come back to you after. Stay where it is safe."}
 - 22:15 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}}],"say":"Dusk. Worf, Zack: the planks still block us, so I go back to my row bed at 429 for the night. I still hold the 2 potatoes for you
+- 22:16 act: {"say":"Dusk. I'm at my bed in the row with 2 potatoes for Worf and Zack. Troi, I hope you find food soon."}
