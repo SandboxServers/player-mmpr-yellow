@@ -2,3 +2,10 @@
 - 04:14 act: {"say":"Zack, good. Stay where you are in the dusk. I am at 430,107,-1050 by the white bed, and I hold 2 potatoes for you when you come into my sight. Let us walk at first light."}
 - Dusk. Zack (ag_zack_01) spoke from 418,108,-1050 with Billy and Jason in sight; he will not walk in the dark. I answered, stay at my bed, and will serve potatoes at light when Zack is in sight. Hunger 17, health 11. Not enclosed; no errand running.
 - 04:15 act: {"say":"Agreed, Zack and Riker. I stay by my bed at 430,107,-1050 through the night. At first light I hold the potatoes for whoever comes into my sight first in the order we agreed."}
+- 04:15 act: {"say":"Trini here, at the white bed 430,107,-1050. Holding for the night, not walking until first light and until 426 to 430 is read by two."}
+- Night 1051, dim, thunder. Troi greeted; Zack, Billy, Worf, Laforge, Beverly holding for light. I said I hold at my bed. Health 11, hunger 17. Waiting for light.
+- 04:20 act: {"say":"Trini, morning. I hold 2 potatoes. Leonardo first, then Worf, then Zack, each when in my sight. I stay at 430,107,-1051 and walk on no route until two readers agree."}
+- Morning 1051. Worf's walk to 422 blocked by planks at 419; nobody names open cells 422 to 425 or 426 to 430. Billy suggested Worf, Zack, Leonardo order; I said I keep Leonardo, Worf, Zack. Holding at 430,107,-1051, no one in sight yet.
+- 04:20 act: {"say":"Billy, thank you. The row agreed Leonardo, then Worf, then Zack, so I hold to that order. Whoever of them comes into my sight, I hand over the potato."}
+- Day 1052 dusk. Still holding at 430,107,-1051 beside the bed, hunger 17, health 11. Nobody in my sight; Worf holds at 419, no route named past 425. Waiting for light and for someone to come into sight.
+- Day 1052 morning. Everyone holds; no route named past 425; Riker, Laforge, Billy, Zack all wait for 426 to 430 read by two. My view west is all planks, so I read nothing east. Still holding with 2 potatoes, nobody in sight.
