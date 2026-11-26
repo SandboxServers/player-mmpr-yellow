@@ -16,3 +16,4 @@
 - 19:33 say: {"text":"Trini, morning at bed 430 with 2 potatoes. No one in my sight yet. Leonardo, Worf, Zack: name a cell I can reach and I will come."}
 - 19:34 say: {"text":"Trini: Zack, I see the walls at 423 from here and no open cell is named between us. Name the exact cells from 430 to 416 and I will walk them with you in sight."}
 - 19:45 say: {"text":"Trini: dusk, I am going to bed at 430 with the 2 potatoes. Still holding for a named route past 423; at light I will ask again."}
+- 19:45 act: {"say":"Trini: holding at bed 430 for the night, no walk in the dark. Wesley, Zack, Billy, Riker: at light I will hand my 2 potatoes to Worf first, if he is in sight."}
