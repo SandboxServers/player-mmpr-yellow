@@ -13,3 +13,10 @@
 - 03:35 say: {"text":"Dusk. I'm staying at my bed in the row. I'm holding 2 potatoes for Leonardo, then Worf, then Zack, and I'll hand them out when each is in sight."}
 - 03:36 say: {"text":"Zack, I hear you. No walk in the dark. I'm sleeping at my bed; the potatoes wait for light, Leonardo first, then Worf, then you."}
 - Night 1049. At bed 430,107,-1051, not enclosed, health 11, hunger 17. Nobody in sight. Zack holding at 419 with Billy, Jason, Worf. Going to sleep at bed; potatoes held for light.
+- 03:36 say: {"text":"Heard you, Zack. I'm staying at my bed, 430,107,-1051. No walk in the dark. At light I'll hand the potatoes out in order: Leonardo, Worf, then Zack."}
+- 03:37 say: {"text":"Trini, daylight, at my bed 430,107,-1051. Leonardo, I do not see you yet. I hold the 2 potatoes for you first. I walk nowhere until two readers confirm a cell."}
+- 03:37 say: {"text":"Trini here, at my bed 430,107,-1051, health 11, hunger 17. Nobody in my sight yet. Troi, Billy: I hear you. Leonardo first, then Worf, then Zack, when each is in my sight."}
+- 03:40 Daylight, at bed, nobody in sight. Jason and Zack speak from ~418 but are out of my sight. Holding 2 potatoes; no walk past 423. Waiting.
+- 03:41 say: {"text":"Trini, at my bed 430,107,-1051. Worf, thank you for the reading. Billy or Jason, please read 420 to 423 at z -1051 from where you stand. If two of you agree, I will walk it in daylight."}
+- 03:55 Day 1050. Worf's walk stopped at 418 (way blocked), he went back to bed at 415 for night. Still no confirmed route; I stay at bed 430,107,-1051 with 2 potatoes. Dusk coming; will hold and sleep here.
+- 03:45 say: {"text":"Trini, day 1050, at my bed 430,107,-1051. The cells 420 to 423 are read as air by Worf and Billy, but Jason and Zack cannot confirm them. I will not walk. Worf, Zack: come to me here if the w
