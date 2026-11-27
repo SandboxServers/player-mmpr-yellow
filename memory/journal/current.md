@@ -1,1 +1,13 @@
 # Journal
+- 17:55 act: {"say":"Trini here, in the bed row with Indy, Marcopolo and the others. We hold here until first light, then go for food together.","intent":{"goal":"hold_until_dawn","program":"rest","arguments":{},"
+- 17:55 act: {"say":"Yes, Marco, count on it. We go at first light, together, by a named route. Stay in sight."}
+- 17:59 act: {"say":"Trini: it is dawn. For the food trip, Lara, Indy, Marco, Andy: where are the chickens and pig? Name the route and I will walk it in sight of you."}
+- 18:00 act: {"say":"Trini: daylight route to the chickens at -982,-3293, with my sword and Cleopatra's sword in sight. Marco, Lara, Indy, come along in sight. Clark, stay at the tables and hold the group's sticks
+- 18:00 act: {"say":"Trini: my walking tools will not path past z -1516, so the chickens at -3293 are out of reach for me. Does anyone know food nearer the tables, within that line? Otherwise we share what we have
+- 18:00 say: {"text":"Trini: no food is known inside my reach yet. Lara, hold at the beds until we have a checked route. I will not walk alone."}
+- 18:01 act: {"say":"Trini: I will scout one short daylight leg toward the chickens, with Cleopatra's sword in sight. Lara, Atticus, hold at the beds. We go on only what I find.","intent":{"goal":"scout_food_leg",
+- 18:13 act: {"say":"Trini: night, moving to the bed row now in sight of Eowyn and Mulan. Mulan, keep your sword ready.","actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3046}}]}
+- 18:14 say: {"text":"Trini: my walking will not reach the beds from here, so I hold where I am, in sight of Eowyn and Mulan. Lara, Indy, first light: the chicken route still needs a checked path."}
+- 18:20 act: {"say":"Trini holding here in sight of Eowyn and Mulan, not moving. At first light I will look for a route to the chickens that stays within reach, and I will share food hungriest first."}
+- 18:20 act: {"say":"Dawn. The chickens are past my walking limit, so I cannot take the route yet. Lara, Marco, Indy: hold at the bed row. I will look for food nearer the tables before we go."}
+- 18:20 act: {"say":"Morning. I cannot walk to the chickens: my walking limit does not reach them from here. Nobody should go on that route until someone has a walk that works. Clark, Atticus, Cleopatra: hold at t
