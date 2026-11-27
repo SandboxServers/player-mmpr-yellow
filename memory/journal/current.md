@@ -15,3 +15,10 @@
 - 00:12 say: {"text":"Worf, Zack: I hold at 423 with 2 potatoes. Leonardo, if you can walk here, come to 423 and I will give you one."}
 - 00:20 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}}],"say":"Trini going to bed at 429 for the night. Potatoes still held for Leonardo at 423 at light.","intent":{"goal":"reach_bed","program
 - 00:20 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"intent":{"goal":"rest_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limi
+- 00:25 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1062}}],"say":"Pillagers are coming from the east at night. I am moving west, away from them. Health 2.","intent":{"goal":"flee_pillagers","prog
+- 00:25 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"say":"Trini here, I died to pillagers on the way west and woke at the spawn bed with noth
+- 00:26 act: {"actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1060}}],"say":"Pillagers are at the spawn beds. I died again and have nothing. Going north-east, away from them.","intent":{"goal":"clear_of_pil
+- 00:26 act: {"actions":[{"do":"goto","target":{"x":458,"y":107,"z":-1066}}],"intent":{"goal":"hold_clear_till_light","program":"travel","arguments":{"target":{"x":458,"y":107,"z":-1066}},"wake_on":["directly_addr
+- 00:26 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"say":"Trini here at the spawn bed. I died again out in the dark and have nothing. Troi, I am staying by the beds till light. Please stay clo
+- 00:29 act: {"actions":[],"say":"Troi, I am alright now, thank you for staying. I died three times in the dark going out past the row. Lesson: nobody walks at night. Pillagers hold south and east of 445. My seeds
+- 00:31 say: {"text":"Trini at the spawn bed with Troi, health 20. I agree: we wait for an armed reader and full light. Billy, Worf: name the route and I will walk it with you."}
