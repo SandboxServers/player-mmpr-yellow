@@ -15,6 +15,7 @@
 - Day 1098 and day 1101: plain sleep at 430 at dusk-to-night was accepted; holding and speaking all day kept the row calm.
 
 ## Failed or false
+- Day 1117: holding at the white bed with the row at dusk was safe; the row slept beside the beds without loss.
 - ~~Eating a potato lowers hunger.~~ Day 934: hunger still read 17 after eating potatoes. Do not count on it.
 - ~~Sleep at dusk, before true night, is accepted.~~ Unreliable: wait for true night.
 - ~~Sleep at bed 429,107,-1023 works.~~ Refused there on days 864 and 870.
