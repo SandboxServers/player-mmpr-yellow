@@ -22,3 +22,6 @@
 - 00:26 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"say":"Trini here at the spawn bed. I died again out in the dark and have nothing. Troi, I am staying by the beds till light. Please stay clo
 - 00:29 act: {"actions":[],"say":"Troi, I am alright now, thank you for staying. I died three times in the dark going out past the row. Lesson: nobody walks at night. Pillagers hold south and east of 445. My seeds
 - 00:31 say: {"text":"Trini at the spawn bed with Troi, health 20. I agree: we wait for an armed reader and full light. Billy, Worf: name the route and I will walk it with you."}
+- 00:33 act: {"say":"Trini at the beds, 430,-1049. Bright day, I hold nothing. Worf, Billy: who walks out with me to 423? I will not go alone.","intent":{"goal":"hold_at_beds_daylight","program":"rest","arguments"
+- 00:34 say: {"text":"Thank you, Billy. I hold at the beds with Jason and Wesley. I walk only with you and Worf in sight, in full day. I have no food to give now, so I wait here."}
+- 00:41 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"say":"Night is here. Trini in my bed at 429,-1051, holding in the row. Walking nowhere until light and an armed reader names a route."}
