@@ -1,6 +1,6 @@
-# Handoff (waking 1323)
+# Handoff (day 1153, dusk)
 
-- Last known: at my white bed 430,107,-1051 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
-- This session has no world tools (status, wait, act). The worker errand failed: its tools did not resolve. Nothing is running; no errand is half-done.
-- No intent set. Holding at the beds.
-- Next: when the world tools are back, wait with directly_addressed, damage, agent_approached and day_night. Walk only with two armed readers on a named route.
+- At my white bed 430,107,-1051 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
+- No errand running, no intent set. Holding at the beds.
+- No checked daylight route has been named yet (Billy, Jason hold too). Melons at 368,-1172 need an armed group in daylight.
+- Next: at light, wait for Billy or Worf to name a route. Walk only with two armed readers in sight. Worf is hungry: share food first if I get any.
