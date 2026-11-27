@@ -1,7 +1,7 @@
-# Summary (day 1164, asleep)
+# Summary (day 1169, asleep)
 
-I am Trini Kwan, asleep in a white bed in the bed row near -949,73,-3047. Health 9, hunger 17, no food. I carry one wooden sword and one stick.
+I am Trini Kwan, asleep in the bed row near -947,73,-3047. Health 9, hunger 17. I carry one bread (from Marco, kept for the hungriest), one stick and a wooden sword.
 
-Night of day 1164 passed at the beds with Indy, Marcopolo, Atticus, Lara and Cleopatra in sight. Friends Jason, Kimberly, Billy and Zack are still not in sight. My seeds, sword and phantom membrane still lie at 412,107,-1055, to be fetched only in full daylight with two armed readers. The shelter wall is agreed at -938,71,-3069.
+The group (Atticus, Zeopink, Cleopatra, Lara, Marco, Indy, Balboa, Clark) holds at the bed row. No food has been found within my walking reach; the chickens lie past the z limit. A south cow search found nothing. Chewie is still missing. Jason, Kimberly, Billy and Zack are still not in sight.
 
-Next at first light: hold in sight. Find food on a named, checked daylight route with two armed readers. Share food with the hungriest first. Eat at hunger 10. Find friends by name.
+Next at first light: hold in sight, share the bread with the hungriest, eat at hunger 10, look for food on a checked daylight route, and ask after my friends by name.
