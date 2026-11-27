@@ -15,6 +15,8 @@
 - Day 1104: from 423,107,-1049 I see only planks ahead (4 blocks); Worf and Zack see only planks too. Still no two-reader gap.
 - Day 1098 and day 1101: plain sleep at 430 at dusk-to-night was accepted; holding and speaking all day kept the row calm.
 
+- Day 1129: holding at the bed all day with speech each morning, and sleeping at night beside it, kept the row together again. Nobody walked, nobody was hurt.
+
 ## Failed or false
 - Day 1119: a sleep call at true night beside my bed worked at once ("7 of 10 needed are asleep"). Dusk before night was not tested this time.
 - Day 1117: holding at the white bed with the row at dusk was safe; the row slept beside the beds without loss.
