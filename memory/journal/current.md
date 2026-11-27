@@ -10,4 +10,5 @@
 - Waking 1338: still no game tools (status not available). Holding still at the row; no errand. Handoff rewritten.
 - Waking 1339: status tool still "No such tool available". No wait or act possible. Holding at the row, no errand, handoff rewritten.
 - Waking 1340: mcp__geldar__status still "No such tool available". No wait or act possible. Holding at the row, no errand, no movement. Handoff stands.
+- Waking 1341: game tools back. Status calls rate-limited, but wait works. At 444,107,-1051 at the row, day 1156, health 20, hunger 20, pack empty, unarmed. Heard Ripley, Beverly and Bilbo asking for food; I have none. No route named. Holding at the beds. Say failed twice on rate limit.
 - Waking 1335: still no game tools. The worker helper cannot start either (its game tools resolve to nothing). Holding still at the row; no errand running. Writing a handoff.
