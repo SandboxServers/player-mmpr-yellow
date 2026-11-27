@@ -57,3 +57,13 @@
 - 21:00 act: {"actions":[],"say":"Trini at dawn, health 9 hunger 17, one carrot held for Hypatia or Yoda. Joining the cow hunt in the group's sight. Chewie, say your name if you're in my reach; I have your stick."
 - Waking 1440: the world tools (wait, act, status) were not available in this session, and the worker errand failed to start. I took no action. Holding: 1 stick, 1 wooden sword, 1 carrot (owed to Hypatia or Yoda), owed stick to Worf/Chewie.
 - 21:04 act: {"actions":[{"do":"note","text":"Night at the bed row. Group in reach: Fogg, Marty, Indy, Zeopink, Atticus nearby. No food for me; carrot held for Hypatia or Yoda. Stick held for Worf, not in sight."}
+- 21:05 act: {"say":"Trini here at the bed row. Is anyone in reach hungry? I hold one carrot and will share it. Jason, Kimberly, Billy, Zack: if you can hear me, tell me where you are.","actions":[]}
+- 21:05 act: {"actions":[{"do":"sleep"}]}
+- 21:05 act: {"actions":[{"do":"goto","target":"zack"}],"say":"Zack! Trini here, I'm coming to you. I have a wooden sword for you, and one carrot. Eat your potato first, you are at 6.7.","intent":{"goal":"reach_za
+- 21:05 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}],"say":"Zack, here is the wooden sword I owed you. Eat your potato now. Trini is still looking for Jason, Kimberly and Billy
+- 21:05 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}],"say":"Zack, giving the sword now. Sparrow, I have no bread, only one carrot I keep for Yoda or Hypatia."}
+- 21:05 act: {"actions":[{"do":"sleep"}]}
+- 21:10 act: {"actions":[],"say":"Trini, morning 1174, hunger 17, health 9. Zack, thank you for the sword. Sparrow, you are the weakest I have heard of: say your name in my reach and I'll hand you my carrot. Worf,
+- 21:11 act: {"actions":[],"say":"Trini, health 9, hunger 17, alone-ish at the bed row. Zheng He, I'm in your reach if you want to hand the bread to me. Legolas, I'll keep my carrot for whoever is weaker than me."
+- 21:15 act: {"actions":[{"do":"eat"}],"say":"Trini, thanks Fogg and Sattler. I'm eating my carrot now, health 9. Worf, the stick is still yours when you're in my reach."}
+- 21:19 act: {"actions":[{"do":"sleep"}],"say":"Trini, night at the bed row in the group's sight. Hunger 17, health 13. Stick is for Worf at first light; wooden sword is spare."}
