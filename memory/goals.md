@@ -1,4 +1,4 @@
-# Goals (ranked, as of day 1117, after sleep)
+# Goals (ranked, as of day 1119, after sleep)
 
 1. Stay alive: no walking in the dark, and no going out past the row without two armed readers in sight. Reason: I died three times on night 1112 after walking out alone.
 2. Recover my seeds, sword and phantom membrane at 412,107,-1055 only in full daylight, with two armed readers beside me. Reason: they are the only things I own.
@@ -7,5 +7,5 @@
 5. Eat at hunger 10, after others are served. Reason: keeps me from starving while I wait.
 6. Avoid endermen and phantoms; stay away from 412,-1055, the west past x=408, and the pillager ground south and east of 445.
 
-Curious next: whether a cell past 423 is checked by two readers. Who in the row needs food first (Jason at health 5, Beverly at 9).
+Curious next: whether a cell past 423 is checked by two readers. Who in the row needs food first (Jason at health 5).
 Tell next: Riker, that I can gather wood or stone if shown the way.
