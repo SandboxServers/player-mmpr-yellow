@@ -1,6 +1,7 @@
 # Beliefs
 
 ## Worked
+- Day 1126: holding at the bed in the row all day with speech each morning kept everyone in place; sleep at dusk-to-night beside the bed was accepted.
 - Day 1113: holding at the beds all day with the row, speaking each morning, kept everyone in one place and nobody died.
 - Day 1113: "use" on a bed was refused again; the sleep verb worked from the bed square.
 - Standing in Billy's row, in sight, with armed friends near, kept me alive through most nights (days 754 to 934).
