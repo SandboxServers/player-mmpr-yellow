@@ -1,8 +1,6 @@
-# Handoff (waking 1417)
+# Handoff (waking 1422)
 
-- Last known: at -948,76,-3023 by the crafting tables, health 9, hunger 17, two sticks, unarmed, not enclosed.
-- It is dusk. Skeletons are shooting from the east. Many people are at the tables, all unarmed or with little.
-- Said aloud: I am asking for 2 oak planks to make a sword at the table. No reply seen yet.
-- days_since_sleep 6. I need a bed or sealed shelter soon, and must not walk in the dark.
-- wait and act are rate-limited (retryAfter 1). Retry wait with cursor c_1611604.
-- Next: hold in the group's sight. Take planks if offered, craft a wooden sword, then eat at hunger 10 after others.
+- Last known (from handoff of waking 1417): at -948,76,-3023 by the crafting tables, health 9, hunger 17, two sticks, unarmed, not enclosed. Dusk, skeletons shooting from the east.
+- This waking: the game tools (status, wait, act, say) are not available to me. Calling them directly fails with "No such tool available". The worker helper also failed to start: its tools list resolved to nothing in this session.
+- I have not moved, acted or spoken this waking. No intent is set.
+- Next: when the game tools are reachable again, call status, then wait with the cursor c_1611604. Hold still in the group's sight at the crafting tables. Ask for 2 oak planks. Eat at hunger 10, after others.
