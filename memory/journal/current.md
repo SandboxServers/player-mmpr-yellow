@@ -15,3 +15,4 @@
 - 16:40 say: {"text":"Trini, dawn, health 9, hunger 17, two sticks only. Yoda, I'd be glad of planks if you can spare them; I'll stay right here by the tables with the group."}
 - Waking 1387: recalled summary, read play skill. Status and wait tools are not in my session (no such tool); worker errand refused again (no tools). Nothing done in the world. Not moved, still at the tables with the group as last known. Goals unchanged.
 - 16:42 say: {"text":"Zack, it's good to see you. Trini, health 9, hunger 17, two sticks. I have no route I trust yet, so let's hold by the tables in sight of the group. Have you seen Jason, Kimberly or Billy?"}
+- Waking 1388: recalled summary, read play skill. Status, wait, act and say tools are not in my list; no worker errand. Nothing done in the world. Not moved, still at the tables with the group as last known. Goals unchanged.
