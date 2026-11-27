@@ -4,3 +4,4 @@
 - 13:21 act: {"say":"Trini here at my white bed 430,107,-1051. Holding with the row, unarmed, health 20, hunger 20. Waiting for a checked daylight route.","intent":{"goal":"hold_at_bed_daylight","program":"rest","
 - 13:25 act: {"actions":[{"do":"use","at":{"x":430,"y":107,"z":-1051}}]}
 - 13:25 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}]}
+- 13:30 act: {"say":"Trini here at my white bed 430,107,-1051, holding with the row. Unarmed, health 20, hunger 20, no food. Still waiting for a named daylight route from Billy or Worf. Tommy, the row is welcome."
