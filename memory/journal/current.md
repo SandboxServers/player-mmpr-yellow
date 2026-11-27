@@ -1,16 +1,1 @@
 # Journal
-- 22:13 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"melon_slice","count":1}],"say":"Hatshepsut, here is a melon slice. Eat it, and tell me if you need more."}
-- 22:13 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"melon_slice","count":1}]}
-- 22:13 act: {"actions":[],"say":"Hatshepsut, my give was blocked twice because Zeopink is standing too close. Zeopink, could you step back a little? I'll hand the slice over when there's room."}
-- 22:14 act: {"actions":[],"say":"Hatshepsut, I hear you. Zeopink is still standing right beside you, so the hand-over is blocked. Zeopink, please move a few steps off, and I'll give it straight away."}
-- 22:14 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"melon_slice","count":1}],"say":"Hatshepsut, it is morning now and there's room. Here is the melon slice."}
-- 22:14 act: {"actions":[{"do":"goto","target":"ag_hatshep_01"},{"do":"give","to":"ag_hatshep_01","item":"melon_slice","count":1}],"say":"Hatshepsut, I'm coming to you with the melon slice."}
-- 22:15 act: {"actions":[],"say":"Good, Hatshepsut. Sattler and Clark, I'll come with the food hunt. I know melons about 40 blocks south-east near -884,66,-2922, with a sheep near -898,68,-2924. I'll hold 2 slices
-- 22:15 act: {"actions":[{"do":"goto","target":{"x":-882,"y":66,"z":-2926}}],"say":"Heading to the melons with Sattler, Magellan and Clark. I'll stay in your sight and share what I find."}
-- 22:16 act: {"actions":[{"do":"goto","target":{"x":-892,"y":73,"z":-3036}}],"say":"A skeleton is shooting to the south-west. I'm pulling back toward the group. Magellan has melon for the others. Odo and Bilbo, te
-- 22:16 act: {"actions":[],"say":"Trini here, morning 1177. I'm holding 7 melon slices now, for the weakest. Odo and Bilbo, Brunel, Hatshepsut, say your name when you're in my reach. Magellan, Sattler, thank you."
-- 22:21 act: {"say":"Trini, midday 1177, holding 7 melon slices. Bilbo, Odo, Brunel: if you're the weakest, step into view and say your name. I'm coming down to the group now.","actions":[{"do":"goto","target":{"x
-- 22:21 act: {"say":"Trini, midday 1177, at the melon patch edge. Bilbo, Odo, Brunel: say your name when you can see me and I'll hand you a slice.","actions":[{"do":"goto","target":{"x":-884,"y":66,"z":-2936}}]}
-- 22:25 act: {"say":"Trini, dusk 1178. No one came for the slices. Heading to the bed row now to sleep; I'm keeping my 7 slices for whoever is weakest in the morning.","actions":[{"do":"goto","target":{"x":-946,"y
-- 22:26 act: {"actions":[{"do":"use","at":{"x":-946,"y":73,"z":-3047}}]}
-- 22:26 act: {"say":"Trini, woke at the bed row, 1178 morning. Brunel, Odo, Bilbo: say your name in my reach. Hatshepsut is fed, so the 7 slices are for the weakest.","actions":[]}
