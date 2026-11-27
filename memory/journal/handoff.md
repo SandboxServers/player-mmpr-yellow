@@ -1,7 +1,8 @@
-Handoff (day 1171, night, at the bed row near -946,73,-3048)
+Handoff (day 1173, dusk, bed row near -944,73,-3058)
 
-- Health 9, hunger 17. Carrying 5 carrots, 1 stick, 1 wooden sword.
-- Gave carrots to Laforge; a carrot to Hermione did not land (she was out of sight), so she still needs one. Yoda too, at 17.
-- Worf still owed the stick when he is in my reach. Not seen today.
-- Still not found: Jason, Kimberly. Billy and Zack are at the Stores hall with the group.
-- Next at dawn: give carrots to Hermione and Yoda when in reach (say name first); eat at hunger 10; hand stick to Worf; ask after Jason and Kimberly.
+- Health 9, hunger 17. Carrying 1 carrot (from Fogg), 1 stick, 1 wooden sword.
+- Marty is full. Hypatia and Yoda still owed a carrot when they say their names in reach.
+- Worf still owed the stick when in reach.
+- Not found: Jason, Kimberly. Billy and Zack unknown.
+- Indy holds 2 carrots for whoever is at 17 in reach.
+- Next at dawn: join the cow/chicken search with the group in sight; eat at hunger 10.

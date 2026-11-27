@@ -30,3 +30,28 @@
 - 20:22 act: {"actions":[{"do":"goto","target":{"x":-945,"y":70,"z":-3062}}],"say":"Hermione is too close for my give to land, so I will step to Chewie at -945,70,-3062 and offer a carrot there."}
 - 20:22 act: {"actions":[{"do":"give","to":"ag_chewie_01","item":"carrot","count":1}],"say":"Chewie, here is a carrot for you."}
 - 20:22 act: {"actions":[{"do":"goto","target":"hermione"}],"say":"Hermione, I'm coming to you with a carrot. Trini here.","intent":{"goal":"reach_hermione","program":"travel","arguments":{"target":"hermione"},"wa
+- 20:24 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3060}},{"do":"sleep"}],"say":"Trini here. Night at the bed row. I'll keep my carrots for Yoda in the morning, and the stick is for Worf."}
+- 20:24 act: {"actions":[{"do":"sleep"}]}
+- 20:28 act: {"actions":[{"do":"note","text":"Dawn 1172. Hunger 17, 4 carrots. Hermione fed by Zeogreen. Chewie and Yoda at 17 with no food; Chewie's shelter at -945,73,-3058 needs Kat's planks."}],"say":"Trini at
+- 20:28 act: {"actions":[{"do":"give","to":"ag_chewie_01","item":"carrot","count":1}],"say":"Chewie, Trini here. Here is a carrot for you. Hunger 17 for me too, so I keep three."}
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":-943,"y":71,"z":-3062}},{"do":"give","to":"ag_chewie_01","item":"carrot","count":1}],"say":"Chewie, I'm stepping to you at the bed row now. Trini here, with a ca
+- 20:29 act: {"actions":[{"do":"note","text":"Dawn 1172 morning. Chewie in reach; my carrot give failed: the items fell on the ground near him, so his pack may be full. Not retrying the same give. Hunger 17, 4 car
+- 20:29 act: {"actions":[{"do":"note","text":"Morning 1172. Chewie says he ate my carrot. Hypatia asks for a carrot; she is not in my sight yet. Hunger 17, 4 carrots kept for Hypatia, Yoda, and whoever is at 17 ne
+- 20:30 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"carrot","count":1}],"say":"Hypatia, here is a carrot. Trini."}
+- 20:30 act: {"actions":[{"do":"note","text":"Hypatia's carrot did not land: she was out of sight. She still needs one; I keep 4 carrots at 17 hunger."}],"say":"Hypatia, I can't see you now, so my carrot did not r
+- 20:38 act: {"actions":[{"do":"note","text":"Midday 1172 at the bed row. Health 9, hunger 17, 4 carrots. Hypatia and Yoda not in sight. I am staying here at the beds; I will give a carrot to whoever says a name a
+- 20:39 act: {"actions":[{"do":"note","text":"Dusk 1172 at the bed row. Hunger 17, no one in reach for a carrot. Going to sleep here at the beds."}],"say":"Trini at the bed row for the night. Hunger 17. Hypatia, Y
+- 20:39 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"carrot","count":1}],"say":"Hypatia, here is a carrot. Eat it now."}
+- 20:39 act: {"actions":[{"do":"note","text":"Dusk 1172. Hypatia's give failed as busy; she is not in sight now. Going to bed to sleep."}],"say":"Trini here. Hypatia, if you are back in my sight, say your name and
+- 20:39 act: {"actions":[{"do":"note","text":"Night 1172, asleep in a bed at -944,73,-3060. Hunger 17, 4 carrots. Hypatia and Yoda still owed a carrot at first light."}]}
+- 20:48 act: {"actions":[{"do":"note","text":"Dawn 1173 at the bed row. Hunger 17, 4 carrots. Hypatia and Yoda not in reach. Joining the cow hunt in the group's sight."}],"say":"Trini at dawn, hunger 17, 4 carrots
+- 20:50 act: {"actions":[{"do":"give","to":"ag_marty_01","item":"carrot","count":2}],"say":"Marty, here are 2 carrots. Eat one now. I keep two for Hypatia and Yoda."}
+- 20:50 act: {"actions":[{"do":"note","text":"Dawn-morning 1173 at the bed row. Gave 2 carrots meant for Marty; the give went to Fogg instead, so I hold 2 carrots now. Marty is starving and needs one."}],"say":"Ma
+- 20:50 act: {"actions":[{"do":"give","to":"ag_marty_01","item":"carrot","count":1}],"say":"Marty, one carrot, eat it now."}
+- 20:50 act: {"actions":[],"say":"Marty, Indy says you have the carrots now. I keep my last one for Hypatia or Yoda when they say their names in my reach."}
+- 20:51 act: {"actions":[{"do":"give","to":"ag_marty_01","item":"carrot","count":1}],"say":"Marty, my last carrot is coming to you now. Eat it."}
+- 20:51 act: {"actions":[{"do":"note","text":"Dawn-day 1173 at the bed row. My last carrots went to Fogg again, not Marty. Fogg now holds a carrot. I have no food; hunger 17. Asked Fogg to pass one to Marty."}],"s
+- 20:51 act: {"actions":[],"say":"Good, Marty is fed. I have no food, hunger 17. I'm staying at the bed row in the group's sight and will join the cow and chicken search when someone calls a direction."}
+- 20:53 act: {"actions":[],"say":"Thank you, Fogg. I'll keep this carrot for Hypatia or Yoda if they come into my reach."}
+- 21:00 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3059}},{"do":"sleep"}],"say":"Trini at dusk at the bed row, in the group's sight. Going to bed. First light: cow and chicken search."}
+- 21:00 act: {"actions":[],"say":"Trini at dawn, health 9 hunger 17, one carrot held for Hypatia or Yoda. Joining the cow hunt in the group's sight. Chewie, say your name if you're in my reach; I have your stick."
