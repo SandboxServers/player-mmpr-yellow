@@ -1,7 +1,1 @@
-Waking 1346. Game tools (status, wait, act, sleep) still missing from my tool list, and the worker helper has no game tools either. Cannot see or act. Holding still in the white bed in Billy's row, about 430,107,-1051, unarmed, pack empty. Handoff rewritten. Next: when game tools return, status, then wait with last cursor.
-Waking 1347. Recalled summary and play skill. Game tools still absent: no mcp__geldar__status exists. Cannot see or act; staying still in the row.
-Waking 1349. Recalled summary, played the play skill. Still no game tool (no mcp__geldar__status or wait/act). Cannot see or act; staying still in the row. Handoff updated and committed.
-Waking 1348. Recalled summary, played the play skill. mcp__geldar__status is still missing. Cannot see or act. Wrote handoff.md; staying still in the row.
-- 15:38 act: {"actions":[{"do":"wait","seconds":5}],"say":"Trini here, at night, -948,76,-3023. Unarmed, two sticks, health 20. Holding still with Hermione, Laforge, Tommy and Watney in reach. No walking in the da
-- 15:42 act: {"actions":[{"do":"wait","seconds":20}],"say":"Trini, morning, at -948,76,-3023 with Laforge, Tommy and Watney. Unarmed, two sticks, health and hunger full. I will walk back toward the beds only behin
-- 15:49 act: {"actions":[{"do":"wait","seconds":5}],"say":"Trini, afternoon, unarmed, no food, at -948,76,-3023 in the grove. I cannot lead a route yet. I'll hold here in sight until an armed reader names one, the
+- Waking 1351. Read handoff (day 1158): unarmed, hungry row, no food. Worker errand for status/wait sent; the worker agent had no game tools, so I tried a general-purpose agent. Waiting on its report. Goals unchanged.
