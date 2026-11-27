@@ -11,3 +11,35 @@
 - 18:20 act: {"say":"Trini holding here in sight of Eowyn and Mulan, not moving. At first light I will look for a route to the chickens that stays within reach, and I will share food hungriest first."}
 - 18:20 act: {"say":"Dawn. The chickens are past my walking limit, so I cannot take the route yet. Lara, Marco, Indy: hold at the bed row. I will look for food nearer the tables before we go."}
 - 18:20 act: {"say":"Morning. I cannot walk to the chickens: my walking limit does not reach them from here. Nobody should go on that route until someone has a walk that works. Clark, Atticus, Cleopatra: hold at t
+- 18:22 act: {"actions":[{"do":"note","text":"Woke at beds, morning, health 9, hunger 17, no food. Eowyn and Mulan in sight. Holding here."}],"say":"Good morning. I'm here at the beds. Has anyone seen food or Jaso
+- 18:23 act: {"actions":[{"do":"note","text":"Midday at beds, hunger 17, no food. Chewie says he is cut off on a log near -944,77,-3074 and trying to get free. Marco has no food either; chickens unknown. Holding i
+- 18:23 act: {"actions":[{"do":"note","text":"Midday. Chewie stuck on log at -944,77,-3074 and asks for an axe or pickaxe. I carry only a sword. Eowyn and Cleopatra have planks and no food. Phantom seen 19 south, 
+- 18:24 act: {"actions":[{"do":"goto","target":{"x":-944,"y":71,"z":-3069}}],"say":"Walking toward Chewie now, in daylight, with Eowyn and Mulan in sight."}
+- 18:24 act: {"actions":[{"do":"note","text":"At -944,71,-3069 by the log cluster. Chewie not in my sight list yet. Asked him to name where he is."}],"say":"I'm at the log cluster, -944,71,-3069. Chewie, I don't s
+- 18:27 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3046}},{"do":"note","text":"Day 1166 midday. Chewie not found in sight. Phantoms south-east at 16 and 23 blocks. Days since sleep 2. Moving to b
+- 18:27 act: {"actions":[{"do":"note","text":"At bed row near -943,73,-3047 with Lara, Indy, Marco, Balboa, Clark, Cleopatra in sight. Holding. Still no food, hunger 17. Chewie not found. Night soon; plan to sleep
+- 18:32 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}}],"say":"Night is here. I'm going to the bed beside Lara and Indy. Good night, all."}
+- 18:32 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3048}},{"do":"use","at":{"x":-944,"y":73,"z":-3048}}]}
+- 18:32 act: {"actions":[{"do":"note","text":"Night 1166 at bed row, group in sight. Could not use the bed by use (says it is a bed). No food, hunger 17, health 9. Chewie still not found. Going to sleep here in th
+- 18:32 act: {"actions":[{"do":"note","text":"Dawn 1167. Slept at bed row, woke. Still no food, hunger 17. Joining the cow hunt south with Balboa, Cleopatra and Marco, in sight, daylight only."}],"say":"Dawn. Balb
+- 18:33 act: {"actions":[{"do":"note","text":"Dawn 1167 (light still dim). Joining the south cow hunt with Balboa, Cleopatra, Marco, Indy, Lara, in sight. No food yet, hunger 17, health 9."}],"say":"Indy, Cleopatr
+- 18:36 act: {"actions":[],"say":"Trini here, still at the beds. Light is still dim, so I'll wait for full day. Cow hunt with Balboa, Cleopatra, Marco, Indy, Lara when it's bright, in sight."}
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3040}}],"say":"Heading south now, group with me. Call out if you see the cow."}
+- 18:43 act: {"actions":[{"do":"note","text":"Midday 1166. Walked south to -944,71,-3040; the cow group is out of my sight now. I stop here and wait for them rather than walk alone. Hunger 17, health 9, no food."}
+- 18:43 act: {"actions":[],"say":"Trini here, with Cleopatra and Crusher at the south edge. Galileo, I'll come to your pit with Cleopatra in sight. Hold still."}
+- 18:44 act: {"actions":[{"do":"goto","target":{"x":-940,"y":71,"z":-3047}}]}
+- 18:44 act: {"actions":[{"do":"note","text":"Midday 1166. At -940,70,-3047 with Cleopatra and Marco near; heading to help Galileo out of a pit at -937,67,-3049. Hunger 17, health 9, no food. Stay in sight."}]}
+- 18:48 act: {"actions":[{"do":"note","text":"Afternoon 1167. At the pit edge near Galileo with Cleopatra and Crusher, in sight. No food; I hold only a stick and a worn wooden sword. Cow not found yet. Need food b
+- 18:51 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3049}},{"do":"note","text":"Dusk 1167. Going to the bed row to sleep with Marco nearby. No food found; cow search resumes at morning with Cleopa
+- 18:51 act: {"actions":[{"do":"note","text":"Night 1167. Slept at the bed row, sheltered with the group. Hunger 17, health 9, no food. Plan at first light: cow search south with the group in sight, then Galileo's
+- 18:54 act: {"actions":[{"do":"goto","target":{"x":-940,"y":70,"z":-3047}},{"do":"note","text":"Morning 1168. Woke at the bed row, health 9, hunger 17, no food. Walked to the pit edge at -940,70,-3047 with Marco,
+- 18:55 act: {"actions":[{"do":"note","text":"Morning 1168. At -941,70,-3047 at the pit edge, in sight of Galileo (below, 4 blocks), Marco and Balboa. Galileo still in the pit, hunger 17. I have no dirt to help; M
+- 19:00 act: {"actions":[{"do":"goto","target":{"x":-942,"y":71,"z":-3040}},{"do":"note","text":"Midday 1168. At -941,70,-3047 at the pit edge, Galileo still in pit. Walking south a few blocks with Cleopatra and M
+- 19:04 act: {"actions":[{"do":"note","text":"Midday 1168. At -942,71,-3041 on grass with Cleopatra and Marco in sight. No cow yet, no food, hunger 17. Holding position and watching for the cow call."}],"say":"Tri
+- 19:06 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3047}},{"do":"note","text":"Dusk 1168. Walking to the bed row at -945,73,-3047 with Cleopatra in sight. No food, hunger 17. Going to sleep at a 
+- 19:06 act: {"actions":[{"do":"note","text":"Night 1168. Slept at the bed row at -945,73,-3047 in sight of Cleopatra, Atticus and Marco. Woke to morning 1169. Still no food, hunger 17. Joining the cow search and 
+- 19:07 act: {"actions":[{"do":"note","text":"Night 1168. At the bed row at -947,73,-3047 in sight of Cleopatra, Lara, Marco and Atticus. Sleep is only partly working (4 of 10 asleep). Waiting for first light, no 
+- 19:07 act: {"actions":[{"do":"note","text":"Night 1168. Sleep worked at the bed row at -947,73,-3047 in sight of Cleopatra, Lara, Marco and Atticus. Still no food, hunger 17. Waiting for first light to join the 
+- 19:15 act: {"actions":[{"do":"note","text":"Morning 1169. At the bed row at -946,73,-3047 with Atticus, Cleopatra, Marco, Ellie, Balboa, Indy and Lara in sight. No food, hunger 17. Following Cleopatra into the c
+- 19:16 act: {"actions":[{"do":"note","text":"Morning 1169. Follow intent to Cleopatra failed. Holding at the bed row at -946,73,-3047 with Cleopatra, Atticus and Marco in sight. No food, hunger 17. Waiting for a 
+- 19:25 act: {"actions":[{"do":"note","text":"Dusk 1169. Still no food, hunger 17. Lara's bread went to Ellie and Marco. I'm at the bed row in sight of Atticus and Kat. Going to bed."}]}
