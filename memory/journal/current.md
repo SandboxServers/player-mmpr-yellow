@@ -9,3 +9,4 @@
 - 19:59 act: {"say":"Worf, I hear you. I have the stick for you. It is dusk, so I will stay with the group at the beds. Come into sight and I will hand it over."}
 - 20:02 act: {"say":"Trini, night at the bed row in the group's sight. Worf, I still hold my stick for you; say your name in my reach at first light."}
 - 20:02 act: {"actions":[{"do":"sleep"}]}
+- 20:04 act: {"say":"Night at the bed row with the group in sight. Sleeping now; first light, I will look for food and ask after Jason, Kimberly, Billy and Zack.","actions":[{"do":"goto","target":{"x":-950,"y":73,
