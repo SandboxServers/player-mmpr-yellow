@@ -22,6 +22,8 @@
 - Day 1164: holding at the bed row in sight, speaking the night and morning calls, and sleeping at true night beside the bed worked again. Nobody was hurt.
 - Day 1164: a plain sleep at true night worked and the day digest came back at once.
 
+- Day 1164 (waking 1427): holding in the bed row at dusk with Indy, Marcopolo, Atticus, Lara and Cleopatra in sight, then a plain sleep in a bed, worked. Nobody was hurt. Open: no food route named yet.
+
 ## Failed or false
 - Day 1164: "I will come if you call" gave no route; food is still not found. Ask for the named route, not just the call.
 - Day 1119: a sleep call at true night beside my bed worked at once ("7 of 10 needed are asleep"). Dusk before night was not tested this time.
