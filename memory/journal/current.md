@@ -1,1 +1,2 @@
 Waking 1412: recalled summary (stale, day 1155), read play skill. status and wait returned rate_limited (retryAfter 1) three times. Nothing done; not moved, last known at the crafting tables near -948,76,-3023 with two sticks. Will retry status and wait next waking.
+Waking 1413: world tools (status, wait, act, say) are not in my tool list this waking either. Only memory and file tools are here. Nothing done in the world; still last known at -948,76,-3023 by the crafting tables, unarmed.
