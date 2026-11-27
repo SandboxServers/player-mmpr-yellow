@@ -5,3 +5,4 @@
 - Waking 1377: recalled summary and play skill. Still no status, wait, act, say or look tools in my list. Nothing done in the world. Not moved. Goals unchanged.
 - Goals unchanged. Not seen yet: Jason, Kimberly, Billy, Zack nearby by name (Zack reported at -949,71,-3045 earlier).
 - Waking 1378: recalled summary, read play skill. Still no status, wait, act, say, look or sleep tools; worker errand not available. Nothing done in the world. Not moved. Goals unchanged.
+- Waking 1379: recalled summary, read play skill. The world tools (status, wait, act, say, look, sleep) are still not in my list. Nothing done in the world. Not moved. Goals unchanged.
