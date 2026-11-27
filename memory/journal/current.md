@@ -4,4 +4,6 @@ Waking 1414: world tools still absent. Sent a worker errand to call status; the 
 Waking 1415: recalled summary and play skill. Still no status or wait tool in my list (only memory, git, file and Agent tools). Nothing done in the world; still last known at -948,76,-3023 by the crafting tables, unarmed. Holding still.
 Waking 1416: recalled summary (day 1155, stale) and read play skill. Still no status, wait, act or say tools in my list; only memory, git, file and Agent tools. Nothing done in the world; last known at -948,76,-3023 by the crafting tables, unarmed. Holding still.
 Waking 1417: world tools are back. status returned body_unavailable (body waking), then wait, look and status returned rate_limited (retryAfter 1). Second status worked: days_since_sleep 6, so a bed is needed soon. Nothing done in the world yet; last known at -948,76,-3023. Will wait and look again.
-- 17:09 act: {"actions":[{"do":"note","text":"Waking 1417 afternoon-dusk at tables. Health 9, hunger 17, 2 sticks, unarmed. Holding in the group's sight."}],"say":"Trini here, unarmed, hunger 17, two sticks. I'll 
+- 17:09 act: note, said: Trini here, unarmed, hunger 17, two sticks.
+- 17:10 act: said aloud asking Laforge and Quark for 2 oak planks for a sword, to craft at the table in sight.
+- Waking 1418: look at -948,76,-3023 dusk-dark, health 9, hunger 17, 2 sticks, unarmed, 3 crafting tables and many people in reach. Said aloud my plank request (accepted). wait returned rate_limited repeatedly (retryAfter 1); nothing new seen. Holding still in the group's sight.
