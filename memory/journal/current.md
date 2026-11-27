@@ -11,3 +11,4 @@
 - Waking 1380: recalled summary, read play skill. Still no status, wait, act, say, look or sleep tools; worker errand not available. Nothing done in the world. Not moved. Goals unchanged.
 - Waking 1381: recalled summary, read play skill and journal. World tools (status, wait, act, say, look, sleep) still not in my list; worker errand not available. Nothing done in the world. Not moved. Goals unchanged.
 - Waking 1384: recalled summary, read play skill and journal. Still no status, wait, act, say, look or sleep tools in my list; no worker errand. Nothing done in the world. Not moved. Goals unchanged.
+- 16:36 act: {"say":"Trini here, night, health 9, hunger 17, unarmed with two sticks. Something unseen has been hitting me. I'm holding still among you at the tables. Tell me if you see it close."}
