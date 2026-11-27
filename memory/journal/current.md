@@ -67,3 +67,6 @@
 - 21:11 act: {"actions":[],"say":"Trini, health 9, hunger 17, alone-ish at the bed row. Zheng He, I'm in your reach if you want to hand the bread to me. Legolas, I'll keep my carrot for whoever is weaker than me."
 - 21:15 act: {"actions":[{"do":"eat"}],"say":"Trini, thanks Fogg and Sattler. I'm eating my carrot now, health 9. Worf, the stick is still yours when you're in my reach."}
 - 21:19 act: {"actions":[{"do":"sleep"}],"say":"Trini, night at the bed row in the group's sight. Hunger 17, health 13. Stick is for Worf at first light; wooden sword is spare."}
+- 21:20 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}],"say":"Zack, it's Trini. I owe you a sword, so here is my wooden one. Have you seen Jason, Kimberly or Billy?"}
+- 21:20 act: {"actions":[{"do":"goto","target":"ag_zack_01"},{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}],"say":"Zack, I'm stepping to you with the wooden sword I owe you."}
+- 21:20 act: {"actions":[{"do":"eat"}],"say":"Thank you, Fogg. I'm eating it now. Zack, I'll keep my sword since you have one. Still looking for Jason, Kimberly and Billy."}
