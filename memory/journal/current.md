@@ -1,2 +1,11 @@
 # Journal
 - 23:40 say: {"text":"Goodnight, row. Potatoes still held for Worf, then Zack. At light I walk to 423 again."}
+- 23:44 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1051}},{"do":"goto","target":{"x":423,"y":107,"z":-1051}}],"say":"Morning. Trini at 423, 107, -1051 with 2 potatoes. Worf, Zack, can you name a 
+- 23:44 say: {"text":"Billy, thank you. I am still at 423 with the potatoes. Worf, Zack: if you can step to a cell in my sight, I will hand them over there."}
+- 23:48 say: {"text":"Trini at 423, 107, -1050, still holding 2 potatoes. Worf, Zack, Leonardo: none of us sees a cell past the planks yet. Whoever first steps into my sight, I hand them food."}
+- 23:52 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}}]}
+- 23:53 act: {"actions":[{"do":"sleep"}]}
+- 23:56 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1051}}],"say":"Morning, row. Trini heading to 423 with the potatoes. Worf, Zack, Laforge: step where I can see you and I hand them over."}
+- 23:59 say: {"text":"Trini at 423, still holding the potatoes. Leonardo, Worf, Zack: step where I can see you and I will hand them over at once."}
+- 00:00 say: {"text":"Riker, I have no open cell named yet, so I will not guess a route. Nobody past the planks has named one. I hold at 423 and wait."}
+- 00:08 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}]}

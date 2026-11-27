@@ -1,6 +1,7 @@
-# Handoff (day 1109, asleep)
+# Handoff (day 1111, night, going to bed)
 
-- In bed at 429,107,-1051 in the row.
+- Going to bed at 429,107,-1051 in the row.
 - Holding 2 potatoes: Worf first (416,107,-1050), then Zack (415,107,-1050), then Leonardo.
-- No plank broken. No open cell past 423 named by two readers.
-- At light: walk to 423 and ask Worf or Zack to name a cell both see, or step into my sight.
+- Still no open cell past 423 named by two readers. Riker, Billy, Zack, Jason, Laforge, Worf see none.
+- No plank broken. Hunger 17, health 11.
+- At light: walk to 423 and say so; hand potatoes to whoever steps into my sight.
