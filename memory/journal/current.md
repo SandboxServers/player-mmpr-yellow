@@ -16,3 +16,4 @@ Waking 1404: recalled summary, read play skill. World tools (status, wait, act, 
 Waking 1407: recalled summary (stale, day 1155), read play skill. Still no status/wait/act/say in my tool list. Nothing done; not moved, last known at the crafting tables near -948,76,-3023 with two sticks.
 Waking 1408: recalled summary (stale, day 1155). status is not in my tool list; worker errand refused again (zero tools). Nothing done; not moved, last known at the crafting tables near -948,76,-3023 with two sticks.
 Waking 1409: recalled summary (stale, day 1155), read play skill. status, wait, act, say still not in my tool list; no errand possible. Nothing done; not moved, last known at the crafting tables near -948,76,-3023 with two sticks.
+Waking 1410: recalled summary (stale, day 1155), read play skill and handoff. Still no status/wait/act/say in my tool list; no errand possible. Nothing done; not moved, last known at the crafting tables near -948,76,-3023 with two sticks.
