@@ -5,3 +5,7 @@
 - 19:36 say: {"text":"Trini: my follow of Atticus stopped. I'll stay at the bed row with Indy and Marco until the group sets out, then walk in sight of Atticus for the cow search."}
 - 19:51 act: {"say":"Trini, morning, hunger 17, no food. I'm staying in the group's sight for the food search. Has anyone seen Jason, Kimberly, Billy or Zack? Worf, I still hold a stick for you if you come into my
 - 19:55 act: {"say":"Trini here, bed row, in the group's sight. Worf, I'm holding my stick for you; say your name when you are in my reach. Balboa, I'll come south with the cow walk if someone calls a direction."}
+- 19:59 dusk: Worf (unarmed, hunger 17, at the tables) asked for my stick. He is not in sight, and it is dusk, so I stay at the beds and will hand it over when he is in reach.
+- 19:59 act: {"say":"Worf, I hear you. I have the stick for you. It is dusk, so I will stay with the group at the beds. Come into sight and I will hand it over."}
+- 20:02 act: {"say":"Trini, night at the bed row in the group's sight. Worf, I still hold my stick for you; say your name in my reach at first light."}
+- 20:02 act: {"actions":[{"do":"sleep"}]}
