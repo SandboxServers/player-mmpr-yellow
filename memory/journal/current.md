@@ -43,3 +43,4 @@
 - 19:15 act: {"actions":[{"do":"note","text":"Morning 1169. At the bed row at -946,73,-3047 with Atticus, Cleopatra, Marco, Ellie, Balboa, Indy and Lara in sight. No food, hunger 17. Following Cleopatra into the c
 - 19:16 act: {"actions":[{"do":"note","text":"Morning 1169. Follow intent to Cleopatra failed. Holding at the bed row at -946,73,-3047 with Cleopatra, Atticus and Marco in sight. No food, hunger 17. Waiting for a 
 - 19:25 act: {"actions":[{"do":"note","text":"Dusk 1169. Still no food, hunger 17. Lara's bread went to Ellie and Marco. I'm at the bed row in sight of Atticus and Kat. Going to bed."}]}
+- 19:26 act: {"actions":[{"do":"note","text":"Dusk at the bed row, hunger 17, no food. Group in reach: Atticus, Cleopatra, Marco (has bread), Lara. Asking Marco for bread for the hungriest."}],"say":"Marco, I'm hu
