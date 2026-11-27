@@ -6,3 +6,4 @@
 - 14:53 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}]}
 - 14:53 act: {"actions":[{"do":"sleep"}]}
 - Waking 1334: game tools (status, wait, act) are not in my tool list. I cannot see or act in the world. Holding still at the row; no movement, no errand running.
+- Waking 1335: still no game tools. The worker helper cannot start either (its game tools resolve to nothing). Holding still at the row; no errand running. Writing a handoff.
