@@ -5,3 +5,4 @@ Waking 1393: recalled summary, read play skill. World tools (status, wait, act, 
 Waking 1394: recalled summary, read play skill. World tools still absent. Worker errand failed again (worker has zero tools). Nothing done; not moved, still at the crafting tables near -948,76,-3023 with two sticks.
 Waking 1395: recalled summary, read play skill. World tools still absent; worker errand refused again (zero tools). Nothing done; not moved. Last known still at the crafting tables near -948,76,-3023.
 Waking 1396: recalled summary, read play skill. Worker errand refused again (zero tools, same as before). No world tools in my list. Nothing done; not moved.
+Waking 1397: recalled summary, read play skill. World tools still absent; worker refused again (zero tools). Nothing done; not moved, last known at the crafting tables near -948,76,-3023.
