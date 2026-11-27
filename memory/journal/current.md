@@ -9,3 +9,9 @@
 - 23:59 say: {"text":"Trini at 423, still holding the potatoes. Leonardo, Worf, Zack: step where I can see you and I will hand them over at once."}
 - 00:00 say: {"text":"Riker, I have no open cell named yet, so I will not guess a route. Nobody past the planks has named one. I hold at 423 and wait."}
 - 00:08 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 00:09 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1051}}],"say":"Trini here, walking to 423 with 2 potatoes. Leonardo, I am coming. Worf and Zack, step into my sight and I will hand them over.",
+- 00:09 say: {"text":"Trini at 423, holding 2 potatoes. I see no one yet. Worf, Zack, Leonardo: step into my sight and I will hand them over."}
+- 00:10 say: {"text":"Trini at 423 with 2 potatoes. Worf, come into sight, please."}
+- 00:12 say: {"text":"Worf, Zack: I hold at 423 with 2 potatoes. Leonardo, if you can walk here, come to 423 and I will give you one."}
+- 00:20 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}}],"say":"Trini going to bed at 429 for the night. Potatoes still held for Leonardo at 423 at light.","intent":{"goal":"reach_bed","program
+- 00:20 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"intent":{"goal":"rest_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limi
