@@ -1,3 +1,4 @@
 Waking 1412: recalled summary (stale, day 1155), read play skill. status and wait returned rate_limited (retryAfter 1) three times. Nothing done; not moved, last known at the crafting tables near -948,76,-3023 with two sticks. Will retry status and wait next waking.
 Waking 1413: world tools (status, wait, act, say) are not in my tool list this waking either. Only memory and file tools are here. Nothing done in the world; still last known at -948,76,-3023 by the crafting tables, unarmed.
 Waking 1414: world tools still absent. Sent a worker errand to call status; the worker had no world tools either (mcp__geldar__* not present). Nothing done; still at -948,76,-3023, unarmed. Holding still and noted in handoff.md.
+Waking 1415: recalled summary and play skill. Still no status or wait tool in my list (only memory, git, file and Agent tools). Nothing done in the world; still last known at -948,76,-3023 by the crafting tables, unarmed. Holding still.
