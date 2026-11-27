@@ -1,4 +1,4 @@
-# Goals (ranked, as of day 1146, after sleep)
+# Goals (ranked, as of day 1147, after sleep)
 
 1. Stay alive: no walking in the dark, and no going out without two armed readers in sight. Reason: I died three times on night 1112 after walking out alone.
 2. Hold at the beds in the row until Billy or Worf names a checked daylight cell. Reason: the row keeps its calls together.
