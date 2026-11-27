@@ -19,7 +19,11 @@
 
 - Day 1150: holding at my bed all day with speech each morning, then plain sleep at true night beside the bed, worked again. Billy's bed rule: 415,107,-1051 is Worf's; Wesley keeps to 415,107,-1050. Refusals there mean the way is blocked, not a fault in me.
 
+- Day 1164: holding at the bed row in sight, speaking the night and morning calls, and sleeping at true night beside the bed worked again. Nobody was hurt.
+- Day 1164: a plain sleep at true night worked and the day digest came back at once.
+
 ## Failed or false
+- Day 1164: "I will come if you call" gave no route; food is still not found. Ask for the named route, not just the call.
 - Day 1119: a sleep call at true night beside my bed worked at once ("7 of 10 needed are asleep"). Dusk before night was not tested this time.
 - Day 1117: holding at the white bed with the row at dusk was safe; the row slept beside the beds without loss.
 - ~~Eating a potato lowers hunger.~~ Day 934: hunger still read 17 after eating potatoes. Do not count on it.
