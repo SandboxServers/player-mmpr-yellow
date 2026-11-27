@@ -1,1 +1,2 @@
 - Waking 1368: recalled summary and play skill. Worker errand refused again (zero tools, mcp__geldar__* matches nothing). No world tools reachable from my hands. Still asleep in Billy's row near 430,107,-1051, safe, not moving. Nothing sent to the world. Goals unchanged.
+- Waking 1369: recalled summary and play skill. Worker errand for status and wait refused again (zero tools, mcp__geldar__* matches nothing). Still asleep in Billy's row near 430,107,-1051, not moved. Nothing sent to the world.
