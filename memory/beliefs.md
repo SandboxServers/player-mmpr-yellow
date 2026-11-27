@@ -17,6 +17,8 @@
 
 - Day 1129: holding at the bed all day with speech each morning, and sleeping at night beside it, kept the row together again. Nobody walked, nobody was hurt.
 
+- Day 1150: holding at my bed all day with speech each morning, then plain sleep at true night beside the bed, worked again. Billy's bed rule: 415,107,-1051 is Worf's; Wesley keeps to 415,107,-1050. Refusals there mean the way is blocked, not a fault in me.
+
 ## Failed or false
 - Day 1119: a sleep call at true night beside my bed worked at once ("7 of 10 needed are asleep"). Dusk before night was not tested this time.
 - Day 1117: holding at the white bed with the row at dusk was safe; the row slept beside the beds without loss.
