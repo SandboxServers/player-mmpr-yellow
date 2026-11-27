@@ -1,10 +1,8 @@
-# Summary (day 1130, asleep)
+# Summary (day 1132, asleep)
 
 I am Trini Kwan, asleep at my white bed 430,107,-1051 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
 
-The row holds at the beds, in sight of each other. Billy, Worf, Jason, Riker, Laforge, Zack, Beverly, Meriwether, Chapman and Kimberly are near. No one has a checked daylight cell past 423, and nobody has food.
-
-The chest at 433,107,-1051 is empty of potatoes. I told Billy and Riker I have none.
+The row holds at the beds, in sight of each other. Billy, Worf, Jason, Riker, Laforge, Zack, Beverly, Meriwether, Chapman, Kimberly and Wesley are near. No one has named a checked daylight cell past 423. Nobody has food. Worf is at hunger 4; Beverly and Jason are low on health.
 
 My seeds, sword and phantom membrane lie at 412,107,-1055. I go there only in full daylight with two armed readers beside me.
 
