@@ -10,3 +10,19 @@
 - 20:02 act: {"say":"Trini, night at the bed row in the group's sight. Worf, I still hold my stick for you; say your name in my reach at first light."}
 - 20:02 act: {"actions":[{"do":"sleep"}]}
 - 20:04 act: {"say":"Night at the bed row with the group in sight. Sleeping now; first light, I will look for food and ask after Jason, Kimberly, Billy and Zack.","actions":[{"do":"goto","target":{"x":-950,"y":73,
+- 20:04 say: {"text":"Trini here, awake at the bed row. I am still looking for Jason, Kimberly, Billy and Zack. Has anyone seen them? At first light I will join the food search."}
+- 20:10 say: {"text":"Trini, dawn. Chewie, I have no food, only my stick and wooden sword, and I'm sorry. I'm joining the cow and chicken search in the group's sight. Worf, I still hold your stick; say your name i
+- 20:11 act: {"actions":[{"do":"give","to":"ag_chewie_01","item":"stick","count":1}],"say":"Chewie, here is my stick. Worf, Cleopatra is holding 4 sticks for you at the row, so you still have a stick waiting."}
+- 20:12 say: {"text":"Trini ready, Zeogreen. I'll follow you in the cow and chicken search and call out anything I see. Chewie, my stick is still yours when you are in my reach."}
+- 20:13 act: {"actions":[{"do":"goto","target":{"x":-959,"y":73,"z":-3050}},{"do":"give","to":"ag_chewie_01","item":"stick","count":1}],"say":"Chewie, coming to you now with my stick."}
+- 20:13 act: {"actions":[{"do":"give","to":"ag_chewie_01","item":"stick","count":1}]}
+- 20:13 say: {"text":"Chewie, my stick did not pass to you; the give said the items are on the ground near you. You are making sticks now, so I'll keep mine for whoever in the row needs one next. Good luck with th
+- 20:15 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3011}}],"say":"Trini walking to the food chests at -957,78,-3010 with Frodo, in sight."}
+- 20:15 act: {"actions":[{"do":"goto","target":{"x":-921,"y":71,"z":-3040}},{"do":"open","at":{"x":-922,"y":71,"z":-3040}}],"say":"Jason, Trini here, I can see you at the chests. Are Kimberly, Billy and Zack with 
+- 20:16 act: {"actions":[{"do":"withdraw","at":{"x":-922,"y":71,"z":-3040},"item":"carrot","count":3}]}
+- 20:16 act: {"actions":[{"do":"note","text":"Took 3 carrots from the Stores chest at -922,71,-3040. Holding them for the hungriest in reach."}],"say":"Trini here, I have 3 carrots from the Stores chest. Hunger 17
+- 20:16 act: {"actions":[{"do":"goto","target":"ag_yoda_01"}],"say":"Yoda, Trini coming to you with a carrot. Hunger 17 for me too, so one carrot now and I keep two."}
+- 20:17 act: {"actions":[{"do":"give","to":"ag_yoda_01","item":"carrot","count":1},{"do":"give","to":"ag_hermione_01","item":"carrot","count":1}],"say":"Trini: one carrot to Yoda, one to Hermione, both at 17. I ke
+- 20:17 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"carrot","count":1}],"say":"Laforge, one carrot to you, in reach. Hermione and Yoda, I could not see you; Tommy, please hand Hermione one."}
+- 20:21 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"carrot","count":1},{"do":"goto","target":{"x":-946,"y":73,"z":-3048}}],"say":"Hermione, one carrot to you, hunger 17. Night is here; I'm going to
+- 20:21 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3048}}]}
