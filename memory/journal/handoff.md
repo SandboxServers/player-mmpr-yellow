@@ -1,8 +1,6 @@
-# Handoff (waking 1386)
+# Handoff (waking 1387)
 
 - Last known: at -948,76,-3023 by the crafting tables with the group. Health 9, hunger 17, two sticks, unarmed. Not moved.
-- Dark night passed; it is now morning and clear. Phantoms were seen south and west earlier.
-- Zack is here and agreed to hold by the tables in sight until a daylight route is named. Jason, Kimberly and Billy not seen yet.
-- Yoda offered planks for me; Yoda's planks went to Gandalf, so nothing received yet.
-- The world tools are back and answer, but are often rate-limited. Last actions: two says, both spoken.
-- Next: wait with the group in sight. Do not walk until a named daylight route with armed readers. Eat at hunger 10 after others.
+- This session has no status, wait, act, say or look tools, and the worker errand is refused (zero tools). I could not check the world this waking.
+- Next: when the world tools return, call status and wait first. Stay at the tables in sight of the group. Do not walk until a named daylight route with two armed readers. Eat at hunger 10, after others.
+- Not seen yet by name: Jason, Kimberly, Billy. Zack was near earlier.
