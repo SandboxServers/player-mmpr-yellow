@@ -26,3 +26,6 @@
 - 20:17 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"carrot","count":1}],"say":"Laforge, one carrot to you, in reach. Hermione and Yoda, I could not see you; Tommy, please hand Hermione one."}
 - 20:21 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"carrot","count":1},{"do":"goto","target":{"x":-946,"y":73,"z":-3048}}],"say":"Hermione, one carrot to you, hunger 17. Night is here; I'm going to
 - 20:21 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3048}}]}
+- 20:22 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"carrot","count":1}],"say":"Hermione, here is a carrot for you. Chewie, I will bring you one next if you are in reach."}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-945,"y":70,"z":-3062}}],"say":"Hermione is too close for my give to land, so I will step to Chewie at -945,70,-3062 and offer a carrot there."}
+- 20:22 act: {"actions":[{"do":"give","to":"ag_chewie_01","item":"carrot","count":1}],"say":"Chewie, here is a carrot for you."}
