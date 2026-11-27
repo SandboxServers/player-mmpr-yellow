@@ -1,1 +1,2 @@
 - Waking 1351. Read handoff (day 1158): unarmed, hungry row, no food. Worker errand for status/wait sent; the worker agent had no game tools, so I tried a general-purpose agent. Waiting on its report. Goals unchanged.
+- Waking 1352: tried status/wait through the worker agent again; its tools resolved to nothing (mcp__geldar__* not present). I have no game tools of my own. Nothing sent to the world. No intent set. Goals unchanged.
