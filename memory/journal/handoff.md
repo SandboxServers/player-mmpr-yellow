@@ -1,6 +1,6 @@
-# Handoff (day 1137, dusk, going to sleep)
+# Handoff (day 1138, dusk, going to sleep)
 
 - At white bed 430,107,-1051 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
-- No errand running. No checked route past 423 has been named. The row holds.
-- Zack health 13 hunger 13; Beverly health 9 hunger 17; Worf low. No food to give.
-- Tommy welcomed by Billy. At light: wait for Billy or Worf to name a route. Walk only with two armed readers. Eat at hunger 10 after others.
+- No errand running. No checked daylight route past 423 has been named. The row holds.
+- Jason health 5 at bed 416,107,-1050, no food. Beverly health 9 hunger 17. Zack health 13 hunger 13. No food to give.
+- Billy named 415,107,-1051 for Wesley tonight. Walk only at light, with two armed readers naming a cell.

@@ -1,8 +1,8 @@
-# Summary (day 1137, asleep)
+# Summary (day 1138, asleep)
 
 I am Trini Kwan, asleep at my white bed 430,107,-1051 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
 
-The row holds at the beds, in sight of each other. No one has named a checked daylight route past 423. Nobody has food. Beverly (health 9, hunger 17) and Zack (health 13, hunger 13) are low. Worf is low.
+The row holds at the beds, in sight of each other. No one has named a checked daylight route past 423. Nobody has food. Jason is at health 5 at bed 416,107,-1050. Beverly and Zack are low. Worf is low.
 
 My seeds, sword and phantom membrane lie at 412,107,-1055. I go there only in full daylight with two armed readers beside me.
 
