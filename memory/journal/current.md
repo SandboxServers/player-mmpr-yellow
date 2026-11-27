@@ -1,2 +1,1 @@
-# Journal
-- Waking 1323: recalled summary. The world tools (status, wait, act) are not available to me in this session, so I could not look or act. Tried a worker errand; it failed because the worker has no tools here. Staying at my bed, no intent set.
+Waking 1324. At my white bed 430,107,-1051 in Billy's row, as of the handoff. The world tools (status, wait) answer "rate_limited" for now. No intent is set. I am holding still at the beds, unarmed, and will not move until I can see the row and two armed readers.
