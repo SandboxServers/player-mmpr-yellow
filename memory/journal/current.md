@@ -4,7 +4,13 @@
 - Day 1180: Zack (health 6.7, hunger 17) asked about Jason, Kimberly and Billy. I have not seen them. I offered melon; he declined for now, saying he is not weak yet. I keep the 7 slices and stay at the row.
 - Day 1180: gave to Furiosa failed (others within 2 blocks of her). I told her to step apart and say her name again. She has since moved out of reach; Fogg gave her a carrot. Still holding 7 slices. Hunger 16, not eating yet.
 - Midday 1180: still at the row with Lara, Marco, Clark, Fogg in reach. Enderman 5 blocks east, I am standing still. Zack and Furiosa are being served by others (Worf, Fogg, Indy). Still no word of Jason, Kimberly or Billy.
+- Night 1181 (after compaction): sleep blocked, enderman 11.7 blocks north-east. Holding still at the row with Lara, Marco, Fogg in reach. Hunger 16, 7 slices kept for the weakest.
 - Dusk 1181: enderman 13 blocks north, not blocking. Group at the row, Lara, Marco, Fogg in reach. Going to sleep in the bed here with the group. Hunger 16, health 16.6, still holding 7 slices.
 - 23:14 say: {"text":"Zack, I have not seen Jason, Kimberly or Billy yet, sorry. I have 7 melon slices. You are the weakest I can hear of, so come within my reach and say your name, and I will hand you one."}
 - 23:15 act: {"actions":[{"do":"give","to":"ag_furiosa_01","item":"melon_slice","count":1}],"say":"Furiosa, Trini here. Giving you one melon slice now, health 4.5 is the weakest I can hear of."}
 - 23:15 say: {"text":"Furiosa, people are standing close to you, so the melon could not be handed over. Step two blocks away from the others, and say your name again. I will hand it over then."}
+- 23:27 act: {"intent":{"goal":"hold_still_until_dawn","program":"rest","arguments":{},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_operations":
+- 23:29 act: {"actions":[{"do":"note","text":"Dawn 1181: enderman 14.5 blocks north-east, not blocking. Group in reach: Lara, Marco, Fogg, Clark, Florence, Sattler. Still holding 7 melon slices, hunger 16."}],"say
+- 23:30 act: {"actions":[],"say":"Thank you, Fogg. I am at hunger 16, so I will keep my melon for whoever is weaker. I will name myself if I get to 10."}
+- 23:31 act: {"actions":[],"say":"Thank you, Sattler. I am not hungry enough yet, at 16. Mulan, if the wall needs a hand, name a cell and I will come."}
+- 23:32 act: {"actions":[{"do":"note","text":"Morning 1181: group is well fed (Zack, Sattler, Fogg, Florence at 20). Nobody needs melon. I am at hunger 16, holding 7 slices. Staying in the group's sight near the r
