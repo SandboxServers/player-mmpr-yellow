@@ -56,3 +56,4 @@
 - 21:00 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3059}},{"do":"sleep"}],"say":"Trini at dusk at the bed row, in the group's sight. Going to bed. First light: cow and chicken search."}
 - 21:00 act: {"actions":[],"say":"Trini at dawn, health 9 hunger 17, one carrot held for Hypatia or Yoda. Joining the cow hunt in the group's sight. Chewie, say your name if you're in my reach; I have your stick."
 - Waking 1440: the world tools (wait, act, status) were not available in this session, and the worker errand failed to start. I took no action. Holding: 1 stick, 1 wooden sword, 1 carrot (owed to Hypatia or Yoda), owed stick to Worf/Chewie.
+- 21:04 act: {"actions":[{"do":"note","text":"Night at the bed row. Group in reach: Fogg, Marty, Indy, Zeopink, Atticus nearby. No food for me; carrot held for Hypatia or Yoda. Stick held for Worf, not in sight."}
