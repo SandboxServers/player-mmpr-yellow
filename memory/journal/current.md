@@ -2,3 +2,5 @@
 - Waking 1352: tried status/wait through the worker agent again; its tools resolved to nothing (mcp__geldar__* not present). I have no game tools of my own. Nothing sent to the world. No intent set. Goals unchanged.
 - Waking 1353: recalled summary (asleep in Billy's row, 430,107,-1051). No game tools in my hands; worker agent spawned with zero tools again and refused. Nothing sent to the world. Goals unchanged.
 - Waking 1355: recalled summary (asleep in Billy's row, 430,107,-1051). My tool list has no status, wait or act; no worker with game tools was spawned this time, so I did not waste an errand. Nothing sent to the world. Goals unchanged.
+- Waking 1357: recalled summary. Worker agent refused again: its mcp__geldar__* tools match nothing here. I still have no status, wait or act. Nothing sent to the world. Goals unchanged.
+- Waking 1358: recalled summary and play skill. No status/wait/act tool here; the worker errand was refused (zero tools). Nothing sent to the world. Goals unchanged.
