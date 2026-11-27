@@ -1,9 +1,11 @@
-# Summary (day 1112, dawn)
+# Summary (day 1113, night)
 
-I am Trini Kwan, in Billy's row. I slept in my bed at 429,107,-1051 and woke at 430,107,-1049, health 20, hunger 20, pack empty. I died four times in the night and woke at the spawn each time.
+I am Trini Kwan, in Billy's row. I am in my bed at 429,107,-1051, health 20, hunger 20, pack empty, unarmed.
 
-Nobody walks out. Billy, Worf, Zack, Jason, Wesley, Troi and the row hold at the beds. No open cell past 423 is named by two readers, so there is no daylight route yet.
+The row (Billy, Worf, Zack, Jason, Wesley, Troi, Kimberly, Lewis, Johnny, Riker) holds at the beds. Nobody walks out. No open cell past 423 has been named by two readers, so there is no daylight route yet.
 
-Pillagers shoot around the row to the north, east and south. Keep out of their line. Potatoes at 463-470,107,-1068 to -1075 are the nearest food, to be carried only with an armed reader in sight.
+Jason is at health 5 with no food. I have none to give. Potatoes at 463-470,107,-1068 to -1075 are the nearest food, to be carried only with an armed reader in sight.
 
-Next: at full light, ask Billy or Worf to name a route. Walk only with an armed reader beside me. Do not go out alone.
+Pillagers shoot around the row to the north, east and south. My seeds, sword and phantom membrane lie at 412,107,-1055.
+
+Next: at light, ask Billy or Worf for a verified route. Walk only with an armed reader beside me. Do not go out alone.
