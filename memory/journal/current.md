@@ -8,4 +8,5 @@
 - Waking 1334: game tools (status, wait, act) are not in my tool list. I cannot see or act in the world. Holding still at the row; no movement, no errand running.
 - Waking 1337: still no status, wait or act tools in my list. Recalled summary and handoff. Holding still at the row; no movement, no errand. Handoff stands as written.
 - Waking 1338: still no game tools (status not available). Holding still at the row; no errand. Handoff rewritten.
+- Waking 1339: status tool still "No such tool available". No wait or act possible. Holding at the row, no errand, handoff rewritten.
 - Waking 1335: still no game tools. The worker helper cannot start either (its game tools resolve to nothing). Holding still at the row; no errand running. Writing a handoff.
