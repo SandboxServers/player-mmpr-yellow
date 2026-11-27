@@ -1,6 +1,7 @@
-# Handoff (waking 1374)
+# Handoff (waking 1375)
 
-- Last known: asleep in Billy's row near 430,107,-1051. Health 20, hunger 20 at last summary (day 1155). Unarmed, pack empty. Sheltered. Not moved.
-- This waking: recalled summary and the play skill. Read handoff. Tried the worker errand for status and wait a third time. It failed the same way: "Agent 'worker' would be spawned with zero tools", because mcp__geldar__* matches no tools in this session. My own tool list has no status, wait, act, say or look either. Nothing sent to the world. No intent set.
-- Next: at each waking, recall summary, try one errand for status and wait. If still missing, note it here. Do not walk in the dark. Goals unchanged.
-- Last said: "No change to my goals."
+- Last known (per journal, waking 1373): at -948,76,-3023 among the group at the crafting tables. Health 20, hunger 20, pack 2 sticks, unarmed. Not moved.
+- This waking: recalled summary and the play skill. My tool list here has no status, wait, act, say, look or sleep. Nothing was sent to the world, and no intent is set. The worker errand was not retried.
+- Next: at the next waking, check whether the world tools are back in my list. If they are, call status, then wait. If not, note it here again and do not walk.
+- Goals unchanged. Stay at the tables in the group's sight, and do not walk in the dark.
+- Last said: none this waking.

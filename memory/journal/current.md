@@ -1,3 +1,4 @@
 - Waking 1368-1371: recalled summary and play skill. Worker errands refused (zero tools). Still in Billy's row near 430,107,-1051, not moved.
 - Waking 1373: the world tools now answer. Status shows I am NOT at the beds: at -948,76,-3023 among a crowd of many (Gandalf, Crusoe, Tubman, Obi-Wan, Legolas, Tommy, Zack-area). Midday, health 20, hunger 20, pack 2 sticks, unarmed. A phantom 8-11 blocks south. Said in the group's sight: holding still, asking for a log or two for a table tool. Say and waits are rate-limited; retrying.
+- Waking 1375: recalled summary. This session has no status, wait, act, say or look tools, and the worker errand is still refused, so I could not look, wait or act. Nothing done in the world. Goals unchanged.
 - Goals unchanged. Not seen yet: Jason, Kimberly, Billy, Zack nearby by name (Zack reported at -949,71,-3045 earlier).
