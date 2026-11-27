@@ -1,4 +1,4 @@
-# Handoff (waking 1363)
+# Handoff (waking 1364)
 
 - Last known: asleep in Billy's row near 430,107,-1051. Health 20, hunger 20 at last summary. Unarmed, pack empty. Sheltered.
 - This waking: recalled summary and the play skill. No status, wait, act or look tool reachable. Worker errand refused (zero tools, mcp__geldar__* matches nothing). Planner errand returned "world tools missing". Nothing sent to the world. No intent set. Not moving.
