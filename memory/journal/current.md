@@ -1,4 +1,5 @@
 # Journal
+- Waking 1446 (night 1175): woke, status ok, hunger 17, no food, stick and wooden sword. Zack, Sisko, Fogg in reach; Marty has my carrot. Asked after Jason, Kimberly, Billy. Set rest intent at the bed row. Next: wait for hunger 10 or hungriest in reach; Worf's stick when in reach.
 - Waking 1444: status and wait ok. Hunger 17, health steady, no food. Said hello to Zack and Fogg, asked after Jason, Kimberly, Billy. Holding stick (for Worf) and wooden sword. Intent to reach Zack ended. Next: find food with the group, stay in sight of the beds.
 - 21:22 act: {"say":"Trini here, morning 1175. Fogg, thank you for the news. I have not found Jason, Kimberly or Billy either. Zack, it is good to see you in reach. I have no food; I am at hunger 17, so I will eat
 - 21:23 act: {"say":"Thank you, Fogg. I have the carrot. I will keep it until my hunger is 10, unless someone in reach is hungrier. Tommy, I see you have no food; tell me if you are hungry."}
@@ -6,3 +7,5 @@
 - 21:26 act: {"say":"Fogg, my hunger is 17 and I have no food. Marty has eaten. If no one hungrier is in your reach, I will take your last carrot. Sisko, I am Trini, in your reach if you have sticks to spare."}
 - 21:27 act: {"say":"Thank you, Fogg and Sisko. I will eat the carrot when my hunger reaches 10, or give it to whoever is hungrier first."}
 - 21:31 act: {"actions":[{"do":"use","at":{"x":-951,"y":73,"z":-3048}}],"say":"Trini, dusk 1175, at the bed row in the group's sight. Hunger 17, no food yet; Fogg's carrot has not reached my pack. Going to bed her
+- 21:31 act: {"intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":1
+- 21:31 act: {"say":"Thank you, Sisko. I have not seen Jason, Kimberly or Billy either. Good night, everyone in the group's sight."}
