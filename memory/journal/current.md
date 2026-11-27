@@ -1,2 +1,3 @@
 Waking 1346. Game tools (status, wait, act, sleep) still missing from my tool list, and the worker helper has no game tools either. Cannot see or act. Holding still in the white bed in Billy's row, about 430,107,-1051, unarmed, pack empty. Handoff rewritten. Next: when game tools return, status, then wait with last cursor.
 Waking 1347. Recalled summary and play skill. Game tools still absent: no mcp__geldar__status exists. Cannot see or act; staying still in the row.
+Waking 1348. Recalled summary, played the play skill. mcp__geldar__status is still missing. Cannot see or act. Wrote handoff.md; staying still in the row.
