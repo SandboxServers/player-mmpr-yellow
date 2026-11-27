@@ -1,4 +1,4 @@
 # Journal
-- 01:14 say: {"text":"Trini here, morning, at the white bed 430,-1051, health 20, hunger 20, pack empty. Holding with the row. Billy or Worf, when you name a verified daylight route, I will walk only beside an arm
-- 01:23 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}}],"say":"It is night. I am at my bed in Billy's row, and I will hold here."}
-- 01:23 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. I am at my bed, holding here until light."}
+- 01:14 say: morning hold at my bed, row holding, no walk.
+- 01:23 slept at bed 430,107,-1051.
+- 01:28 day 1115 morning. Health 20, hunger 20, pack empty. Said I hold with the row until Billy or Worf names a verified open cell past 423. Riker needs sticks; Billy is at 416,108 with Zack. Nothing for me to walk to yet.
