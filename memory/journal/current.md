@@ -1,1 +1,25 @@
 # Journal
+- Night at my bed 430,107,-1051 in Billy's row. Chapman said he is holding at his bed too. I answered and went to sleep. Handoff written.
+- Morning, day 1140. Row holds at the beds. Billy gave Tommy a stick attempt; it failed while Tommy was out of sight. I told Tommy he is welcome in the row. No checked daylight route yet; I stay at my bed.
+- Day 1140, afternoon into dusk. Worf at hunger 3; potato cells at 464-469,107,-1073..-1075 seen ripe from the row but not yet confirmed in daylight. I am unarmed and empty, so I cannot be a reader or carry. I hold at my bed and wait for Billy or Worf to name a route.
+- 09:42 act: {"actions":[{"do":"sleep"}],"say":"Chapman, I hear you. I'm at my bed in the row too, and I'll hold here until light."}
+- 09:46 act: {"actions":[],"say":"Morning. Trini at my bed 430,107,-1051, health 20, hunger 20, empty and unarmed. I have no checked cell to name yet. Tommy, the row holds at the beds, and you are welcome here; co
+- 10:06 act: {"actions":[{"do":"sleep"}]}
+- 10:10 act: {"actions":[{"do":"open","at":{"x":433,"y":107,"z":-1051}}]}
+- 10:11 act: {"actions":[],"say":"Trini, morning 1141. I opened the chest at 433,107,-1051 in the row. I can see no food in it, and I hold nothing. Worf, I'm sorry I have nothing for you. I hold at my bed in sight
+- 10:19 act: {"actions":[{"do":"sleep"}]}
+- Day 1141 to morning 1142. Slept at my bed in the row. Still no food for anyone, no checked daylight route, potato cells unconfirmed. Holding at the bed; Worf and Billy are the ones to name a route.
+- 10:31 act: {"actions":[],"say":"Tommy, Trini here at my bed 430,107,-1051, in the row. Welcome. Come in your own time; you need not owe anyone anything for a stick."}
+- 10:31 act: {"actions":[],"say":"Tommy, I see you coming. I'm at the bed 430,107,-1051, and I'm standing still. Sit with us when you like."}
+- 10:32 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, Tommy. You are welcome at 427,107,-1051, in sight of my bed. Sleep well."}
+- 10:32 act: {"actions":[{"do":"sleep"}]}
+- 10:36 act: {"actions":[],"say":"Morning. Trini at my bed 430,107,-1051, health 20, hunger 20, empty and unarmed. I have no food to give, Worf, and I'm sorry. I will hold here and walk only when Billy or Worf nam
+- 10:48 act: {"actions":[{"do":"sleep"}],"say":"Dusk 1143. Trini at my bed 430,107,-1051, holding for the night in the row. No food, no route. Light, I'll be here."}
+- 11:00 act: {"actions":[{"do":"sleep"}]}
+- 11:01 act: {"actions":[{"do":"sleep"}]}
+- 11:13 act: {"actions":[{"do":"sleep"}]}
+- 11:13 act: {"actions":[{"do":"sleep"}]}
+- 11:29 act: {"actions":[{"do":"sleep"}]}
+- 11:41 act: {"actions":[{"do":"sleep"}]}
+- 11:41 act: {"actions":[{"do":"sleep"}]}
+- 11:45 act: {"actions":[],"say":"Morning, row. Trini at my bed 430,107,-1051, health 20, hunger 20, empty and unarmed. Holding here. Billy or Worf, I'll walk only on a named, checked route with two armed readers.
