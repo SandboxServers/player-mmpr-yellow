@@ -2,11 +2,9 @@
 
 I am Trini Kwan, asleep at my white bed 430,107,-1051 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
 
-The row (Billy, Worf, Zack, Jason, Riker, Kimberly, Beverly, Johnny, Wesley, Laforge, Meriwether, Chapman, now Tommy Oliver nearby) holds at the beds. No cell past 423 has been verified by two armed readers, so there is no daylight route. Nobody walks out.
+The row (Billy, Worf, Zack, Jason, Riker, Kimberly, Beverly, Johnny, Wesley, Laforge, Meriwether, Chapman, and Tommy Oliver nearby) holds at the beds in sight of each other. No cell past 423 has been verified by two armed readers, so there is no daylight route. Nobody walks out.
 
 Johnny, Meriwether, Beverly and Jason lack food. I have none to give.
-
-Riker's stick is with Worf; Worf means to bring it at light, in sight.
 
 My seeds, sword and phantom membrane lie at 412,107,-1055. I go there only in full daylight with two armed readers beside me.
 
