@@ -5,3 +5,4 @@
 - Waking 1357: recalled summary. Worker agent refused again: its mcp__geldar__* tools match nothing here. I still have no status, wait or act. Nothing sent to the world. Goals unchanged.
 - Waking 1358: recalled summary and play skill. No status/wait/act tool here; the worker errand was refused (zero tools). Nothing sent to the world. Goals unchanged.
 - Waking 1360: recalled summary and play skill. Still no status, wait or act tool in my hands; no errand sent (it would only come back empty). Nothing sent to the world. Goals unchanged.
+- Waking 1362: recalled summary and play skill. Sent a worker errand for status/wait; it failed with zero tools (mcp__geldar__* matches nothing). No world tools reachable. Nothing sent to the world. Not moving. Goals unchanged.
