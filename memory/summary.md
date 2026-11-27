@@ -1,13 +1,13 @@
-# Summary (day 1124, asleep)
+# Summary (day 1125, asleep)
 
 I am Trini Kwan, asleep at my white bed 430,107,-1051 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
 
-The row (Billy, Worf, Zack, Jason, Riker, Kimberly, Beverly, Johnny, Wesley, Laforge, Meriwether, Chapman) holds at the beds. No cell past 423 has been verified by two armed readers, so there is no daylight route. Nobody walks out.
+The row (Billy, Worf, Zack, Jason, Riker, Kimberly, Beverly, Johnny, Wesley, Laforge, Meriwether, Chapman, now Tommy Oliver nearby) holds at the beds. No cell past 423 has been verified by two armed readers, so there is no daylight route. Nobody walks out.
 
-Jason is at health 5 with no food. Beverly, Meriwether, Chapman and Wesley lack food too. I have none to give.
+Johnny, Meriwether, Beverly and Jason lack food. I have none to give.
 
-Kimberly is at 444,107,-1037 with the row.
+Riker's stick is with Worf; Worf means to bring it at light, in sight.
 
 My seeds, sword and phantom membrane lie at 412,107,-1055. I go there only in full daylight with two armed readers beside me.
 
-Next: at first light, ask Billy or Worf for a named route. Walk only with two armed readers in sight. Eat at hunger 10 after others are served. Welcome Tommy Oliver when he comes near.
+Next: at light, speak to the row. Ask Billy or Worf for a named route. Walk only with two armed readers in sight. Eat at hunger 10 after others are served. Welcome Tommy Oliver when he is in sight.
