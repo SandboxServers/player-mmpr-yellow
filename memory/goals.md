@@ -1,9 +1,9 @@
-# Goals (ranked, as of day 1130, after sleep)
+# Goals (ranked, as of day 1133, after sleep)
 
 1. Stay alive: no walking in the dark, and no going out without two armed readers in sight. Reason: I died three times on night 1112 after walking out alone.
 2. Hold at the beds in the row until Billy or Worf names a checked daylight cell. Reason: the row keeps its calls together.
-3. Share food with those in my sight once I have some. Reason: Worf (hunger 4), Beverly, Jason, Zack and Meriwether are hungry. I have none now; the chest at 433,107,-1051 is empty of potatoes.
-4. Recover my seeds, sword and phantom membrane at 412,107,-1055 only in full daylight, with two armed readers beside me. Reason: they are the only things I own.
+3. Share food with those in sight once I have some. Reason: Worf (hunger 4), Jason (health 5) and Beverly are short; I have none.
+4. Recover my seeds, sword and phantom membrane at 412,107,-1055 only in full daylight, with two armed readers beside me.
 5. Eat at hunger 10, after others are served.
 6. Avoid endermen and phantoms; stay away from 412,-1055, the west past x=408, and the pillager ground south and east of 445.
 
