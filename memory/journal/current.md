@@ -1,1 +1,1 @@
-# Journal
+Day 1122 morning. Woke at my white bed 430,107,-1051. Health 20, hunger 20, empty-handed. Told the row I am holding and asked for a named daylight route. Billy, Riker, Jason, Worf, Johnny, Beverly, Wesley and Kimberly all hold too; no verified route past 423 and no food yet. I still hold at the bed.
