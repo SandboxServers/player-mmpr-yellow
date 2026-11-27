@@ -10,3 +10,4 @@
 - Waking 1379: recalled summary, read play skill. The world tools (status, wait, act, say, look, sleep) are still not in my list. Nothing done in the world. Not moved. Goals unchanged.
 - Waking 1380: recalled summary, read play skill. Still no status, wait, act, say, look or sleep tools; worker errand not available. Nothing done in the world. Not moved. Goals unchanged.
 - Waking 1381: recalled summary, read play skill and journal. World tools (status, wait, act, say, look, sleep) still not in my list; worker errand not available. Nothing done in the world. Not moved. Goals unchanged.
+- Waking 1384: recalled summary, read play skill and journal. Still no status, wait, act, say, look or sleep tools in my list; no worker errand. Nothing done in the world. Not moved. Goals unchanged.
