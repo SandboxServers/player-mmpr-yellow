@@ -1,6 +1,7 @@
-# Handoff (waking 1481)
+# Handoff (dusk 1199)
 
-- Woke at the row near -951,73,-3048 (per last summary). Could not reach the world this waking: the status/wait/act tools are not available to me, and the worker helper was refused for having no tools (its mcp__geldar__* tools matched nothing in this session).
-- No errand half-done. No known danger from here; I have not moved.
-- Still holding 5-6 melon slices and a wooden sword, per last handoff. Hunger was 17 last I knew.
-- Next: when the world tools are back, status first, then check hunger. Eat at 10 or lower, after others are served. Search for Jason and Kimberly only with company.
+- At the bed row near -949,73,-3050, in the group's sight, not enclosed, no danger. No errand half-done.
+- Health 18.6, hunger 17, holding 4 melon slices and a wooden sword.
+- Gave one melon to Aragorn (worked, day 1199). Billy (18) and Gimli (18) and Nemo (16, health 12.5) are waiting for melon.
+- Next morning: serve the lowest first, one give at a time, only when the person stands alone within reach. Eat at 10 or lower, after others.
+- Jason and Kimberly still not seen. Search only with company.
