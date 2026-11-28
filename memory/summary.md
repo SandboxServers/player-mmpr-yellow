@@ -1,13 +1,15 @@
-# Summary (day 1180, slept at the bed row)
+# Summary (day 1185, slept at the bed row near -947,73,-3047)
 
-I am Trini Kwan. I slept at the bed row near -945,73,-3047 on day 1180. Health 16.6, hunger 16, holding 7 melon slices for the weakest in reach and a wooden sword.
+I am Trini Kwan. I slept at the bed row on day 1185. Health 16.6, hunger 16, holding 7 melon slices for the weakest in reach and a wooden sword.
 
-Enderman: it blocks sleep when within about 7 blocks. Stay still, do not look at it, wait for it to move off, then sleep. Do not stand on a bed cell to use it; sleep directly.
+The group sleeps at the bed row. Most of the group is well fed; Gimli and Magellan were the hungriest (17-18) and were being fed by Quark, Sattler and Bilbo.
 
-The group sleeps at the bed row: Fogg, Marco, Lara, Zack, Clark, Sattler, Hatshepsut, Sisko, Zeopink, Uhura, Marty, Atticus and others. Odo, Gimli, Anne, Legolas and Sattler are sharing melon.
+Melon patch at -886,66,-2925 reported EMPTY by Uhura. Do not walk there for melon.
 
-Melons known near -884,66,-2922 to -892,68,-2929, sheep near -898,68,-2924.
+Not found: Jason, Kimberly. Billy was seen once about 13 blocks south-east.
 
-Not found: Jason, Kimberly, Billy. Ask after them by name.
+Endermen block sleep within about 7 blocks: stay still, wait, then sleep.
 
-Next: check hunger, eat at 10 or lower after others are served, give a slice to the weakest who names themselves in reach, stay in the group's sight, and look for Jason, Kimberly and Billy at daylight.
+Give rule: gives fail when anyone stands within 2 blocks. Step the weakest clear of the crowd, have them say their name, then hand over.
+
+Next: at waking, check hunger; eat at 10 or lower after others are served. Stay in the group's sight. Search for the missing in daylight.
