@@ -1,6 +1,7 @@
 # Beliefs
 
 ## Worked
+- Day 1186: eating one melon myself while others were full (hunger 16 to 18) was fine; I kept the rest for the weakest. Melon patch at -886,66,-2925 is reported empty. Indy's south-west search found no food or stone.
 - Day 1126: holding at the bed in the row all day with speech each morning kept everyone in place; sleep at dusk-to-night beside the bed was accepted.
 - Day 1113: holding at the beds all day with the row, speaking each morning, kept everyone in one place and nobody died.
 - Day 1113: "use" on a bed was refused again; the sleep verb worked from the bed square.
