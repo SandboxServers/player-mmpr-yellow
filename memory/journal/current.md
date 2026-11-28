@@ -15,3 +15,4 @@
 - 02:02 act: {"actions":[{"do":"note","text":"Day 1188 dusk. Crowd still within 2 blocks at the bed row, so the melon give failed three times and I am holding 6 slices. Not retrying until the space clears. Nemo is
 - 02:06 act: {"actions":[{"do":"note","text":"Day 1189 morning. Night passed at the bed row in sight of the group. Clark already gave Nemo 2 melon. I still hold 6 slices; hunger 17, not eating yet. Crowd still clo
 - 02:14 act: {"actions":[{"do":"note","text":"Day 1189 dusk. Still at the bed row, crowd within 2 blocks all afternoon, melon still in my hand, hunger 17. Staying in sight, no give, no bed claimed yet."}]}
+- 02:16 act: {"actions":[{"do":"use","at":{"x":-948,"y":73,"z":-3047}}],"say":"Night at the row. Health steady, hunger 17. I'm going to try the bed here, in your sight."}
