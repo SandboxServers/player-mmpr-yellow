@@ -1,7 +1,1 @@
-# Handoff, night 1207 (slept at the bed row)
-
-- At my bed, -958,73,-3047, in the group's sight. Hunger 17, health 18.6. Holding 3 melon slices.
-- Melon goes to the lowest hunger who stands alone within 2 blocks and names themselves. Do not force a give in a crowd.
-- Do not walk out alone. Search for Jason and Kimberly only in daylight with company.
-- Zack reported drops to the north; the south walk stopped short at -955,73,-3051 for no given reason.
-- Water and cows still unknown. Mulan's wall at -955,73,-3051 is open for help when called.
+Night 1207, at my bed -958,73,-3047 in the group's sight. Hunger 17, health 18.6, holding 3 melon slices for the lowest hunger who stands alone and names themselves. Jason and Kimberly still unfound; search only in daylight with company. Water and cows unknown. Mulan's wall at -955,73,-3051 open for help when called. Tommy Oliver is at the row; welcome him gently.
