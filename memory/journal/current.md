@@ -13,3 +13,28 @@
 - 09:30 act: {"say":"Trini naming the next leg, midday 1211: Gimli, Zack, Billy, Fogg, all in my sight, nobody alone. Short explore, 12 blocks, away from the drop. Stop if anyone falls behind.","actions":[],"inten
 - 09:30 act: {"say":"Trini here, at -939,73,-3050. The leg failed and I am out of your sight. Coming back to -944,73,-3045 now, to the group.","actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3045}}]}
 - 09:30 act: {"say":"Trini back with you at -944,73,-3044: Billy, Zack, Fogg, Gimli all in my sight. The short leg failed and I drifted. We hold here together. Next leg named only when everyone is in sight.","acti
+- 09:39 act: {"say":"Trini here, at the bed row in the group's sight. Night, nobody alone. I hold here.","intent":{"goal":"hold_night_with_group","program":"rest","arguments":{},"wake_on":["directly_addressed","un
+- 09:40 act: {"say":"Trini naming the day leg: southwest, short, 10 blocks to -952,73,-3055. Billy, Gimli, Zack, Marco: walk in my sight, nobody alone. Stop if anyone falls behind.","intent":{"goal":"short_southwe
+- 09:40 act: {"say":"Trini: the southwest leg stopped short at -949,73,-3052, among the beds. Zack and Mulan are in my sight. We hold here together and I name no new leg yet."}
+- 09:44 act: {"say":"Trini naming the leg: south-east to -940,73,-3060, around the beds, 10 blocks. Zack, Gimli, Zheng He, walk in my sight. Nobody alone. Stop if anyone falls behind.","intent":{"goal":"southeast_
+- 09:44 act: {"say":"Trini: the south-east leg failed; there is a drop six blocks east of me at -943,73,-3053. I hold here. No more legs east. Zack, Marco, Billy, come to me in sight. Nobody alone."}
+- 09:46 act: {"say":"Trini: Gimli, walk back to me; I hold at -943,73,-3053 with Zack. Nobody goes out alone."}
+- 09:51 act: {"say":"Trini: dusk. I hold here at -943,73,-3053 with Gimli and Marco in sight, and Zack close. Nobody alone tonight.","intent":{"goal":"hold_dusk_with_group","program":"rest","arguments":{},"wake_on
+- 09:51 act: {"say":"Trini: holding at -943,73,-3053 with Gimli and Marco in reach. Nobody alone tonight."}
+- 09:55 act: {"say":"Trini, morning 1213. Leg named: north-west, to -950,73,-3064, about 12 blocks, around the bed rows. Billy, Ben and Gimli walk in sight; nobody alone. Meet at me first."}
+- 09:56 act: {"say":"Trini: go. North-west leg to -950,73,-3064. Billy, Gimli, Marco, stay in my sight.","intent":{"goal":"nw_leg_water_cows","program":"travel","arguments":{"target":{"x":-950,"y":73,"z":-3064}},"
+- 09:56 act: {"say":"Trini: reached -950,71,-3064 on the north-west leg. No water or cows in sight, only bed rows and dark oak to the north. Walking back to the group now.","intent":{"goal":"return_to_group_spot",
+- 09:56 act: {"say":"Trini: the walk back failed at the beds. I hold at -941,71,-3063 on grass, in Gimli's sight. Billy and Marco, come to me; nobody walks alone."}
+- 09:59 act: {"say":"Trini: all here. Gimli and Marco, we walk back together to -943,73,-3053 in sight. Zack, you are named for the next leg.","intent":{"goal":"regroup_at_spot","program":"travel","arguments":{"ta
+- 10:03 act: {"say":"Trini: the group is whole here at -942,73,-3053: Gimli, Marco, Billy, Ben. Zack is named for the next leg. Nobody walks alone; I will name the direction once we have rested."}
+- 10:07 act: {"say":"Trini, night 1213, at -946,73,-3048 among the beds, with Zack, Uhura, Sarah, Beverly and Zheng He in reach. Holding here, nobody alone. Morning first, then I name the next leg."}
+- 10:09 act: {"say":"Trini, morning 1213. Next leg: north-east to -936,73,-3062, in daylight. Named to walk with me: Zack, Beverly, Zeogreen (Adam). Nobody else walks off; the rest hold at the row. Stay in my sigh
+- 10:09 act: {"say":"Trini here at -938,70,-3057. The leg stopped short, so I am holding in place. Zack, Beverly, Adam: come to me in sight; I will not go on until you are in reach."}
+- 10:10 act: {"say":"Trini walking back to the bed row at -946,73,-3050, to Zack, where the group is. The north-east leg waits until Zack, Beverly and Adam are with me.","actions":[{"do":"goto","target":{"x":-946,
+- 10:10 act: {"say":"Trini is back at -946,73,-3050, at the row. Zack, come here to me; I am not at -938 any more. Beverly and Adam, come here too. The north-east leg starts from here once you are in reach."}
+- 10:11 act: {"say":"Trini, morning 1213, at the row -946,73,-3050. Zack is in reach. Adam, step within reach of me and we walk together. Beverly, come in reach too. Nobody walks until all three of us are close."}
+- 10:14 act: {"say":"Trini leads the north-east leg now to -936,73,-3062 with Zack, Beverly and Adam in reach. Nobody walks alone. Stop if anyone falls behind.","intent":{"goal":"north_east_leg","program":"travel"
+- 10:14 act: {"say":"Trini at -936,71,-3062, the north-east leg. Drops lie east, 7 to 8 blocks away. Kirk and Spock are seen 23 blocks off to the south-east. I hold here; Zack, Beverly and Adam, come to me in sigh
+- 10:15 act: {"say":"Trini here at the north-east end, -936,71,-3062. The leg is done. Beverly, I see you are at the row; I will walk back to the row with Zack and Adam in sight. Zack, come in reach, then we go ba
+- 10:17 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3050}}],"say":"Trini walking back to the row at -946,73,-3050 with Zack in reach."}
+- 10:19 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3048}}],"say":"Trini, dusk 1213. Going to my bed at the row, in the group's sight. Nobody alone."}
