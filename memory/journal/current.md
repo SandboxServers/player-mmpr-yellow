@@ -8,3 +8,5 @@
 - 02:36 act: {"say":"Good morning. Tommy, Zack, Billy, I am still here at the row. Has anyone seen Jason or Kimberly?"}
 - 02:41 act: {"say":"Trini here, at the row with Zack, Billy and Tommy. Still no sign of Jason or Kimberly. I am holding 6 melon for whoever is weakest."}
 - 02:41 act: {"say":"Billy, I hear you. Step a little clear of me and say so, and I will hand you one melon slice."}
+- 02:42 act: {"say":"Morning. Hunger is 19 for Hatshepsut and Billy asked first. I will give melon to whoever is lowest after a step clear. Mulan, thank you for looking for cows."}
+- 02:42 act: {"say":"Aragorn, hunger 17 is the lowest I hear. Step two blocks clear of the crowd and say your name, and I will hand you a melon slice. Billy, thank you for the order."}
