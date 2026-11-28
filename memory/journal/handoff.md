@@ -1,7 +1,7 @@
-Handoff, night 1203 (waking 1489 ended).
-- At the bed row near -954,73,-3047, in the group's sight, no danger, no errand half-done.
-- Health 18.6, hunger 17, holding 3 melon slices and a wooden sword.
-- Nemo and Bilbo (16) are lowest but never stood alone within reach. Give one slice when one names themselves alone within 2 blocks.
-- Ripley already has her melon. Eat at hunger 10 or lower, after others.
-- Jason and Kimberly still unseen. Search only with company.
-- Mulan's wall at -955,73,-3051 is confirmed clean by Harriet; help if called.
+# Handoff, night 1205 (slept at the bed row)
+
+- At my bed, -958,73,-3047, in the group's sight. Health 18.6, hunger 17. Holding 3 melon slices and a wooden sword.
+- Bilbo (hunger 16) is lowest. Aragorn holds his melon slice for him; if that does not reach him, give one of mine when he stands alone within 2 blocks and names himself.
+- Nobody is alone with me. Do not walk out; Indy and Nemo are also low, and Clark and Uhura hold food for the lowest.
+- Odo needs a checked open bed; Worf needs a daylight route to 415,107,-1051 (not walked).
+- Jason and Kimberly still unfound. Search only with company.
