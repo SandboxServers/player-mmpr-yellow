@@ -10,3 +10,4 @@
 - 02:41 act: {"say":"Billy, I hear you. Step a little clear of me and say so, and I will hand you one melon slice."}
 - 02:42 act: {"say":"Morning. Hunger is 19 for Hatshepsut and Billy asked first. I will give melon to whoever is lowest after a step clear. Mulan, thank you for looking for cows."}
 - 02:42 act: {"say":"Aragorn, hunger 17 is the lowest I hear. Step two blocks clear of the crowd and say your name, and I will hand you a melon slice. Billy, thank you for the order."}
+- 02:45 act: {"say":"Aragorn, Sattler has offered you a melon, so I will leave it to him. I am still at the row with the melon if someone lower than 15 needs it."}
