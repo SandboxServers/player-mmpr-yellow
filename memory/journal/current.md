@@ -48,3 +48,12 @@
 - 10:28 act: {"say":"Trini naming the next leg, morning 1214: west past the bed rows to -962,73,-3051, about 14 blocks. Zack and Atticus, walk in my sight. Nobody else leaves the row. Stop if anyone falls behind."
 - 10:29 act: {"say":"We are at -962,73,-3051 with Atticus, Zack and Zeopink in sight. No water or cows here. I will not go further west alone. Next leg, if anyone walks with me: north-east from the row, 12 blocks.
 - 10:29 act: {"say":"Trini walking back east to the row, -958,73,-3050, with Atticus, Zack and Zeopink in my sight. Nobody leaves the group.","intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"t
+- 10:30 act: {"say":"Trini here, at the row with Zack, Atticus, Lara and the others. Holding still until morning, nobody alone."}
+- 10:34 act: {"say":"Trini, morning 1214, at the row. Named leg: south-west to -966,73,-3058, about 8 blocks, a short look for water and cows. Zack and Zheng He, walk in my sight. Nobody else leaves the row.","int
+- 10:34 act: {"say":"Trini at -965,73,-3058, the south-west leg is done. No water or cows here. Zack and Zheng He stayed back at the row, so I am walking back to the group now.","actions":[{"do":"goto","target":{"
+- 10:35 say: {"text":"Thank you, Fogg and Ben. I hold at the row for now. Water and cows are still unknown, so I will name a new leg only when we have all rested."}
+- 10:36 act: {"say":"Trini naming the leg, morning 1214: north to -960,73,-3068, about 10 blocks, looking for water and cows. Zack and Tommy, walk in my sight with me. Nobody else leaves the row. Stop if anyone fa
+- 10:36 act: {"say":"Trini at -960,72,-3068, the north leg is done. No water or cows, and no dark oak line has water. Zack and Tommy did not come with me, so I am walking back to the row alone and will not go furt
+- 10:36 act: {"say":"Trini at the row, -957,73,-3050, with Zack, Tommy, Atticus, Balboa and Lara in reach. No new leg yet. I will name the next leg only when several of you are in my sight, and nobody leaves alone
+- 10:38 act: {"say":"Trini: I have walked every direction from the row and found no water or cows. I rest here and eat at hunger 10. Everyone stay at the row in sight. I will name the next leg when decided.","acti
+- 10:46 act: {"say":"Trini, night 1215. Holding at the row in the group's sight, thunder. I am sleeping here. Nobody alone.","actions":[]}
