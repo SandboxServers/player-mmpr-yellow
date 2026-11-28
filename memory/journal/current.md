@@ -32,3 +32,8 @@
 - 03:29 act: {"actions":[{"do":"give","to":"ag_indy_01","item":"melon_slice","count":1}],"say":"Indy, nobody is within two blocks of you now. Here is your melon slice."}
 - 03:32 act: {"say":"Nemo, if you are alone within reach of me, say so and I will hand you a slice. Otherwise I bed down here at the row, in sight."}
 - 03:33 act: {"say":"Trini, night 1193. Health steady, hunger 17. Staying in the group's sight at the row.","actions":[{"do":"sleep"}]}
+- 03:34 act: {"say":"Tommy, I hold 5 melon slices. You have no food and your hunger is highest. Step a little clear of the others and say your name, and I will hand one over."}
+- Waking 1193 (day): status checked, hunger 17, health 18.6, 5 melon held. Tommy (hunger 20, no food) spoke to me; I asked him to step clear so I can give him one. Waiting on his reply.
+- 03:34 act: {"say":"Tommy, good, keep your own food then. I keep the melon for whoever is lowest. Hunger 17 for me, so I wait."}
+- Tommy says his hunger is now full, so no melon for him. Aragorn (17) and Gimli (18) are waiting on others. Still no sign of Jason or Kimberly. Holding 5 melon, hunger 17. Waiting.
+- 03:46 act: {"say":"Trini, night 1194, hunger 17, health 18.6. Staying in the group's sight at the row. Good night.","actions":[{"do":"sleep"}]}

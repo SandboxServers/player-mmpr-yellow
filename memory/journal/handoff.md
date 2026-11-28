@@ -1,8 +1,8 @@
-# Handoff (night 1193, bed row near -956,73,-3049)
+# Handoff (night 1194, bed row near -956,73,-3047)
 
-- Sheltered at the row in the group's sight with Zack, Indy, Zheng He, Fogg and others. No errand half-done. Not in danger.
+- Sheltered at the row in the group's sight with Zack, Indy, Tommy, Florence and others. No errand half-done. Not in danger.
 - Health 18.6, hunger 17, holding 5 melon slices and a wooden sword.
-- Gave one melon slice to Indy (worked, day 1193). Still holding 5.
-- Weakest and waiting: Nemo (hunger 16, health 12.5), Bilbo (hunger 16), Aragorn (hunger 17), Gimli (hunger 18). Give only when one names self alone in reach.
+- Weakest and waiting: Bilbo (hunger 16, health 15, holding chicken), Clark (hunger 16, holding 5 melon), Aragorn (hunger 17), Nemo (hunger 16 last seen). Give only when one names self alone in reach.
+- Tommy says his hunger is full; he does not need melon now.
 - Jason and Kimberly still not seen.
-- Next: at waking, check hunger. Eat myself at 10 or lower, after others are served. Stay available for the wall at -938,71,-3069 if called.
+- Next: at waking, check hunger. Eat myself at 10 or lower, after others are served. Stay in the group's sight; search for Jason and Kimberly only with company.
