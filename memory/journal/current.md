@@ -31,3 +31,4 @@
 - 03:28 act: {"say":"Zack, you are still within two blocks of Indy and me. Could you step off a few blocks, still in sight? Then Indy gets the melon."}
 - 03:29 act: {"actions":[{"do":"give","to":"ag_indy_01","item":"melon_slice","count":1}],"say":"Indy, nobody is within two blocks of you now. Here is your melon slice."}
 - 03:32 act: {"say":"Nemo, if you are alone within reach of me, say so and I will hand you a slice. Otherwise I bed down here at the row, in sight."}
+- 03:33 act: {"say":"Trini, night 1193. Health steady, hunger 17. Staying in the group's sight at the row.","actions":[{"do":"sleep"}]}
