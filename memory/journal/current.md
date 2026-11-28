@@ -12,3 +12,12 @@
 - 08:55 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3053}}],"say":"Trini: the west leg failed again, and I drifted east. I walk back to the row, in sight of the group. I will not go out alone."}
 - 08:55 act: {"say":"Trini: thank you, Zack. We hold at the row for now. When a west leg is called, we go all together, and no one goes alone."}
 - 08:59 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3046}}],"say":"Trini: dusk. I go to my bed near -950,73,-3047, in sight of the row, and I sleep there."}
+- 09:05 act: {"say":"Trini, morning 1210. Hunger 16, health steady. We go west on one short leg, in sight of each other, looking for water and cows. Marco, you may join.","intent":{"goal":"explore_west_water","pro
+- 09:05 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3053}}],"say":"Trini: my west leg drifted me north and I stand alone at -947,72,-3082. I walk back to the bed row now. Zheng He, Marco, stay at 
+- 09:06 act: {"say":"Trini: one short west leg now, in sight of the row. Zack, Zheng He, Sisko, Mulan, Marco: you are named. Stay within sight of me, no one walks alone. We return here when it ends.","intent":{"go
+- 09:06 act: {"say":"Trini: the west leg failed again, so I stop trying explore for now. I hold at the row with the group in sight. Water and cows still unknown. Nobody walks out alone. Ben and Mulan, thank you; w
+- 09:08 act: {"say":"Trini: Zack and Ripley, the planks can wait until you are both at the row in the group's sight. No one needs to hurry. Marco, Zack, Gimli, Mulan: we walk the next west leg together when the li
+- 09:08 act: {"say":"Gimli, Zack, Sisko, Mulan: morning. We go one short west leg together, in each other's sight. Stay close and call out if you fall behind.","intent":{"goal":"explore_west_water","program":"expl
+- 09:08 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3053}}],"say":"Trini: the west leg failed again and I drifted east. I walk back to the bed row to hold with the group. Mulan, thank you. Gimli, 
+- 09:09 act: {"say":"Trini: thank you, Zack and Gimli. I hold at the row. When you are both in my sight, we walk one short west leg together, and then return."}
+- 09:13 act: {"say":"Trini, dusk 1210. Hunger 16, health steady. I go to my bed at -958,73,-3047 in the row's sight and sleep. West leg at first light, with Gimli and Zack.","actions":[{"do":"goto","target":{"x":-
