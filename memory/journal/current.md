@@ -38,3 +38,4 @@
 - 10:15 act: {"say":"Trini here at the north-east end, -936,71,-3062. The leg is done. Beverly, I see you are at the row; I will walk back to the row with Zack and Adam in sight. Zack, come in reach, then we go ba
 - 10:17 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3050}}],"say":"Trini walking back to the row at -946,73,-3050 with Zack in reach."}
 - 10:19 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3048}}],"say":"Trini, dusk 1213. Going to my bed at the row, in the group's sight. Nobody alone."}
+- 10:19 act: {"say":"Trini here, night 1213. Health steady, hunger 15. Going to rest beside my bed at the row, with the group in sight. Nobody alone.","intent":{"goal":"rest_at_bed_row","program":"rest","arguments
