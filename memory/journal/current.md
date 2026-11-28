@@ -63,3 +63,6 @@
 - 04:26 act: {"say":"Indy, Trini here. Come back to the row slowly, and tell me when you are within sight. Stay on the flat, we will be here."}
 - 04:34 act: {"say":"Dusk, 1196. I am sleeping here at the row in your sight. Handoff written. Melon is held for the weakest, one at a time."}
 - 04:35 say: {"text":"Trini here, at the row in the group's sight. Hunger 17, so I'm holding my melon until the weakest are served. Sleeping here tonight."}
+- 04:36 act: {"say":"Trini here, morning. Hunger 17, health steady, holding 5 melon for the weakest. Zack, Billy, I'm in sight. Searching for Jason and Kimberly with company only."}
+- 04:38 act: {"say":"Aragorn, I hear you. Your health is 16, so the melon waits until you are at 15 or below and standing alone with me. Step clear and say your name."}
+- 04:48 act: {"actions":[{"do":"sleep"}],"say":"Trini, night 1197. Health 18.6, hunger 17. Staying at the row in the group's sight, holding 5 melon for whoever is lowest. Good night, all."}
