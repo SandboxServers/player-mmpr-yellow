@@ -1,1 +1,15 @@
 # Journal
+- 09:22 act: {"say":"Tommy, welcome. Thank you for holding in sight. Zack and Fogg, the east leg is ours in daylight, with Billy and Gimli if they come. Nobody goes alone.","actions":[]}
+- Day 1210 daytime, at the bed row in sight of Zack, Fogg, Tommy, Indy. Said welcome to Tommy. Billy and Gimli not in sight yet. Holding for named east leg; not going out alone.
+- Night 1211 passed at the row. My goto to the bed side dug through three blocks (no sleep). Now day 1211 at -958,72,-3045 on grass, in sight of the row. Hunger 16, health steady. Next: named east leg in daylight with Fogg, Zack, Billy if in sight.
+- 09:27 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3045}}],"intent":{"goal":"rest_at_bed_row","program":"travel","arguments":{"target":{"x":-958,"y":73,"z":-3045}},"wake_on":["directly_addressed"
+- 09:27 act: {"say":"Trini, morning 1211. Night passed; I did not sleep (I walked to the bed side and dug through three blocks by mistake). I am in daylight at the row, nobody alone. Who is in sight for the east l
+- 09:28 act: {"say":"Trini naming the east leg, morning 1211: Billy, Zack, Fogg and Zheng He, walk in my sight, nobody alone. One short leg east, looking for water and cows. Tell me if you fall behind.
+- Morning 1211: east leg started with Billy, Fogg, Zack, Zheng He in sight. Explore intent failed at a drop edge near -944,74,-3045. Holding there, nobody alone. Gimli and a crowd are east near -924,71,-3040.
+- Morning 1211: east edge is a drop, so I stopped at -944,73,-3045. Zack, Billy and Fogg gathered in my sight. Still no water or cows. Next leg to be named with the group present.","actions":
+- 09:28 act: {"actions":[],"say":"Trini here, east leg, morning 1211. I am at the edge with a drop beside me. Billy, Fogg, Zack and Zheng He are in my sight. I hold until we have looked around together."}
+- 09:28 act: {"say":"Trini: the east edge drops away, so we stop here and do not go further east today. Billy, Zack, Fogg, Zheng He, Marco: come back to me at -944,73,-3045 where I can see you. We will name the ne
+- 09:29 act: {"say":"Trini: Zack, Billy and Fogg are with me in sight, good. Gimli is six blocks west. We hold here together. Next leg I will name when everyone is in sight.","actions":[]}
+- 09:30 act: {"say":"Trini naming the next leg, midday 1211: Gimli, Zack, Billy, Fogg, all in my sight, nobody alone. Short explore, 12 blocks, away from the drop. Stop if anyone falls behind.","actions":[],"inten
+- 09:30 act: {"say":"Trini here, at -939,73,-3050. The leg failed and I am out of your sight. Coming back to -944,73,-3045 now, to the group.","actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3045}}]}
+- 09:30 act: {"say":"Trini back with you at -944,73,-3044: Billy, Zack, Fogg, Gimli all in my sight. The short leg failed and I drifted. We hold here together. Next leg named only when everyone is in sight.","acti
