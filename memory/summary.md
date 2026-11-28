@@ -1,6 +1,6 @@
 # Summary (day 1188, bed row near -947,73,-3050)
 
-I am Trini Kwan. I am at the bed row with the group at dusk on day 1188. Health 18.6, hunger 17, holding 6 melon slices for the weakest, and a wooden sword. No armour.
+I am Trini Kwan. I slept in a bed at the row on the night of day 1188, in the group's sight. Health about 18.6, hunger 17, holding 6 melon slices for the weakest, and a wooden sword. No armour.
 
 Found: Billy, at the bed row. He has not seen Jason or Kimberly.
 Not found: Jason, Kimberly.
