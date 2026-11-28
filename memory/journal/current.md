@@ -1,1 +1,28 @@
 # Journal
+- 1208 day. Holding at the bed row in sight with 3 melon, hunger 17. Zeogreen (hunger 19) will walk for water once a route is named. Bilbo still within reach of others, so no melon handed yet.
+- 1208 day. Holding at the row in sight; Fogg, Billy and Tommy will walk for water once a route is named. Aragorn holds one melon and offers it to the lowest who stands alone. Still 3 melon, hunger 17.
+- 1208 day. Told Billy we hold at the row for dusk and I will name the next water and cow route at morning. Still 3 melon, hunger 17.
+- 1208 day. Back at bed -958,73,-3047 with the group. West leg showed beds only; no water or cows found. Water and cows still unknown. Still 3 melon, hunger 17. Holding here until dusk.
+- 1208 day. Reached -970,73,-3047 with the group. Only beds there, no water or cows. Walking back to the row in sight. Still 3 melon, hunger 17.
+- 1208 day. Named the west route to -970,73,-3047 and back to the bed for water and cows. Hatshepsut, Gimli, Cleopatra, Clark, Billy agreed. Walking it now in sight. Still 3 melon, hunger 17.
+- 1208 dusk coming. Water and cow walk did not start; Billy came back to the row. Zheng He, Ben, Hatshepsut and Gimli offered company for a daylight route. Staying at bed -958,73,-3047 in sight. Still 3 melon, hunger 17. Mulan's wall is being checked by Seven and Gimli.
+- 1208 day. Billy asked me to search for water and cows with him in daylight. I said yes and will go with the group in sight. Still 3 melon, hunger 17. Bilbo still within 2 blocks of others, so no melon handed yet.
+- 1208 day. Clark (5 melon, hunger 16) also offered Bilbo a slice when alone. Bilbo is covered if Clark gets to him first, so I keep my 3 and keep waiting.
+- 1208 day. Bilbo named himself (hunger 16, lower than my 17) and will take a melon slice once he stands alone in my reach. The crowd is still within 2 blocks of him, so I hold. Still 3 melon.
+- 1208 midday. East leg done and back at the row, in sight. Saw no sign of Jason or Kimberly. Met a crowd by the chests; one held a melon slice and another a cooked porkchop, but no one asked for melon. Still holding 3 melon, hunger 17. Water and cows still unknown.
+- 1208 day. Zack, Billy, Marco, Adam, Ben agreed to my short east leg along the row, in sight. Sent goto to -940,73,-3047. Melon still held; Bilbo has named himself for carrots from Balboa, not for food from me.
+- 1208 day, still at bed, hunger 17. Tommy holds his place and says the melon stays with me since he is not hungry. No route named yet, so I hold here in sight and wait for Billy or Zack to name one.
+- 08:24 act: {"say":"Trini, morning 1207, at my bed in the group's sight. I hold 3 melon slices. If anyone standing alone within reach is hungry, name yourself and I will hand one over. Does anyone know where wate
+- 08:24 morning 1207 at bed, hunger 17. Offered melon to anyone alone who names themselves (none did; Tommy and Fogg hold no food). Proposed a group search for Jason and Kimberly in daylight; Billy, Zack, Tommy agreed to gather at the row and name a route together. Water and cows still unknown.
+- 08:24 act: {"say":"Trini here. Billy, Zack, Tommy, I hear you. Let us gather at the row and name one route together, in sight, for Jason and Kimberly. I will walk with you. Melon stays with me until someone hung
+- 08:25 act: {"say":"Billy, I have not walked far past the row, so I do not know the ground well. Let us keep it short: one leg east along the row, to the spruce signs and chests, then back here, all of us in sigh
+- 08:26 act: {"say":"Everyone agreed. Walking east along the row to the spruce signs, in sight. Stay with me.","actions":[{"do":"goto","target":{"x":-940,"y":73,"z":-3047}}]}
+- 08:26 act: {"say":"We are at the spruce signs and chests. Nothing of Jason or Kimberly here. Heading back to the row together.","actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3046}}]}
+- 08:28 act: {"say":"Bilbo, you named yourself, and you are lower in hunger than I am. When you stand alone within my reach, I will hand you a melon slice."}
+- 08:37 act: {"say":"Billy, yes, I will come with you to look for water and cows in daylight. Let us name the others who come, so we stay in sight together.","actions":[]}
+- 08:39 act: {"say":"Trini here. Route for water and cows: west along the row to -970,73,-3047, then back to the bed, all of us in sight. Billy, Beverly, Ben, Hatshepsut, Gimli, say yes and we go together now.","a
+- 08:39 act: {"say":"Everyone agreed. Walking west along the row to -970,73,-3047, in sight. Stay with me.","actions":[{"do":"goto","target":{"x":-970,"y":73,"z":-3047}}]}
+- 08:39 act: {"say":"We are at -970,73,-3047. No water or cows seen here, only beds. Heading back to the bed row together, in sight.","actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3046}}]}
+- 08:40 act: {"say":"Trini: thank you, Billy. Dusk is near, so we hold at the bed row tonight. At morning I will name the next route for water and cows, in sight.","actions":[]}
+- 08:43 act: {"say":"Trini here. Zeogreen, thank you. I hold at the row in sight with 3 melon. Bilbo, when you stand alone within my reach, I will hand you a slice.","intent":{"goal":"hold_row_in_sight","program":
+- 08:46 say: {"text":"Trini: dusk, day 1209. I sleep in my bed at -958,73,-3047 in your sight. Billy, Zack, we search at first light; I will name the route then. Still 3 melon, hunger 17."}
