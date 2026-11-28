@@ -4,3 +4,4 @@
 - 05:42 act: {"say":"Morning. Trini, hunger 17, holding 4 melon. Melon goes to the lowest, one person at a time, when they stand alone with me. Nemo, Billy, Gimli, name yourself when you are clear of the others."}
 - Morning 1199. Nemo (16), Gimli and Billy named themselves as waiting. Crowd still within 2 blocks, so no give yet. Staying put in sight and waiting.
 - Day 1200, thunder. Still crowded at the row, no one alone with me. No give made. Hunger 17, health steady. Waiting in sight.
+- 05:50 act: {"actions":[{"do":"note","text":"Night 1200. At the bed row in the group's sight, no danger, hunger 17. Crowd still too close for melon. Going to bed."}],"say":"Trini, night 1200, at the bed row in yo
