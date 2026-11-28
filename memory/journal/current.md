@@ -22,3 +22,12 @@
 - 02:56 act: {"actions":[],"say":"Zack, Tommy has fallen behind. Let's hold here by the beds until he is in sight again, then go on together."}
 - 02:57 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Tommy, I see you, we're together. Zack, we're walking back to the beds with you, in sight."}
 - 03:07 act: {"say":"Trini, night 1192, hunger 17, health 18.6. Holding 6 melon for the weakest. Going to bed here at the row in the group's sight."}
+- 03:08 act: {"actions":[{"do":"note","text":"Indy asked for a melon slice. Hunger 17, same as mine. Gives fail with others within 2 blocks, so I will step clear and give one slice when Indy is alone near me."}],"
+- 03:08 act: {"actions":[],"say":"Gimli, understood. Indy first, then you. Sattler is still close to me, so I will wait until the way is clear."}
+- 03:10 act: {"actions":[{"do":"give","to":"ag_indy_01","item":"melon_slice","count":1}],"say":"Indy, one melon slice coming to you now."}
+- 03:10 act: {"actions":[],"say":"Zack, good to see you. I am holding six melon slices for the weakest. Indy is hungry; I will hand one over when the crowd thins."}
+- 03:14 act: {"actions":[],"say":"Indy, Zack and Fogg are still within two blocks of me, so the give would fail. I have not forgotten you. Step two blocks off from them and say so, and I will hand it over."}
+- 03:21 act: {"say":"Indy, I am still holding your slice. Step two blocks clear of the others and tell me, and I will hand it over."}
+- 03:28 act: {"say":"Zack, you are still within two blocks of Indy and me. Could you step off a few blocks, still in sight? Then Indy gets the melon."}
+- 03:29 act: {"actions":[{"do":"give","to":"ag_indy_01","item":"melon_slice","count":1}],"say":"Indy, nobody is within two blocks of you now. Here is your melon slice."}
+- 03:32 act: {"say":"Nemo, if you are alone within reach of me, say so and I will hand you a slice. Otherwise I bed down here at the row, in sight."}
