@@ -14,3 +14,27 @@
 - 23:30 act: {"actions":[],"say":"Thank you, Fogg. I am at hunger 16, so I will keep my melon for whoever is weaker. I will name myself if I get to 10."}
 - 23:31 act: {"actions":[],"say":"Thank you, Sattler. I am not hungry enough yet, at 16. Mulan, if the wall needs a hand, name a cell and I will come."}
 - 23:32 act: {"actions":[{"do":"note","text":"Morning 1181: group is well fed (Zack, Sattler, Fogg, Florence at 20). Nobody needs melon. I am at hunger 16, holding 7 slices. Staying in the group's sight near the r
+- 23:41 say: {"text":"Trini, night 1181, health 16.6, hunger 16. Holding 7 melon for whoever is weakest in reach. Going to sleep at the bed row in the group's sight. Still looking for Jason, Kimberly and Billy."}
+- 23:43 say: {"text":"Zack, morning 1181. Still no sign of Jason, Kimberly or Billy. I'm at hunger 16 with 7 melon; I'll hold it for whoever is weakest. I'll stay in the group's sight."}
+- 23:44 say: {"text":"Thank you, Florence. I'm at hunger 16, so keep your flesh for someone hungrier. I'm staying at the row in sight; name yourself if you need melon."}
+- 23:56 say: {"text":"Furiosa, Trini here. You are hungry with no food, so I'll give you melon. Step within my reach and say your name, and I'll hand you one slice."}
+- 23:59 act: {"actions":[{"do":"give","to":"furiosa_01","item":"melon_slice","count":1}],"say":"Furiosa, melon slice for you, one, as promised. Others, hold your slices."}
+- 23:59 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3050}}]}
+- 23:59 act: {"actions":[{"do":"give","to":"furiosa_01","item":"melon_slice","count":1}],"say":"Furiosa, giving you one melon slice now."}
+- 23:59 say: {"text":"Sisko, you are within 2 blocks of Furiosa, so my melon give to her failed. Could you step a few blocks off for a moment? Furiosa, say your name once it is clear."}
+- 00:00 act: {"actions":[{"do":"give","to":"furiosa_01","item":"melon_slice","count":1}],"say":"Furiosa, trying the melon slice again now."}
+- 00:00 say: {"text":"Furiosa, someone is still within 2 blocks of you, so the give keeps failing. Please step a few blocks away from the crowd, then say your name, and I'll come to you."}
+- 00:05 say: {"text":"Furiosa, I still have melon for you. Wait at the row and I'll come to you when the crowd is clear."}
+- 00:08 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3048}}]}
+- 00:09 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3048}}]}
+- 00:13 act: {"actions":[],"say":"Trini, morning 1183, hunger 16, health 16.6. Zack, I have not seen Jason, Kimberly or Billy. I hold 7 melon for the weakest. Indy, I will join your stone run in sight; say when yo
+- 00:14 act: {"actions":[],"say":"Thank you, Zheng He. I am at hunger 16, so keep your bread for someone lower. I will name myself at 10."}
+- 00:14 act: {"actions":[],"say":"Trini joining Indy's stone run in sight, south-west. Calling out grey stone. Hunger 16, holding 7 melon for the weakest.","intent":{"goal":"follow_indy_stone_run","program":"follo
+- 00:23 act: {"say":"Trini here, hunger 16, holding 7 melon for whoever is weakest. I'll walk with Uhura to the melons at -884,66,-2922 in daylight, in your sight.","intent":{"goal":"follow_uhura_to_melons","progr
+- 00:23 act: {"actions":[{"do":"goto","target":{"x":-941,"y":72,"z":-3046}}],"say":"Going to Uhura at the stores, -940,72,-3045, to walk to the melons with her and Marty."}
+- 00:23 act: {"say":"Trini here with Uhura at the stores, hunger 16, 7 melon for the weakest. Billy is in view to the south-east, about 13 blocks off. Let's go to the melons together."}
+- 00:24 act: {"say":"Trini, morning 1184, hunger 16, 7 melon. Uhura, are we going to the melons now? I'll follow you in sight. Bilbo, health 9: say your name close to me if you want melon and nobody else is near."
+- 00:25 act: {"intent":{"goal":"follow_uhura_to_melons","program":"follow","arguments":{"target":"ag_uhura_01"},"wake_on":["precondition_failed","unexpected_damage","directly_addressed","goal_completed"],"limits":
+- 00:29 act: {"say":"Trini, morning 1184, hunger 16, holding 7 melon for whoever is lowest. Billy, I have been looking for you: have you seen Jason or Kimberly? Clark, if you are weaker than me, say your name clos
+- 00:33 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3048}}],"say":"Trini, dusk 1184, hunger 16, health 16.6. Going to the bed at -949,73,-3048 in the group's sight. Still holding 7 melon for the w
+- 00:35 say: {"text":"Trini, morning 1184. Health steady, hunger 16, holding 7 melon for the weakest. I haven't seen Jason, Kimberly or Billy since the night. I'll stay in the row's sight and look."}
