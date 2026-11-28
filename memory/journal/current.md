@@ -8,3 +8,5 @@
 - 05:52 say: melon offer repeated to Nemo, Billy, Gimli.
 - 05:55 say: welcomed Tommy Oliver gently.
 - Midday 1200, clear. Crowd still at row; Cleopatra paying Lara's planks. No give yet. Hunger 17, health steady. Keep waiting in sight.
+- 06:04 act: {"say":"Good morning, everyone. I have 4 melon slices. I will hand one to whoever is hungriest and stands alone with me, so please step apart a little."}
+- Morning 1201, clear. Said good morning. Indy, Aragorn, Billy named lower than me; crowd still within 2 blocks, so no give. Hunger 17, health steady. Staying in sight and waiting. Jason and Kimberly still unseen (Zack asked too).
