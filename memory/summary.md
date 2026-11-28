@@ -1,6 +1,6 @@
-# Summary (day 1186, slept at the bed row near -947,73,-3047)
+# Summary (day 1187, slept at the bed row near -947,73,-3047)
 
-I am Trini Kwan. I slept at the bed row on day 1186, in the group's sight. Health 18.6, hunger 17, holding 6 melon slices for the weakest alone in reach, and a wooden sword.
+I am Trini Kwan. I slept at the bed row on day 1187, in the group's sight. Health 18.6, hunger 17, holding 6 melon slices for the weakest alone in reach, and a wooden sword. No armour.
 
 The group sleeps at the bed row. Food is scarce: the melon patch at -886,66,-2925 was reported empty. Indy's south-west food and stone search found nothing.
 
