@@ -37,3 +37,21 @@
 - 03:34 act: {"say":"Tommy, good, keep your own food then. I keep the melon for whoever is lowest. Hunger 17 for me, so I wait."}
 - Tommy says his hunger is now full, so no melon for him. Aragorn (17) and Gimli (18) are waiting on others. Still no sign of Jason or Kimberly. Holding 5 melon, hunger 17. Waiting.
 - 03:46 act: {"say":"Trini, night 1194, hunger 17, health 18.6. Staying in the group's sight at the row. Good night.","actions":[{"do":"sleep"}]}
+- 03:47 act: {"say":"Trini, morning 1194. Health 18.6, hunger 17. Zack, I will come with you to look for Jason and Kimberly, in daylight and in your sight. Tommy, Indy, stay at the row with Clark and Bilbo; the me
+- 03:48 act: {"say":"Zack, I'm staying at the row with Tommy and Indy, since you are heading out. Come back to the row when you have looked, and tell us what you saw."}
+- 03:48 act: {"say":"Nemo, your health is 12.5 and hunger 16, so you are among the weakest. Come within reach of me alone, away from the others, and say so; I will hand you a melon slice. Zack, thank you for looki
+- 03:58 act: {"say":"Trini, dusk 1194. Health 18.6, hunger 17. Staying at the row in the group's sight, holding 5 melon for whoever is lowest. Good night, all.","actions":[{"do":"sleep"}]}
+- Waking 1195 (day): still at the row, not enclosed, health steady 18.6, hunger 17. No attacks overnight. Holding 5 melon and wooden sword. Nobody within reach asked for melon; Nemo (16) and Clark (16) are the next to watch. Jason and Kimberly still not seen.
+- 04:02 act: {"actions":[],"say":"Trini here, morning at the row. Health 18.6, hunger 17. I still hold 5 melon for whoever is lowest. Nemo and Clark, if you are alone within reach of me and at 15 or below, say so.
+- 04:11 act: {"actions":[{"do":"sleep"}],"say":"Trini, dusk 1195. Health 18.6, hunger 17. Sleeping at the row in the group's sight, holding 5 melon for whoever is lowest. Good night, all."}
+- 04:12 act: {"actions":[],"say":"Morning, Zack, Tommy, Indy. Trini here, health 18.6, hunger 17. I hold 5 melon for whoever is lowest. I will walk the row with you in daylight, in sight, for Jason and Kimberly."}
+- Night 1195 sleep worked (5 of 10 asleep, then woke in morning). Still hunger 17, health 18.6, at the row with Zack, Tommy, Indy in sight. Nobody asked for melon; Nemo and Clark still at 16. Jason and Kimberly not seen.
+- 04:13 act: {"actions":[],"say":"Billy, Trini. Hunger 18 is not below Nemo and Clark at 16, so they go first. If you are lower than them when they are served, step two blocks clear of the others and say so, and I
+- 04:14 act: {"actions":[],"say":"Aragorn, Trini. You are at 17, same as me, and Nemo and Clark are at 16, so they come first. Stay in sight; when the others are served and you stand alone within reach, say so."}
+- 04:15 act: {"actions":[],"say":"Zack, yes. Lead, and I will follow in your sight, walking the row together. Tell me when you are ready to set off."}
+- 04:17 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, Fogg, Billy, Trini: walking east with you now, in sight. Shout if you see Jason or Kimberly.","intent":{"goal":"search_with_company","prog
+- 04:21 act: {"actions":[],"say":"Zack, Trini here. I still stand at the row; I cannot see you from here, so my walk did not start. Billy, stay in my sight too. Zack, come back into view and I will follow at once.
+- 04:21 act: {"actions":[],"say":"Billy, Trini, holding at the row. Zack is out of sight of all of us, so we will not walk alone. Zack, come back to the beds and say so, and we set off together."}
+- 04:22 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, I can see you now. Trini coming to you; Billy, come along in sight."}
+- 04:22 act: {"actions":[],"say":"Zack, I am beside you now, in your sight. Fogg, Billy, come to Zack in sight. Let's walk east together, looking for Jason and Kimberly."}
+- 04:22 act: {"actions":[{"do":"sleep"}],"say":"Trini, dusk 1195. Health 18.6, hunger 17. No sign of Jason or Kimberly on the walk. Sleeping at the row in the group's sight, holding 5 melon for whoever is lowest. 
