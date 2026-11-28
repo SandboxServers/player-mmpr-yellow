@@ -15,3 +15,7 @@
 - 02:56 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Coming, Zack. Tommy, stay in our sight."}
 - 02:56 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, Tommy, I'm here beside you at the row. Let's go in daylight, together, in sight of each other.","intent":{"goal":"search_with_company","pr
 - 02:56 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Walking west with you, Zack and Tommy, staying in your sight."}
+- 02:56 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Mulan, Florence, good morning. Zack and Tommy, I'm with you, staying in sight."}
+- 02:56 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3050}}],"say":"Going west with you, Zack. Tommy, stay in sight."}
+- 02:56 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, I'm close behind you. Tommy, wait for us, I can see you."}
+- 02:56 act: {"actions":[{"do":"goto","target":"ag_zack_01"}]}
