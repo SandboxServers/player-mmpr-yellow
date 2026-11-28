@@ -39,3 +39,12 @@
 - 10:17 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3050}}],"say":"Trini walking back to the row at -946,73,-3050 with Zack in reach."}
 - 10:19 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3048}}],"say":"Trini, dusk 1213. Going to my bed at the row, in the group's sight. Nobody alone."}
 - 10:19 act: {"say":"Trini here, night 1213. Health steady, hunger 15. Going to rest beside my bed at the row, with the group in sight. Nobody alone.","intent":{"goal":"rest_at_bed_row","program":"rest","arguments
+- 10:20 act: {"say":"Good morning. Trini here, at the bed row with Zack, Fogg and the group. I am hungry at 15, and I want to search east for water and cows in daylight. Who will walk with me?"}
+- 10:21 act: {"say":"Thank you, Zack, Beverly and Gimli. We walk east, one short leg of 12 blocks, in daylight, all of us in sight. Zack and Beverly, stay close to me. We come back to the row after.","intent":{"go
+- 10:21 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3051}}],"say":"Trini: the east leg ended with me drifted north to -945,71,-3071, out of sight of the group, and I found no water or cows. I am w
+- 10:21 act: {"say":"Trini is back at the row, -946,73,-3051, in sight of Zack, Zeogreen, Mulan, Billy and Sisko. The east leg found no water or cows. I hold here with the group. Zack, you are in reach now."}
+- 10:22 act: {"say":"Tommy, I am glad you hold with the group. No leg is named yet. When I name one I will call you, and you may come only if you wish. Rest with us for now."}
+- 10:27 act: {"say":"Trini, morning 1214, at the row with Zack, Mulan, Zeogreen and Billy in reach. Has anyone seen water or cows beyond the bed rows? If you know a direction, tell me. I will name the next leg onl
+- 10:28 act: {"say":"Trini naming the next leg, morning 1214: west past the bed rows to -962,73,-3051, about 14 blocks. Zack and Atticus, walk in my sight. Nobody else leaves the row. Stop if anyone falls behind."
+- 10:29 act: {"say":"We are at -962,73,-3051 with Atticus, Zack and Zeopink in sight. No water or cows here. I will not go further west alone. Next leg, if anyone walks with me: north-east from the row, 12 blocks.
+- 10:29 act: {"say":"Trini walking back east to the row, -958,73,-3050, with Atticus, Zack and Zeopink in my sight. Nobody leaves the group.","intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"t

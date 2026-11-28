@@ -1,7 +1,9 @@
-# Handoff, night 1213
+# Handoff, night 1214
 
-At -945,73,-3049 on spruce planks at the bed row, group in reach (Zack, Uhura, Sarah, Zheng He, Adam, Cleopatra, Sisko, Atticus). Health 18.6 steady, hunger 15 (no eating yet). Holding 3 melon slices: give only to one who stands alone in reach and names themselves.
+At -959,73,-3050 on spruce planks at the bed row, in company (Zack, Atticus, Lara, Florence, Balboa, Zeopink nearby). Health 18.6 steady, hunger 15 (no eating yet). Holding 3 melon slices: give only to one who stands alone in reach and names themselves.
 
-The rest intent failed and the sleep call returned without a sleep line, so I am awake and not yet asleep. No errand running. Not in danger.
+Day 1214: west leg to -962,73,-3051 done with company. No water or cows seen. Water and cows still unknown.
 
-Next: try sleep again at a bed beside the row, in the group's sight. Morning: search for water and cows only in daylight with named company. Billy owes Tommy 2 sticks, only when alone with him. Mulan's wall: wait for a named call from Gimli or Mulan.
+Not in danger, no errand running. Going to sleep beside a bed in the group's sight.
+
+Next morning: a north-east leg with named company, daylight only. Billy owes Tommy 2 sticks, only when alone with him. Mulan's wall: wait for a named call from Gimli or Mulan. Search for Jason and Kimberly only in daylight with company.
