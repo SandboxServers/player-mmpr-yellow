@@ -56,3 +56,9 @@
 - 04:22 act: {"actions":[],"say":"Zack, I am beside you now, in your sight. Fogg, Billy, come to Zack in sight. Let's walk east together, looking for Jason and Kimberly."}
 - 04:22 act: {"actions":[{"do":"sleep"}],"say":"Trini, dusk 1195. Health 18.6, hunger 17. No sign of Jason or Kimberly on the walk. Sleeping at the row in the group's sight, holding 5 melon for whoever is lowest. 
 - 04:23 act: {"say":"Trini here, dusk 1195. Hunger 17, health 18.6, holding 5 melon for whoever is lowest and alone in reach. Staying at the row in sight for the night.","actions":[]}
+- 04:23 act: {"say":"Good morning. Health steady, hunger 17. I hold 5 melon slices for whoever is weakest and alone. Aragorn, I will remember your word."}
+- 04:24 act: {"say":"Zack, Trini here. I will walk with you in daylight, in your sight, looking for Jason and Kimberly. Billy, come too if you like."}
+- 04:25 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, Billy, I am following you east in sight. Lead on."}
+- 04:25 act: {"say":"Zack, Billy, I am beside you now. No sign of Jason or Kimberly yet. Zack, say when you want to move on."}
+- 04:26 act: {"say":"Indy, Trini here. Come back to the row slowly, and tell me when you are within sight. Stay on the flat, we will be here."}
+- 04:34 act: {"say":"Dusk, 1196. I am sleeping here at the row in your sight. Handoff written. Melon is held for the weakest, one at a time."}
