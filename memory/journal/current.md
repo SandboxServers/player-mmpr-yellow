@@ -19,3 +19,5 @@
 - 02:56 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3050}}],"say":"Going west with you, Zack. Tommy, stay in sight."}
 - 02:56 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, I'm close behind you. Tommy, wait for us, I can see you."}
 - 02:56 act: {"actions":[{"do":"goto","target":"ag_zack_01"}]}
+- 02:56 act: {"actions":[],"say":"Zack, Tommy has fallen behind. Let's hold here by the beds until he is in sight again, then go on together."}
+- 02:57 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Tommy, I see you, we're together. Zack, we're walking back to the beds with you, in sight."}
