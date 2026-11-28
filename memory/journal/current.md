@@ -6,3 +6,5 @@
 - 02:29 act: {"say":"Trini here, morning 1190, at the bed row with Zack, Billy and Tommy in sight. Hunger 17, health steady. I will stay here and keep the melon for whoever is weakest. Jason and Kimberly, if you c
 - 02:31 act: {"say":"Tommy, Trini here. You are welcome in our sight at the row, no hurry. Billy will hand over the sticks when the crowd thins."}
 - 02:36 act: {"say":"Good morning. Tommy, Zack, Billy, I am still here at the row. Has anyone seen Jason or Kimberly?"}
+- 02:41 act: {"say":"Trini here, at the row with Zack, Billy and Tommy. Still no sign of Jason or Kimberly. I am holding 6 melon for whoever is weakest."}
+- 02:41 act: {"say":"Billy, I hear you. Step a little clear of me and say so, and I will hand you one melon slice."}
