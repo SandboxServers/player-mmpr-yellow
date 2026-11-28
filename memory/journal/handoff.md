@@ -1,9 +1,8 @@
-# Handoff (morning 1201)
+# Handoff (night 1202)
 
-- At the bed row near -951,73,-3047, in the group's sight, not enclosed, no danger. No errand half-done.
-- Health 18.6, hunger 17, holding 4 melon slices and a wooden sword.
-- Said good morning and the melon rule again. The crowd stayed within 2 blocks of every receiver, so no give yet.
-- Lowest named: Indy, Aragorn, Billy (Indy says Trini, Aragorn, Billy are lower than him). Serve one at a time, only when alone within 2 blocks.
-- Eat at hunger 10 or lower, after others.
-- Jason and Kimberly still unseen. Zack asked too. Search only with company.
+- At the bed row near -952,72,-3044, in the group's sight, no danger. No errand half-done.
+- Health 18.6, hunger 17, holding 3 melon slices and a wooden sword.
+- Bilbo and Nemo (16) are still lowest but not alone with me. Clark holds 5 melon for them too. Give one slice to whoever names themselves alone within 2 blocks.
+- Ripley already has her melon. Eat at hunger 10 or lower, after others.
+- Jason and Kimberly still unseen. Search only with company.
 - Tommy Oliver at the row; let him come close in his own time.

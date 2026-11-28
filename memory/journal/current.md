@@ -10,3 +10,21 @@
 - Midday 1200, clear. Crowd still at row; Cleopatra paying Lara's planks. No give yet. Hunger 17, health steady. Keep waiting in sight.
 - 06:04 act: {"say":"Good morning, everyone. I have 4 melon slices. I will hand one to whoever is hungriest and stands alone with me, so please step apart a little."}
 - Morning 1201, clear. Said good morning. Indy, Aragorn, Billy named lower than me; crowd still within 2 blocks, so no give. Hunger 17, health steady. Staying in sight and waiting. Jason and Kimberly still unseen (Zack asked too).
+- 06:17 say: {"text":"Night, friends. Trini here at the bed row, in your sight. I will sleep now, and I hold 4 melon for the lowest when morning comes."}
+- Slept at the bed row near -951,73,-3047 on night 1201, in the group's sight. Woke morning 1201 with hunger 17, 4 melon, sword. Indy, Aragorn, Billy lower than me; still crowded, no give. Jason and Kimberly unseen. Next: wait for a clear moment, then serve the lowest alone.
+- 06:18 say: {"text":"Morning. Ripley, I hold 4 melon for the lowest. You are at 17 like me, and Indy and Aragorn are lower. Step apart with me when the crowd thins, and name yourself."}
+- 06:20 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3045}}],"say":"Ripley, I am coming to you alone now. Hunger 17, I hold 4 melon."}
+- 06:20 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"melon_slice","count":1}],"say":"Ripley, here is one melon slice. Eat it when you are ready."}
+- 06:20 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3045}},{"do":"give","to":"ag_ripley_01","item":"melon_slice","count":1}],"say":"Ripley, I stepped back two blocks. Here is one melon slice."}
+- 06:20 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3045}}],"say":"Ripley, I am heading back to the row. I will wait there in sight. Name yourself when you are alone with me."}
+- 06:21 act: {"actions":[{"do":"goto","target":{"x":-951,"y":73,"z":-3045}},{"do":"give","to":"ag_ripley_01","item":"melon_slice","count":1}],"say":"Ripley, I am two blocks from you now, and Lara is further off. H
+- 1202 morning: offered melon to Nemo/Bilbo (16) when alone in reach; none came. Afternoon 1202, still at row, hunger 17, 3 melon. Waiting.
+- 1202 day, sun low. Still at row -952,72,-3044 with 3 melon, hunger 17. Ripley has her melon (eats at 10 or lower). Zack, Clark, Furiosa in the row. Next: at dusk, sleep in a free bed near the row, in sight.
+- 06:24 GAVE 1 melon_slice to Ripley (hunger 17), alone within reach. 3 melon left. Ripley had said she got none before; now it worked.
+- 06:21 goto to Ripley blocked by beds; gave nothing, still 4 melon. Said so; waiting here at -949,73,-3045 for Ripley to come within two blocks alone.
+- 06:21 act: {"actions":[],"say":"Ripley, the way between us is blocked by beds, so I stayed here. I am still holding 4 melon. Come within two blocks of me when you are alone, and say your name."}
+- 06:21 act: {"actions":[{"do":"goto","target":{"x":-951,"y":73,"z":-3044}},{"do":"give","to":"ag_ripley_01","item":"melon_slice","count":1}],"say":"Ripley, I am trying a different path, one row south of the beds,
+- 06:21 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"melon_slice","count":1}],"say":"Ripley, you are in reach and alone with me. Here is one melon slice."}
+- 06:22 act: {"actions":[],"say":"Ripley, I already gave you one melon slice a moment ago. Keep it and eat it when your hunger is 10 or lower. Others, I still hold 3 melon for the lowest, alone within reach."}
+- 06:31 act: {"actions":[],"say":"Morning, Trini at the row, hunger 17, 3 melon. Nemo and Bilbo are at 16, lower than me. Name yourself alone within two blocks of me and I will hand one over."}
+- 06:31 act: {"actions":[],"say":"Bilbo, I hold 3 melon and you are at 16, lower than me. I cannot see you from here, so come within two blocks of me alone and say so; I will hand you one slice."}
