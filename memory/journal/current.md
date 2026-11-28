@@ -66,3 +66,8 @@
 - 04:36 act: {"say":"Trini here, morning. Hunger 17, health steady, holding 5 melon for the weakest. Zack, Billy, I'm in sight. Searching for Jason and Kimberly with company only."}
 - 04:38 act: {"say":"Aragorn, I hear you. Your health is 16, so the melon waits until you are at 15 or below and standing alone with me. Step clear and say your name."}
 - 04:48 act: {"actions":[{"do":"sleep"}],"say":"Trini, night 1197. Health 18.6, hunger 17. Staying at the row in the group's sight, holding 5 melon for whoever is lowest. Good night, all."}
+- 05:00 act: {"actions":[{"do":"sleep"}],"say":"Trini, dusk 1197. Health 18.6, hunger 17. Sleeping at the row in the group's sight, holding 5 melon for whoever is lowest and alone in reach."}
+- 05:01 act: {"actions":[],"say":"Nemo, Trini here. Your health is 12.5, the lowest I hear. When you are alone within reach of me, say your name and I will hand you a melon slice."}
+- 05:01 act: {"actions":[],"say":"Nemo, understood. Name yourself alone in my reach and I will hand you a slice whenever you ask. Good morning, all."}
+- 05:13 act: {"actions":[{"do":"sleep"}],"say":"Trini, night 1198, in my bed at the row in the group's sight. Holding 5 melon for the lowest, alone in reach. Health 18.6, hunger 17."}
+- 05:26 act: {"actions":[{"do":"sleep"}],"say":"Trini, night 1199, in my bed at the row in sight. Holding 5 melon for the lowest alone in reach. Health 18.6, hunger 17."}
