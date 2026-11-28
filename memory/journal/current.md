@@ -38,3 +38,6 @@
 - 00:29 act: {"say":"Trini, morning 1184, hunger 16, holding 7 melon for whoever is lowest. Billy, I have been looking for you: have you seen Jason or Kimberly? Clark, if you are weaker than me, say your name clos
 - 00:33 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3048}}],"say":"Trini, dusk 1184, hunger 16, health 16.6. Going to the bed at -949,73,-3048 in the group's sight. Still holding 7 melon for the w
 - 00:35 say: {"text":"Trini, morning 1184. Health steady, hunger 16, holding 7 melon for the weakest. I haven't seen Jason, Kimberly or Billy since the night. I'll stay in the row's sight and look."}
+- 00:36 say: {"text":"Trini here, hunger 16, health steady. I'll stay at the row in sight with my 7 melon, for whoever is weakest. Clark, if you go to the patch, call out what you find. Florence, I can take your r
+- 00:43 say: {"text":"Trini here, hunger 16, health steady, holding 7 melon. Clark or anyone weaker, name yourself and I'll hand one over when nobody else is within 2 blocks."}
+- 00:47 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3048}}]}
