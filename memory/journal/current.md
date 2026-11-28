@@ -11,3 +11,5 @@
 - 02:42 act: {"say":"Morning. Hunger is 19 for Hatshepsut and Billy asked first. I will give melon to whoever is lowest after a step clear. Mulan, thank you for looking for cows."}
 - 02:42 act: {"say":"Aragorn, hunger 17 is the lowest I hear. Step two blocks clear of the crowd and say your name, and I will hand you a melon slice. Billy, thank you for the order."}
 - 02:45 act: {"say":"Aragorn, Sattler has offered you a melon, so I will leave it to him. I am still at the row with the melon if someone lower than 15 needs it."}
+- 02:55 act: {"say":"Zack, Tommy, I will walk with you in daylight for Jason and Kimberly. Wait for me at the row and I will come up beside you."}
+- 02:56 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Coming, Zack. Tommy, stay in our sight."}
