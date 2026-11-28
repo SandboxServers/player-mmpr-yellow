@@ -1,18 +1,1 @@
 # Journal
-- 01:51 say: {"text":"Trini here, night 1188, health 18.6, hunger 17. Staying in the group's sight at the bed row. Going to try the bed just south of me."}
-- 01:51 act: {"actions":[{"do":"use","at":{"x":-947,"y":73,"z":-3048}}]}
-- 01:51 act: {"actions":[{"do":"note","text":"Bed use failed: the bed block cannot be used that way. Standing in the group's sight; trying sleep instead."}]}
-- 01:51 act: {"say":"Billy, I hear you. I'll bring you a melon slice as soon as the crowd thins enough for a clean hand-over."}
-- Waking 1464, day 1188 morning. Billy asked for a melon (hunger 19, two rotten flesh). Crowd of 5 within 2 blocks, so the give waits. Said so to Billy. Hunger 17, I hold 6 melon.
-- 01:52 act: {"say":"Trini here, day 1188. I hold 6 melon for the weakest. Atticus, Gimli, Quark: say your health and hunger, and I will give to the lowest, one at a time, once you step clear of each other."}
-- 01:53 act: {"say":"Gimli, hunger 18 is lowest I've heard. Step alone into my reach, with nobody within 2 blocks, and I'll hand you one slice. Billy is next."}
-- 01:54 act: {"actions":[{"do":"give","to":"ag_gimli_01","item":"melon_slice","count":1}],"say":"Gimli, one slice coming to you now."}
-- 01:54 act: {"say":"The give failed: others stand within 2 blocks of Gimli. I'll hold the melon. Gimli, step out of the crowd with nobody near you and say so; I'll try again."}
-- 01:56 act: {"actions":[{"do":"give","to":"ag_nemo_01","item":"melon_slice","count":1}],"say":"Nemo, one slice, now. Keep still."}
-- 01:56 act: {"say":"Nemo, the crowd is still too close for a hand-over. I'll try again as soon as the space clears. Keep still and in sight."}
-- 01:56 act: {"actions":[{"do":"give","to":"ag_nemo_01","item":"melon_slice","count":1}]}
-- 01:56 act: {"say":"The hand-over failed three times, crowd within 2 blocks each time. I'll stop trying here. Nemo, go to Sattler's reach alone if you still hunger; I keep the melon for the next weakest."}
-- 02:02 act: {"actions":[{"do":"note","text":"Day 1188 dusk. Crowd still within 2 blocks at the bed row, so the melon give failed three times and I am holding 6 slices. Not retrying until the space clears. Nemo is
-- 02:06 act: {"actions":[{"do":"note","text":"Day 1189 morning. Night passed at the bed row in sight of the group. Clark already gave Nemo 2 melon. I still hold 6 slices; hunger 17, not eating yet. Crowd still clo
-- 02:14 act: {"actions":[{"do":"note","text":"Day 1189 dusk. Still at the bed row, crowd within 2 blocks all afternoon, melon still in my hand, hunger 17. Staying in sight, no give, no bed claimed yet."}]}
-- 02:16 act: {"actions":[{"do":"use","at":{"x":-948,"y":73,"z":-3047}}],"say":"Night at the row. Health steady, hunger 17. I'm going to try the bed here, in your sight."}
