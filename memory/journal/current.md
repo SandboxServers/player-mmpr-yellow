@@ -62,3 +62,4 @@
 - 04:25 act: {"say":"Zack, Billy, I am beside you now. No sign of Jason or Kimberly yet. Zack, say when you want to move on."}
 - 04:26 act: {"say":"Indy, Trini here. Come back to the row slowly, and tell me when you are within sight. Stay on the flat, we will be here."}
 - 04:34 act: {"say":"Dusk, 1196. I am sleeping here at the row in your sight. Handoff written. Melon is held for the weakest, one at a time."}
+- 04:35 say: {"text":"Trini here, at the row in the group's sight. Hunger 17, so I'm holding my melon until the weakest are served. Sleeping here tonight."}
