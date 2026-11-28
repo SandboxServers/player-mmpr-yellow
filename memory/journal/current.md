@@ -13,3 +13,5 @@
 - 02:45 act: {"say":"Aragorn, Sattler has offered you a melon, so I will leave it to him. I am still at the row with the melon if someone lower than 15 needs it."}
 - 02:55 act: {"say":"Zack, Tommy, I will walk with you in daylight for Jason and Kimberly. Wait for me at the row and I will come up beside you."}
 - 02:56 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Coming, Zack. Tommy, stay in our sight."}
+- 02:56 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, Tommy, I'm here beside you at the row. Let's go in daylight, together, in sight of each other.","intent":{"goal":"search_with_company","pr
+- 02:56 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Walking west with you, Zack and Tommy, staying in your sight."}
