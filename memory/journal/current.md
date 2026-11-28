@@ -1,1 +1,14 @@
 # Journal
+- 08:51 act: {"say":"Trini, day 1209. Marco, yes, let's walk together in sight. We go west on a short loop to look for water and cows, and we stay together.","intent":{"goal":"explore_west_short","program":"explor
+- 08:52 act: {"say":"Trini here. The west explore stopped short too, so I hold at the row. Fogg and Ben, we will walk the next search together, once the route is set. Mulan, are you well?"}
+- 08:52 act: {"say":"Trini: we meet at the bed row, at -950,73,-3053, in sight. Short search north, back before the next night. Billy, Fogg, Marco, Ben, come stand here and name yourselves. Walk in company only."}
+- 08:53 act: {"say":"Trini: Billy, Fogg, Marco, you are named. We walk north together in sight, two short legs, then back to the row.","intent":{"goal":"explore_north_short","program":"explore","arguments":{"legs"
+- 08:53 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3053}}],"say":"Trini: the north leg finished, and I saw no water or cows. I walk back to the bed row, where I am not alone."}
+- 08:53 act: {"say":"Trini: thank you all. Next route is west, one short leg, in sight of Marco, Billy, Fogg and Mulan. We look for water and cows, and return to the row.","intent":{"goal":"explore_west_one_leg","
+- 08:53 act: {"say":"Trini: the west leg failed, so we hold at the row. Billy, Marco, Fogg, Mulan, stay in sight. I will not walk alone. Tell me if anyone sees water or cows."}
+- 08:54 act: {"say":"Trini: Billy, Marco, Fogg, Mulan, Clark: we set out west together, one short leg in sight. Stay within sight of me.","intent":{"goal":"explore_west_group","program":"explore","arguments":{"leg
+- 08:54 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3053}}],"say":"Trini: the west walk was blocked, and I am out east alone. I return to the row now, to be with the group."}
+- 08:54 act: {"intent":{"goal":"explore_west_water_cows","program":"explore","arguments":{"legs":1,"leg_blocks":10,"avoid_water":true},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits"
+- 08:55 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3053}}],"say":"Trini: the west leg failed again, and I drifted east. I walk back to the row, in sight of the group. I will not go out alone."}
+- 08:55 act: {"say":"Trini: thank you, Zack. We hold at the row for now. When a west leg is called, we go all together, and no one goes alone."}
+- 08:59 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3046}}],"say":"Trini: dusk. I go to my bed near -950,73,-3047, in sight of the row, and I sleep there."}
