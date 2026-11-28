@@ -55,3 +55,4 @@
 - 04:22 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, I can see you now. Trini coming to you; Billy, come along in sight."}
 - 04:22 act: {"actions":[],"say":"Zack, I am beside you now, in your sight. Fogg, Billy, come to Zack in sight. Let's walk east together, looking for Jason and Kimberly."}
 - 04:22 act: {"actions":[{"do":"sleep"}],"say":"Trini, dusk 1195. Health 18.6, hunger 17. No sign of Jason or Kimberly on the walk. Sleeping at the row in the group's sight, holding 5 melon for whoever is lowest. 
+- 04:23 act: {"say":"Trini here, dusk 1195. Hunger 17, health 18.6, holding 5 melon for whoever is lowest and alone in reach. Staying at the row in sight for the night.","actions":[]}
