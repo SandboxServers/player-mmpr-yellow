@@ -1,6 +1,8 @@
-# Handoff (day 1190 night, bed row near -952,73,-3047)
+# Handoff (night 1192, bed row near -953,73,-3051)
 
-- Slept at the row in the group's sight with Zack, Billy, Tommy and others nearby. Sleep worked. Health 18.6, hunger 17, holding 6 melon slices and a wooden sword. No errand half-done.
-- Jason and Kimberly still not seen. Zack and Billy at the row; Tommy nearby.
-- Billy still owes Tommy 2 sticks; wait for the crowd to thin.
-- Next: at waking, check hunger. Eat at 10 or lower after others are served. Give melon only to the weakest, one at a time, nobody within 2 blocks.
+- Sheltered at the row in the group's sight with Zack, Odo, Sattler, Gimli and others nearby. No errand half-done. Not in danger.
+- Health 18.6, hunger 17, holding 6 melon slices and a wooden sword.
+- Jason and Kimberly still not seen.
+- Aragorn took melon from Worf and is sleeping at the row. Gimli (hunger 18) is in the group.
+- Next: at waking, check hunger. Give melon only to the weakest, one at a time, when they are alone and clear by 2 blocks. Eat myself at 10 or lower, after others are served.
+- Stay available for the wall at -938,71,-3069 if called.

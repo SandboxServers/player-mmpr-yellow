@@ -21,3 +21,4 @@
 - 02:56 act: {"actions":[{"do":"goto","target":"ag_zack_01"}]}
 - 02:56 act: {"actions":[],"say":"Zack, Tommy has fallen behind. Let's hold here by the beds until he is in sight again, then go on together."}
 - 02:57 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Tommy, I see you, we're together. Zack, we're walking back to the beds with you, in sight."}
+- 03:07 act: {"say":"Trini, night 1192, hunger 17, health 18.6. Holding 6 melon for the weakest. Going to bed here at the row in the group's sight."}
